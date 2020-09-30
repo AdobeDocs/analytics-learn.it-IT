@@ -5,10 +5,10 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 00a376d434a08665de00b2dccec02fc86e63b36e
+source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1834'
+ht-degree: 16%
 
 ---
 
@@ -209,7 +209,7 @@ ht-degree: 0%
    + Manage Report Suites {#manage-report-suites}
       + [Configurazione delle impostazioni Zip e CAP](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configurazione delle variabili nel Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-   + Governance dei dati e GDPR {data-governance-and-gdpr}
+   + Governance dei dati e GDPR {#data-governance-and-gdpr}
       + [Governance dei dati e GDPR in  Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Come ottenere le persone giuste nel team Analytics](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Gestione traffico {#traffic-management}
@@ -256,7 +256,7 @@ ht-degree: 0%
       + [Panoramica di Segment Builder](components/segmentation/segment-builder-overview.md)
       + [Sequenze prima/dopo nella segmentazione sequenziale](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Intervalli di date continue nei segmenti](components/segmentation/rolling-date-ranges-in-segments.md)
-      + [Confronto dei segmenti in  Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
+      + [Confronto segmenti in  Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Segmenti, contenitori](components/segmentation/segment-containers.md)
       + [Gestione e condivisione dei segmenti](components/segmentation/segment-management-and-sharing.md)
       + [Utilizzo dei segmenti in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
