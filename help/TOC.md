@@ -1,5 +1,5 @@
 ---
-user-guide-title: Esercitazioni di Adobe Analytics
+user-guide-title: Tutorial su Adobe Analytics
 user-guide-description: A collection of videos and tutorials for Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
 source-wordcount: '1846'
-ht-degree: 16%
+ht-degree: 19%
 
 ---
 
@@ -90,12 +90,12 @@ ht-degree: 16%
       + [Miglioramenti alla zona di rilascio dei segmenti](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Più suite di rapporti in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + Creazione di tabelle a forma libera {#building-freeform-tables}
-      + [Utilizzo della barra a sinistra per creare tabelle a forma libera in  Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [Creazione automatica di tabelle a forma libera in  Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
-      + [Utilizzo degli Dimension in una tabella a forma libera](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [Utilizzo delle metriche in una tabella a forma libera](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Utilizzo della barra a sinistra per creare tabelle a forma libera in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [Creazione automatica di tabelle a forma libera in Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [Utilizzo delle dimensioni nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [Utilizzo delle metriche nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Utilizzo delle metriche di partecipazione in  Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
-      + [Impostazioni riga e colonna nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [Impostazioni per riga e colonna nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Utilizzo del Generatore di tabelle a forma libera](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Riordinamento di righe statiche in  Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [Utilizzo  Attribution IQ nelle tabelle a forma libera](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
@@ -110,7 +110,7 @@ ht-degree: 16%
       + [Tipi di visualizzazione](analysis-workspace/visualizations/visualization-types.md)
       + [Utilizzo di tabelle, visualizzazioni e pannelli in  Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Selezione dei dati da visualizzare](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [Visualizzazione linee in  Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Visualizzazione Linee in Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Visualizzazione grafico bullet](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualizzazione Istogramma](analysis-workspace/visualizations/histogram-visualization.md)
       + [Visualizzazione mappa](analysis-workspace/visualizations/map-visualization.md)
@@ -145,13 +145,13 @@ ht-degree: 16%
       + [Informazioni sulle metriche di base dei visitatori](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Aggiunta di Dimension e metriche al progetto in  Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Introduzione agli eventi di conversione](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [Utilizzo delle metriche in una tabella a forma libera](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Utilizzo delle metriche nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Utilizzo delle metriche di partecipazione in  Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
    + Dimensioni {#dimensions}
       + [Aggiunta di Dimension e metriche al progetto in  Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Introduzione alle variabili di traffico (Prop)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Introduzione alle variabili di conversione (eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [Utilizzo degli Dimension in una tabella a forma libera](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [Utilizzo delle dimensioni nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
    + Calendario e intervalli di date {#calendar-and-date-ranges}
       + [Utilizzo delle date in  Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Utilizzo di intervalli di date e confronti in  Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
