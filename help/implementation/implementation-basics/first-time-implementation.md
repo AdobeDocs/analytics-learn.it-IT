@@ -1,6 +1,6 @@
 ---
 title: Prima implementazione  Adobe Analytics
-description: Questo video illustra come iniziare a usare  dati Adobe Analytics in pochi minuti.
+description: Questo video illustra come iniziare a usare dati Adobe Analytics in pochi minuti.
 seo-description: È più semplice che mai implementare  Adobe Analytics. Se non hai mai sperimentato la nostra soluzione, questo video ti permetterà di imparare a usare i dati in pochi minuti.
 feature: implementation basics
 topics: null
