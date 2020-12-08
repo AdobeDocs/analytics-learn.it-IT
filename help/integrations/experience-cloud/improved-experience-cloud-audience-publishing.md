@@ -1,7 +1,7 @@
 ---
 title: Miglioramento nella pubblicazione dei tipi di pubblico in Experience Cloud
-description: Scopri i tipi di pubblico (segmenti) per la pubblicazione e rendili disponibili più rapidamente che mai.
-seo-description: Sono stati apportati miglioramenti alla pubblicazione dei tipi di pubblico in Experience Cloud. Ora puoi pubblicare i tipi di pubblico (segmenti) e renderli disponibili sei volte più rapidamente, riducendo il tempo di latenza corrente da 48 ore a circa 8 ore, ed eventualmente più velocemente, a seconda del traffico e delle dimensioni del segmento.
+landing-page-description: Learn publish audiences (segments) and make them available faster than ever.
+description: Sono stati apportati miglioramenti alla pubblicazione dei tipi di pubblico in Experience Cloud. Ora puoi pubblicare i tipi di pubblico (segmenti) e renderli disponibili sei volte più rapidamente, riducendo il tempo di latenza corrente da 48 ore a circa 8 ore, ed eventualmente più velocemente, a seconda del traffico e delle dimensioni del segmento.
 feature: integration with experience cloud
 topics: null
 audience: analyst
@@ -10,10 +10,10 @@ doc-type: feature video
 team: Technical Marketing
 kt: 4819
 translation-type: tm+mt
-source-git-commit: 56049a25261318663349309164744fbb9bcfc952
+source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 35%
+source-wordcount: '151'
+ht-degree: 31%
 
 ---
 
