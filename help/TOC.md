@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: a6d96878798f2ec2302bcd207aa419fb084d19b1
 workflow-type: tm+mt
 source-wordcount: '1872'
-ht-degree: 22%
+ht-degree: 23%
 
 ---
 
@@ -84,7 +84,7 @@ ht-degree: 22%
       + [Utilizzo di tabelle, visualizzazioni e pannelli in  Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Pannello Quick Insights (Approfondimenti rapidi) in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Utilizzo del pannello Attribution IQ ](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
-      + [Pannello Visualizzatori simultanei  Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
+      + [Pannello Visualizzatori simultanei di elementi multimediali in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Utilizzo dei filtri a discesa](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Segmenti a livello di pannello](analysis-workspace/using-panels/panel-level-segments.md)
       + [Utilizzo dei pannelli per organizzare  progetti Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
