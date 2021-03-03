@@ -1,24 +1,25 @@
 ---
-title: Modelli di Dimension nella segmentazione
-description: I modelli di Dimension sono disponibili tramite l'ingranaggio per qualsiasi dimensione nella segmentazione. Questi modelli sono particolarmente utili per la segmentazione sequenziale e consentono di segmentare i valori persistenti di una dimensione (impostazione predefinita), istanze o istanze non ripetute di una dimensione.
-feature: segmentation
+title: Modelli di dimensione in segmentazione
+description: I modelli di dimensioni sono disponibili tramite l’ingranaggio per qualsiasi dimensione nella segmentazione. Questi modelli sono particolarmente utili per la segmentazione sequenziale e consentono di segmentare i valori persistenti di una dimensione (predefinita), istanze o istanze non ripetute di una dimensione.
+feature: Segmentazione
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4846
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 2aad57055392d16e4e92be4887c34e18fc4aff80
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 1%
 
 ---
 
 
 # [!UICONTROL Dimension] Modelli in segmentazione
 
-[!UICONTROL Dimension] i modelli sono disponibili tramite l&#39;ingranaggio per qualsiasi [!UICONTROL dimension] segmentazione. Questi modelli sono particolarmente utili per la segmentazione sequenziale e consentono di segmentare per i valori persistenti di istanze [!UICONTROL dimension] (predefinite), istanze o non ripetute di una [!UICONTROL dimension].
+[!UICONTROL Dimension] i modelli sono disponibili tramite l’ingranaggio per qualsiasi  [!UICONTROL dimension] segmentazione. Questi modelli sono particolarmente utili per la segmentazione sequenziale e ti consentono di segmentare i valori persistenti di [!UICONTROL dimension] (impostazione predefinita), istanze o istanze non ripetute di [!UICONTROL dimension].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12)
