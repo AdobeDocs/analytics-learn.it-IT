@@ -1,24 +1,25 @@
 ---
-title: 'Creazione di nuovi progetti Analysis Workspace '
-description: Questo video illustra come usare il modale  Analysis Workspace New Project per creare un progetto da un quadro vuoto, da un modello standard  Adobe o da un modello personalizzato. Potete anche cercare e ordinare i modelli in base alle vostre esigenze.
-feature: projects
+title: Creazione di nuovi progetti Analysis Workspace
+description: Questo video illustra come utilizzare la finestra modale Nuovo progetto di Analysis Workspace per creare un progetto da un’area di lavoro vuota, da un modello Adobe Standard o da un modello personalizzato. Puoi anche cercare e ordinare i tuoi modelli nel modale per trovarne uno adatto alle tue esigenze.
+feature: Progetti
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1693
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 
-# Creazione di nuovi progetti Analysis Workspace  {#creating-new-analysis-workspace-projects}
+# Creazione di nuovi progetti Analysis Workspace {#creating-new-analysis-workspace-projects}
 
-Questo video illustra come utilizzare il modale  Analysis Workspace New Project per creare un progetto da un quadro vuoto, da un modello [!DNL Adobe Standard Template] o da un modello personalizzato. Potete anche cercare e ordinare i modelli in base alle vostre esigenze.
+Questo video illustra come utilizzare la finestra modale Nuovo progetto di Analysis Workspace per creare un progetto da un’area di lavoro vuota, da un [!DNL Adobe Standard Template] o da un modello personalizzato. Puoi anche cercare e ordinare i tuoi modelli nel modale per trovarne uno adatto alle tue esigenze.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23233/?quality=12)
