@@ -1,25 +1,26 @@
 ---
-title: Governance dei dati e GDPR in  Adobe Analytics
-description: Questo video illustra la governance dei dati e il modo in cui l'etichettatura dei dati si inserisce nella prontezza del GDPR. Fornisce un esempio pratico di etichettatura dei dati utilizzando la governance dei dati.
-feature: privacy
+title: Governance dei dati e RGPD in Adobe Analytics
+description: Questo video illustra la governance dei dati e il modo in cui l’etichettatura dei dati si adatta alla conformità ai requisiti RGPD. Fornisce un esempio pratico di etichettatura dei dati utilizzando la governance dei dati.
+feature: Privacy
 topics: null
-audience: administrator, architect
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2361
+role: '"Amministratore, architetto"'
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 1%
 
 ---
 
 
-# Governance dei dati e GDPR in  Adobe Analytics {#data-governance-and-gdpr-in-adobe-analytics}
+# Governance dei dati e RGPD in Adobe Analytics {#data-governance-and-gdpr-in-adobe-analytics}
 
-Questo video illustra la governance dei dati e il modo in cui l&#39;etichettatura dei dati si inserisce nella prontezza del GDPR. Fornisce un esempio pratico di etichettatura dei dati utilizzando la governance dei dati.
+Questo video illustra la governance dei dati e il modo in cui l’etichettatura dei dati si adatta alla conformità ai requisiti RGPD. Fornisce un esempio pratico di etichettatura dei dati utilizzando la governance dei dati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12)
 
