@@ -1,26 +1,27 @@
 ---
-title: Salvataggio, condivisione e collaborazione su progetti in  Analysis Workspace
-description: Questo video illustra come salvare ed esportare i progetti per voi stessi, inviare i progetti ad altri destinatari e invitare altri utenti a collaborare al progetto.
-feature: curate and share
+title: Salvataggio, condivisione e collaborazione ai progetti in Analysis Workspace
+description: In questo video, scopri come salvare ed esportare i progetti per conto tuo, inviare i progetti ad altri destinatari e invitare altri utenti a collaborare al tuo progetto.
+feature: Cura e condivisione
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4108
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 11%
 
 ---
 
 
-# Salvataggio, condivisione e collaborazione su progetti in  Analysis Workspace
+# Salvataggio, condivisione e collaborazione ai progetti in Analysis Workspace
 
-Questo video illustra come salvare ed esportare i progetti per voi stessi, inviare i progetti ad altri destinatari e invitare altri utenti a collaborare al progetto.
+In questo video, scopri come salvare ed esportare i progetti per conto tuo, inviare i progetti ad altri destinatari e invitare altri utenti a collaborare al tuo progetto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12)
 
-Per ulteriori informazioni, consulta la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).
+Per ulteriori informazioni, visita la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).
