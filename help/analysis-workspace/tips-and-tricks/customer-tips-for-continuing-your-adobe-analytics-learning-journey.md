@@ -1,38 +1,39 @@
 ---
-title: Suggerimenti per la continuazione del percorso di apprendimento  Adobe Analytics
-description: In questo articolo, potete incontrare tre clienti  Adobi che hanno suggerimenti e consigli per voi su come ottenere il massimo valore da  Adobe Analytics.
-feature: workspace basics
+title: Suggerimenti per continuare il tuo percorso di apprendimento di Adobe Analytics
+description: In questo articolo, scopri tre clienti Adobe che hanno suggerimenti e trucchi per te su come ottenere il massimo valore da Adobe Analytics.
+feature: Nozioni di base su Workspace
 topics: null
-audience: analyst
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4111
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 
-# Suggerimenti per la continuazione del percorso di apprendimento  Adobe Analytics
+# Suggerimenti per continuare il tuo percorso di apprendimento di Adobe Analytics
 
-In questo articolo, potete incontrare tre clienti  Adobi che hanno suggerimenti e consigli per voi su come ottenere il massimo valore da  Adobe Analytics.
+In questo articolo, scopri tre clienti Adobe che hanno suggerimenti e trucchi per te su come ottenere il massimo valore da Adobe Analytics.
 
-## Come continuare il percorso di apprendimento  Adobe Analytics
+## Come continuare il tuo percorso di apprendimento di Adobe Analytics
 
-Suggerimenti da Veterani  utenti Adobe Analytics
+Suggerimenti da Veteran Adobe Analytics Users
 
-| Cliente:<br>Jason Klapmeier | Leader nelle funzionalità di analisi globale a 3M |
+| Cliente:<br>Jason Klapmeier | Leader nelle funzionalità di analisi globale alle 3M |
 |------------|------------|
-| ![Jason Klapmeier](assets/jasonklapmeier.jpg) | **Continuate a imparare, e potete fare cose incredibili in  Adobe Analytics** <br> &quot;Per darvi un&#39;idea di ciò che potete desiderare di vedere mentre la vostra esperienza  Adobe Analytics cresce, voglio presentarvi alcune delle interessanti caratteristiche che siamo stati in grado di sfruttare per massimizzare le capacità di  Adobe Analytics: <br><br><ul><li>Creazione di segmenti complessi</li><li>Definizione delle metriche più importanti</li><li>Creazione del nostro indice di coinvolgimento</li><li>Approfondire l&#39;analisi predittiva&quot;</li></ul><br>[Leggi i suggerimenti di Jason](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Incredible-Things-You-Can-Do-in-Adobe-Analytics/td-p/354333) |
+| ![Jason Klapmeier](assets/jasonklapmeier.jpg) | **Continua a imparare e puoi fare cose incredibili in Adobe Analytics** <br> &quot;Per darti un assaggio di ciò che puoi aspettare con ansia quando cresci la tua esperienza in Adobe Analytics, voglio presentarti alcune delle funzioni interessanti che siamo stati in grado di sfruttare per massimizzare le funzionalità di Adobe Analytics:  <br><br><ul><li>Creazione di segmenti complessi</li><li>Definizione delle metriche più importanti</li><li>Creazione di un proprio indice di coinvolgimento</li><li>Venturare in analisi predittive&quot;</li></ul><br>[Leggi i suggerimenti di Jason](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Incredible-Things-You-Can-Do-in-Adobe-Analytics/td-p/354333) |
 
-| Cliente:<br>Jason Jamnik | Analytics Manager presso Follett Corporation |
+| Cliente:<br>Jason Jamnik | Analytics Manager per Follett Corporation |
 |------------|------------|
-| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **Ecco le risorse che ho usato per diventare un esperto nell&#39;utilizzo  Adobe Analytics** <br> &quot;Non fermarmi alle nozioni di base! Dopo aver acquisito le nozioni di base di  Adobe Analytics, sei pronto a continuare a imparare e a gestire casi d’uso sempre più complessi. Ecco le risorse che ho usato, insieme ai suggerimenti che ho dato ai nuovi analisti quando si uniscono al nostro team a Follett.&quot;<br><br>[Leggi i suggerimenti di Jason](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226) |
+| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **Ecco le risorse che ero solito diventare un esperto nell&#39;utilizzo di Adobe Analytics** <br> : &quot;Non ti fermare alle nozioni di base! Ora che hai acquisito dimestichezza con le nozioni di base di Adobe Analytics, sei pronto per continuare il tuo apprendimento e affrontare casi d’uso sempre più complessi. Ecco le risorse che ho usato, insieme ai suggerimenti che dico ai nuovi analisti quando si uniscono al nostro team a Follett.&quot;<br><br>[Leggi i suggerimenti di Jason](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226) |
 
-| Cliente:<br>Sam Liss | Tecnico di Analytics all&#39;Equinox |
+| Cliente:<br>Sam Liss | Ingegnere di Analytics presso Equinox |
 |------------|------------|
-| ![Sam Liss](assets/samliss.jpg) | **Suggerimenti per la transizione ad  Adobe Analytics da un altro prodotto** di analisi <br> &quot;Se vieni da un&#39;altra piattaforma di analisi, stai per entrare in un mondo di governance più personalizzabile, maggiore sicurezza e una serie di integrazioni di marketing e piattaforme di dati...ti illustrerò come le differenze tra [!UICONTROL Freeform Table] e [!UICONTROL Flow] Visualization rispetto a quanto hai vissuto su altre piattaforme di analisi.&quot;<br><br>[Leggi i suggerimenti di Sam](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/An-Analyst-s-Quick-Start-Guide-Switching-to-Adobe/td-p/354312) |
+| ![Sam Liss](assets/samliss.jpg) | **Suggerimenti per la transizione ad Adobe Analytics da un altro prodotto Analytics** <br> : &quot;Se provieni da un’altra piattaforma di analisi, stai per entrare in un mondo di governance più personalizzabile, maggiore sicurezza e una moltitudine di integrazioni di marketing e piattaforme di dati...ti illustrerò in che modo le funzioni  [!UICONTROL Freeform Table] e  [!UICONTROL Flow] visualizzazione sono diverse da quelle che hai sperimentato su altre piattaforme di analisi.&quot;<br><br>[Leggi i suggerimenti di Sam](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/An-Analyst-s-Quick-Start-Guide-Switching-to-Adobe/td-p/354312) |
