@@ -1,24 +1,25 @@
 ---
-title: Introduzione alle variabili di traffico (Prop)
-description: In questo video potete trovare un’introduzione alle variabili di traffico, inclusi Nome pagina, Sezione sito e "prop".
-feature: dimensions
+title: Introduzione alle variabili di traffico (proprietà)
+description: In questo video, ottieni un’introduzione alle variabili di traffico, tra cui Nome pagina, Sezione sito e "prop".
+feature: Dimensioni
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3576
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 0%
+source-wordcount: '40'
+ht-degree: 2%
 
 ---
 
 
-# Introduzione alle variabili di traffico ([!UICONTROL Props])
+# Introduzione alle variabili del traffico ([!UICONTROL Props])
 
-In questo video, fornite un&#39;introduzione alle variabili di traffico, incluse [!UICONTROL Page Name], [!UICONTROL Site Section]e &quot;[!UICONTROL props]&quot;.
+In questo video, ottieni un’introduzione alle variabili di traffico, tra cui [!UICONTROL Page Name], [!UICONTROL Site Section] e &quot;[!UICONTROL props]&quot;.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12)
