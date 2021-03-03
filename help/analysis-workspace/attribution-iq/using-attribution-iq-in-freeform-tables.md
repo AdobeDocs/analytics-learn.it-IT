@@ -1,32 +1,33 @@
 ---
-title: Utilizzo  Attribution IQ nelle tabelle a forma libera
-description: ' Attribution IQ consente di modificare al volo il modello di attribuzione in uno qualsiasi dei dieci modelli basati su regole su una colonna a forma libera.'
-feature: attribution
+title: Utilizzo di Attribution IQ nelle tabelle a forma libera
+description: Attribution IQ consente di modificare al volo il modello di attribuzione con uno qualsiasi dei dieci modelli basati su regole su una colonna a forma libera.
+feature: Attribution
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
+role: Professionista
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 3%
 
 ---
 
 
-# Utilizzo [!DNL Attribution IQ] di [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
+# Utilizzo di [!DNL Attribution IQ] in [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
 
-[!DNL Attribution IQ] consente di modificare l&#39;attribuzione [!UICONTROL model] a uno qualsiasi dei dieci modelli basati su regole in una [!UICONTROL Freeform] colonna al volo.
+[!DNL Attribution IQ] consente di modificare  [!UICONTROL model] l’attribuzione a uno qualsiasi dei dieci modelli basati su regole in una  [!UICONTROL Freeform] colonna al volo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12)
 
-Ogni attribuzione supporta [!UICONTROL model] completamente segmentazione e suddivisioni e consente di effettuare confronti illimitati su qualsiasi dimensione (pari a [!DNL props]!).
+Ogni attribuzione [!UICONTROL model] supporta completamente segmentazione e raggruppamenti e consente di effettuare confronti illimitati su qualsiasi dimensione (anche [!DNL props]!).
 
-[!DNL Attribution IQ] è disponibile esclusivamente per  Analysis Workspace, perché i clienti hanno i seguenti pacchetti:
+[!DNL Attribution IQ] è disponibile esclusivamente per Analysis Workspace, per i clienti che dispongono dei seguenti pacchetti:
 
 * [!DNL Adobe Analytics Foundation]
 * [!DNL Adobe Analytics Select]
