@@ -1,28 +1,29 @@
 ---
 title: Adobe Labs (Anteprime tecnologia) con Adobe Analytics
-description: ' Adobe Labs (Anteprime tecnologia) consente di interagire con le tecnologie emergenti, scoprire informazioni importanti e influenzare lo sviluppo e le priorità future delle funzioni di Analytics.'
-feature: analytics basics
+description: Adobe Labs (Anteprime tecnologiche) consente di interagire con le tecnologie emergenti, scoprire informazioni importanti e influenzare le priorità e lo sviluppo delle future funzioni di Analytics.
+feature: Nozioni di base su Analytics
 topics: null
-audience: architect
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4818
+role: Architetto
+level: Principiante
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 20%
 
 ---
 
 
-# [!DNL Adobe Labs] (Anteprime tecnologia) con  Adobe Analytics
+# [!DNL Adobe Labs] (Anteprime tecnologia) con Adobe Analytics
 
-[!DNL Adobe Labs] (Anteprime delle tecnologie) consente di interagire con le tecnologie emergenti, di scoprire informazioni importanti e di influenzare lo sviluppo e le priorità future [!DNL Analytics] delle funzioni.
+[!DNL Adobe Labs] (Anteprime tecnologiche) consente di interagire con le tecnologie emergenti, scoprire informazioni importanti e influenzare lo sviluppo e le priorità future delle  [!DNL Analytics] funzioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12)
 
-Quando si utilizza un [!DNL Labs] prototipo, è possibile valutare la funzionalità nel contesto dei casi d’uso e dei dati aziendali.
+Quando utilizzi un prototipo [!DNL Labs], puoi valutare la funzione nel contesto dei tuoi casi d’uso aziendali e dei tuoi dati.
 
-Per ulteriori informazioni, consulta la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics/analyze/tech-previews/overview.html).
+Per ulteriori informazioni, visita la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics/analyze/tech-previews/overview.html).
