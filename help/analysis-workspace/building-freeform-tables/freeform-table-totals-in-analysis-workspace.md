@@ -1,25 +1,26 @@
 ---
-title: Totali tabella a forma libera in  Analysis Workspace
-description: Questo video presenta alcuni aggiornamenti ai totali delle tabelle a forma libera, inclusa la possibilità di rimuovere i totali.
-feature: freeform tables
+title: Totali nelle tabelle a forma libera in Analysis Workspace
+description: Questo video presenta alcuni aggiornamenti ai totali delle tabelle a forma libera, tra cui la possibilità di rimuovere i totali.
+feature: Tabelle freeform
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29273.jpg
 kt: 3857
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 3%
 
 ---
 
 
-# Totali tabella a forma libera in  Analysis Workspace
+# Totali nelle tabelle a forma libera in Analysis Workspace
 
-Questo video presenta alcuni aggiornamenti ai [!UICONTROL Freeform Table] totali, inclusa la possibilità di rimuovere i totali. Inoltre, verrà mostrato come rimuovere le righe &quot;non specificate&quot; o &quot;none&quot;.
+Questo video mostra alcuni aggiornamenti ai totali [!UICONTROL Freeform Table] , inclusa la possibilità di rimuovere i totali. Ti mostrerà anche come rimuovere le righe &quot;non specificato&quot; o &quot;nessuna&quot;.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12)
