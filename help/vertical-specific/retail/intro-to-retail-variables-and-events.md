@@ -1,24 +1,25 @@
 ---
-title: Introduzione a variabili ed eventi per la vendita al dettaglio
-description: Se disponete di un sito per la vendita al dettaglio, ci sono alcune variabili ed eventi che sono stati creati solo per voi (non siete speciali)! Questo video illustra brevemente le variabili e gli eventi specifici per la vendita al dettaglio.
-feature: use cases
+title: Introduzione alle variabili e agli eventi retail
+description: Se disponi di un sito di vendita al dettaglio, ci sono alcune variabili ed eventi che sono stati creati solo per te (non sei speciale)! Questo video offre una breve introduzione per comprendere le variabili e gli eventi specifici per la vendita al dettaglio.
+feature: Casi di utilizzo
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3579
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 2%
 
 ---
 
 
-# Introduzione a variabili ed eventi per la vendita al dettaglio
+# Introduzione alle variabili e agli eventi retail
 
-Se disponete di un sito per la vendita al dettaglio, ci sono alcune variabili ed eventi che sono stati creati solo per voi (non siete speciali)! Questo video illustra brevemente le variabili e gli eventi specifici per la vendita al dettaglio.
+Se disponi di un sito di vendita al dettaglio, ci sono alcune variabili ed eventi che sono stati creati solo per te (non sei speciale)! Questo video offre una breve introduzione per comprendere le variabili e gli eventi specifici per la vendita al dettaglio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12)
