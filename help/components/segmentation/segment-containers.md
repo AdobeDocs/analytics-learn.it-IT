@@ -1,26 +1,27 @@
 ---
-title: Segmentazione dei contenitori in  Adobe Analytics
-description: In questo video viene illustrato come lavorare con i tre diversi tipi di contenitori segmenti nel Generatore di segmenti di  Adobe Analytics.
-feature: segmentation
+title: Contenitori di segmenti in Adobe Analytics
+description: Questo video mostra come lavorare con i tre diversi tipi di contenitori di segmenti nel Generatore di segmenti di Adobe Analytics.
+feature: Segmentazione
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2301
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 0%
+source-wordcount: '70'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Segment] [!UICONTROL containers] in  Adobe Analytics {#segment-containers-in-adobe-analytics}
+# [!UICONTROL Segment] [!UICONTROL containers] in Adobe Analytics  {#segment-containers-in-adobe-analytics}
 
-In questo video viene illustrato come lavorare con i tre [!UICONTROL segment] tipi diversi [!UICONTROL container] nel [!UICONTROL Segment Builder] di  Adobe Analytics.
+Questo video mostra come lavorare con i tre diversi tipi [!UICONTROL segment] [!UICONTROL container] in [!UICONTROL Segment Builder] di Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/segment/index.html?f=seg_build_ui).
+Per ulteriori informazioni su questa funzione, visita la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/segment/index.html?f=seg_build_ui).
