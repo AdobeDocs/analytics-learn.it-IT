@@ -1,24 +1,25 @@
 ---
-title: Collegamento in diretta con Dimension grafico in  Analysis Workspace
-description: Non sappiamo bene come chiamarlo, ma è una figata. Quando si crea un grafico a linee da un valore di quota, ora è possibile selezionare valori di dimensione diversi e modificare il grafico in modo dinamico. Guarda il video per saperne di più!
-feature: visualizations
+title: Collegamento in tempo reale del grafico dimensionale in Analysis Workspace
+description: Non sappiamo come chiamarlo, ma è una figata furba. Quando crei un grafico a linee a partire da un valore di dimensione, ora puoi selezionare diversi valori di dimensione e modificare dinamicamente il grafico. Guarda il video per saperne di più!
+feature: Visualizzazioni
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2115
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Dimension]-Grafico Live Linking in  Analysis Workspace {#dimension-graph-live-linking-in-analysis-workspace}
+# [!UICONTROL Dimension]- Collegamento in tempo reale del grafico in Analysis Workspace  {#dimension-graph-live-linking-in-analysis-workspace}
 
-Non sappiamo bene come chiamarlo, ma è una figata. Quando create un grafico a linee da un [!UICONTROL dimension] [!UICONTROL dimension] valore, ora potete selezionare valori diversi e modificare il grafico in modo dinamico. Guarda il video per saperne di più!
+Non sappiamo come chiamarlo, ma è una figata furba. Quando crei un grafico a linee da un valore [!UICONTROL dimension], ora puoi selezionare diversi valori [!UICONTROL dimension] e modificare dinamicamente il grafico. Guarda il video per saperne di più!
 
 >[!VIDEO](https://video.tv.adobe.com/v/23991/?quality=12)
