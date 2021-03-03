@@ -1,24 +1,25 @@
 ---
-title: Editor Rich Text in  Analysis Workspace
-description: Panoramica di alcune nuove funzioni che consentono agli analisti e agli esperti di marketing di apportare modifiche alle visualizzazioni di testo (o descrizioni) in  Analysis Workspace - Grassetto, Corsivo, Intestazioni, Collegamenti Hyper e altro ancora.
-feature: visualizations
+title: Editor Rich Text in Analysis Workspace
+description: 'Sono state introdotte alcune nuove funzioni che consentono ad analisti e addetti al marketing di applicare modifiche alle visualizzazioni di testo (o alle descrizioni) in Analysis Workspace: Grassetto, Corsivo, Intestazioni, Collegamenti Hyper e altro ancora.'
+feature: Visualizzazioni
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1907
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '70'
+ht-degree: 1%
 
 ---
 
 
-# Editor Rich Text in  Analysis Workspace {#rich-text-editor-in-analysis-workspace}
+# Editor Rich Text in Analysis Workspace {#rich-text-editor-in-analysis-workspace}
 
-Panoramica di alcune nuove funzioni che consentono agli analisti e agli esperti di marketing di applicare modifiche a [!UICONTROL text] [!UICONTROL visualizations] (o descrizioni) in  Analysis Workspace: Grassetto, Corsivo, Intestazioni, Collegamenti Hyper e altro ancora.
+Informazioni dettagliate su alcune nuove funzioni che consentono ad analisti e addetti al marketing di applicare modifiche a [!UICONTROL text] [!UICONTROL visualizations] (o descrizioni) in Analysis Workspace: Grassetto, Corsivo, Intestazioni, Collegamenti Hyper e altro ancora.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12)
