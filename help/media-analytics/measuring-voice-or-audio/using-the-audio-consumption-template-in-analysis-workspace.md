@@ -1,26 +1,27 @@
 ---
-title: Utilizzo del modello di consumo audio in  Analysis Workspace
-description: Questo video illustra il modello di consumo audio in  Analysis Workspace, disponibile out-of-the-box per Analisi audio.
-feature: panels
+title: Utilizzo del modello di consumo audio in Analysis Workspace
+description: Questo video illustra il modello Consumo audio in Analysis Workspace, disponibile come standard per Audio Analytics.
+feature: Pannelli
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 
-# Utilizzo del [!UICONTROL Audio Consumption] modello in  Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
+# Utilizzo del modello [!UICONTROL Audio Consumption] in Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
 
-Questo video illustra il [!UICONTROL Audio Consumption] modello in  Analysis Workspace, disponibile out-of-the-box per [!DNL Audio Analytics].
+Questo video illustra il modello [!UICONTROL Audio Consumption] di Analysis Workspace, disponibile come standard per [!DNL Audio Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12)
 
-[!DNL Audio Analytics] collega l&#39;interazione con lo streaming audio dei listener al loro comportamento digitale completo, per capire chi ascolta dove, quando e con quale frequenza valutare il comportamento degli utenti in un mercato audio comunemente frammentato. Consente alle aziende di misurare la portata dei loro ascoltatori, la popolarità dei loro contenuti e come mantenerli coinvolti in base ai loro comportamenti e modelli simili.
+[!DNL Audio Analytics] collega l’interazione in streaming audio degli ascoltatori al loro comportamento digitale completo, per capire chi ascolta dove, quando e con quale frequenza valutare il comportamento dell’utente in un mercato audio solitamente frammentato. Consente alle aziende di misurare la portata dei propri ascoltatori, la popolarità dei loro contenuti e come mantenerli coinvolti in base ai loro comportamenti e a modelli di similarità.
