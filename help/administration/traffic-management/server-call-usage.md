@@ -1,29 +1,31 @@
 ---
-title: Utilizzo delle chiamate server in  Adobe Analytics
-seo-title: Utilizzo delle chiamate server in  Adobe Analytics
-description: Il rapporto sull’uso delle chiamate server consente di tenere traccia esattamente dell’impegno di chiamate server che avete utilizzato in qualsiasi momento e di avvisarvi proattivamente quando vi avvicinate al vostro impegno totale.
-seo-description: Il rapporto sull’uso delle chiamate server consente di tenere traccia esattamente dell’impegno di chiamate server che avete utilizzato in qualsiasi momento e di avvisarvi proattivamente quando vi avvicinate al vostro impegno totale.
-feature: data configuration and collection
+title: Utilizzo delle chiamate server in Adobe Analytics
+seo-title: Utilizzo delle chiamate server in Adobe Analytics
+description: I rapporti sull’utilizzo delle chiamate server consentono di tenere traccia esattamente dell’impegno di chiamate server che hai utilizzato in qualsiasi momento e ti avviseranno proattivamente quando ti stai avvicinando al tuo impegno totale.
+seo-description: I rapporti sull’utilizzo delle chiamate server consentono di tenere traccia esattamente dell’impegno di chiamate server che hai utilizzato in qualsiasi momento e ti avviseranno proattivamente quando ti stai avvicinando al tuo impegno totale.
+feature: Configurazione e raccolta dei dati
 topics: null
-audience: administrator, architect
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
+topic: Amministrazione
+role: '"Amministratore, architetto"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Server Call Usage] in  Adobe Analytics {#server-call-usage-in-adobe-analytics}
+# [!UICONTROL Server Call Usage] in Adobe Analytics  {#server-call-usage-in-adobe-analytics}
 
-[!UICONTROL Server Call Usage] la generazione dei rapporti consente di tenere traccia esattamente dell’impegno di chiamata al server che avete utilizzato in qualsiasi momento e vi avviserà proattivamente quando vi avvicinate al vostro impegno totale.
+[!UICONTROL Server Call Usage] il reporting ti consentirà di tenere traccia esattamente dell’impegno di chiamata al server che hai utilizzato in qualsiasi momento e ti avviserà proattivamente quando ti avvicini al tuo impegno totale.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12)
 
-Può essere difficile rimanere al di sopra del consumo di chiamate server dell&#39;azienda, causando frustrazione in caso di sovraccarichi. Con la [!UICONTROL Server Call Usage] generazione dei rapporti, puoi tenere traccia esattamente dell’impegno di chiamata al server che hai utilizzato in qualsiasi momento e segnalarti in modo proattivo quando ti stai avvicinando al tuo impegno totale. Il dashboard di accompagnamento consente di analizzare dove vengono utilizzate le chiamate al server, in modo da poter risolvere implementazioni invisibili o collaborare con i colleghi per ridimensionare i dati in luoghi in cui potrebbero essere raccolti grandi volumi di dati meno importanti.
+Può essere difficile mantenere il consumo di chiamate al server dell’organizzazione, con conseguente frustrazione per gli overage. Con il reporting di [!UICONTROL Server Call Usage] puoi tenere traccia esattamente dell’impegno di chiamata al server che hai utilizzato in qualsiasi momento e ti avviserà proattivamente quando ti stai avvicinando al tuo impegno totale. Il dashboard di accompagnamento ti consente di analizzare dove vengono utilizzate le chiamate al server, in modo da poter correggere implementazioni in tempo reale o collaborare con i colleghi per eseguire la scalabilità in luoghi in cui potrebbero essere raccolti grandi volumi di dati di minor valore.
