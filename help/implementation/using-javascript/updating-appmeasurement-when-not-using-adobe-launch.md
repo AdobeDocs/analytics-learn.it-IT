@@ -1,17 +1,18 @@
 ---
-title: Aggiornamento di AppMeasurement quando non si utilizza il Experience Platform Launch
-description: Questo video mostra come aggiornare il codice appMeasurement quando non si utilizza l’Experience Platform Launch. Ciò include dove ottenere il codice e dove aggiornarlo.
-feature: appmeasurement implementation
+title: Aggiornamento di AppMeasurement quando non si utilizza Experience Platform Launch
+description: Questo video mostra come aggiornare il codice appMeasurement quando non utilizzi Experience Platform Launch. Ciò include dove ottenere il codice e dove aggiornarlo.
+feature: Implementazione di Appmeasurement
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1848
+role: '"Sviluppatore, data engineer"'
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 548ac75589383dfd4da4ae02412de91a0a3b28d6
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -19,10 +20,10 @@ ht-degree: 0%
 
 # Aggiornamento di AppMeasurement quando non si utilizza [!DNL Experience Platform Launch] {#updating-appmeasurement-when-not-using-adobe-launch}
 
-Questo video mostra come aggiornare il codice appMeasurement quando non si utilizza  Adobe [!DNL Experience Platform Launch]. Ciò include dove ottenere il codice e dove aggiornarlo.
+Questo video mostra come aggiornare il codice appMeasurement quando non utilizzi Adobe [!DNL Experience Platform Launch]. Ciò include dove ottenere il codice e dove aggiornarlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12)
 
 >[!NOTE]
 >
->Se utilizzate una soluzione di gestione tag non  Adobe, gli aggiornamenti devono essere trattati [!DNL AppMeasurement] come se non steste utilizzando alcuna soluzione di gestione tag. Ovunque si disponga del codice AppMeasurement, questo è il punto in cui si esegue l&#39;aggiornamento (recuperare il nuovo codice e sostituire il codice precedente nel file o nel TMS). Se utilizzate [!DNL Experience Platform Launch], gli aggiornamenti sono rapidi e semplici e non è necessario copiare o incollare codice.
+>Se utilizzi una soluzione di gestione tag non Adobe, devi considerare gli aggiornamenti di [!DNL AppMeasurement] come se non utilizzassi alcuna soluzione di gestione tag. Ciò significa che, ovunque tu disponga del tuo codice AppMeasurement, è lì che esegui l&#39;aggiornamento (recupera il nuovo codice e sostituisci il vecchio codice nel file o nel TMS). Se utilizzi [!DNL Experience Platform Launch], gli aggiornamenti sono rapidi e semplici e non è necessario copiare o incollare codice.
