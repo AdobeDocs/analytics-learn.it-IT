@@ -1,34 +1,35 @@
 ---
-title: Impostazione dell’analisi del codice ZIP sul mercato - Caso di utilizzo
-seo-title: Impostazione dell’analisi del codice ZIP sul mercato - Caso di utilizzo
-description: In questo caso d'uso, configureremo il sistema per inserire codici di avviamento postale, classificarli come all'interno o all'esterno del mercato, e quindi utilizzeremo questi dati in  Analysis Workspace in modo da poter vedere l'efficacia delle nostre campagne di marketing geotargeting.
-seo-description: In questo caso d'uso, configureremo il sistema per inserire codici di avviamento postale, classificarli come all'interno o all'esterno del mercato, e quindi utilizzeremo questi dati in  Analysis Workspace in modo da poter vedere l'efficacia delle nostre campagne di marketing geotargeting.
-feature: use cases
+title: Impostazione dell’analisi del codice postale nel mercato - un caso d’uso
+seo-title: Impostazione dell’analisi del codice postale nel mercato - un caso d’uso
+description: In questo caso d’uso, configureremo il sistema per inserire codici postali, classificarli come in-market o out-of-market e quindi utilizzeremo questi dati in Analysis Workspace in modo da poter vedere l’efficacia delle nostre campagne di marketing con geotargeting.
+seo-description: In questo caso d’uso, configureremo il sistema per inserire codici postali, classificarli come in-market o out-of-market e quindi utilizzeremo questi dati in Analysis Workspace in modo da poter vedere l’efficacia delle nostre campagne di marketing con geotargeting.
+feature: Casi di utilizzo
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '200'
+ht-degree: 6%
 
 ---
 
 
-# Impostazione dell’analisi del codice ZIP sul mercato - Caso di utilizzo {#setting-up-in-market-zip-code-analysis-a-use-case}
+# Impostazione di un’analisi del codice postale sul mercato - un caso d’uso {#setting-up-in-market-zip-code-analysis-a-use-case}
 
-In questo caso d&#39;uso, configureremo il sistema per inserire codici di avviamento postale, classificarli come all&#39;interno o all&#39;esterno del mercato, e quindi utilizzeremo questi dati in  Analysis Workspace in modo da poter vedere l&#39;efficacia delle nostre campagne di marketing geotargeting.
+In questo caso d’uso, configureremo il sistema per inserire codici postali, classificarli come in-market o out-of-market e quindi utilizzeremo questi dati in Analysis Workspace in modo da poter vedere l’efficacia delle nostre campagne di marketing con geotargeting.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12)
 
 Per ulteriori informazioni sugli aspetti di questo caso d’uso, consulta i seguenti argomenti della documentazione:
 
-[Codici postali e CAP](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html)
+[CAP e codice postale](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html)
 
 [[!UICONTROL Classifications]](https://marketing.adobe.com/resources/help/en_US/reference/classifications.html)
 
