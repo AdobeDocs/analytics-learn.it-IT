@@ -1,24 +1,25 @@
 ---
-title: Prima implementazione  Adobe Analytics
+title: Prima implementazione di Adobe Analytics
 landing-page-description: Questo video illustra come iniziare a usare dati Adobe Analytics in pochi minuti.
 description: Ora è più semplice che mai implementare Adobe Analytics. Se non hai ancora mai usato la nostra soluzione, segui questo video per capire come usare i dati in pochi minuti.
-feature: Nozioni di base sull'implementazione
+feature: Nozioni di base sull’implementazione
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 2362
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 90%
+source-wordcount: '104'
+ht-degree: 87%
 
 ---
 
 
-# Prima implementazione  Adobe Analytics {#first-time-adobe-analytics-implementation}
+# Implementazione di Adobe Analytics per la prima volta {#first-time-adobe-analytics-implementation}
 
 Ora è più semplice che mai implementare Adobe Analytics. Se non hai ancora mai usato la nostra soluzione, segui questo video per capire come usare i dati in pochi minuti.
 
