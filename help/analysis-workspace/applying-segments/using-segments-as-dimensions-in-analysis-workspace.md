@@ -1,25 +1,26 @@
 ---
 title: 'Uso dei segmenti come dimensioni in Analysis Workspace '
-description: Questo video mostra come confrontare e visualizzare i segmenti utilizzando questi come dimensione in  Analysis Workspace.
-feature: segmentation
+description: Questo video mostra come confrontare e visualizzare i segmenti utilizzando come dimensione in Analysis Workspace.
+feature: Segmentazione
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2009
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 26%
 
 ---
 
 
 # Uso dei segmenti come dimensioni in Analysis Workspace {#using-segments-as-dimensions-in-analysis-workspace}
 
-Questo video mostra come confrontare e visualizzare i segmenti utilizzando questi come dimensione in  Analysis Workspace.
+Questo video mostra come confrontare e visualizzare i segmenti utilizzando come dimensione in Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23974/?quality=12)
