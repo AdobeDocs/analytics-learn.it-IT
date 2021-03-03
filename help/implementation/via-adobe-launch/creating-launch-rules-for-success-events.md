@@ -1,24 +1,25 @@
 ---
 title: Creazione di regole di avvio per gli eventi di successo
-description: Questo video illustra come utilizzare Launch per monitorare gli eventi di conversione (eventi di successo AKA) sul sito. Questo verrà mostrato nel caso di utilizzo del monitoraggio di un processo di applicazione in un sito di esempio.
-feature: launch implementation
+description: Questo video illustra come utilizzare Launch per monitorare gli eventi di conversione (eventi di successo AKA) sul sito. Questo verrà mostrato nel caso di utilizzo del tracciamento di un processo di applicazione su un sito di esempio.
+feature: Implementazione di Launch
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3591
+role: '"Sviluppatore, data engineer"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 
-# Creazione [!DNL Launch] di eventi [!UICONTROL Rules] di successo
+# Creazione di [!DNL Launch] [!UICONTROL Rules] per eventi di successo
 
-Questo video mostra come utilizzare [!DNL Experience Platform Launch] per monitorare gli eventi di conversione (eventi di successo AKA) sul sito. Questo viene mostrato nel caso di utilizzo del monitoraggio di un processo di applicazione in un sito di esempio.
+Questo video mostra come utilizzare [!DNL Experience Platform Launch] per monitorare gli eventi di conversione (eventi di successo AKA) sul sito. Questo accade nel caso di utilizzo del monitoraggio di un processo di applicazione su un sito di esempio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12)
