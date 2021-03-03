@@ -1,17 +1,18 @@
 ---
 title: Creazione di una regola di pagina globale in Launch
-description: Su ogni pagina sono disponibili alcuni punti di dati da inviare  Adobe Analytics. In questo video viene illustrato come impostare una regola di caricamento pagina globale per l’invio di tali punti dati.
-feature: launch implementation
+description: Ci sono alcuni punti dati che vorrai essere inviati ad Adobe Analytics su ogni pagina. Questo video mostra come impostare una regola di caricamento della pagina globale per inviare tali punti di dati.
+feature: Implementazione di Launch
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3588
+role: '"Sviluppatore, data engineer"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -19,6 +20,6 @@ ht-degree: 0%
 
 # Creazione di una pagina globale [!UICONTROL Rule] in [!DNL Launch]
 
-Su ogni pagina sono disponibili alcuni punti di dati da inviare  Adobe Analytics. In questo video viene illustrato come impostare una regola di caricamento di pagina globale in cui inviare tali punti dati.
+Ci sono alcuni punti dati che vorrai essere inviati ad Adobe Analytics su ogni pagina. Questo video mostra come impostare una regola di caricamento della pagina globale in cui inviare tali punti di dati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12)
