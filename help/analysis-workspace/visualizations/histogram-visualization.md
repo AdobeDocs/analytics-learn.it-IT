@@ -1,26 +1,27 @@
 ---
 title: Visualizzazione istogramma in Analysis Workspace
-description: Gli istogrammi consentono di visualizzare la distribuzione di una metrica tra i visitatori, le visite e ora gli hit, per trovare segmenti di alto e basso valore.
-feature: visualizations
+description: Gli istogrammi consentono di visualizzare la distribuzione di una metrica tra i visitatori, le visite e ora gli hit, per trovare segmenti di valore elevato e basso.
+feature: Visualizzazioni
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1909
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 12%
 
 ---
 
 
-# [!UICONTROL Histogram] [!UICONTROL Visualization] in  Analysis Workspace {#histogram-visualization-in-analysis-workspace}
+# [!UICONTROL Histogram] [!UICONTROL Visualization] in Analysis Workspace {#histogram-visualization-in-analysis-workspace}
 
-[!UICONTROL Histograms] consente di visualizzare la distribuzione di un [!UICONTROL metric] visitatore, visite e ora hit, per trovare valori elevati e bassi [!UICONTROL segments].
+[!UICONTROL Histograms] ti consente di visualizzare la distribuzione di un  [!UICONTROL metric] tra visitatori, visite e ora hit, per trovare valori elevati e bassi  [!UICONTROL segments].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12)
 
-Per ulteriori informazioni su questa funzione, consulta [la documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/histogram.html).
+Per ulteriori informazioni su questa funzione, visita la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/histogram.html).
