@@ -1,26 +1,27 @@
 ---
-title: Visualizzazioni In Stack Al 100% In  Analysis Workspace
-description: Questo video illustra come impostare le visualizzazioni sovrapposte come percentuali invece che come valori non elaborati.
-feature: visualizations
+title: Visualizzazioni Sovrapposte Al 100% In Analysis Workspace
+description: Questo video illustra come impostare le visualizzazioni in pila come percentuali anziché come valori non elaborati.
+feature: Visualizzazioni
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1670
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 
-# 100% impilato [!UICONTROL Visualizations] in  Analysis Workspace {#stacked-visualizations-in-analysis-workspace}
+# Sovrapposizione 100% [!UICONTROL Visualizations] in Analysis Workspace {#stacked-visualizations-in-analysis-workspace}
 
-Questo video illustra come impostare le visualizzazioni sovrapposte come percentuali invece che come valori non elaborati.
+Questo video illustra come impostare le visualizzazioni in pila come percentuali anziché come valori non elaborati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12)
 
-I grafici sovrapposti sono utili per rappresentare parti di un intero in una tendenza. La nuova impostazione di verifica impilata al 100% consente di vedere rapidamente in che modo ogni parte contribuisce all’insieme, in termini di valore % anziché di valore non elaborato. Questa nuova impostazione è disponibile dall&#39;ingranaggio [!UICONTROL Visualization] Settings (Impostazioni) in alto a destra di [!UICONTROL Area Stacked], [!UICONTROL Bar Stacked] e [!UICONTROL Horizontal Bar Stacked] dei visualizzatori.
+I grafici sovrapposti sono utili per rappresentare parti di un intero in una tendenza. La nuova impostazione di visualizzazione impilata al 100% consente di vedere rapidamente come ogni parte contribuisce al tutto, in termini di valore % invece di un valore non elaborato. Questa nuova impostazione è disponibile dall&#39;ingranaggio delle impostazioni [!UICONTROL Visualization] in alto a destra delle visualizzazioni [!UICONTROL Area Stacked], [!UICONTROL Bar Stacked] e [!UICONTROL Horizontal Bar Stacked].
