@@ -1,25 +1,26 @@
 ---
-title: Confronto segmenti in  Analysis Workspace
-description: Comprendere le vere differenze tra i segmenti di marketing è sempre stato un processo difficile e lungo. IQ segmento, parte di  Analysis Workspace in  Adobe Analytics, semplifica questa analisi esaminando due segmenti di Analytics tra tutte le dimensioni e le metriche per scoprire automaticamente le differenze più importanti dal punto di vista statistico.
-feature: segmentation
+title: Confronto dei segmenti in Analysis Workspace
+description: Comprendere le vere differenze tra i segmenti di marketing è sempre stato un processo difficile e lungo. Il segmento IQ, parte di Analysis Workspace in Adobe Analytics, semplifica questa analisi esaminando due segmenti qualsiasi di Analytics su tutte le dimensioni e le metriche per scoprire automaticamente le differenze più importanti dal punto di vista statistico.
+feature: Segmentazione
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2103
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Segment] Confronto in  Analysis Workspace {#segment-comparison-in-analysis-workspace}
+# [!UICONTROL Segment] Confronto in Analysis Workspace  {#segment-comparison-in-analysis-workspace}
 
-Comprendere le vere differenze tra i segmenti di marketing è sempre stato un processo difficile e lungo. [!DNL Segment IQ], parte di  Analysis Workspace in  Adobe Analytics, semplifica questa analisi esaminando due [!DNL Analytics] elementi [!UICONTROL segments] tra tutti [!UICONTROL dimensions] e [!UICONTROL metrics] per scoprire automaticamente le differenze più importanti dal punto di vista statistico.
+Comprendere le vere differenze tra i segmenti di marketing è sempre stato un processo difficile e lungo. [!DNL Segment IQ], parte di Analysis Workspace in Adobe Analytics, semplifica l’analisi esaminando due  [!DNL Analytics] [!UICONTROL segments] elementi tra tutti i siti  [!UICONTROL dimensions] e  [!UICONTROL metrics] per scoprire automaticamente le differenze più importanti dal punto di vista statistico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12)
 
