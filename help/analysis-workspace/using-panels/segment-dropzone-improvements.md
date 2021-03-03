@@ -1,28 +1,29 @@
 ---
-title: Miglioramenti delle aree di rilascio dei segmenti in  Analysis Workspace
-description: Sono state migliorate le zone di rilascio dei segmenti, in modo da poter rilasciare qualsiasi cosa in un progetto.
-feature: panels
+title: Miglioramenti delle aree di rilascio dei segmenti in Analysis Workspace
+description: Le zone di rilascio dei segmenti sono state migliorate per consentirti di rilasciare qualsiasi elemento in un progetto.
+feature: Pannelli
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2008
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Segment] Miglioramenti delle aree di rilascio in  Analysis Workspace {#segment-drop-zone-improvements-in-analysis-workspace}
+# [!UICONTROL Segment] Miglioramenti delle aree di rilascio in Analysis Workspace  {#segment-drop-zone-improvements-in-analysis-workspace}
 
-[!UICONTROL Segment] le zone di rilascio sono state migliorate per consentire di rilasciare qualsiasi elemento in un progetto.
+[!UICONTROL Segment] le zone di rilascio sono state migliorate per consentire di eliminare qualsiasi elemento in un progetto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
 
-Ora puoi eliminare il supporto completo [!UICONTROL dimensions] e [!UICONTROL metrics], oltre al supporto esistente per [!UICONTROL dimension] gli elementi, [!UICONTROL date ranges] e [!UICONTROL segments]. Inoltre, abbiamo migliorato il modo in cui [!UICONTROL dimension] gli elementi &quot;non specificati&quot; e &quot;nessuno&quot; vengono gestiti quando vengono rilasciati nella zona di [!UICONTROL segment] rilascio.
+È ora possibile eliminare i formati [!UICONTROL dimensions] e [!UICONTROL metrics] completi, oltre al supporto esistente per gli elementi [!UICONTROL dimension], [!UICONTROL date ranges] e [!UICONTROL segments]. Inoltre, è stato migliorato il modo in cui vengono gestiti gli elementi [!UICONTROL dimension] di &quot;non specificato&quot; e &quot;nessuno&quot; quando vengono rilasciati nella zona di rilascio [!UICONTROL segment].
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html).
+Per ulteriori informazioni su questa funzione, visita la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html).
