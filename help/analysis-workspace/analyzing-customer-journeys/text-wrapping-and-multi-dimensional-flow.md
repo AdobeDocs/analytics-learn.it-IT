@@ -1,28 +1,29 @@
 ---
-title: Wrapping di testo e flusso multidimensionale in  Analysis Workspace
-description: Questo video mostra come attivare e disattivare il troncamento delle etichette nella visualizzazione di flusso. Inoltre, scopri come trascinare le dimensioni sul tuo flusso per un’analisi multidimensionale del flusso.
-feature: visualizations
+title: Ritorno a capo nel testo e flusso multidimensionale in Analysis Workspace
+description: Questo video mostra come attivare e disattivare il troncamento delle etichette nella visualizzazione di flusso. Inoltre, scopri come trascinare e rilasciare dimensioni sul tuo flusso per un’analisi di flusso multidimensionale.
+feature: Visualizzazioni
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 24041.jpg
 kt: 2281
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 10%
+source-wordcount: '90'
+ht-degree: 11%
 
 ---
 
 
-# Contorna con testo e [!DNL Multi-Dimensional Flow] in  Analysis Workspace {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
+# Ritorno a capo e [!DNL Multi-Dimensional Flow] in Analysis Workspace {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
 
-In questo video viene illustrato come attivare e disattivare il troncamento delle etichette nel [!DNL flow visualization]. Inoltre, potete imparare a trascinare e rilasciare le dimensioni [!DNL flow] per l&#39; [!DNL flow] analisi multidimensionale.
+Questo video mostra come attivare e disattivare il troncamento delle etichette nel [!DNL flow visualization]. Inoltre, scopri come trascinare e rilasciare dimensioni sul tuo [!DNL flow] per l’analisi multidimensionale [!DNL flow].
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://marketing.adobe.com/resources/help/it_IT/analytics/analysis-workspace/flow.html).
+Per ulteriori informazioni su questa funzione, visita la [documentazione](https://marketing.adobe.com/resources/help/it_IT/analytics/analysis-workspace/flow.html).
