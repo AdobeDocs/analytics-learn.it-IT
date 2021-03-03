@@ -1,24 +1,25 @@
 ---
-title: Attiva/disattiva granularità in  Analysis Workspace
-description: Alle impostazioni di visualizzazione con tendenze è stato aggiunto un selettore di granularità che consente di regolare facilmente la granularità dei dati da un minuto all’altro fino all’anno. L’impostazione consente di regolare sia il grafico che la tabella di origine, salvando i passaggi necessari per visualizzare e modificare la tabella.
-feature: visualizations
+title: Attivazione/disattivazione della granularità in Analysis Workspace
+description: Alle impostazioni di visualizzazione con tendenze è stato aggiunto un selettore di granularità che consente di regolare facilmente la granularità dei dati da un minuto all’altro fino all’anno. L’impostazione consente di regolare sia il grafico che la tabella sorgente, salvando i passaggi necessari per visualizzare e modificare la tabella.
+feature: Visualizzazioni
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1770
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Granularity] Attiva/disattiva  Analysis Workspace {#granularity-toggle-in-analysis-workspace}
+# [!UICONTROL Granularity] Attiva/disattiva Analysis Workspace  {#granularity-toggle-in-analysis-workspace}
 
-Alle [!UICONTROL granularity] impostazioni con tendenze è stato aggiunto un [!UICONTROL visualization] selettore che consente di regolare facilmente i dati [!UICONTROL granularity] da minuti fino all&#39;anno. L’impostazione consente di regolare sia il grafico che la tabella di origine, salvando i passaggi necessari per visualizzare e modificare la tabella.
+Alle impostazioni con tendenze [!UICONTROL visualization] è stato aggiunto un selettore [!UICONTROL granularity] per poter regolare facilmente i dati [!UICONTROL granularity] da un minuto all’altro. L’impostazione consente di regolare sia il grafico che la tabella sorgente, salvando i passaggi necessari per visualizzare e manipolare la tabella.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
