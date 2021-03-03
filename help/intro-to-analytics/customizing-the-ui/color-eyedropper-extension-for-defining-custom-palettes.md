@@ -1,18 +1,19 @@
 ---
 title: Estensione contagocce colore per definire palette personalizzate
 description: Scopri come utilizzare l’estensione di Chrome ColorPick EyeDropper per trovare facilmente i valori esadecimali necessari per una palette personalizzata nei progetti Workspace (Area di lavoro).
-feature: workspace basics
+feature: Nozioni di base su Workspace
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5035
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 77%
 
 ---
 
@@ -23,4 +24,4 @@ Scopri come utilizzare l’estensione di Chrome ColorPick EyeDropper per trovare
 
 >[!VIDEO](https://video.tv.adobe.com/v/33775/?quality=12)
 
-**Nota:** Si tratta di un&#39;estensione Chrome pubblica e non è affiliato a prodotti  Adobe.
+**Nota:** si tratta di un’estensione pubblica Chrome e non è affiliata ai prodotti Adobe.
