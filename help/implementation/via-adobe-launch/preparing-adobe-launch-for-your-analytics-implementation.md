@@ -1,24 +1,25 @@
 ---
-title: Preparazione del Experience Platform Launch per l'implementazione di Analytics
-description: Prima di implementare Analytics in Launch, è necessario disporre di alcuni documenti in attesa e si desidera configurare alcune funzioni nel sistema, sia in Analytics che in Launch. Questo video esamina queste cose.
-feature: launch implementation
+title: Preparazione di Experience Platform Launch per l’implementazione di Analytics
+description: Prima di implementare Analytics in Launch, è necessario che alcuni documenti siano in attesa e che sia necessario impostare alcune funzioni nel sistema, sia in Analytics che in Launch. Questo video analizza queste cose.
+feature: Implementazione di Launch
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3584
+role: '"Sviluppatore, data engineer"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 
-# Preparazione [!DNL Experience Platform Launch] per l’ [!DNL Analytics] implementazione
+# Preparazione di [!DNL Experience Platform Launch] per l&#39;implementazione di [!DNL Analytics]
 
-Prima di utilizzare il Experience Platform Launch per l&#39;implementazione [!DNL Analytics], sarà necessario avere alcuni documenti in attesa, e si desidera già configurare alcuni elementi nel sistema, sia in [!DNL Analytics] che in [!DNL Launch]. Questo video esamina queste cose.
+Prima di utilizzare Experience Platform Launch per implementare [!DNL Analytics], dovrai disporre di alcuni documenti in attesa e dovrai aver già configurato alcuni elementi nel sistema, sia in [!DNL Analytics] che in [!DNL Launch]. Questo video analizza queste cose.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12)
