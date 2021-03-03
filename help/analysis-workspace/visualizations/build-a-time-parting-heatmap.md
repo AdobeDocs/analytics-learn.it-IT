@@ -1,24 +1,25 @@
 ---
-title: Creare una mappa di calore che divide il tempo in  Analysis Workspace
-description: Scoprite come portare l’analisi del tempo a un livello superiore creando una visualizzazione mappa di calore dei comportamenti.
-feature: visualizations
+title: Creare una mappa di calore suddivisa in base al tempo in Analysis Workspace
+description: Scopri come portare l’analisi suddivisa in base al tempo al livello successivo creando una visualizzazione mappa di calore dei comportamenti.
+feature: Visualizzazioni
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2813
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 0%
+source-wordcount: '53'
+ht-degree: 1%
 
 ---
 
 
-# Creare una mappa di calore che divide il tempo in  Analysis Workspace {#build-a-time-parting-heatmap-in-analysis-workspace}
+# Creare una mappa di calore suddivisa in base al tempo in Analysis Workspace {#build-a-time-parting-heatmap-in-analysis-workspace}
 
-Scoprite come portare l&#39;analisi del tempo a un livello superiore creando una mappa di calore [!UICONTROL visualization] dei comportamenti.
+Scopri come portare l’analisi suddivisa in base al tempo al livello successivo creando una mappa di calore [!UICONTROL visualization] dei comportamenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12)
