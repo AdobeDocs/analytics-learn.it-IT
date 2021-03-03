@@ -1,24 +1,25 @@
 ---
-title: Modalità di raccolta dei dati di Analytics
-description: In che modo i dati arrivano dalla pagina ai report in  Adobe Analytics? Questo video mostra come.
-feature: analytics basics
+title: Come vengono raccolti i dati di Analytics
+description: In che modo i dati vengono trasferiti dalla pagina ai rapporti in Adobe Analytics? Questo video mostra come.
+feature: Nozioni di base su Analytics
 topics: null
-audience: analyst
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3565
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 4%
 
 ---
 
 
-# Modalità di raccolta [!DNL Analytics] dei dati
+# Modalità di raccolta dei dati [!DNL Analytics]
 
-In che modo i dati arrivano dalla pagina ai report in  Adobe Analytics? Questo video mostra come.
+In che modo i dati vengono trasferiti dalla pagina ai rapporti in Adobe Analytics? Questo video mostra come.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12)
