@@ -1,24 +1,25 @@
 ---
-title: Guida in linea  Adobe Analytics
-description: A un certo punto, avremo tutti bisogno di aiuto con  Adobe Analytics. Questo video mostra alcune delle grandi risorse a portata di mano quando si preme un dito e si ha bisogno di aiuto.
-feature: analytics basics
+title: Guida in linea in Adobe Analytics
+description: A un certo punto, avremo tutti bisogno di aiuto con Adobe Analytics. Questo video mostra alcune delle grandi risorse che sono a portata di mano quando si colpisce un colpo e ha bisogno di aiuto.
+feature: Nozioni di base su Analytics
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3568
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 2%
 
 ---
 
 
-# Guida in linea  Adobe Analytics
+# Guida in linea in Adobe Analytics
 
-A un certo punto, avremo tutti bisogno di aiuto con  Adobe Analytics. Questo video mostra alcune delle grandi risorse a portata di mano quando si preme un dito e si ha bisogno di aiuto.
+A un certo punto, avremo tutti bisogno di aiuto con Adobe Analytics. Questo video mostra alcune delle grandi risorse che sono a portata di mano quando si colpisce un colpo e ha bisogno di aiuto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12)
