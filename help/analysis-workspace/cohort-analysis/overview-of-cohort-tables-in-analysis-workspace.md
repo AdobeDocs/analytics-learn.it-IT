@@ -1,26 +1,27 @@
 ---
-title: Panoramica delle tabelle di coorte in  Analysis Workspace
-description: L’impostazione Calcolo continuo nelle tabelle coorte può essere utilizzata per analizzare il periodo di validità delle coorti, per comprendere in che modo gli stessi utenti vengono mantenuti (o ridotti) nel tempo.
-feature: visualizations
+title: Panoramica delle tabelle a coorte in Analysis Workspace
+description: L’impostazione Rolling Calculation (Calcolo continuo) nelle tabelle coorte può essere utilizzata per analizzare le coorti per più periodi, per comprendere in che modo gli stessi utenti vengono mantenuti (o restituiti) nel tempo.
+feature: Visualizzazioni
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25965.jpg
 kt: 2477
+role: Professionista
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 13%
 
 ---
 
 
-# Panoramica [!UICONTROL Cohort Tables] in  Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}
+# Panoramica di [!UICONTROL Cohort Tables] in Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}
 
-L&#39; [!UICONTROL Rolling Calculation] impostazione all&#39;interno [!UICONTROL Cohort Tables] può essere utilizzata per analizzare il periodo [!UICONTROL cohorts] temporale, per comprendere in che modo gli stessi utenti vengono mantenuti (o [!UICONTROL churn]) nel tempo.
+L’impostazione [!UICONTROL Rolling Calculation] all’interno di [!UICONTROL Cohort Tables] può essere utilizzata per analizzare il periodo [!UICONTROL cohorts] per comprendere come vengono mantenuti gli stessi utenti (o [!UICONTROL churn]) nel tempo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
 
