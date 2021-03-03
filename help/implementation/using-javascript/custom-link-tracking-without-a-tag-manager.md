@@ -1,42 +1,43 @@
 ---
-title: Tracciamento personalizzato dei collegamenti senza Gestione tag
-description: Per molte azioni sulla pagina, il tracciamento non deve essere trattato come una visualizzazione di pagina. Questo video illustra come codificare un beacon per il tracciamento dei collegamenti in Analytics, se non si utilizza un gestore di tag (come nell’Experience Platform Launch). Vedi il codice e scopri un suggerimento importante.
-feature: appmeasurement implementation
+title: Tracciamento dei collegamenti personalizzati senza tag Manager
+description: Per molte azioni sulla pagina, il tracciamento non deve essere trattato come una visualizzazione di pagina. In questo video, imparerai a codificare un beacon di tracciamento dei collegamenti in Analytics, se non utilizzi un gestore di tag (come Experience Platform Launch). Vedi il codice e scopri un suggerimento importante.
+feature: Implementazione di Appmeasurement
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
+role: '"Sviluppatore, data engineer"'
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 8276828e9e759a1964ca5ea89bb1395e5e78b500
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '297'
+ht-degree: 4%
 
 ---
 
 
-# Tracciamento personalizzato dei collegamenti senza Gestione tag {#custom-link-tracking-without-a-tag-manager}
+# Tracciamento dei collegamenti personalizzati senza tag Manager {#custom-link-tracking-without-a-tag-manager}
 
-Per molte azioni sulla pagina, il tracciamento non deve essere trattato come una visualizzazione di pagina. Questo video illustra come codificare un beacon per il tracciamento dei collegamenti in Analytics, se non si utilizza un gestore di tag (come  Adobe [!DNL Experience Platform Launch]). Vedi il codice e scopri un suggerimento importante.
+Per molte azioni sulla pagina, il tracciamento non deve essere trattato come una visualizzazione di pagina. In questo video, imparerai a codificare un beacon di tracciamento dei collegamenti in Analytics, se non utilizzi un gestore di tag (come Adobe [!DNL Experience Platform Launch]). Vedi il codice e scopri un suggerimento importante.
 
 ## Invio di un beacon s.tl() {#sending-an-s-tl-beacon}
 
-Esistono due funzioni che inviano dati  Adobe Analytics:
+Esistono due funzioni che inviano dati ad Adobe Analytics:
 
-1. s.t() - Un beacon &quot;track&quot;, che è un hit di visualizzazione pagina, che incrementa le visualizzazioni di pagina per il nome di pagina specificato, nonché imposta altre variabili
-1. s.tl() - un beacon &quot;track link&quot;, che viene spesso definito come hit/beacon &quot;collegamento personalizzato&quot;, che non incrementa le visualizzazioni di pagina, e ignora la variabile pageName. Questa funzione è comunemente utilizzata per tenere traccia delle azioni più piccole sulla pagina che non caricano una nuova pagina/schermo, o di altre azioni che non generano un nuovo caricamento di pagina.
+1. s.t() - Un beacon &quot;track&quot;, che è un hit di visualizzazione della pagina, che incrementa le visualizzazioni di pagina per il nome della pagina specificato, nonché imposta altre variabili
+1. s.tl() - un beacon &quot;track link&quot;, che viene spesso chiamato come hit/beacon &quot;custom link&quot;, che non incrementa le visualizzazioni di pagina, e ignora la variabile pageName. Viene comunemente utilizzato per monitorare le azioni più piccole sulla pagina che non caricano una nuova pagina/schermo o altre azioni che non generano un nuovo caricamento di pagina.
 
 >[!NOTE]
 >
->In questo video viene illustrato come codificare un hit di collegamento personalizzato quando NON si utilizza un gestore di tag come  Adobe [!DNL Experience Platform Launch]. Vi consigliamo di utilizzare [!DNL Experience Platform Launch], la nostra raccomandazione sulle best practice per l&#39;implementazione. Tuttavia, se è necessario codificare un `s.tl()`file, è possibile seguire questa procedura.
+>In questo video ti mostriamo come codificare un hit di collegamento personalizzato quando NON utilizzi un gestore di tag come Adobe [!DNL Experience Platform Launch]. È consigliabile utilizzare [!DNL Experience Platform Launch], la raccomandazione sulle best practice per l’implementazione. Tuttavia, se devi eseguire il codice in un `s.tl()`, ecco come farlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
 ## Codice campione {#sample-code}
 
-Di seguito è riportato il codice di esempio utilizzato per il collegamento personalizzato nel video:
+Ecco il codice di esempio utilizzato sul collegamento personalizzato nel video:
 
 ```JavaScript
 <a href="#" onclick="
