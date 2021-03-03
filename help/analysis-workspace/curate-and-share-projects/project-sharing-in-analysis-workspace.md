@@ -1,19 +1,20 @@
 ---
 title: Condivisione di progetti in Analysis Workspace
 description: 'La condivisione dei progetti è uno dei modi per rendere accessibili i dati e le informazioni provenienti da Analysis Workspace a tutti gli utenti dell’organizzazione. Ora puoi assegnare ai destinatari uno dei tre ruoli di progetto, a seconda di come desideri che interagiscano con esso: Modifica, Duplica e Visualizza.'
-feature: curate and share
+feature: Cura e condivisione
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36207.jpg
 kt: 5555
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 026602e66ec7a08e81ef67b9bf00bd517afe7d31
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 94%
 
 ---
 
@@ -24,4 +25,4 @@ La condivisione dei progetti è uno dei modi per rendere accessibili i dati e le
 
 >[!VIDEO](https://video.tv.adobe.com/v/36207/?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=it-IT)
