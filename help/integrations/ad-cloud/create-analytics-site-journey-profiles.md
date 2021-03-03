@@ -1,25 +1,27 @@
 ---
 title: Creare profili di percorso del sito in Analytics
 description: Utilizzare Adobe Analytics per creare solidi pool di retargeting dei siti per il remarketing Advertising Cloud.
-feature: integration with ad cloud
+feature: Integrazione Advertising Cloud
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35116.jpg
 kt: 5473
+topic: Integrazioni
+role: Professionista
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 62%
+source-wordcount: '47'
+ht-degree: 55%
 
 ---
 
 
 # Creare profili di percorso del sito in Analytics
 
-Come utilizzare  Adobe Analytics per creare solide pool di ridefinizione del sito per  remarketing Advertising Cloud.
+Come utilizzare Adobe Analytics per creare solidi pool di retargeting del sito per il remarketing Advertising Cloud.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35116/?quality=12&learn=on)
