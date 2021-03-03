@@ -1,26 +1,27 @@
 ---
-title: Configurazione facile uscita tracciamento collegamento in Experience Platform Launch
-description: In pochi clic nel  Adobe Analytics Extension in Experience Platform Launch, potete iniziare a tracciare i collegamenti di uscita sul sito (collegamenti che conducono da un sito a un altro). Questo video illustra come impostare il sistema.
-feature: launch implementation
+title: Configurazione del tracciamento dei collegamenti di uscita semplice in Experience Platform Launch
+description: In pochi clic nell’estensione Adobe Analytics in Experience Platform Launch, puoi iniziare a tracciare i collegamenti di uscita sul tuo sito (collegamenti che conducono dal sito a un altro sito). Questo video mostra come configurarlo.
+feature: Implementazione di Launch
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2273
+role: '"Sviluppatore, data engineer"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 548ac75589383dfd4da4ae02412de91a0a3b28d6
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
 
-# Configurazione facile uscita tracciamento collegamento in  Adobe [!DNL Experience Platform Launch] {#configuring-easy-exit-link-tracking-in-adobe-launch}
+# Configurazione del tracciamento dei collegamenti di uscita semplice in Adobe [!DNL Experience Platform Launch] {#configuring-easy-exit-link-tracking-in-adobe-launch}
 
-In pochi clic nel  Adobe Analytics [!UICONTROL Extension] in  Adobe, [!DNL Experience Platform Launch]è possibile iniziare a tracciare i collegamenti di uscita sul sito (collegamenti che conducono dal sito a un altro sito). Questo video illustra come impostare il sistema.
+In pochi clic in Adobe Analytics [!UICONTROL Extension] in Adobe [!DNL Experience Platform Launch], puoi iniziare a tracciare i collegamenti di uscita sul tuo sito (collegamenti che conducono dal tuo sito a un altro sito). Questo video mostra come configurarlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12)
 
-Sul sito possono essere presenti collegamenti verso altri siti di proprietà dell&#39;utente o verso altri siti con cui l&#39;utente è associato. È comune voler sapere quante persone stanno facendo clic su questi siti dalle pagine. Con questa opzione in  Adobe [!DNL Experience Platform Launch], puoi impostare in modo rapido e semplice il tracciamento dei collegamenti di uscita e persino adattarlo alle tue esigenze.
+Sul tuo sito, puoi avere collegamenti ad altri siti di tua proprietà o ad altri siti con cui collabora. È comune sapere quante persone fanno clic su questi siti dalle tue pagine. Con questa opzione in Adobe [!DNL Experience Platform Launch], puoi configurare in modo rapido e semplice il tracciamento dei collegamenti in uscita e persino modificarlo in base alle tue esigenze.
