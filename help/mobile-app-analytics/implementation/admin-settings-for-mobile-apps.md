@@ -1,25 +1,27 @@
 ---
-title: Impostazioni di amministrazione per le app mobili
-description: Scopri come impostare i rapporti per app mobili in  Adobe Analytics, compresi i componenti Ciclo di vita, Tracciamento posizione e Hit in background.
-feature: mobile sdk
+title: Impostazioni amministratore per le app per dispositivi mobili
+description: Scopri come impostare il reporting per app mobili in Adobe Analytics, compresi i componenti del ciclo di vita, il tracciamento della posizione e gli hit in background.
+feature: Mobile SDK
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 2493
+topic: Mobile
+role: Amministratore
+level: Esperienza
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '63'
+ht-degree: 6%
 
 ---
 
 
-# Impostazioni di amministrazione per le app mobili {#admin-settings-for-mobile-apps}
+# Impostazioni amministratore per le app mobili {#admin-settings-for-mobile-apps}
 
-Scopri come impostare i rapporti per app mobili in  Adobe Analytics, inclusi [!UICONTROL Lifecycle] componenti [!UICONTROL Location Tracking]e [!UICONTROL Background Hit] rapporti.
+Scopri come impostare la generazione di rapporti per app mobili in Adobe Analytics, compresi i componenti [!UICONTROL Lifecycle], [!UICONTROL Location Tracking] e il reporting [!UICONTROL Background Hit].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12)
 
