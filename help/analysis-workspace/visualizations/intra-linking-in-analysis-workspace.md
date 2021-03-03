@@ -1,26 +1,27 @@
 ---
-title: Intra-link in  Analysis Workspace
-description: Intra-link consente agli analisti di creare progetti in  Analysis Workspace per spingere i lettori del progetto a pannelli e visualizzazioni esatti all'interno del progetto.
-feature: visualizations
+title: Collegamenti di tipo intra-link in Analysis Workspace
+description: I collegamenti di tipo intra-link consentono agli analisti che creano progetti in Analysis Workspace di indirizzare i lettori del progetto a pannelli e visualizzazioni esatti all’interno del progetto.
+feature: Visualizzazioni
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1908
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '82'
+ht-degree: 1%
 
 ---
 
 
-# Intra-link in  Analysis Workspace {#intra-linking-in-analysis-workspace}
+# Collegamenti di tipo intra-link in Analysis Workspace {#intra-linking-in-analysis-workspace}
 
-Intra-link consente agli analisti di creare progetti in  Analysis Workspace per spingere i lettori del progetto a pannelli esatti e [!UICONTROL visualizations] all&#39;interno del progetto.
+I collegamenti di tipo intra-link consentono agli analisti che creano progetti in Analysis Workspace di spingere i lettori del progetto a pannelli e [!UICONTROL visualizations] all’interno del progetto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
-I collegamenti intra-link possono essere utilizzati anche per creare sommari e raccontare storie di dati più efficaci. Il collegamento tra progetti è ora possibile grazie alla nuova funzionalità di collegamento ipertestuale.
+I collegamenti di tipo intra-link possono essere utilizzati anche per creare sommario e raccontare storie di dati più efficaci nel loro complesso. Il collegamento tra progetti è ora possibile anche a causa della nuova funzionalità di collegamento ipertestuale.
