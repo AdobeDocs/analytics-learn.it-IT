@@ -1,26 +1,27 @@
 ---
-title: Analisi della latenza con tabelle coorte
-description: L’impostazione Tabella di latenza nelle tabelle di coorte consente di analizzare il comportamento delle coorti prima e dopo l’evento di inclusione (non solo dopo come rappresentato da Cohort standard). Questa impostazione è utile per analizzare l'impatto di un nuovo prodotto o lancio di una campagna, come esempio.
-feature: visualizations
+title: Analisi della latenza con tabelle a coorte
+description: L’impostazione Latency Table (Tabella di latenza) nelle tabelle coorte consente di analizzare il comportamento delle coorti prima e dopo l’evento di inclusione (non solo dopo come viene illustrato nella coorte standard). Questa impostazione è utile per analizzare l’impatto di un nuovo prodotto o lancio di una campagna, ad esempio.
+feature: Visualizzazioni
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
+role: Professionista
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '115'
+ht-degree: 9%
 
 ---
 
 
 # Analisi della latenza con [!UICONTROL Cohort Tables] {#latency-analysis-with-cohort-tables}
 
-L&#39; [!UICONTROL Latency Table] impostazione in [!UICONTROL Cohort Tables] consente di analizzare il comportamento dell&#39;evento di inclusione [!UICONTROL cohorts] prima e dopo di esso (non solo dopo come [!UICONTROL Cohort] viene rappresentato da uno standard). Questa impostazione è utile per analizzare l&#39;impatto di un nuovo prodotto o lancio di una campagna, come esempio.
+L’impostazione [!UICONTROL Latency Table] in [!UICONTROL Cohort Tables] ti consente di analizzare il comportamento del [!UICONTROL cohorts] prima e dopo l’evento di inclusione (non solo dopo come viene illustrato il modello standard [!UICONTROL Cohort]). Questa impostazione è utile per analizzare l’impatto di un nuovo prodotto o lancio di una campagna, ad esempio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12)
 
