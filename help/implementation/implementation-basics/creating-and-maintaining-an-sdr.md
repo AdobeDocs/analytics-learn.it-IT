@@ -1,17 +1,18 @@
 ---
-title: Creazione e manutenzione di un DSP.
-description: Il documento Solution Design Reference (SDR) è fondamentalmente il progetto del sito. In questo video viene illustrato come crearne uno, in combinazione con il documento sui requisiti aziendali, in modo da poter sempre disporre di una fonte di verità a cui poter tornare quando si implementa  Adobe Analytics, e come si fa riferimento ad esso in futuro.
-feature: implementation basics
+title: Creazione e manutenzione di un SDR.
+description: Il documento di riferimento per la progettazione della soluzione (SDR, Solution Design Reference) è fondamentalmente la blueprint del sito. Questo video mostra come crearne uno, in combinazione con il documento sui requisiti aziendali, in modo da poter sempre avere una fonte di verità a cui tornare durante l’implementazione di Adobe Analytics e come fai riferimento in futuro.
+feature: Nozioni di base sull’implementazione
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3581
+role: '"Sviluppatore, data engineer"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 21a399b7c29562f03dfe7ba90cd1676224e50af8
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -19,10 +20,10 @@ ht-degree: 0%
 
 # Creazione e manutenzione di un documento di riferimento per la progettazione della soluzione (SDR)
 
-Il documento Solution Design Reference (SDR) è fondamentalmente il progetto del sito. In questo video viene illustrato come crearne uno insieme al documento sui requisiti aziendali, in modo da poter disporre sempre di una fonte di verità a cui poter tornare quando implementate  Adobe Analytics e farvi riferimento in futuro.
+Il documento di riferimento per la progettazione della soluzione (SDR, Solution Design Reference) è fondamentalmente la blueprint del sito. Questo video mostra come crearne uno in combinazione con il documento sui requisiti aziendali, in modo da poter sempre avere una fonte di verità a cui tornare durante l’implementazione di Adobe Analytics e come fai riferimento in futuro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
 
-[Scarica](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) un esempio BRD/SDR che puoi usare per definire il tuo sito.
+[](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) Scarica un esempio di BRD/SDR che puoi utilizzare per definire il tuo sito.
 
-[Scaricate](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) il BRD/SDR da questo video (e il video [](creating-a-business-requirements-document.md)BRD).
+[](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) Scarica il BRD/SDR da questo video (e il video  [BRD](creating-a-business-requirements-document.md)).
