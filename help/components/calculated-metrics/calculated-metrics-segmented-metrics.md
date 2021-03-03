@@ -1,24 +1,25 @@
 ---
 title: Metriche calcolate - Metriche segmentate
-description: Scopri come creare metriche segmentate in  Adobe Analytics
-feature: calculated metrics
+description: Scopri come creare metriche segmentate in Adobe Analytics
+feature: Metriche calcolate
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2319
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '29'
+ht-degree: 6%
 
 ---
 
 
-# [!UICONTROL Calculated metrics]: Metriche segmentate {#calculated-metrics-segmented-metrics}
+# [!UICONTROL Calculated metrics]: Metriche segmentate  {#calculated-metrics-segmented-metrics}
 
-Scopri come creare metriche segmentate in  Adobe Analytics
+Scopri come creare metriche segmentate in Adobe Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12)
