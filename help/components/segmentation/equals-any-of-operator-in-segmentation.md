@@ -1,26 +1,27 @@
 ---
-title: Utilizzo di uno qualsiasi degli operatori nella segmentazione
-description: È uguale a uno degli operatori di segmento e non è uguale a nessuno di essi è stato aggiunto al generatore di segmenti. Utilizzare questi operatori per filtrare un elenco di elementi specifici, invece di utilizzare più istruzioni OR o Contiene una qualsiasi di. L'utilizzo di questi operatori al posto di contains any of consente di migliorare anche la velocità della query.
-feature: segmentation
+title: Utilizzo dell’operatore Uguale a qualsiasi operatore nella segmentazione
+description: È stato aggiunto al generatore di segmenti uno qualsiasi degli operatori di segmenti e non è uguale a nessuno di essi. Utilizzare questi operatori per filtrare un elenco di elementi specifici, anziché utilizzare più istruzioni OR o Contains any of. L’utilizzo di questi operatori invece di contiene uno qualsiasi di contribuirà a migliorare anche la velocità della query.
+feature: Segmentazione
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 4f8f8145a9d559e99d01783c6bf62f590f6c5410
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
 
-# Utilizzo dell&#39;operatore &#39;uguale a uno qualsiasi di&#39; nella segmentazione
+# Utilizzo dell’operatore &quot;È uguale a uno di&quot; nella segmentazione
 
-Al generatore di segmenti sono stati aggiunti gli operatori di segmento &#39;uguale a uno qualsiasi&#39; e &#39;Non uguale a nessuno&#39;. Utilizzare questi operatori per filtrare un elenco di elementi specifici, invece di utilizzare più istruzioni OR o &#39;Contiene uno di&#39;. L&#39;utilizzo di questi operatori al posto di &quot;contains any of&quot; (Contiene uno qualsiasi) contribuirà a migliorare anche la velocità della query.
+Al generatore di segmenti sono stati aggiunti gli operatori di segmenti &quot;È uguale a uno di&quot; e &quot;È diverso da uno di&quot;. Utilizza questi operatori per filtrare in un elenco di elementi specifici, invece di utilizzare più istruzioni OR o &quot;Contiene uno di&quot;. L’utilizzo di questi operatori invece di &quot;contiene uno di&quot; aiuterà a migliorare anche la velocità delle query.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
-Per ulteriori informazioni, consulta la [documentazione](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html)
+Per ulteriori informazioni, visita la [documentazione](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html)
