@@ -1,25 +1,26 @@
 ---
-title: Visualizzazione diagramma di Venn in  Analysis Workspace
-description: Puoi visualizzare visivamente la sovrapposizione e l’intersezione di segmenti in  Analysis Workspace utilizzando la visualizzazione diagramma di Venn. È facile creare diagrammi Venn incredibili e intuitivi in pochi secondi. Questo video illustra come.
-feature: visualizations
+title: Visualizzazione diagramma di Venn in Analysis Workspace
+description: Puoi visualizzare visivamente la sovrapposizione e l’intersezione dei segmenti in Analysis Workspace utilizzando la visualizzazione diagramma di Venn. E' facile creare diagrammi di Venn incredibili e intuitivi in pochi secondi. Questo video ti mostrerà come.
+feature: Visualizzazioni
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2118
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Venn] Diagramma [!UICONTROL Visualization] in  Analysis Workspace {#venn-diagram-visualization-in-analysis-workspace}
+# [!UICONTROL Venn] Diagramma  [!UICONTROL Visualization] in Analysis Workspace  {#venn-diagram-visualization-in-analysis-workspace}
 
-È possibile visualizzare visivamente sovrapposizione e intersezione di [!UICONTROL segments] in  Analysis Workspace utilizzando il [!UICONTROL Venn] diagramma [!UICONTROL visualization]. È facile creare [!UICONTROL Venn] diagrammi incredibili e intuitivi in pochi secondi. Questo video illustra come.
+Puoi visualizzare visivamente la sovrapposizione e l’intersezione di [!UICONTROL segments] in Analysis Workspace utilizzando il diagramma [!UICONTROL Venn] [!UICONTROL visualization]. E&#39; facile creare diagrammi incredibili e illuminati in pochi secondi. [!UICONTROL Venn] Questo video ti mostrerà come.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23987/?quality=12)
 
