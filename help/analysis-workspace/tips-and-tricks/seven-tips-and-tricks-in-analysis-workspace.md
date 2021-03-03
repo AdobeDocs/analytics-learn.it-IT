@@ -1,101 +1,102 @@
 ---
-title: 7 suggerimenti e trucchi per creare progetti di Analytics personalizzati in modo più rapido e semplice
-description: ' Analysis Workspace è uno strumento potente all''interno  Adobe Analytics che può aiutarti a creare progetti di analisi più efficaci. Dispone di un ampio set di funzioni che consente di eseguire qualsiasi tipo di analisi freeform, ma una semplice esperienza utente che rende accessibile questa potenza e scalabilità.'
-feature: workspace basics
+title: 7 Suggerimenti per creare progetti di Analytics personalizzati più rapidamente e con maggiore facilità
+description: Analysis Workspace è uno strumento potente all’interno di Adobe Analytics che può aiutarti a creare progetti di analisi di maggiore impatto. Ha una vasta gamma di funzioni che ti permette di eseguire qualsiasi tipo di analisi a forma libera, ma una semplice esperienza utente che rende accessibile questa potenza e scalabilità.
+feature: Nozioni di base su Workspace
 topics: topics
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3945
+role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '991'
+source-wordcount: '1004'
 ht-degree: 0%
 
 ---
 
 
-# 7 suggerimenti e trucchi per creare progetti di Analytics personalizzati in modo più rapido e semplice
+# 7 Suggerimenti per creare progetti di Analytics personalizzati più rapidamente e con maggiore facilità
 
-**Espandi il tuo  Analysis Workspace Skillset!**
- Analysis Workspace è uno strumento potente all&#39;interno  Adobe Analytics che può aiutarti a creare progetti di analisi più efficaci. Dispone di un ampio set di funzioni che consente di eseguire qualsiasi tipo di analisi freeform, ma una semplice esperienza utente che rende accessibile questa potenza e scalabilità.
+**Espandi le tue competenze di Analysis Workspace!**
+Analysis Workspace è uno strumento potente all’interno di Adobe Analytics che può aiutarti a creare progetti di analisi di maggiore impatto. Ha una vasta gamma di funzioni che ti permette di eseguire qualsiasi tipo di analisi a forma libera, ma una semplice esperienza utente che rende accessibile questa potenza e scalabilità.
 
 ## Build: Espansione fino ai punti dati giusti
 
-### ***Suggerimento 1: Rilascia qualsiasi[!UICONTROL dimension],[!UICONTROL date range],[!UICONTROL segment]o[!UICONTROL metric]in qualsiasi parte del progetto***
+### ***Suggerimento 1: Rilascia qualsiasi  [!UICONTROL dimension],  [!UICONTROL date range],  [!UICONTROL segment] o  [!UICONTROL metric] in una qualsiasi parte del progetto***
 
-È sufficiente trascinare un [!UICONTROL segment] o qualsiasi altro componente nella zona di [!UICONTROL segment] rilascio nella parte superiore di un pannello, per segmentare rapidamente il pannello fino a determinati punti dati. Ad esempio, potete segmentare il pannello in modo da visualizzare solo gli hit in cui sono presenti gli ordini rilasciando gli [!UICONTROL metric] &quot;ordini&quot; nella zona di [!UICONTROL segment] rilascio. Puoi anche segmentare per dati che non esistono all’interno di un componente (per visualizzare hit senza ordini, ad esempio) rilasciando l’elemento dimensione &quot;non specificato&quot; o &quot;nessuno&quot; nell’area.
+Trascina e rilascia un [!UICONTROL segment] o qualsiasi altro componente nella zona di rilascio [!UICONTROL segment] nella parte superiore di qualsiasi pannello e puoi segmentare rapidamente il pannello verso il basso fino a determinati punti di dati. Ad esempio, puoi segmentare il pannello per mostrare solo i risultati in cui sono presenti gli ordini rilasciando gli &quot;ordini&quot; [!UICONTROL metric] nella zona di rilascio [!UICONTROL segment]. Puoi anche segmentare per dati che non esistono all’interno di un componente (per visualizzare hit senza ordini, ad esempio) rilasciando l’elemento dimensionale &quot;non specificato&quot; o &quot;nessuno&quot; nella zona.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
 
 >[!TIP]
 >
->**Prova:** C&#39;è un mondo di efficienza che ti aspetta nel menu di scelta rapida. Da questo menu potete accedere a molti strumenti e funzionalità direttamente nel flusso di lavoro Analysis Workspace . In caso di dubbi, fare clic con il pulsante destro del mouse per verificare se lo strumento o la funzionalità di cui si ha bisogno è vicino
+>**Prova questo:** C&#39;è un mondo di efficienza che ti aspetta nel menu di scelta rapida. Da questo menu, puoi accedere a molti strumenti e funzionalità direttamente nel flusso di lavoro di Analysis Workspace. In caso di dubbio, fai clic con il pulsante destro del mouse per verificare se lo strumento o la funzionalità di cui hai bisogno è vicino
 
-### ***Suggerimento 2: Creazione di metriche semplici senza uscire dal flusso di lavoro***
+### ***Suggerimento 2: Creare metriche semplici senza uscire dal flusso di lavoro***
 
-Con Rapida [!UICONTROL Calculated Metrics], potete creare nuove [!UICONTROL metrics] risorse direttamente in  Analysis Workspace invece di spostarvi in [!UICONTROL Calculated Metric] Generatore. Basta selezionare le [!UICONTROL metric] colonne da calcolare, quindi, dal menu di scelta rapida, selezionare &quot;[!UICONTROL Create Metric From Selection]&quot;. Ora, potete aggiungere, sottrarre, dividere, moltiplicare e altro, senza lasciare il progetto e rompere il treno del pensiero.
+Con Quick [!UICONTROL Calculated Metrics], puoi creare un nuovo [!UICONTROL metrics] direttamente in Analysis Workspace invece di passare al Generatore [!UICONTROL Calculated Metric]. Selezionare le colonne [!UICONTROL metric] da calcolare, quindi dal menu di scelta rapida selezionare &quot;[!UICONTROL Create Metric From Selection]&quot;. Ora, puoi aggiungere, sottrarre, dividere, moltiplicare e altro, senza lasciare il tuo progetto e rompere il tuo treno del pensiero.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
 
 >[!TIP]
 >
->**Suggerimento utile:** È possibile selezionare fino a due [!UICONTROL metric] colonne con l&#39;opzione Rapida [!UICONTROL Calculated Metrics]. Usate il [!UICONTROL Calculated Metric] Generatore per creare [!UICONTROL metrics] che includa più di due elementi [!UICONTROL metrics].
+>**Suggerimento utile:** è possibile selezionare fino a due  [!UICONTROL metric] colonne quando si utilizza Quick  [!UICONTROL Calculated Metrics]. Utilizza il [!UICONTROL Calculated Metric] Builder per creare [!UICONTROL metrics] che include più di due [!UICONTROL metrics].
 
-## Visualizza: Dare vita ai dati all&#39;interno dei progetti
+## Visualizza: Dare vita ai dati all’interno dei progetti
 
-### ***Suggerimento 3: Copiare e inserire visualizzazioni e pannelli ovunque***
+### ***Suggerimento 3: Copia e inserisci visualizzazioni e pannelli ovunque***
 
-Copia e aggiungi facilmente visualizzazioni e pannelli da una posizione all’altra, anche in un progetto diverso. Questo significa che puoi spostare facilmente i dati man mano che il tuo progetto cresce e condividere i risultati con i nuovi utenti in modo che non debbano iniziare un&#39;analisi da zero. Fai clic con il pulsante destro del mouse sul pannello o sulla visualizzazione da copiare, seleziona &quot;[!UICONTROL Copy Visualization]&quot; e fai clic con il pulsante destro del mouse su un pannello vuoto per inserirlo.
+Copia facilmente visualizzazioni e pannelli da una posizione e aggiungili a un’altra, anche in un progetto diverso. Ciò significa che puoi spostare facilmente i dati man mano che il tuo progetto cresce e condividere i tuoi risultati con i nuovi utenti in modo che non debbano iniziare un’analisi da zero. Fai clic con il pulsante destro del mouse sul pannello o sulla visualizzazione da copiare, seleziona &quot;[!UICONTROL Copy Visualization]&quot; e fai clic con il pulsante destro del mouse su un pannello vuoto per inserirlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12)
 
 >[!TIP]
 >
->**Capacità altamente richiesta:** I nostri clienti ci hanno chiesto di facilitare la copia e l&#39;inserimento di visualizzazioni e pannelli. Ora, passano meno tempo a ricreare le informazioni, e più tempo a scoprire nuove.
+>**Funzionalità altamente richieste:** i nostri clienti ci hanno chiesto di semplificare la copia e l’inserimento di visualizzazioni e pannelli. Ora, passano meno tempo a ricreare le intuizioni, e più tempo a scoprirne di nuove.
 
-### ***Suggerimento 4: Passa tra le visualizzazioni di granularità temporale con un solo clic***
+### ***Suggerimento 4: Passare da una visualizzazione con granularità temporale all’altra con un solo clic***
 
-Modifica semplice la visualizzazione dell’ora quando si utilizzano le visualizzazioni con tendenze. Nelle precedenti  iterazioni di Analysis Workspace, la modifica del tempo comportava la rimozione di una tabella di origine, il trascinamento di una nuova tabella [!UICONTROL dimension]e quindi la successiva occultamento della tabella. Ora è facile selezionare la granularità temporale che si desidera mostrare direttamente dal menu a discesa &quot;[!UICONTROL Visualizations Settings]&quot; (ingranaggio superiore destro).
+Modifica facilmente la visualizzazione del tempo quando si lavora con visualizzazioni con tendenze. Nelle precedenti iterazioni di Analysis Workspace, cambiare il tempo significava nascondere una tabella sorgente, trascinarla in una nuova [!UICONTROL dimension] e quindi nascondere nuovamente la tabella. Ora, è facile come selezionare la granularità temporale che si desidera dimostrare direttamente dal menu a discesa &quot;[!UICONTROL Visualizations Settings]&quot; (ingranaggio in alto a destra).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
 
-## Condividi: Facilità di utilizzo e comprensione dei risultati
+## Condividi: Facile utilizzo e comprensione dei risultati da parte di altri
 
-### ***Suggerimento 5: Creare un&#39;unità[!DNL Virtual Report Suite]personalizzata per unità aziendali specifiche***
+### ***Suggerimento 5: Creare un&#39;unità  [!DNL Virtual Report Suite] di business personalizzata per specifiche unità***
 
- Adobe Analytics raccoglie una grande quantità di dati. La cura dei componenti [!DNL Virtual Report Suites] consente agli amministratori di creare un set di dati per ogni business unit di un&#39;organizzazione. Ciò significa che gli analisti che lavorano  Analysis Workspace non devono analizzare i dati per trovare ciò che conta di più. È sufficiente selezionare la casella con il titolo &quot;[!UICONTROL Enable Customization of Virtual Report Suite Components]&quot; nel [!UICONTROL Virtual Report Suites] modulo di generazione sotto [!UICONTROL “Components]&quot;, quindi selezionare [!UICONTROL components] quella che corrisponde a quella che un team specifico misura.
+Adobe Analytics raccoglie grandi quantità di dati. La cura dei componenti in [!DNL Virtual Report Suites] consente agli amministratori di creare un set di dati per ogni business unit di un&#39;organizzazione. Ciò significa che gli analisti che lavorano in Analysis Workspace non devono analizzare i dati per trovare ciò che conta di più. È sufficiente selezionare la casella &quot;[!UICONTROL Enable Customization of Virtual Report Suite Components]&quot; nel generatore [!UICONTROL Virtual Report Suites] in [!UICONTROL “Components],&quot; quindi selezionare il [!UICONTROL components] corrispondente alle misure di un team specifico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
 
 >[!TIP]
 >
->**Suggerimento utile:** È inoltre possibile modificare il nome dei componenti all&#39;interno di un&#39;unità [!UICONTROL Virtual Report Suite] per adattarlo alla nomenclatura di unità aziendali specifiche. È sufficiente fare clic sull’icona a forma di matita accanto al componente e digitare un nuovo nome.
+>**Suggerimento utile:** puoi anche modificare il nome dei componenti all&#39;interno di una per  [!UICONTROL Virtual Report Suite] adattarlo alla nomenclatura di unità operative specifiche. Fai clic sull’icona a forma di matita accanto al componente e digita un nuovo nome.
 
 ### ***Suggerimento 6: Collegamento a pannelli e visualizzazioni all’interno di un progetto o tra progetti***
 
-Crea collegamenti per l&#39;audience ovunque in  Analysis Workspace. Fai clic con il pulsante destro del mouse sul pannello a cui vuoi collegarti, seleziona &quot;[!UICONTROL Get Panel Link]&quot; e copia. Evidenziate quindi il testo da cui desiderate collegare, selezionate l&#39;icona di collegamento nell&#39;editor di testo di una casella di testo o di una descrizione, quindi incollate. Per impostare un collegamento a un intero progetto, fai clic sulla scheda &quot;[!UICONTROL Share]&quot;, seleziona &quot;[!UICONTROL Get Project Link]&quot; e segui gli stessi passaggi indicati sopra.
+Crea collegamenti che porteranno il pubblico ovunque in Analysis Workspace. Fai clic con il pulsante destro del mouse sul pannello a cui desideri collegare, seleziona &quot;[!UICONTROL Get Panel Link]&quot; e copia. Evidenzia quindi il testo da cui desideri collegare, seleziona l’icona del collegamento nell’editor di testo di una casella di testo o di una descrizione e incolla. Per collegare un intero progetto, fai clic sulla scheda &quot;[!UICONTROL Share]&quot;, seleziona &quot;[!UICONTROL Get Project Link]&quot; e segui gli stessi passaggi indicati sopra.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
 >[!TIP]
 >
->**Suggerimento utile:** Esistono diversi modi in cui collegare i lettori può migliorare l’esperienza dei lettori. Potete indicarle come illustrazioni che corrispondono a risultati e raccomandazioni nei progetti. Oppure potete consentire loro di passare direttamente da un sommario alle sezioni a cui sono interessati. Puoi anche collegare progetti di altri utenti relativi all’analisi
+>**Suggerimento utile:** ci sono diversi modi in cui il collegamento può migliorare l&#39;esperienza dei lettori. Puoi indicarli a illustrazioni che corrispondono a risultati e consigli nei progetti. Oppure puoi consentire loro di passare direttamente da un sommario alle sezioni a cui sono interessati. Puoi anche collegare ad altri progetti di utenti relativi all’analisi
 
-### ***Suggerimento 7: Salva progetti come modelli personalizzati riutilizzabili***
+### ***Suggerimento 7: Salvare i progetti come modelli personalizzati riutilizzabili***
 
-Ora puoi trasformare facilmente qualsiasi progetto in un modello personalizzato. È sufficiente selezionare &quot;[!UICONTROL Save As Template]&quot; dal menu a discesa &quot;[!UICONTROL Project]&quot;, aggiungere tag che semplificano la ricerca del modello e fare clic su &quot;[!UICONTROL Save Project As Template]&quot;. Ora, il modello sarà disponibile per tutti  utenti Analysis Workspace nella scheda &quot;[!UICONTROL Custom Templates]&quot;. Questo consente agli analisti di iniziare i loro progetti con punti dati significativi, invece di iniziare da uno quadrato.
+Ora puoi facilmente trasformare qualsiasi progetto in un modello personalizzato. È sufficiente selezionare &quot;[!UICONTROL Save As Template]&quot; dal menu a discesa &quot;[!UICONTROL Project]&quot;, aggiungere tag che rendano il modello facile da trovare e fare clic su &quot;[!UICONTROL Save Project As Template]&quot;. Ora, il modello sarà disponibile per tutti gli utenti di Analysis Workspace nella scheda &quot;[!UICONTROL Custom Templates]&quot;. Questo consente agli analisti di iniziare i loro progetti con punti di dati significativi, invece di iniziare da uno quadrato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
 
 >[!TIP]
 >
->**Capacità altamente richiesta:** Diversi clienti ci hanno chiesto di rendere possibile il salvataggio dei progetti come modelli personalizzati. Questa capacità è diventata una delle loro preferite.
+>**Funzionalità altamente richieste:** Diversi clienti ci hanno chiesto di rendere possibile il salvataggio dei progetti come modelli personalizzati. Questa capacità è diventata una delle loro preferite.
 
-[Fai clic qui per trovare altri suggerimenti e trucchi su Experience League](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
+[Fai clic qui per ulteriori suggerimenti e trucchi su Experience League](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
 
 | Informazioni sull&#39;autore |  |
 |------------|------------|
-| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser è un manager del team di gestione  prodotti Adobe Analytics. <br> In questo ruolo, incontra i clienti per comprendere le loro esigenze aziendali, <br>utilizzando ciò che apprende per informare la roadmap del prodotto Adobe Analytics  <br>e per dare priorità alle nuove funzionalità del prodotto. Prima della sua attuale posizione, <br>Jen era una consulente principale del team di consulenza del Adobe , lavorando come esperto <br>materia nella visualizzazione dei dati,  Analysis Workspace, e [!DNL Report Builder]. <br><br>Grazie al suo contributo reale, abbiamo curato i seguenti suggerimenti e trucchi per <br>facilitare la creazione, la visualizzazione e la condivisione dei progetti Analysis Workspace . |
+| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser è un manager del team di gestione dei prodotti Adobe Analytics. <br> In questo ruolo, incontra i clienti per comprendere le loro esigenze aziendali,  <br>utilizzando ciò che apprende per informare la roadmap del prodotto Adobe Analytics  <br>e per dare priorità alle nuove funzionalità del prodotto. Prima della sua posizione attuale, <br>Jen era un consulente principale del team di Adobe Consulting, che lavorava come <br>esperto in materia di visualizzazione dei dati, Analysis Workspace e [!DNL Report Builder]. <br><br>Con il vantaggio della sua visione nel mondo reale, abbiamo curato i seguenti suggerimenti e trucchi per  <br>facilitare la creazione, la visualizzazione e la condivisione di progetti Analysis Workspace |
