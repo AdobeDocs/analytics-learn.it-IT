@@ -1,27 +1,28 @@
 ---
-title: Utilizzo di Component Manager in  Adobe Analytics
-seo-title: Utilizzo di Component Manager in  Adobe Analytics
-description: 'In questo video viene illustrato come utilizzare i gestori di componenti Avvisi e Progetti pianificati in  Adobe Analytics, insieme ad alcune funzioni aggiuntive. Scoprite come trovare facilmente il progetto di avviso o di pianificazione che state cercando, nonché come attivare/disattivare gli avvisi. '
-seo-description: 'In questo video viene illustrato come utilizzare i gestori di componenti Avvisi e Progetti pianificati in  Adobe Analytics, insieme ad alcune funzioni aggiuntive. Scoprite come trovare facilmente il progetto di avviso o di pianificazione che state cercando, nonché come attivare/disattivare gli avvisi. '
-feature: workspace basics
+title: Utilizzo dei gestori di componenti in Adobe Analytics
+seo-title: Utilizzo dei gestori di componenti in Adobe Analytics
+description: 'Questo video mostra come utilizzare i gestori dei componenti Avvisi e Progetti pianificati in Adobe Analytics, insieme ad alcune funzioni aggiuntive. Scopri come trovare facilmente l’avviso o il progetto pianificato ricercato e come abilitare/disabilitare gli avvisi. '
+seo-description: 'Questo video mostra come utilizzare i gestori dei componenti Avvisi e Progetti pianificati in Adobe Analytics, insieme ad alcune funzioni aggiuntive. Scopri come trovare facilmente l’avviso o il progetto pianificato ricercato e come abilitare/disabilitare gli avvisi. '
+feature: Nozioni di base su Workspace
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2351
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 
-# Utilizzo [!DNL Component Managers] in  Adobe Analytics {#using-component-managers-in-adobe-analytics}
+# Utilizzo di [!DNL Component Managers] in Adobe Analytics {#using-component-managers-in-adobe-analytics}
 
-In questo video viene illustrato come utilizzare [!UICONTROL Alerts] e [!UICONTROL Scheduled Projects] [!DNL component managers] in  Adobe Analytics, con alcune funzioni aggiuntive. Scoprite come trovare facilmente il [!UICONTROL Alert] o [!UICONTROL Scheduled Project] che state cercando nonché attivare/disattivare [!UICONTROL Alerts].
+Questo video mostra come utilizzare i [!UICONTROL Alerts] e [!UICONTROL Scheduled Projects] [!DNL component managers] in Adobe Analytics, insieme ad alcune funzioni aggiuntive. Scopri come trovare facilmente il [!UICONTROL Alert] o [!UICONTROL Scheduled Project] che stai cercando, nonché Attiva/Disattiva [!UICONTROL Alerts].
 
 >[!VIDEO](https://video.tv.adobe.com/v/24068/?quality=12)
