@@ -1,28 +1,29 @@
 ---
-title: Analisi delle implementazioni con Adobe Experience Cloud Debugger
-description: Il debugger  Experience Cloud è uno strumento che consente agli utenti di ispezionare ed eseguire il debug  tag Experience Cloud. Questo video illustra come utilizzare il Experience Cloud Debugger per esaminare le implementazioni di Analytics.
-feature: validation
+title: Ispezione delle implementazioni con Adobe Experience Cloud Debugger
+description: Experience Cloud Debugger è uno strumento che consente agli utenti di ispezionare ed eseguire il debug dei tag Experience Cloud. Questo video illustra come utilizzare Experience Cloud Debugger per analizzare le implementazioni di Analytics.
+feature: Convalida
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1942
+role: '"Sviluppatore, data engineer"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 
-# Ispezione delle implementazioni con il pannello [!DNL Adobe Experience Cloud Debugger] {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}
+# Ispezione delle implementazioni con [!DNL Adobe Experience Cloud Debugger] {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}
 
-È [!DNL Experience Cloud debugger] uno strumento che consente agli utenti di ispezionare ed eseguire il debug dei tag  Experience Cloud. In questo video viene illustrato come utilizzare l&#39; [!DNL Experience Cloud Debugger] per ispezionare [!DNL Analytics] le implementazioni.
+[!DNL Experience Cloud debugger] è uno strumento che consente agli utenti di ispezionare ed eseguire il debug dei tag Experience Cloud. Questo video illustra come utilizzare [!DNL Experience Cloud Debugger] per controllare le implementazioni di [!DNL Analytics] .
 
 >[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12)
 
-Scoprirai come visualizzare l’attivazione su pagine diverse, i nomi descrittivi delle variabili e i risultati dell’esportazione per casi di utilizzo avanzati.
+Scoprirai come visualizzare cosa viene attivato su pagine diverse, caricare nomi descrittivi di variabili ed esportare risultati per casi d’uso avanzati.
 
-Per ulteriori informazioni, consulta la [documentazione](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/experience-cloud-debugger.html).
+Per ulteriori informazioni, visita la [documentazione](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/experience-cloud-debugger.html).
