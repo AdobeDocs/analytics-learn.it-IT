@@ -1,31 +1,32 @@
 ---
 title: Configurazione di Library Management per Analytics
-description: Se state iniziando con l'estensione del Experience Platform Launch per  Adobe Analytics, questo video può essere utile con la parte di gestione della libreria della configurazione, compresa la selezione delle suite di rapporti in cui desiderate inviare i dati.
-feature: launch implementation
+description: Se hai appena iniziato con l’estensione Experience Platform Launch per Adobe Analytics, questo video può aiutarti con la parte di gestione della libreria della configurazione, inclusa la selezione delle suite di rapporti in cui desideri inviare i dati.
+feature: Implementazione di Launch
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2836
+role: '"Sviluppatore, data engineer"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '128'
+ht-degree: 16%
 
 ---
 
 
-# Configurazione [!UICONTROL Library Management] per [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
+# Configurazione di [!UICONTROL Library Management] per [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
 
-Se non hai ancora iniziato con l&#39;Experience Platform Launch, e l&#39;Adobe Analytics  [!UICONTROL Extension], questo video ti aiuterà con [!UICONTROL Library Management], compresa la selezione [!UICONTROL report suites] in cui inviare i dati.
+Se hai appena iniziato con Experience Platform Launch e Adobe Analytics [!UICONTROL Extension], questo video può esserti utile con [!UICONTROL Library Management], inclusa la selezione di [!UICONTROL report suites] in cui inviare i dati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
 
 Per ulteriori informazioni sugli aspetti di questo caso d’uso, consulta i seguenti argomenti della documentazione:
 
-[Codici postali e CAP](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
+[CAP e codice postale](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
 
 [Classificazioni](https://docs.adobe.com/content/help/it-IT/analytics/components/classifications/c-classifications.html)
 
