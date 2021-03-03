@@ -1,25 +1,26 @@
 ---
-title: Metriche calcolate rapide in  Analysis Workspace
-description: Ora puoi creare metriche calcolate immediatamente all'interno  Analysis Workspace.  Se stai cercando di effettuare una rapida modifica percentuale o divisione con alcune metriche nella tabella a forma libera, seleziona le metriche dall’intestazione, fai clic con il pulsante destro del mouse e seleziona l’operatore desiderato.  La nuova metrica calcolata verrà visualizzata a destra.
-feature: calculated metrics
+title: Metriche calcolate rapide in Analysis Workspace
+description: Ora puoi creare metriche calcolate immediatamente in Analysis Workspace.  Se desideri eseguire una rapida modifica della percentuale o divisione con alcune metriche nella tabella a forma libera, seleziona le metriche dall’intestazione, fai clic con il pulsante destro del mouse e scegli l’operatore desiderato.  La nuova metrica calcolata verrà visualizzata a destra.
+feature: Metriche calcolate
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23126.jpg
 kt: 1666
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 0%
+source-wordcount: '117'
+ht-degree: 1%
 
 ---
 
 
-# Quick [!UICONTROL Calculated Metrics] in  Analysis Workspace {#quick-calculated-metrics-in-analysis-workspace}
+# Quick [!UICONTROL Calculated Metrics] in Analysis Workspace {#quick-calculated-metrics-in-analysis-workspace}
 
-Ora è possibile costruire [!UICONTROL calculated metrics] al volo all&#39;interno  Analysis Workspace.  Se si desidera eseguire una rapida modifica percentuale o divisione con alcuni [!UICONTROL metrics] elementi nell&#39;intestazione, è sufficiente selezionare l&#39;elemento [!UICONTROL freeform table][!UICONTROL metrics] dall&#39;intestazione, fare clic con il pulsante destro del mouse e scegliere l&#39;operatore desiderato.  Il nuovo [!UICONTROL calculated metric] apparirà sulla destra.
+Ora puoi creare [!UICONTROL calculated metrics] all’istante in Analysis Workspace.  Se desideri eseguire una rapida modifica della percentuale o divisione con alcuni [!UICONTROL metrics] nel tuo [!UICONTROL freeform table], seleziona il [!UICONTROL metrics] dall’intestazione, fai clic con il pulsante destro del mouse e scegli l’operatore desiderato.  Il nuovo [!UICONTROL calculated metric] verrà visualizzato a destra.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
