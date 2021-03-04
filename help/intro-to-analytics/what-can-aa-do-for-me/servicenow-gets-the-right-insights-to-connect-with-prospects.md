@@ -1,6 +1,6 @@
 ---
-title: Caso d'uso del cliente - ServiceNow ottiene le informazioni giuste per connettersi con le prospettive
-description: Scopri in che modo ServiceNow ottiene dati actionable dai suoi canali di marketing e incrementa il Return on Investment (ROI) sulla pubblicità relativa alla ricerca a pagamento con Adobe Advertising Cloud e Adobe Analytics.
+title: 'Caso di utilizzo di un cliente: ServiceNow ottiene dati importanti per relazionarsi con potenziali clienti'
+description: Scopri come ServiceNow ottiene dati actionable dai suoi canali di marketing e incrementa il Return on Investment (ROI) sugli annunci di ricerca a pagamento con Adobe Advertising Cloud e Adobe Analytics.
 feature: Casi di utilizzo
 topics: null
 activity: understand
@@ -13,15 +13,15 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 24%
+ht-degree: 89%
 
 ---
 
 
-# Caso di utilizzo del cliente: [!DNL ServiceNow] Ottiene gli approfondimenti giusti per connettersi con le prospettive
+# Caso di utilizzo di un cliente: [!DNL ServiceNow] ottiene dati importanti per relazionarsi con potenziali clienti
 
 Scopri come [!DNL ServiceNow] ottiene dati actionable dai suoi canali di marketing e incrementa il Return on Investment (ROI) sulla pubblicità relativa alla ricerca a pagamento con Adobe Advertising Cloud e Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12)
 
-Adobe Experience Cloud ti offre gli strumenti integrati necessari per eccellere nel marketing cross-channel, nella pubblicità digitale, nell’ottimizzazione di pubblico e dati e altro ancora.
+Adobe Experience Cloud offre gli strumenti integrati necessari per eccellere nei campi del cross-channel marketing, della pubblicità digitale, dell’ottimizzazione di dati e pubblico, e molto altro ancora.
