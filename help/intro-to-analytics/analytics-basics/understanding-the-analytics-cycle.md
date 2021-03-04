@@ -1,6 +1,6 @@
 ---
 title: Informazioni sul ciclo di Analytics
-description: In questo video semplice ma importante, scopri i passaggi necessari per l’analisi dei dati del tuo sito. Prendendo un po' di tempo per capire questo processo può fare la differenza nel successo del tuo programma Analytics.
+description: 'Segui questo video semplice ma importante per scoprire i passaggi necessari per eseguire l’analisi dei dati del tuo sito. Prenditi un po’ di tempo per capire bene questo processo: ti aiuterà a usare al meglio Analytics.'
 feature: Nozioni di base su Analytics
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 2%
+ht-degree: 96%
 
 ---
 
 
-# Informazioni sul ciclo [!DNL Analytics]
+# Informazioni sul ciclo di [!DNL Analytics]
 
-In questo video semplice ma importante, scopri i passaggi necessari per l’analisi dei dati del tuo sito. Prendendo un po&#39; di tempo per capire questo processo può fare la differenza nel successo del tuo [!DNL Analytics] programma.
+Segui questo video semplice ma importante per scoprire i passaggi necessari per eseguire l’analisi dei dati del tuo sito. Prenditi un po’ di tempo per capire bene questo processo: ti aiuterà a usare al meglio [!DNL Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28950/?quality=12)
