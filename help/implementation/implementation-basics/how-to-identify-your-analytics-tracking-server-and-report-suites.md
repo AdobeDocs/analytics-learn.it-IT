@@ -1,6 +1,6 @@
 ---
 title: Come identificare il server di tracciamento di Analytics e le suite di rapporti
-description: Quando configuri Adobe Analytics o fai riferimento ad esso in altre soluzioni Experience Cloud, spesso è utile o anche necessario conoscere il "server di tracciamento" di Analytics in uso o anche la "Suite di rapporti" in cui stai inviando i dati. Questo video mostra come individuare entrambi i valori, siano essi già implementati o meno in Adobe Analytics.
+description: Quando si configura Adobe Analytics, o quando vi si fa riferimento in altre soluzioni Experience Cloud, spesso è utile o addirittura necessario conoscere il “server di tracciamento” di Analytics in uso, o anche la “suite di rapporti” in cui si inviano i dati. Questo video illustra come individuare entrambi i valori, indipendentemente dal fatto che Adobe Analytics sia già stato implementato.
 feature: Nozioni di base sull’implementazione
 topics: null
 activity: implement
@@ -13,28 +13,28 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 2%
+ht-degree: 98%
 
 ---
 
 
-# Come identificare i dati analitici [!DNL Tracking Server] e [!UICONTROL Report Suites] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
+# Come identificare il [!DNL Tracking Server] e le [!UICONTROL Report Suites] di Analytics {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
-Quando configuri Adobe Analytics o fai riferimento ad esso in altre soluzioni Experience Cloud, spesso è utile o anche necessario conoscere il [!DNL Analytics] &quot;[!DNL Tracking Server]&quot; in uso o anche il &quot;[!UICONTROL Report Suite]&quot; in cui stai inviando i dati. Questo video mostra come individuare entrambi i valori, siano essi già implementati o meno in Adobe Analytics.
+Quando si configura Adobe Analytics, o quando vi si fa riferimento in altre soluzioni Experience Cloud, spesso è utile o addirittura necessario conoscere il [!DNL Analytics] “[!DNL Tracking Server]” in uso, o anche la “[!UICONTROL Report Suite]” in cui si inviano i dati. Questo video illustra come individuare entrambi i valori, indipendentemente dal fatto che Adobe Analytics sia già stato implementato.
 
-## Dopo l&#39;implementazione {#after-implementation}
+## Dopo l’implementazione {#after-implementation}
 
-Dopo aver implementato [!DNL Analytics] su un sito, puoi trovare i [!DNL tracking server] e i [!DNL report suite ID] direttamente nel beacon di tracciamento. Il [!DNL tracking server] è il nome host nel beacon, in modo che sia facile da trovare. Gli [!UICONTROL report suite] ID sono un elenco separato da virgole subito dopo &quot;/b/ss/&quot; nel nome del percorso del beacon.
+Dopo aver implementato [!DNL Analytics] su un sito, è possibile trovare il [!DNL tracking server] e la [!DNL report suite ID] direttamente nel beacon di tracciamento. Il [!DNL tracking server] corrisponde al nome host nel beacon ed è quindi facile da trovare. Gli ID [!UICONTROL report suite] sono un elenco separato da virgole subito dopo “/b/ss/” nel percorso del beacon.
 
-Per visualizzare il beacon e tutte le altre informazioni in arrivo su [!DNL Analytics] e altre soluzioni Experience Cloud, installa l’ [&quot;Experience Cloud Debugger&quot; estensione Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=it).
+Per visualizzare il beacon, così come tutte le altre informazioni che arrivano a [!DNL Analytics] e altre soluzioni Experience Cloud, installa l’[estensione Chrome “Experience Cloud Debugger”](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=it).
 
 ## Prima dell’implementazione {#before-implementation}
 
-**[!DNL Tracking Server]** - Se non hai ancora iniziato con l’implementazione di Adobe Analytics, scegli un sottodominio per &quot;.sc.omtrdc.net&quot;  [!DNL tracking server]. Ad esempio, supponiamo che io abbia un negozio online di cappelli chiamato &quot;Jim&#39;s Brims&quot;. Posso semplicemente impostare il mio [!DNL tracking server] su:
+**[!DNL Tracking Server]**: se non hai ancora avviato l’implementazione di Adobe Analytics, scegli un sottodominio per “.sc.omtrdc.net” [!DNL tracking server]. Ad esempio, supponiamo che io abbia un negozio online chiamato “Jim’s Brims”. Posso semplicemente impostare il mio [!DNL tracking server] su:
 
-&quot;jimsbrims.sc.omtrdc.net&quot;.
+“jimsbrims.sc.omtrdc.net”.
 
-**[!UICONTROL Report Suite]** - Per trovare un elenco dei tuoi  [!UICONTROL report suites] che sono stati creati, accedi  [!DNL Analytics] e vai a  [!UICONTROL Admin] >  [!UICONTROL Report Suites] nel menu principale per visualizzare un elenco di  [!UICONTROL report suites], inclusi il loro ID e titolo.
+**[!UICONTROL Report Suite]**: per trovare un elenco delle [!UICONTROL report suites] create, accedi a [!DNL Analytics] e vai in [!UICONTROL Admin] > [!UICONTROL Report Suites] nel menu principale per visualizzare un elenco di [!UICONTROL report suites] con i relativi ID e titolo.
 
 Per ulteriori informazioni, guarda il video seguente.
 
