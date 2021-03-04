@@ -1,6 +1,6 @@
 ---
-title: Creazione di un documento sui requisiti aziendali
-description: 'Questo video illustra il passaggio fondamentale per definire cosa si desidera tenere traccia di Adobe Analytics. Quali sono le cose che vuoi sapere sul tuo sito? Analizziamoli e iniziamo a decidere come li seguiremo. '
+title: Creazione di un documento sui requisiti aziendali (BRD)
+description: 'Questo video illustra il passaggio più importante per definire cosa si desidera tracciare con Adobe Analytics. Quali aspetti vuoi conoscere sul tuo sito? Prendiamone nota e iniziamo a decidere come potremo monitorarli. '
 feature: Nozioni di base sull’implementazione
 topics: null
 activity: implement
@@ -13,17 +13,17 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
-# Creazione di un documento sui requisiti aziendali
+# Creazione di un documento sui requisiti aziendali (BRD)
 
-Questo video illustra il passaggio fondamentale per definire cosa si desidera tenere traccia di Adobe Analytics. Quali sono le cose che vuoi sapere sul tuo sito? Analizziamoli e iniziamo a decidere come li seguiremo.
+Questo video illustra il passaggio più importante per definire cosa si desidera tracciare con Adobe Analytics. Quali aspetti vuoi conoscere sul tuo sito? Prendiamone nota e iniziamo a decidere come potremo monitorarli.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
-[](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) Scarica un esempio di BRD/SDR che puoi utilizzare per definire il tuo sito.
+[Scarica](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) documenti BRD/SDR di esempio che puoi usare per definire il tuo sito.
 
-[](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) Scarica il BRD/SDR da questo video (e il video  [SDR](creating-and-maintaining-an-sdr.md)).
+[Scarica](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) i documenti BRD e SDR usati in questo video (e nel [video sul documento SDR](creating-and-maintaining-an-sdr.md)).
