@@ -1,6 +1,6 @@
 ---
 title: Connettore Adobe Analytics in Power BI
-description: Questo video illustra come creare e caricare una richiesta, modificare il formato dei dati, creare una visualizzazione e pubblicare nel servizio online.
+description: In questo video esamineremo il connettore Adobe Analytics creando e caricando una richiesta, modificando il formato dei dati, creando una visualizzazione e pubblicando il servizio online.
 feature: '"Integrazione di terze parti"'
 topics: null
 activity: use
@@ -13,17 +13,17 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 2%
+ht-degree: 86%
 
 ---
 
 
 # Connettore Adobe Analytics in Power BI {#adobe-analytics-connector-in-power-bi}
 
-In questo video passeremo attraverso il connettore Adobe Analytics creando e caricando una richiesta, modificando il formato dei dati, creando un [!UICONTROL visualization] e pubblicando sul servizio online.
+In questo video esamineremo il connettore Adobe Analytics creando e caricando una richiesta, modificando il formato dei dati, creando una [!UICONTROL visualization] e pubblicando il servizio online.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12)
 
 ## Risorse aggiuntive {#additional-resources}
 
-* [Documentazione sulle funzioni](https://docs.microsoft.com/en-us/power-bi/desktop-connect-adobe-analytics)
+* [Documentazione sulle funzioni](https://docs.microsoft.com/it-it/power-bi/desktop-connect-adobe-analytics)
