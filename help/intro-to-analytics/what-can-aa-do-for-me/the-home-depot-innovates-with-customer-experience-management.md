@@ -1,6 +1,6 @@
 ---
-title: Caso di utilizzo del cliente - Home Depot innova con la gestione dell'esperienza del cliente
-description: HomeDepot.com, un sito di eCommerce da 7 miliardi di dollari in un'azienda da 100 miliardi di dollari, rimane all'avanguardia nella concorrenza garantendo la corretta esperienza del cliente. Scopri come Home Depot utilizza le soluzioni Adobe per creare brand loyalty e soddisfazione dei clienti con un’esperienza di acquisto personalizzata.
+title: 'Caso di utilizzo di un cliente: Home Depot innova con la gestione della customer experience'
+description: HomeDepot.com, sito di eCommerce da 7 miliardi di dollari all’interno di un’azienda da 100 miliardi di dollari, punta sull’ottimizzazione della customer experience per battere la concorrenza. Scopri in che modo utilizza le soluzioni Adobe per creare esperienze di acquisto personalizzate che incrementano brand loyalty e customer satisfaction.
 feature: Casi di utilizzo
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 18%
+ht-degree: 90%
 
 ---
 
 
-# Caso di utilizzo del cliente: [!DNL The Home Depot] Innovazione con la gestione dell&#39;esperienza cliente
+# Caso di utilizzo di un cliente: [!DNL The Home Depot] innova con la gestione della customer experience
 
-[!DNL HomeDepot.com], un sito di eCommerce da 7 miliardi di dollari in un&#39;azienda da 100 miliardi di dollari, rimane all&#39;avanguardia rispetto alla concorrenza garantendo la corretta esperienza del cliente. Scopri come [!DNL Home Depot] utilizza le soluzioni Adobe per creare brand loyalty e soddisfazione dei clienti con un’esperienza di acquisto personalizzata.
+[!DNL HomeDepot.com], sito di eCommerce da 7 miliardi di dollari all’interno di un’azienda da 100 miliardi di dollari, punta sull’ottimizzazione della customer experience per battere la concorrenza. Scopri come [!DNL Home Depot] utilizza le soluzioni Adobe per creare brand loyalty e soddisfazione dei clienti con un’esperienza di acquisto personalizzata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12)
