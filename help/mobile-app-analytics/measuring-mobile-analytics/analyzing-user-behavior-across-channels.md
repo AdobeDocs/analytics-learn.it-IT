@@ -1,6 +1,6 @@
 ---
-title: Analisi del comportamento degli utenti tra canali
-description: Scopri come scoprire i percorsi di conversione degli utenti nelle app mobili utilizzando Flusso e confrontalo con altre esperienze come il web. Definisci e misura la conversione in processi a più passaggi per incrementare il successo delle tue app mobili.
+title: Analisi del comportamento degli utenti nei diversi canali
+description: Scopri come individuare i percorsi seguiti degli utenti fino alla conversione nelle app mobili utilizzando la funzione Flusso e come fare un confronto con altre esperienze, come il web. Impara a definire e misurare la conversione in processi con più fasi, per il successo delle tue app mobili.
 feature: Nozioni di base su Workspace
 topics: mobile
 activity: use
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 94%
 
 ---
 
 
-# Analisi del comportamento degli utenti tra canali {#analyzing-user-behavior-across-channels}
+# Analisi del comportamento degli utenti nei diversi canali {#analyzing-user-behavior-across-channels}
 
-Scopri come scoprire i percorsi di conversione degli utenti nelle app mobili utilizzando [!DNL Flow] e confrontalo con altre esperienze come il web. Definisci e misura la conversione in processi a più passaggi per incrementare il successo delle tue app mobili.
+Scopri come individuare i percorsi seguiti degli utenti fino alla conversione nelle app mobili utilizzando la funzione [!DNL Flow] e come fare un confronto con altre esperienze, come il web. Impara a definire e misurare la conversione in processi con più fasi, per il successo delle tue app mobili.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12)
