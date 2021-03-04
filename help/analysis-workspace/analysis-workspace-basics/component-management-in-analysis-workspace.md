@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 92%
 
 ---
 
 
 # Gestione dei componenti in Analysis Workspace {#component-management-in-analysis-workspace}
 
-Puoi gestire i tuoi [!UICONTROL dimensions], [!UICONTROL segments], [!UICONTROL metrics] e [!UICONTROL date ranges] direttamente in Analysis Workspace. Non è necessario uscire dal progetto mentre trovi un segmento da condividere.
+È possibile gestire [!UICONTROL dimensions], [!UICONTROL segments], [!UICONTROL metrics] e [!UICONTROL date ranges] direttamente in Analysis Workspace. Non è necessario uscire dal progetto mentre trovi un segmento da condividere.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12)
