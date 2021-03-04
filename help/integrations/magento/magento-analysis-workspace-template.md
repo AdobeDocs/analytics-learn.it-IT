@@ -1,6 +1,6 @@
 ---
-title: Modello di Magento Analysis Workspace
-description: Viene presentato il modello Magento Marketing & Commerce per Analysis Workspace.
+title: Modello Magento per Analysis Workspace
+description: Presenta il modello di Magento Marketing & Commerce per Analysis Workspace.
 feature: Integrazione di Experience Cloud
 topics: null
 activity: use
@@ -15,13 +15,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 1%
+ht-degree: 89%
 
 ---
 
 
-# [!DNL Magento] Modello di Analysis Workspace  {#magento-analysis-workspace-template}
+# Modello [!DNL Magento] per Analysis Workspace {#magento-analysis-workspace-template}
 
-Introduce il modello [!DNL Magento Marketing and Commerce] per [!UICONTROL Analysis Workspace]. Questo è destinato agli utenti di [!DNL Magento], ma può essere sfruttato da qualsiasi rivenditore online. Include informazioni predefinite per i retailer sulle attività di e-commerce per aiutarti a migliorare le vendite.
+Presenta il modello [!DNL Magento Marketing and Commerce] per [!UICONTROL Analysis Workspace]. Questo è destinato agli utenti di [!DNL Magento], ma può essere utilizzato da qualsiasi rivenditore online. Include insight predefiniti sulle attività di eCommerce che ti possono aiutare a migliorare le vendite.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28164/?quality=12)
