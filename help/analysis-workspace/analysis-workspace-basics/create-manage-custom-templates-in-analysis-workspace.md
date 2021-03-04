@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
@@ -24,6 +24,6 @@ Questo video illustra come creare modelli personalizzati in Analysis Workspace, 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
 
-Anche se è grandioso avere [!UICONTROL Adobe Standard Templates], a volte si desidera solo il proprio modello. Ora puoi creare qualsiasi progetto nel tuo modello personalizzato. È ancora più facile aiutare i nuovi utenti a imparare a usare i loro programmi, trovare i tuoi dashboard/progetti preferiti o condividere il tuo dashboard tra i team.
+Gli [!UICONTROL Adobe Standard Templates] sono utilissimi, ma a volte può servire un proprio modello personalizzato. Ora puoi creare qualsiasi progetto con il tuo modello personalizzato. È ancora più semplice aiutare i nuovi utenti a familiarizzare rapidamente con la soluzione, a trovare i propri dashboard o progetti preferiti, o a condividere un dashboard con altri team.
 
-Per ulteriori informazioni sui modelli standard + personalizzati, visita la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/starter_projects.html).
+Per ulteriori informazioni sui modelli standard e personalizzati, consulta la [documentazione](https://marketing.adobe.com/resources/help/it_IT/analytics/analysis-workspace/starter_projects.html).
