@@ -14,12 +14,12 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 87%
+ht-degree: 97%
 
 ---
 
 
-# Implementazione di Adobe Analytics per la prima volta {#first-time-adobe-analytics-implementation}
+# Prima implementazione di Adobe Analytics {#first-time-adobe-analytics-implementation}
 
 Ora è più semplice che mai implementare Adobe Analytics. Se non hai ancora mai usato la nostra soluzione, segui questo video per capire come usare i dati in pochi minuti.
 
