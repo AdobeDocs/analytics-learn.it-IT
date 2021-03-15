@@ -3,7 +3,7 @@ title: Selezione di una suite di rapporti in Analysis Workspace
 seo-title: Selezione di una suite di rapporti in Analysis Workspace - Adobe Analytics
 description: Questo video illustra il selettore della suite di rapporti.
 seo-description: Questo video illustra il selettore della suite di rapporti. - Adobe Analytics
-feature: Nozioni di base su Workspace
+feature: Concetti di base di Workspace
 topics: null
 activity: use
 doc-type: feature video
@@ -12,11 +12,11 @@ team: Technical Marketing
 kt: 2026
 role: Professionista
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
