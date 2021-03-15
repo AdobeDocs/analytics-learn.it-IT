@@ -7,13 +7,13 @@ activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3581
-role: '"Sviluppatore, data engineer"'
+role: “Sviluppatore, tecnico specializzato dati”
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '168'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
