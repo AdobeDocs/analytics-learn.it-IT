@@ -3,7 +3,7 @@ title: Utilizzo del tracciamento del registro di utilizzo per Analysis Workspace
 seo-title: Utilizzo del tracciamento del registro di utilizzo per Analysis Workspace
 description: Questo video illustra come utilizzare il tracciamento del registro d’utilizzo sui progetti Workspace, per comprendere meglio come gli utenti usano Adobe Analytics.
 seo-description: Questo video illustra come utilizzare il tracciamento del registro d’utilizzo sui progetti Workspace, per comprendere meglio come gli utenti usano Adobe Analytics.
-feature: data configuration and collection
+feature: configurazione e raccolta dati
 topics: null
 audience: analyst, marketer
 activity: use
@@ -14,7 +14,7 @@ kt: 1597
 translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
 workflow-type: ht
-source-wordcount: '178'
+source-wordcount: '182'
 ht-degree: 100%
 
 ---
