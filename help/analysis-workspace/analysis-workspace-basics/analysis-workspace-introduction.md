@@ -2,7 +2,7 @@
 title: 'Introduzione rapida ad Analysis Workspace '
 seo-title: 'Introduzione rapida ad Analysis Workspace '
 description: Panoramica rapida di Analysis Workspace per apprendere come il prodotto supporta chi lavora con i dati, sia esperti che principianti.
-feature: Nozioni di base su Workspace
+feature: Concetti di base di Workspace
 topics: null
 activity: use
 doc-type: feature video
@@ -11,11 +11,11 @@ team: TM
 kt: 3268
 role: Professionista
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
