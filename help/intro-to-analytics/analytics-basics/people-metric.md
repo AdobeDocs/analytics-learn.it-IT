@@ -8,13 +8,13 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+role: “Professionista, sviluppatore, tecnico specializzato dati, architetto, architetto dati, amministratore, responsabile”
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
