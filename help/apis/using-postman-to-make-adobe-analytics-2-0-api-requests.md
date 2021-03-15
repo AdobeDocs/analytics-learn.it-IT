@@ -7,13 +7,13 @@ activity: use
 doc-type: technical video
 team: Technical Marketing
 kt: 2387
-role: '"Sviluppatore, data engineer"'
-level: Esperienza
-translation-type: tm+mt
+role: “Sviluppatore, tecnico specializzato dati”
+level: Con esperienza
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
