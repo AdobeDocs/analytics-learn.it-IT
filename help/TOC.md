@@ -373,5 +373,5 @@ ht-degree: 99%
    + [Utilizzo di Analysis Workspace per creare richieste API 2.0](apis/using-analysis-workspace-to-build-api-2-requests.md)
    + [Utilizzo di Report Builder per apprendere l’API di Adobe Analytics ](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
    + [Utilizzo di Postman per effettuare richieste API in Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
-+ Casi di utilizzo di analisi {#analysis-use-cases}.
++ Casi di utilizzo di analisi {#analysis-use-cases}
    + [Impostazione dell’analisi del CAP nel mercato](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
