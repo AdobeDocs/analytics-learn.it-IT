@@ -9,16 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 kt: 4819
 topic: Integrazioni
-role: Professionista
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
+exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
 translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 57%
+source-wordcount: '166'
+ht-degree: 56%
 
 ---
-
 
 # Miglioramento nella pubblicazione dei tipi di pubblico in Experience Cloud
 
