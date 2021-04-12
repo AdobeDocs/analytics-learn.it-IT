@@ -212,7 +212,7 @@ ht-degree: 99%
       + [Aggiunta di un amministratore ad Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Limitare l’accesso alle suite di rapporti nella Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + Gestire suite di rapporti {#manage-report-suites}
-      + [Come configurare le impostazioni account generali](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [Come configurare le impostazioni generali dell’account](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Configurazione delle impostazioni del CAP](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configurazione delle variabili in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Governance dei dati e RGPD {#data-governance-and-gdpr}
@@ -297,7 +297,7 @@ ht-degree: 99%
 + Strumenti aggiuntivi {#additional-tools}
    + Dashboard di Analytics {#analytics-dashboards}
       + [Generatore di Scorecard per Adobe Analytics dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
-      + [Applica intervalli di date personalizzati](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
+      + [Applicare intervalli date personalizzati](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Esperienza in-app con i dashboard di Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + Esportazione {#exporting}
    + Dall’interfaccia {#from-the-ui}
