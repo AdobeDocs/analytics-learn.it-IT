@@ -1,15 +1,15 @@
 ---
 title: Abbandono multidimensionale in Analysis Workspace
 description: La funzione Abbandono in Analysis Workspace consente di usare dimensioni e metriche diverse come punti di contatto in funnel e flussi di lavoro.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24043.jpg
 kt: 2277
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

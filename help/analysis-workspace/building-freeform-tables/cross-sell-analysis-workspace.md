@@ -1,15 +1,15 @@
 ---
 title: Analisi cross-selling in Analysis Workspace
 description: Il rapporto Vendita incrociata in Reports & Analytics visualizza la relazione tra i prodotti nella stessa stringa di prodotto, in modo da poter analizzare quali prodotti vengono acquistati insieme. In questo video viene illustrato come creare il rapporto Cross Sell in Analysis Workspace ed estenderlo ulteriormente a qualsiasi dimensione o classificazione con più valori.
-feature: Tabelle freeform
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25864.jpg
 kt: 2367
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

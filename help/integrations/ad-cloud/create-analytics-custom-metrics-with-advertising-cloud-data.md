@@ -1,16 +1,16 @@
 ---
 title: Creare metriche personalizzate di Analytics con i dati di Advertising Cloud
 description: Metriche personalizzate utili da creare quando si utilizzano dati di Advertising Cloud all’interno di Adobe Analytics.
-feature: Integrazione Advertising Cloud
+feature: Advertising Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35119.jpg
 kt: 5476
-topic: Integrazioni
-role: Professionista
-level: Intermedio
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

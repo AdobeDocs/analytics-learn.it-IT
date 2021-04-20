@@ -1,14 +1,14 @@
 ---
 title: Utilizzo di intervalli di date e confronti in Analysis Workspace
 description: Questo video illustra come utilizzare date, intervalli di date e confronti di date per personalizzare le tabelle e le visualizzazioni in base all’intervallo di tempo corretto.
-feature: Calendario
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4105
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

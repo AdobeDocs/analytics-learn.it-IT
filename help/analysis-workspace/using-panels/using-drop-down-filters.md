@@ -1,14 +1,14 @@
 ---
 title: Utilizzo dei filtri a discesa in Analysis Workspace
 description: Questo video illustra come utilizzare i filtri a discesa in Analysis Workspace per modificare dinamicamente il contenuto di un pannello.
-feature: Pannelli
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

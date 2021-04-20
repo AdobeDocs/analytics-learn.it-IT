@@ -1,14 +1,14 @@
 ---
 title: Imposta Analysis Workspace come pagina di destinazione in Adobe Analytics
 description: Questo video mostra come impostare vari aspetti di Analysis Workspace come pagina di destinazione in Adobe Analytics per semplificare i flussi di lavoro.
-feature: Nozioni di base su Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2363
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

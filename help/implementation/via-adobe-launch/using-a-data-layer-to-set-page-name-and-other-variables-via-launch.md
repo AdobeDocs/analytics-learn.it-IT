@@ -1,14 +1,14 @@
 ---
 title: Utilizzo di un livello dati per impostare Nome pagina e Altre variabili in Adobe Analytics tramite Launch
 description: L’utilizzo di un livello di dati per Analytics e altre soluzioni Experience Cloud è considerata una best practice. In questo video vedrai come estrarre i valori dal livello dati e utilizzarli in Launch per popolare le variabili in Adobe Analytics.
-feature: Implementazione di Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1852
-role: '"Sviluppatore, data engineer"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

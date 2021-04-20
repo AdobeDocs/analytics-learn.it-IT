@@ -1,7 +1,7 @@
 ---
 title: Utilizzo delle metriche di partecipazione in Analysis Workspace
 description: Utilizza questo semplice trucco per ottenere qualsiasi metrica di partecipazione in Analysis Workspace in qualunque momento.
-feature: Metriche
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video

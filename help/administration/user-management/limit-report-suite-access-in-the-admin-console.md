@@ -1,16 +1,16 @@
 ---
 title: Limitare l’accesso alle suite di rapporti nella Admin Console
 description: Gli utenti di Adobe Analytics devono avere accesso solo ai dati giusti. Scopri come utilizzare l’Admin Console per garantire che gli utenti possano accedere solo alle suite di rapporti necessarie per il loro ruolo. Segui questi passaggi rapidi in Adobe Admin Console per creare un profilo di prodotto specifico per la suite di rapporti nella tua organizzazione.
-feature: Gestione utente
+feature: User Management
 topics: null
 activity: setup
 doc-type: technical video
 team: Evangelism
 thumbnail: 37714.jpg
 kt: 5870
-topic: Amministrazione
-role: Amministratore
-level: Principiante
+topic: Administration
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

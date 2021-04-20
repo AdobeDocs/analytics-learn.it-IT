@@ -1,14 +1,14 @@
 ---
 title: Utilizzo del modello di consumo audio in Analysis Workspace
 description: Questo video illustra il modello Consumo audio in Analysis Workspace, disponibile come standard per Audio Analytics.
-feature: Pannelli
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Intermedio
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

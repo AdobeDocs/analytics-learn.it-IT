@@ -1,14 +1,14 @@
 ---
 title: Modelli di dimensione in segmentazione
 description: I modelli di dimensioni sono disponibili tramite l’ingranaggio per qualsiasi dimensione nella segmentazione. Questi modelli sono particolarmente utili per la segmentazione sequenziale e consentono di segmentare i valori persistenti di una dimensione (predefinita), istanze o istanze non ripetute di una dimensione.
-feature: Segmentazione
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4846
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

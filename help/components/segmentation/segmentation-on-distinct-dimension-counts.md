@@ -1,14 +1,14 @@
 ---
 title: Segmentazione sui conteggi delle dimensioni distinti
 description: I nuovi operatori Conteggio distinto nel Generatore di segmenti consentono di segmentare in base al numero di elementi univoci all’interno di qualsiasi dimensione. Consente di filtrare le visite in cui sono state visualizzate più di 5 pagine o gli hit in cui sono stati acquistati più di 5 prodotti, ovvero all’interno di un singolo ordine.
-feature: Segmentazione
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2918
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

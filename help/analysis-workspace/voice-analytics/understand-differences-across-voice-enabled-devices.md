@@ -1,14 +1,14 @@
 ---
 title: Comprendere Le Differenze Tra Dispositivi Abilitati Per Voce
 description: Scopri come comprendere le diverse prestazioni e funzionalità dei vari dispositivi con assistenza vocale per dare priorità alla roadmap dei prodotti.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2905
-role: Professionista
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

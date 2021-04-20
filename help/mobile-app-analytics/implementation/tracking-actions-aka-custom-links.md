@@ -8,8 +8,8 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2563
 topic: Mobile
-role: “Sviluppatore, tecnico specializzato dati”
-level: Con esperienza
+role: "Developer, Data Engineer"
+level: Experienced
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

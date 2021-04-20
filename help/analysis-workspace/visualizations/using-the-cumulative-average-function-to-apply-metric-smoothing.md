@@ -1,15 +1,15 @@
 ---
 title: Utilizzo Della Funzione Media Cumulativa Per Applicare L’Arrotondamento Della Metrica
 description: Più è lungo il periodo di tempo con tendenze di una metrica, più è difficile individuare le tendenze direzionali per la metrica. Per risolvere questo problema, la funzione Media cumulativa in Metriche calcolate può essere utilizzata per applicare l’uniformità alle metriche in Analysis Workspace.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 27068.jpg
 kt: 2854
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

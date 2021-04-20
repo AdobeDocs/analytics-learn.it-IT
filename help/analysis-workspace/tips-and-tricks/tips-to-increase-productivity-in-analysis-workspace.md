@@ -1,14 +1,14 @@
 ---
 title: Suggerimenti per aumentare la produttività in Analysis Workspace
 description: In questo video, presenteremo 4 suggerimenti per aumentare la produttività e risparmiare tempo in Analysis Workspace.
-feature: Nozioni di base su Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4110
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Segmentazione sequenziale in Adobe Analytics
 description: Questo video illustra come segmentare le sequenze di comportamenti in Adobe Analytics e come usarli per confrontare canali e fallout di marketing.
-feature: Segmentazione
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2302
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -3,16 +3,16 @@ title: Configurazione delle impostazioni del CAP e del codice postale in Adobe A
 seo-title: Configurazione delle impostazioni del CAP e del codice postale in Adobe Analytics
 description: Questo video illustra come configurare le impostazioni del codice postale e zip per eseguire analisi basate su questi dati della regione.
 seo-description: Questo video illustra come configurare le impostazioni del codice postale e zip per eseguire analisi basate su questi dati della regione.
-feature: Configurazione e raccolta dei dati
+feature: Data Configuration and Collection
 topics: null
 activity: setup
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2679
-topic: Amministrazione
-role: '"Amministratore, architetto"'
-level: Principiante
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

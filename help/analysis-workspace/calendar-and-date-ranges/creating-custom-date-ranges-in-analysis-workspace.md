@@ -1,14 +1,14 @@
 ---
 title: Creazione di intervalli di date personalizzati in Analysis Workspace
 description: Questo video illustra come utilizzare gli intervalli di date in Analysis Workspace.
-feature: Calendario
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2113
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Layout flessibili in Analysis Workspace
 description: L’analisi a forma libera include la possibilità di modificare la posizione, la larghezza e l’altezza di grafici e tabelle per creare un progetto più ricco. Questo video mostra come modificare il layout.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2137
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

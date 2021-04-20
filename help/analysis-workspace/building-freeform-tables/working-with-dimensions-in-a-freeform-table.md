@@ -1,15 +1,15 @@
 ---
 title: Utilizzo delle dimensioni nelle tabelle a forma libera
 description: Scopri come utilizzare le dimensioni nelle tabelle a forma libera, ad esempio come aggiungerle, ordinarle, filtrarle, suddividerle per altre dimensioni e così via.
-feature: Dimensioni
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

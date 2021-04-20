@@ -1,14 +1,14 @@
 ---
 title: Confronto dei segmenti in Analysis Workspace
 description: Comprendere le vere differenze tra i segmenti di marketing è sempre stato un processo difficile e lungo. Il segmento IQ, parte di Analysis Workspace in Adobe Analytics, semplifica questa analisi esaminando due segmenti qualsiasi di Analytics su tutte le dimensioni e le metriche per scoprire automaticamente le differenze più importanti dal punto di vista statistico.
-feature: Segmentazione
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2103
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

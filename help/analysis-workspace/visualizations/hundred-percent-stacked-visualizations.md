@@ -1,14 +1,14 @@
 ---
 title: Visualizzazioni Sovrapposte Al 100% In Analysis Workspace
 description: Questo video illustra come impostare le visualizzazioni in pila come percentuali anziché come valori non elaborati.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1670
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Più suite di rapporti in Analysis Workspace
 description: È possibile analizzare più suite di rapporti in un singolo progetto Workspace selezionando le suite a livello di pannello. Questo consente di eseguire analisi in pannelli affiancati tra diversi set di dati.
-feature: Pannelli
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4820
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

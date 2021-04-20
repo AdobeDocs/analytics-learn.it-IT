@@ -3,15 +3,15 @@ title: Modelli standard in Analysis Workspace
 seo-title: Modelli standard in Analysis Workspace
 description: Analysis Workspace facilita l’esecuzione di analisi grazie ai modelli standard (precedentemente denominati Progetti iniziali)
 seo-description: Analysis Workspace facilita l’esecuzione di analisi grazie ai modelli standard (precedentemente denominati Progetti iniziali)
-feature: Progetti
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1963
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

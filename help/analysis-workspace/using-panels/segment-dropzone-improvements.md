@@ -1,14 +1,14 @@
 ---
 title: Miglioramenti delle aree di rilascio dei segmenti in Analysis Workspace
 description: Le zone di rilascio dei segmenti sono state migliorate per consentirti di rilasciare qualsiasi elemento in un progetto.
-feature: Pannelli
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2008
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

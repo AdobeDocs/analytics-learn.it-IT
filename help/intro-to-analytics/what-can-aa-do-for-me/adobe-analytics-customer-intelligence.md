@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics - Dai dati alla Customer Intelligence
 description: Per diventare un business fondato sulle esperienze, il data-driven marketing è fondamentale. Raggiungi un nuovo livello di maturità nelle attività di analisi, dai dati agli insight fino all’azione.
-feature: Nozioni di base su Analytics
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4384
-role: “Professionista, sviluppatore, tecnico specializzato dati, architetto, architetto dati, amministratore, responsabile”
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

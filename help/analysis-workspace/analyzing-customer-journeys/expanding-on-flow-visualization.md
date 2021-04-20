@@ -1,15 +1,15 @@
 ---
 title: Espansione della visualizzazione Flusso in Analysis Workspace
 description: Questo video mostra le varie opzioni disponibili con il pulsante destro del mouse nella visualizzazione Flusso in Analysis Workspace. Le opzioni includono la creazione di un segmento da un percorso, la compressione di colonne e altro ancora.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

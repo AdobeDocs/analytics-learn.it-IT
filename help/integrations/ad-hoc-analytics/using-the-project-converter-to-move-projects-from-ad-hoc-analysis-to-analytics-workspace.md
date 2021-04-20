@@ -1,15 +1,15 @@
 ---
 title: Utilizzo di Project Converter per spostare i progetti da Ad Hoc Analysis ad Analytics Workspace
 description: Adobe Ad Hoc Analysis Project Converter convertirà facilmente i progetti Ad Hoc Analysis (AHA) in progetti Analysis Workspace con un clic.
-feature: Integrazione di Experience Cloud
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
-topic: Integrazioni
-role: Professionista
-level: Intermedio
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

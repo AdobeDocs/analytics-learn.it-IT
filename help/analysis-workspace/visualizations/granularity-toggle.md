@@ -1,14 +1,14 @@
 ---
 title: Attivazione/disattivazione della granularità in Analysis Workspace
 description: Alle impostazioni di visualizzazione con tendenze è stato aggiunto un selettore di granularità che consente di regolare facilmente la granularità dei dati da un minuto all’altro fino all’anno. L’impostazione consente di regolare sia il grafico che la tabella sorgente, salvando i passaggi necessari per visualizzare e modificare la tabella.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1770
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

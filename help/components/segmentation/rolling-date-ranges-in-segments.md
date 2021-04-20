@@ -1,14 +1,14 @@
 ---
 title: Intervalli di date continui nei segmenti
 description: 'Adobe Analytics ti consente di rispondere a domande come - Qual è stata la mia media continua di 60 giorni per i ricavi? o : quanti visitatori hanno visualizzato il contenuto nella mia app più di 5 volte nell’ultima settimana? includendo intervalli di date continui nei segmenti. Questo video vi mostra come farlo.'
-feature: Segmentazione
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2304
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

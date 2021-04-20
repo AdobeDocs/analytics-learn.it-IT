@@ -1,14 +1,14 @@
 ---
 title: Visualizzazioni con mappa ad albero e grafico a dispersione in Analysis Workspace
 description: 'Analysis Workspace in Adobe Analytics include due tipi di visualizzazione comuni: mappa ad albero e grafico a dispersione. Questo video spiega come utilizzare entrambi i tipi di visualizzazione nell’analisi.'
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2117
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

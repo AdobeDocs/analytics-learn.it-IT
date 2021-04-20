@@ -1,14 +1,14 @@
 ---
 title: Panoramica di Segment Builder
 description: Panoramica e orientamento rapidi per il generatore di segmenti in Adobe Analytics.
-feature: Segmentazione
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2300
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

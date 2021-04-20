@@ -1,14 +1,14 @@
 ---
 title: Esportazione in formato CSV da Analysis Workspace
 description: Scopri come esportare i progetti a forma libera in CSV per l’analisi in Excel e altri strumenti BI.
-feature: Cura e condivisione
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2297
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

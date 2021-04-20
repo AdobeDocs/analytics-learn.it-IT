@@ -1,14 +1,14 @@
 ---
 title: Comprensione del percorso vocale dell’utente
 description: Scopri come comprendere il percorso del cliente nell’app vocale guardando il percorso di flusso e l’abbandono per identificare le azioni più comuni, la sequenza di tali azioni e quando e dove gli utenti abbandonano il percorso.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2903
-role: Professionista
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

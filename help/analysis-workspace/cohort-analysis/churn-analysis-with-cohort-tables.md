@@ -1,15 +1,15 @@
 ---
 title: Analisi di abbandono con tabelle a coorte
 description: 'Le tabelle a coorte offrono due tipi di analisi: Mantenimento e abbandono. Mentre Mantenimento mostra quanti utenti vengono mantenuti nel tempo, l’opzione Churn (Abbandono) mostra quanti utenti sono stati persi (1 - Mantenimento).'
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25966.jpg
 kt: 2479
-role: Professionista
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

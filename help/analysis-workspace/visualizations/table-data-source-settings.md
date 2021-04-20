@@ -1,14 +1,14 @@
 ---
 title: Impostazioni origine dati tabella in Analysis Workspace
 description: 'Le impostazioni dell’origine dati sono ora disponibili nelle tabelle a forma libera e a coorte. In precedenza, le origini dati potevano essere gestite solo dalle visualizzazioni collegate. Ora, dalle impostazioni della tabella, potrai vedere quali visualizzazioni sono collegate e nascondere la tabella sorgente stessa. '
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1772
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

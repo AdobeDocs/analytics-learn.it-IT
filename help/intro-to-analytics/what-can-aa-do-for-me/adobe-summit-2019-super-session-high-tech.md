@@ -1,14 +1,14 @@
 ---
 title: 'Adobe Summit 2019 Super Session: high tech'
 description: Guarda alcune clip selezionate dalla “super session” sul settore high tech del Summit 2019
-feature: Casi di utilizzo
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4404
-role: “Professionista, sviluppatore, tecnico specializzato dati, architetto, architetto dati, amministratore, responsabile”
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

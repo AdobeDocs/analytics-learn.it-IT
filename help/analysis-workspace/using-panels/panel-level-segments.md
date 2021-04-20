@@ -1,14 +1,14 @@
 ---
 title: Segmenti a livello di pannello in Analysis Workspace
 description: Breve panoramica su come applicare segmenti a livello di pannello
-feature: Pannelli
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2106
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

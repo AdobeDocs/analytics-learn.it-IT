@@ -1,15 +1,15 @@
 ---
 title: Segmenti ad hoc (temporanei) in Analysis Workspace
 description: Hai mai voluto creare rapidamente un segmento semplice per rispondere a una domanda specifica, quindi scarta il segmento in modo che non riempia l’elenco dei segmenti salvati? Ora puoi!
-feature: Segmentazione
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2010
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

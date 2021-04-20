@@ -1,14 +1,14 @@
 ---
 title: Come aumentare i tassi di coinvolgimento e fidelizzazione
 description: Identifica i tipi di pubblico coinvolti attraverso il loro comportamento utilizzando coorti, e scopri cosa porta gli utenti a usare di più le tue app mobili. Utilizza gli algoritmi della scienza dei dati in Segment IQ per conoscere le differenze e le analogie tra segmenti diversi.
-feature: Concetti di base di Workspace
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3054
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

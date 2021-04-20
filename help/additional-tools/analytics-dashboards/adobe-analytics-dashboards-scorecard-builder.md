@@ -1,14 +1,14 @@
 ---
 title: Generatore di Scorecard per Adobe Analytics dashboards
 description: In questo video, scopri come creare e condividere "scorecard" in Analysis Workspace da visualizzare sulle dashboard di Adobe Analytics (app mobile).
-feature: Dashboard di Analytics
+feature: Analytics Dashboards
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5286
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

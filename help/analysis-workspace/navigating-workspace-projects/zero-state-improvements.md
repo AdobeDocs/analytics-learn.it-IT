@@ -1,14 +1,14 @@
 ---
 title: Miglioramenti a stato zero in Analysis Workspace
 description: Lo stato zero è il layout di apertura di Analysis Workspace. Per aiutare sia gli utenti principianti che quelli più esperti a trarre valore da Analysis Workspace, abbiamo migliorato la barra a sinistra, il pannello vuoto, la tabella a forma libera e le zone di rilascio per renderli più intuitivi per gli utenti.
-feature: Progetti
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1773
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

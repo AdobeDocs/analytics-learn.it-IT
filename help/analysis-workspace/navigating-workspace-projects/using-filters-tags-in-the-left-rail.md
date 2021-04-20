@@ -1,15 +1,15 @@
 ---
 title: Utilizzo dei filtri (tag) nella barra a sinistra
 description: I filtri (o tag) sono un modo rapido e semplice per filtrare la barra a sinistra in Analysis Workspace in modo da individuare i componenti necessari. Sfrutta i tag predefiniti forniti da Adobe o aggiungi tag personalizzati per organizzare i componenti correlati.
-feature: Nozioni di base su Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32959.jpg
 kt: 4845
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

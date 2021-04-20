@@ -1,15 +1,15 @@
 ---
 title: Aggiunta di linee di tendenza alle visualizzazioni linee
 description: In Impostazioni visualizzazione puoi scegliere di aggiungere una linea di tendenza di regressione o mobile alla serie di linee che può aiutare a rappresentare un pattern più chiaro nei dati. Le opzioni disponibili sono Lineare, Logaritmica, Esponenziale, Potenza, Quadratica e Media mobili.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

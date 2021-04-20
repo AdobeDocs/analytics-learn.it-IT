@@ -1,14 +1,14 @@
 ---
 title: Pulsante Prova in Workspace in Reports and Analytics
 description: La maggior parte dei rapporti in Reports and Analytics include un pulsante Prova in Workspace, che consente di riprodurre la vista corrente in Analysis Workspace per un’ulteriore personalizzazione.
-feature: Nozioni di base su Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
-role: “Professionista, sviluppatore, tecnico specializzato dati, architetto, architetto dati, amministratore, responsabile”
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

@@ -1,7 +1,7 @@
 ---
 title: Come inserire dati nelle visualizzazioni
 description: Quando aggiungi visualizzazioni in Analysis Workspace, puoi aggiungere dati in diversi modi, a seconda del tipo di visualizzazione. Questo video illustra questi metodi.
-feature: Visualizzazioni
+feature: Visualizations
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

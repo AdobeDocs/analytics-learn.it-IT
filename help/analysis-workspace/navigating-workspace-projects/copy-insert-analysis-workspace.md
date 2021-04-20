@@ -1,14 +1,14 @@
 ---
 title: Copiare e inserire in Analysis Workspace
 description: Copia e inserisci consente di copiare le visualizzazioni da un pannello o da un progetto all’altro e di copiare anche i pannelli completi tra i progetti.
-feature: Pannelli
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1698
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

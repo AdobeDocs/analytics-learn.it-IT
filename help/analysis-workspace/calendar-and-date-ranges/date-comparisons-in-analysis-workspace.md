@@ -1,15 +1,15 @@
 ---
 title: Confronto delle date in Analysis Workspace
 description: 'Questo video illustra come sfruttare due funzioni di confronto delle date nelle tabelle a forma libera: "aggiungi colonna periodo di tempo" e "confronta periodi di tempo".'
-feature: Calendario
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

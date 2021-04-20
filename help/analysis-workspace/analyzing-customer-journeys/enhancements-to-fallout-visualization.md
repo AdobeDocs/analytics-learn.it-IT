@@ -1,15 +1,15 @@
 ---
 title: Miglioramenti alla visualizzazione Abbandono in Analysis Workspace
 description: Questo video mostra gli aggiornamenti alla visualizzazione Abbandono fortemente richiesti dai clienti, compresi passaggi diretti ed eventuali, la ridenominazione dei punti di contatto, il confronto di segmenti illimitati e le percentuali di conversione dei punti di contatto con tendenze nel tempo.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

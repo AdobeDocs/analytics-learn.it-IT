@@ -1,14 +1,14 @@
 ---
 title: Visualizzazione mappa in Analysis Workspace
 description: Questo video illustra come utilizzare la nuova visualizzazione Mappa in Analysis Workspace. Il valore Mappa ti consentirà di visualizzare i dati mobili (lat/long) o web (indirizzo IP) rispetto a una mappa dinamica, consentendoti di ottenere un’idea dell’utilizzo dei clienti nel contesto della loro posizione.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

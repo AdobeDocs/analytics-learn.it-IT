@@ -1,14 +1,14 @@
 ---
 title: Tracciamento dei collegamenti personalizzati senza tag Manager
 description: Per molte azioni sulla pagina, il tracciamento non deve essere trattato come una visualizzazione di pagina. In questo video, imparerai a codificare un beacon di tracciamento dei collegamenti in Analytics, se non utilizzi un gestore di tag (come Experience Platform Launch). Vedi il codice e scopri un suggerimento importante.
-feature: Implementazione di Appmeasurement
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: '"Sviluppatore, data engineer"'
-level: Intermedio
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

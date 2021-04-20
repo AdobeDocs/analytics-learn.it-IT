@@ -1,14 +1,14 @@
 ---
 title: Configurazione di Library Management per Analytics
 description: Se hai appena iniziato con l’estensione Experience Platform Launch per Adobe Analytics, questo video può aiutarti con la parte di gestione della libreria della configurazione, inclusa la selezione delle suite di rapporti in cui desideri inviare i dati.
-feature: Implementazione di Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2836
-role: '"Sviluppatore, data engineer"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

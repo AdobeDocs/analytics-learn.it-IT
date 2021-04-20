@@ -1,14 +1,14 @@
 ---
 title: Scelte rapide da tastiera in Analysis Workspace
 description: 'Questo video illustra le opzioni delle scelte rapide da tastiera disponibili in Analysis Workspace, per scoprire come muoversi in modo più rapido ed efficiente. '
-feature: Nozioni di base su Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2031
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

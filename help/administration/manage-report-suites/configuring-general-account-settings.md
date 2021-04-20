@@ -1,10 +1,10 @@
 ---
 title: Come configurare le impostazioni account generali
 description: Quando si configura Adobe Analytics, la configurazione delle impostazioni può influenzare la modalità di raccolta e memorizzazione dei dati. Questo video illustra alcune delle impostazioni generali. Puoi anche modificarli dopo l’implementazione, in quanto non è mai troppo tardi per rendere i dati più corretti.
-feature: Impostazioni di Suite di rapporti
-topic: Amministrazione
-role: Amministratore
-level: Principiante
+feature: Report Suite Settings
+topic: Administration
+role: Administrator
+level: Beginner
 doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399

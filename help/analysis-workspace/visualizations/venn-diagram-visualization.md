@@ -1,14 +1,14 @@
 ---
 title: Visualizzazione diagramma di Venn in Analysis Workspace
 description: Puoi visualizzare visivamente la sovrapposizione e l’intersezione dei segmenti in Analysis Workspace utilizzando la visualizzazione diagramma di Venn. E' facile creare diagrammi di Venn incredibili e intuitivi in pochi secondi. Questo video ti mostrerà come.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2118
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

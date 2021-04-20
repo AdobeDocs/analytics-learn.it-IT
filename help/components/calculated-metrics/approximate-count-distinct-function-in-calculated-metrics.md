@@ -1,14 +1,14 @@
 ---
 title: Funzione Approximate Count Distinct nelle metriche calcolate
 description: Al generatore di metriche calcolate è stata aggiunta una funzione Approximate Count Distinct (Conteggio valori univoci approssimativo). È una funzione attesa da molto tempo che restituirà il conteggio distinto approssimativo degli elementi dimensionali per una dimensione selezionata.
-feature: Metriche calcolate
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

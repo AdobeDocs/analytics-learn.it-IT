@@ -1,15 +1,15 @@
 ---
 title: Visualizzazione Linee in Analysis Workspace
 description: La visualizzazione Linee presenta le metriche per un periodo di tempo con tendenze. Le impostazioni di visualizzazione consentono di personalizzare l’aspetto di ogni linea e includono le impostazioni Mostra asse X/Y, Mostra etichette min/max e Mostra linea tendenza.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40384.jpg
 kt: 6277
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

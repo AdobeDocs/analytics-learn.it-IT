@@ -1,15 +1,15 @@
 ---
 title: Analisi per coorte con qualsiasi dimensione
 description: L’opzione Custom Cohort Dimension (Dimensione coorte personalizzata) consente di analizzare le coorti utilizzando dimensioni diverse dal tempo. Confronta le coorti per canale di marketing, regione della campagna, pagina del prodotto, ecc. per comprendere meglio in che modo la fidelizzazione (o abbandono) cambia in base all’elemento dimensionale.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
-role: Professionista
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

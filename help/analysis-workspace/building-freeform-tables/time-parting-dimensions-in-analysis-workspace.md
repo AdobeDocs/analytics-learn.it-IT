@@ -1,15 +1,15 @@
 ---
 title: Suddivisione delle dimensioni in base al tempo in Analysis Workspace
 description: La suddivisione in base al tempo prende il timestamp degli hit raccolti e lo suddivide in dimensioni più significative, ad esempio "Ora del giorno" o "Giorno della settimana". Queste dimensioni sono ora pronte all’uso in Analysis Workspace.
-feature: Tabelle freeform
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Inserire le persone giuste nel team di Analytics
 description: È molto importante coinvolgere le persone giuste nel tuo team durante l’implementazione di Adobe Analytics e l’analisi dell’attività sul sito. Questo video ti fornirà un rapido resoconto dei diversi ruoli che desideri compilare.
-feature: Nozioni di base su Analytics
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3563
-role: Amministratore
-level: Principiante
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

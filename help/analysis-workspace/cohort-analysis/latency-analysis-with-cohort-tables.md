@@ -1,15 +1,15 @@
 ---
 title: Analisi della latenza con tabelle a coorte
 description: L’impostazione Latency Table (Tabella di latenza) nelle tabelle coorte consente di analizzare il comportamento delle coorti prima e dopo l’evento di inclusione (non solo dopo come viene illustrato nella coorte standard). Questa impostazione è utile per analizzare l’impatto di un nuovo prodotto o lancio di una campagna, ad esempio.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: Professionista
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

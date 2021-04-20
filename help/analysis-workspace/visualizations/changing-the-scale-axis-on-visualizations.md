@@ -1,14 +1,14 @@
 ---
 title: Modifica della scala/asse sulle visualizzazioni in Analysis Workspace
 description: Questo video mostra come modificare facilmente la scala (o i limiti degli assi) per l’asse Y su un grafico a linee in Analysis Workspace per rendere i dati più difficili da interpretare erroneamente.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2133
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

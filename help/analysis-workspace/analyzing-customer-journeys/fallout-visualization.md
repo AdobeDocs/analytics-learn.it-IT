@@ -1,15 +1,15 @@
 ---
 title: Visualizzazione Abbandono in Analysis Workspace
 description: Questo video illustra la visualizzazione Abbandono disponibile in Analysis Workspace in Adobe Analytics. Utilizza Abbandono per creare funnel o mostrare il flusso di lavoro dell’utente nei flussi di lavoro chiave per app/siti.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24042.jpg
 kt: 2275
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

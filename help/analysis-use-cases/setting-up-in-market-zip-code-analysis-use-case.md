@@ -3,15 +3,15 @@ title: Impostazione dell’analisi del codice postale nel mercato - un caso d’
 seo-title: Impostazione dell’analisi del codice postale nel mercato - un caso d’uso
 description: In questo caso d’uso, configureremo il sistema per inserire codici postali, classificarli come in-market o out-of-market e quindi utilizzeremo questi dati in Analysis Workspace in modo da poter vedere l’efficacia delle nostre campagne di marketing con geotargeting.
 seo-description: In questo caso d’uso, configureremo il sistema per inserire codici postali, classificarli come in-market o out-of-market e quindi utilizzeremo questi dati in Analysis Workspace in modo da poter vedere l’efficacia delle nostre campagne di marketing con geotargeting.
-feature: Casi di utilizzo
+feature: Use Cases
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

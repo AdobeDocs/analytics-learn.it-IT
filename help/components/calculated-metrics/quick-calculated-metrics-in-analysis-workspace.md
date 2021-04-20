@@ -1,15 +1,15 @@
 ---
 title: Metriche calcolate rapide in Analysis Workspace
 description: Ora puoi creare metriche calcolate immediatamente in Analysis Workspace.  Se desideri eseguire una rapida modifica della percentuale o divisione con alcune metriche nella tabella a forma libera, seleziona le metriche dall’intestazione, fai clic con il pulsante destro del mouse e scegli l’operatore desiderato.  La nuova metrica calcolata verrà visualizzata a destra.
-feature: Metriche calcolate
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23126.jpg
 kt: 1666
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

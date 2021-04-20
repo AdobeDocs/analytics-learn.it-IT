@@ -3,16 +3,16 @@ title: Utilizzo delle chiamate server in Adobe Analytics
 seo-title: Utilizzo delle chiamate server in Adobe Analytics
 description: I rapporti sull’utilizzo delle chiamate server consentono di tenere traccia esattamente dell’impegno di chiamate server che hai utilizzato in qualsiasi momento e ti avviseranno proattivamente quando ti stai avvicinando al tuo impegno totale.
 seo-description: I rapporti sull’utilizzo delle chiamate server consentono di tenere traccia esattamente dell’impegno di chiamate server che hai utilizzato in qualsiasi momento e ti avviseranno proattivamente quando ti stai avvicinando al tuo impegno totale.
-feature: Configurazione e raccolta dei dati
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: Amministrazione
-role: '"Amministratore, architetto"'
-level: Principiante
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

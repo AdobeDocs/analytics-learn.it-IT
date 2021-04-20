@@ -1,14 +1,14 @@
 ---
 title: Collegamento diretto a un progetto in Analysis Workspace
 description: Questo video mostra come democratizzare meglio le analisi creando collegamenti abbreviati che porteranno i tuoi colleghi ai progetti di Analysis Workspace.
-feature: Cura e condivisione
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2296
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Utilizzo delle date in Analysis Workspace
 description: '"Questo video spiega tre diversi modi per lavorare con le date in Analisi freeform: il calendario, gli elementi dell’intervallo di date e gli elementi di granularità. Non mostrato, in qualche modo imbarazzante: come utilizzare le date per abilitare i grafici a linee. "'
-feature: Calendario
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2014
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

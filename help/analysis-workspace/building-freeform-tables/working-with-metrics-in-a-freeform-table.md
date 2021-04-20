@@ -1,15 +1,15 @@
 ---
 title: Utilizzo delle metriche nelle tabelle a forma libera
 description: Scopri i diversi modi in cui puoi utilizzare le metriche nelle tabelle a forma libera in Analysis Workspace.
-feature: Tabelle freeform
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40817.jpg
 kt: 6291
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

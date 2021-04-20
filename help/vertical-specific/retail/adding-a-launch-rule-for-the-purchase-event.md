@@ -1,14 +1,14 @@
 ---
 title: Aggiunta di una regola Launch per l’evento di acquisto
 description: Questo video mostra come utilizzare l’estensione della stringa di prodotto in Launch per monitorare gli acquisti sul sito, con conseguente metrica Ricavo, Ordini e Unità nell’analisi.
-feature: Implementazione di Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3593
-role: '"Sviluppatore, data engineer"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

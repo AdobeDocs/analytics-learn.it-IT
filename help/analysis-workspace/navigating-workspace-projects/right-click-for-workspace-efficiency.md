@@ -1,15 +1,15 @@
 ---
 title: Fare clic con il pulsante destro del mouse per migliorare l’efficienza di Workspace
 description: Scopri tutte le possibilità offerte dal clic con il pulsante destro del mouse in Analysis Workspace e come sfruttarle al meglio. Dalle tabelle a forma libera alle visualizzazioni di fallout, l’utilizzo del clic con il pulsante destro del mouse migliorerà la tua efficienza e competenza in Workspace.
-feature: Nozioni di base su Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

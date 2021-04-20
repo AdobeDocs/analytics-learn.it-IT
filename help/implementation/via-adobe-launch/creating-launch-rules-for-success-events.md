@@ -1,14 +1,14 @@
 ---
 title: Creazione di regole di avvio per gli eventi di successo
 description: Questo video illustra come utilizzare Launch per monitorare gli eventi di conversione (eventi di successo AKA) sul sito. Questo verrà mostrato nel caso di utilizzo del tracciamento di un processo di applicazione su un sito di esempio.
-feature: Implementazione di Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3591
-role: '"Sviluppatore, data engineer"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

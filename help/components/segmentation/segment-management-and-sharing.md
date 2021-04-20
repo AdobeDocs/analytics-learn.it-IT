@@ -1,14 +1,14 @@
 ---
 title: Gestione e condivisione dei segmenti in Adobe Analytics
 description: Questo video mostra come condividere e gestire i segmenti in Adobe Analytics.
-feature: Segmentazione
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2305
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Suggerimenti nel prodotto di Analysis Workspace
 description: I suggerimenti di Workspace forniscono un apprendimento rapido direttamente in Analysis Workspace, con collegamenti ai relativi video per visualizzare ogni suggerimento in azione.
-feature: Nozioni di base su Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1672
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

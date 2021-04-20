@@ -1,14 +1,14 @@
 ---
 title: Creare una mappa di calore suddivisa in base al tempo in Analysis Workspace
 description: Scopri come portare l’analisi suddivisa in base al tempo al livello successivo creando una visualizzazione mappa di calore dei comportamenti.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2813
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

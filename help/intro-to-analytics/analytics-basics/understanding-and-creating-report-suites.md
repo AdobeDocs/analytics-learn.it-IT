@@ -1,14 +1,14 @@
 ---
 title: Comprensione e creazione di suite di rapporti
 description: Questo video ti aiuterà a capire cosa sono le suite di rapporti e ti mostrerà come crearle nell’interfaccia, in modo da poter monitorare e ottimizzare le persone che arrivano sul tuo sito.
-feature: Nozioni di base su Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3574
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

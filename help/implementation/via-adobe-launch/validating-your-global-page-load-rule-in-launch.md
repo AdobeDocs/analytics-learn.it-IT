@@ -1,14 +1,14 @@
 ---
 title: Convalida della regola di caricamento pagina globale in Launch
 description: Quando implementi Adobe Analytics sul sito, dovrai essere in grado di convalidare le operazioni eseguite durante il percorso. Debugger Experience Cloud per il salvataggio. Questo video mostra come convalidare la regola di caricamento pagina globale con il debugger.
-feature: Convalida
+feature: Validation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3589
-role: '"Sviluppatore, data engineer"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Cura e condivisione in Analysis Workspace
 description: Dopo aver creato un progetto in Analysis Workspace, puoi curarlo (semplificarlo) e condividerlo con altri team e singoli utenti all’interno delle organizzazioni in modo che possano esplorarlo e distribuirlo con i dati. Questo video mostra come lavorare con la cura e la condivisione.
-feature: Cura e condivisione
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2294
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

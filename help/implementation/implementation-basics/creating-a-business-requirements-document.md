@@ -1,14 +1,14 @@
 ---
 title: Creazione di un documento sui requisiti aziendali (BRD)
 description: 'Questo video illustra il passaggio più importante per definire cosa si desidera tracciare con Adobe Analytics. Quali aspetti vuoi conoscere sul tuo sito? Prendiamone nota e iniziamo a decidere come potremo monitorarli. '
-feature: Nozioni di base sull’implementazione
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3580
-role: “Sviluppatore, tecnico specializzato dati”
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

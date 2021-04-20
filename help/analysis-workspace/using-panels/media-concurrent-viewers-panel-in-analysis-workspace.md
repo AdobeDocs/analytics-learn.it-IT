@@ -1,15 +1,15 @@
 ---
 title: Pannello Visualizzatori simultanei di elementi multimediali in Analysis Workspace
 description: Per i clienti Media Analytics, il pannello Visualizzatori simultanei di contenuti multimediali consente di comprendere dove si è verificato il picco di concorrenza o in che punto i visitatori hanno abbandonato il contenuto per fornire informazioni utili sulla qualità dei contenuti e sul coinvolgimento dei visualizzatori e per risolvere eventuali problemi o pianificare il volume/scala.
-feature: Pannelli
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330177.jpg
 kt: 6834
-role: Professionista
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

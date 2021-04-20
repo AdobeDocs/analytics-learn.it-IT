@@ -1,14 +1,14 @@
 ---
 title: Configurazione del tracciamento dei collegamenti di download semplice in Experience Platform Launch
 description: In pochi clic nell’estensione Adobe Analytics in Experience Platform Launch, puoi iniziare a monitorare i collegamenti di download sul sito (collegamenti che scaricano file non del browser sul computer). Questo video mostra come configurarlo.
-feature: Implementazione di Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: '"Sviluppatore, data engineer"'
-level: Principiante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

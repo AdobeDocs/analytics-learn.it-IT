@@ -1,15 +1,15 @@
 ---
 title: 'Utilizzo delle best practice per il tracciamento delle applicazioni a pagina singola (SPA) in Adobe Analytics '
 description: In questo documento, descriveremo diverse best practice da seguire e di cui tenere conto quando utilizzi Adobe Analytics per monitorare le applicazioni a pagina singola. Questo documento si concentrerà sull’utilizzo di Experience Platform Launch, che è il metodo di implementazione consigliato.
-feature: Nozioni di base sull’implementazione
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1389
 topic: SPA
-role: '"Sviluppatore, data engineer"'
-level: Intermedio
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

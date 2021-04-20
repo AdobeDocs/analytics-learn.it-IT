@@ -1,14 +1,14 @@
 ---
 title: Come gestire e tenere traccia dei dati dell’app Assistente vocale
 description: 'Scopri come creare un dashboard personalizzato per gestire e monitorare le prestazioni dell’app di assistenza vocale in modo semplice, flessibile, intuitivo e visivo. '
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2902
-role: Professionista
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

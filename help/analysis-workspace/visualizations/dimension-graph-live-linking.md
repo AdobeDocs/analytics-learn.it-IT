@@ -1,14 +1,14 @@
 ---
 title: Collegamento in tempo reale del grafico dimensionale in Analysis Workspace
 description: Non sappiamo come chiamarlo, ma è una figata furba. Quando crei un grafico a linee a partire da un valore di dimensione, ora puoi selezionare diversi valori di dimensione e modificare dinamicamente il grafico. Guarda il video per saperne di più!
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2115
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

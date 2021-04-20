@@ -3,15 +3,15 @@ title: Utilizzo di modelli personalizzati per agevolare il lavoro degli utenti m
 seo-title: Utilizzo di modelli personalizzati per agevolare il lavoro degli utenti meno esperti di Analysis Workspace
 description: Questo video illustra come riunire modelli personalizzati con funzionalità di copia e incolla/inserisci, per agevolare il lavoro degli utenti meno esperti.
 seo-description: Questo video illustra come riunire modelli personalizzati con funzionalità di copia e incolla/inserisci, per agevolare il lavoro degli utenti meno esperti.
-feature: Progetti
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
-role: Professionista
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

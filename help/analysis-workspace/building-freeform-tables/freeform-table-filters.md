@@ -1,15 +1,15 @@
 ---
 title: Filtri per tabelle a forma libera in Analysis Workspace
 description: I filtri forniscono un maggiore controllo sulle righe di dati condivise in una tabella a forma libera.
-feature: Tabelle freeform
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23232.jpg
 kt: 1699
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

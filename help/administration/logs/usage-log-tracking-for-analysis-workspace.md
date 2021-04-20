@@ -1,15 +1,15 @@
 ---
 title: Tracciamento del registro di utilizzo per Analysis Workspace
 description: Alla voce Amministratore - Registri - Utilizzo e accesso, puoi comprendere meglio l’utilizzo di Adobe Analytics da parte degli utenti. Questo video si concentra specificamente sulla misurazione dell’utilizzo dei progetti Workspace.
-feature: Configurazione e raccolta dei dati
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
-topic: Amministrazione
-role: Amministratore
-level: Principiante
+topic: Administration
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

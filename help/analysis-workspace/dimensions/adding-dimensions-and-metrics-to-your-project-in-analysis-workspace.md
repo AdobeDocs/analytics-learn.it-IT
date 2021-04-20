@@ -1,14 +1,14 @@
 ---
 title: Aggiungere dimensioni e metriche al progetto in Analysis Workspace
 description: In questo video, scopri le dimensioni e le metriche, la loro differenza e come aggiungerle alle tabelle e alle visualizzazioni in Analysis Workspace. Scopri anche come aggiungere metriche calcolate pronte all’uso.
-feature: Dimensioni
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4104
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

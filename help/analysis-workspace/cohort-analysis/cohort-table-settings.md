@@ -1,15 +1,15 @@
 ---
 title: Impostazioni tabella coorte
 description: 'Sono disponibili diverse impostazioni della tabella coorte che ti consentono di personalizzare la visualizzazione del livello di fidelizzazione o abbandono. Li vedi evidenziati in questo video. '
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: Professionista
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
