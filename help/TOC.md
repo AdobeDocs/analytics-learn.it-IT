@@ -5,9 +5,9 @@ breadcrumb-title: Tutorial di Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '1986'
+source-wordcount: '1998'
 ht-degree: 99%
 
 ---
@@ -209,6 +209,9 @@ ht-degree: 99%
    + Gestire suite di rapporti {#manage-report-suites}
       + [Come configurare le impostazioni generali dell’account](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personalizza impostazioni calendario](administration/manage-report-suites/customize-calendar-settings.md)
+      + [Personalizzare i menu in Reporting e analisi](administration/manage-report-suites/customize-menus.md)
+      + [Configurare i metodi di ricerca](administration/manage-report-suites/configure-finding-methods.md)
+      + [Imposta filtri URL interni](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configurazione delle impostazioni del CAP](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configurazione delle variabili in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Governance dei dati e RGPD {#data-governance-and-gdpr}
