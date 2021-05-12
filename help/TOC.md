@@ -208,7 +208,7 @@ ht-degree: 99%
       + [Limitare l’accesso alle suite di rapporti nella Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + Gestire suite di rapporti {#manage-report-suites}
       + [Come configurare le impostazioni generali dell’account](administration/manage-report-suites/configuring-general-account-settings.md)
-      + [Personalizza impostazioni calendario](administration/manage-report-suites/customize-calendar-settings.md)
+      + [Personalizzare le impostazioni del calendario](administration/manage-report-suites/customize-calendar-settings.md)
       + [Personalizzare i menu in Reporting e analisi](administration/manage-report-suites/customize-menus.md)
       + [Configurare i metodi di ricerca](administration/manage-report-suites/configure-finding-methods.md)
       + [Imposta filtri URL interni](administration/manage-report-suites/set-internal-url-filters.md)
@@ -375,4 +375,4 @@ ht-degree: 99%
    + [Utilizzo di Postman per effettuare richieste API in Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Casi di utilizzo di analisi {#analysis-use-cases}
    + [Impostazione dell’analisi del CAP nel mercato](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ [Curriculum universitario di Analytics](analytics-university/curriculum.md)
++ [Corso universitario su Analytics](analytics-university/curriculum.md)
