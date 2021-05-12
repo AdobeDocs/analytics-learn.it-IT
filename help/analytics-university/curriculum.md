@@ -1,39 +1,39 @@
 ---
-title: Curriculum universitario Adobe Analytics
-description: L'Adobe è orgoglioso di presentare questo contenuto fondamentale di Analytics alla tua università. All’interno del programma, troverai 4 moduli distinti destinati a presentarti la raccolta e il reporting di Adobe Analytics, che possono essere suddivisi e piegati in analisi digitali o corsi di marketing. Questo manuale introduttivo permetterà a professori e studenti di acquisire le conoscenze necessarie per partecipare alla sfida globale di Adobe Analytics ogni autunno.
+title: Curriculum di Adobe Analytics University
+description: Adobe è orgogliosa di presentare alla tua università questo corso di base su Analytics. Il corso comprende 4 moduli introduttivi distinti sulle funzioni di raccolta e reporting di Adobe Analytics, che possono essere suddivisi e incorporati in corsi di marketing o analisi digitale. Questo manuale introduttivo permetterà a professori e studenti di acquisire le conoscenze necessarie per partecipare ogni autunno al concorso Adobe Analytics Challenge.
 hide: true
 hidefromtoc: true
 translation-type: tm+mt
 source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 95%
 
 ---
 
 
 
-# Adobe Analytics University
+# Adobe Analytics per le università
 
-## Contenuto del corso di Analytics
+## Contenuto del corso su Analytics
 
-L&#39;Adobe è orgoglioso di presentare questo contenuto fondamentale di Analytics alla tua università. All’interno del programma, troverai 4 moduli distinti destinati a presentarti la raccolta e il reporting di Adobe Analytics, che possono essere suddivisi e piegati in analisi digitali o corsi di marketing. Questo manuale introduttivo permetterà a professori e studenti di acquisire le conoscenze necessarie per partecipare alla sfida globale di Adobe Analytics ogni autunno.
+Adobe è orgogliosa di presentare alla tua università questo corso di base su Analytics. Il corso comprende 4 moduli introduttivi distinti sulle funzioni di raccolta e reporting di Adobe Analytics, che possono essere suddivisi e incorporati in corsi di marketing o analisi digitale. Questo manuale introduttivo permetterà a professori e studenti di acquisire le conoscenze necessarie per partecipare ogni autunno al concorso Adobe Analytics Challenge.
 
 ### Ecco cosa imparerai:
 
-*Inizia con DATA:*
+*Inizia con i DATI:*
 
-* Modulo di raccolta dati (1) il quadro di implementazione, raccolta, reporting e convalida dei dati
-* Modulo di strategia e architettura dei dati (2): nozioni di base su variabili, strategie e architettura dei dati
+* Modulo sulla raccolta dei dati (1) il framework di implementazione, raccolta, reporting e convalida dei dati
+* Modulo sulla strategia e architettura dei dati (2) nozioni di base su variabili, strategie e architettura dei dati
 
-*Successivamente, combinerai tali DATI con INSIGHTS:*
+*Poi combinerai i DATI con INSIGHTS:*
 
-* Metriche e modulo di funzionalità di Adobe standard (3) come accedere e visualizzare metriche e rapporti KPI di Analytics fondamentali
-* Il modulo Analysis Workspace Fundamentals (4) diventa avanzato con le visualizzazioni di reporting di Analytics
+* Modulo sulle metriche e funzionalità standard di Adobe (3) come trovare e visualizzare metriche e rapporti sui KPI fondamentali per le analisi
+* Modulo sulle nozioni di base di Analysis Workspace (4) nozioni più approfondite sulle visualizzazioni di report di analisi
 
-Questo curriculum con attività appositamente create alla fine di ogni sezione può essere combinato con l’ambiente sandbox dell’università Adobe Analytics.
+Questo corso con attività specifiche alla fine di ogni sezione può essere combinato con l’ambiente sandbox per università di Adobe Analytics.
 
 Registrati qui per accedere: [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
-[Scarica il curriculum PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
+[Scarica il PDF del corso](assets/Adobe-Analytics-Curriculum_2021.pdf)
