@@ -4,11 +4,10 @@ user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
-source-wordcount: '1998'
-ht-degree: 99%
+source-wordcount: '2007'
+ht-degree: 98%
 
 ---
 
@@ -34,7 +33,7 @@ ht-degree: 99%
       + [Raccolta dei dati in Analytics](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Accesso ad Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Introduzione all’interfaccia utente di Analytics](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
-      + [Creazione di suite di rapporti](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [Comprensione e creazione di suite di rapporti](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Adobe Labs (anteprime di tecnologie)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
    + Personalizzazione dell’interfaccia utente {#customizing-the-ui}
       + [Preferenze utente in Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
@@ -138,7 +137,7 @@ ht-degree: 99%
       + [Utilizzo di diversi modelli di Attribution IQ con i segmenti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=it)
       + [Segmenti a livello di pannello](analysis-workspace/using-panels/panel-level-segments.md)
       + [Uso dei segmenti come dimensioni in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
-      + [Utilizzo dei segmenti per limitare i dati in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [Utilizzo di segmenti per limitare i dati in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + Metriche {#metrics}
       + [Informazioni sulle metriche di base del visitatore](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Aggiungere dimensioni e metriche al progetto in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=it)
@@ -309,7 +308,7 @@ ht-degree: 99%
       + [Aggiungere segmenti a più richieste contemporaneamente in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Rilevamento delle anomalie in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Modificare le metriche in più richieste](exporting/report-builder/edit-metrics-across-requests.md)
-      + [Utilizzo di Report Builder per apprendere l’API di Adobe Analytics](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
+      + [Utilizzo di Report Builder per apprendere l’API di Adobe Analytics ](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + Integrazioni {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Miglioramento nella pubblicazione dei tipi di pubblico in Experience Cloud](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
@@ -318,6 +317,7 @@ ht-degree: 99%
       + [Audience Analytics: integrazione di segmenti AAM in Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Pannello Analytics for Target (A4T) in Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+      + [Analizzare un’attività di Targeting automatico utilizzando il pannello A4T](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Configurazione di Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementazione dei modelli di tracciamento nei motori di ricerca](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
@@ -365,14 +365,14 @@ ht-degree: 99%
       + [Implementazione nelle app iOS con Objective-C](https://docs.adobe.com/content/help/it-IT/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementazione nelle app Android](https://docs.adobe.com/content/help/it-IT/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + Misurazione dei dati analitici per dispositivi mobili {#measuring-mobile-analytics}
-      + [Guida introduttiva di Adobe Analytics per le app mobili](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
+      + [Guida introduttiva di Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Impatto dei punti di contatto nel percorso mobile](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
-      + [Analisi del comportamento degli utenti in canali diversi](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
+      + [Analisi del comportamento degli utenti nei diversi canali](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [Come aumentare i tassi di coinvolgimento e fidelizzazione](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API {#apis}
    + [Utilizzo di Analysis Workspace per creare richieste API 2.0](apis/using-analysis-workspace-to-build-api-2-requests.md)
-   + [Utilizzo di Report Builder per apprendere l’API di Adobe Analytics ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=it)
-   + [Utilizzo di Postman per effettuare richieste API in Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
+   + [Utilizzo di Report Builder per apprendere l’API di Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=it)
+   + [Utilizzo di Postman per effettuare richieste API di Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Casi di utilizzo di analisi {#analysis-use-cases}
    + [Impostazione dell’analisi del CAP nel mercato](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Corso universitario su Analytics](analytics-university/curriculum.md)
