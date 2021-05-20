@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
 source-wordcount: '2007'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -208,9 +208,9 @@ ht-degree: 98%
    + Gestire suite di rapporti {#manage-report-suites}
       + [Come configurare le impostazioni generali dell’account](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personalizzare le impostazioni del calendario](administration/manage-report-suites/customize-calendar-settings.md)
-      + [Personalizzare i menu in Reporting e analisi](administration/manage-report-suites/customize-menus.md)
+      + [Personalizzare i menu in Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Configurare i metodi di ricerca](administration/manage-report-suites/configure-finding-methods.md)
-      + [Imposta filtri URL interni](administration/manage-report-suites/set-internal-url-filters.md)
+      + [Impostare filtri URL interni](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configurazione delle impostazioni del CAP](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configurazione delle variabili in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Governance dei dati e RGPD {#data-governance-and-gdpr}
