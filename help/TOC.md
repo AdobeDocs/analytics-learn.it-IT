@@ -4,10 +4,10 @@ user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
+source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
 workflow-type: tm+mt
-source-wordcount: '2017'
-ht-degree: 99%
+source-wordcount: '2042'
+ht-degree: 97%
 
 ---
 
@@ -376,5 +376,9 @@ ht-degree: 99%
 + Casi di utilizzo di analisi {#analysis-use-cases}
    + Ricerca sito interna {#internal-site-search}
       + [Definizione dei requisiti aziendali interni per la ricerca del sito](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
+      + [Implementare le variabili di ricerca interne utilizzando AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [Implementazione delle variabili di ricerca interne tramite SDK per web](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
+      + [Mappare variabili SDK per web in Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
+      + [Configurare i rapporti interni di ricerca del sito](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Impostazione dell’analisi del CAP nel mercato](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Corso universitario su Analytics](analytics-university/curriculum.md)
