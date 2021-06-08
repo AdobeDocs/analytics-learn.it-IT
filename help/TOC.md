@@ -5,9 +5,9 @@ breadcrumb-title: Tutorial di Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2042'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -308,7 +308,7 @@ ht-degree: 98%
       + [Aggiungere segmenti a più richieste contemporaneamente in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Rilevamento delle anomalie in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Modificare le metriche in più richieste](exporting/report-builder/edit-metrics-across-requests.md)
-      + [Utilizzo di Report Builder per apprendere l’API di Adobe Analytics ](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
+      + [Utilizzo di Report Builder per apprendere l’API di Adobe Analytics](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + Integrazioni {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Miglioramento nella pubblicazione dei tipi di pubblico in Experience Cloud](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
@@ -376,9 +376,9 @@ ht-degree: 98%
 + Casi di utilizzo di analisi {#analysis-use-cases}
    + Ricerca sito interna {#internal-site-search}
       + [Definizione dei requisiti aziendali interni per la ricerca del sito](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
-      + [Implementare le variabili di ricerca interne utilizzando AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
-      + [Implementazione delle variabili di ricerca interne tramite SDK per web](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
-      + [Mappare variabili SDK per web in Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
-      + [Configurare i rapporti interni di ricerca del sito](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
+      + [Implementare le variabili di ricerca interna utilizzando AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [Implementare le variabili di ricerca interna tramite Web SDK](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
+      + [Mappare le variabili Web SDK in Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
+      + [Configurare i rapporti sulla ricerca interna del sito](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Impostazione dell’analisi del CAP nel mercato](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Corso universitario su Analytics](analytics-university/curriculum.md)
