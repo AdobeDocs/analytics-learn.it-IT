@@ -4,10 +4,10 @@ user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
-workflow-type: ht
-source-wordcount: '2042'
-ht-degree: 100%
+source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
+workflow-type: tm+mt
+source-wordcount: '2067'
+ht-degree: 98%
 
 ---
 
@@ -54,6 +54,7 @@ ht-degree: 100%
       + [Introduzione ad Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Panoramica di Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Creazione di nuovi progetti Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
+      + [Creazione di un progetto Workspace da zero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Creare e gestire modelli personalizzati in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Modelli standard in Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [Utilizzo di modelli personalizzati per agevolare il lavoro degli utenti meno esperti di Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -88,6 +89,7 @@ ht-degree: 100%
       + [Miglioramenti nella zona di rilascio dei segmenti](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Più suite di rapporti in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + Creazione di tabelle a forma libera {#building-freeform-tables}
+      + [Comprendere i dati: tabelle a forma libera](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Utilizzo della barra a sinistra per creare tabelle a forma libera in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Creazione automatica di tabelle a forma libera in Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Utilizzo delle dimensioni nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
@@ -105,6 +107,7 @@ ht-degree: 100%
    + Visualizzazioni {#visualizations}
       + [Visualizzazione dati in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Tipi di visualizzazione](analysis-workspace/visualizations/visualization-types.md)
+      + [Casi d’uso della visualizzazione](analysis-workspace/visualizations/visualization-use-cases.md)
       + [Selezione dei dati da visualizzare](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Come inserire dati nelle visualizzazioni](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Menu a discesa dei componenti in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
@@ -157,6 +160,7 @@ ht-degree: 100%
       + [Confronto di date in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Aggiunta di confronti tra mesi e anni precedenti nelle tendenze](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + Analisi dei percorsi dei clienti {#analyzing-customer-journeys}
+      + [Comprendere i dati: Abbandono e flusso](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ: Cross-Device Analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Visualizzazione Abbandono](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Miglioramenti nella visualizzazione Abbandono](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -186,6 +190,7 @@ ht-degree: 100%
       + [Finestre di look-back personalizzate in Attribution IQ](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + Analisi per coorte {#cohort-analysis}
       + [Analisi per coorte in Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
+      + [Comprendere i dati: tabelle coorte](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
       + [Panoramica delle tabelle coorte](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [Impostazioni della tabella coorte](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [Analisi dell’abbandono con le tabelle coorte](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
@@ -259,6 +264,7 @@ ht-degree: 100%
 + Componenti {#components}
    + Segmentazione {#segmentation}
       + [Panoramica di Segment Builder](components/segmentation/segment-builder-overview.md)
+      + [Ricerca e creazione di segmenti](components/segmentation/finding-and-creating-segments.md)
       + [Sequenze prima/dopo nella segmentazione sequenziale](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Intervalli di date continui nei segmenti](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Confronto dei segmenti in Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
