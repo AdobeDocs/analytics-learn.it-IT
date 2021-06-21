@@ -5,9 +5,9 @@ breadcrumb-title: Tutorial di Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2067'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -107,7 +107,7 @@ ht-degree: 98%
    + Visualizzazioni {#visualizations}
       + [Visualizzazione dati in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Tipi di visualizzazione](analysis-workspace/visualizations/visualization-types.md)
-      + [Casi d’uso della visualizzazione](analysis-workspace/visualizations/visualization-use-cases.md)
+      + [Casi d’uso per le visualizzazioni](analysis-workspace/visualizations/visualization-use-cases.md)
       + [Selezione dei dati da visualizzare](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Come inserire dati nelle visualizzazioni](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Menu a discesa dei componenti in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
@@ -160,7 +160,7 @@ ht-degree: 98%
       + [Confronto di date in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Aggiunta di confronti tra mesi e anni precedenti nelle tendenze](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + Analisi dei percorsi dei clienti {#analyzing-customer-journeys}
-      + [Comprendere i dati: Abbandono e flusso](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Comprendere i dati: fallout e flusso](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ: Cross-Device Analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Visualizzazione Abbandono](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Miglioramenti nella visualizzazione Abbandono](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
