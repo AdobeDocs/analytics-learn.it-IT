@@ -8,14 +8,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 333042.jpg
 kt: 7708
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+exl-id: 2cee782a-1d21-47e6-ab47-911b7610c7f2
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 21%
 
 ---
-
 
 # Configurare i metodi di ricerca
 
@@ -23,4 +22,4 @@ In questo video, scopri come configurare le impostazioni che controllano il modo
 
 >[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
 
-Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html).
