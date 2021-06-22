@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 334096.jpg
 kt: 8062
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
+exl-id: b1fcbd2f-d03e-4cc1-80ba-f76fe66551e5
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
-
 
 # Casi d’uso della visualizzazione
 
@@ -21,4 +21,4 @@ Vuoi sapere quali prodotti sono più venduti? Scopri alcuni dei casi d’uso pri
 
 >[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
-Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=en).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=en).
