@@ -4,10 +4,10 @@ description: Adobe è orgogliosa di presentare alla tua università questo corso
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: 43382a7de3dc0b0d65ccf8403ce200c2fd980518
+source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '244'
+ht-degree: 91%
 
 ---
 
@@ -33,7 +33,6 @@ Adobe è orgogliosa di presentare alla tua università questo corso di base su A
 
 Questo corso con attività specifiche alla fine di ogni sezione può essere combinato con l’ambiente sandbox per università di Adobe Analytics.
 
-Registrati qui per accedere: [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
-
+Registrati qui per accedere: [Registrazione del curriculum di Analytics](https://experienceleague.adobe.com/landing/analytics-university/)
 
 [Scarica il PDF del corso](assets/Adobe-Analytics-Curriculum_2021.pdf)
