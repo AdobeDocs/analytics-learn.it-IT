@@ -1,17 +1,19 @@
 ---
-title: Curriculum di Adobe Analytics University
+title: curriculum Adobe Analytics per l'istruzione
 description: Adobe è orgogliosa di presentare alla tua università questo corso di base su Analytics. Il corso comprende 4 moduli introduttivi distinti sulle funzioni di raccolta e reporting di Adobe Analytics, che possono essere suddivisi e incorporati in corsi di marketing o analisi digitale. Questo manuale introduttivo permetterà a professori e studenti di acquisire le conoscenze necessarie per partecipare ogni autunno al concorso Adobe Analytics Challenge.
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
-workflow-type: ht
-source-wordcount: '240'
-ht-degree: 100%
+source-git-commit: 43382a7de3dc0b0d65ccf8403ce200c2fd980518
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Adobe Analytics per le università
+# curriculum Adobe Analytics per l&#39;istruzione
+
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Contenuto del corso su Analytics
 
