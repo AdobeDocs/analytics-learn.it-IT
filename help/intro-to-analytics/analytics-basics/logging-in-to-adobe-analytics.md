@@ -1,22 +1,21 @@
 ---
 title: Accedere ad Adobe Analytics
 description: Questo video illustra come accedere e amministrare Analytics e iniziare l’analisi.
-feature: Analytics Basics
+feature: Nozioni di base su Analytics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3566
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '54'
+exl-id: a7c5c6ba-7517-4407-a914-e125ef9db862
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '51'
 ht-degree: 100%
 
 ---
-
 
 # Accesso ad Adobe Analytics
 
