@@ -1,26 +1,25 @@
 ---
 title: Modello delle esercitazioni di formazione in Analysis Workspace
-description: 'L’esercitazione di Analysis Workspace illustra la terminologia e i passaggi comuni per la creazione della loro prima analisi in Workspace. '
-feature: Panels
+description: 'Il tutorial Analysis Workspace Training illustra la terminologia comune e i passaggi da seguire per creare il primo progetto di analisi in Workspace. '
+feature: Pannelli
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 52f800b6-f184-4a82-8729-e6edd478331c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 14%
+source-wordcount: '87'
+ht-degree: 58%
 
 ---
 
-
 # Modello delle esercitazioni di formazione in Analysis Workspace
 
-L’esercitazione di Analysis Workspace illustra la terminologia e i passaggi comuni per la creazione della loro prima analisi in Workspace.
+Il tutorial Analysis Workspace Training illustra la terminologia comune e i passaggi da seguire per creare il primo progetto di analisi in Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12)
 
