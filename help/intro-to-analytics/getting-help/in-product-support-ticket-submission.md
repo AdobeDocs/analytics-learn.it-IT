@@ -1,24 +1,23 @@
 ---
-title: Invio del ticket di assistenza interna al prodotto
+title: Invio di una richiesta di assistenza direttamente del prodotto
 description: Ora puoi inviare un ticket di supporto all’Assistenza clienti direttamente nell’interfaccia utente, semplificando il processo verso la risoluzione.
-feature: Analytics Basics
+feature: Nozioni di base su Analytics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1664
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: af75cd36-75ff-4892-b8ec-dd5704dabfe3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 3%
+source-wordcount: '44'
+ht-degree: 22%
 
 ---
 
-
-# Invio del ticket di assistenza interna al prodotto {#in-product-support-ticket-submission}
+# Invio di una richiesta di assistenza direttamente del prodotto {#in-product-support-ticket-submission}
 
 Ora puoi inviare un ticket di supporto [!DNL Customer Care] direttamente nell’interfaccia utente, semplificando il processo verso la risoluzione.
 
