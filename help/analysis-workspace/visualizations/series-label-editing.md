@@ -1,22 +1,21 @@
 ---
 title: Modifica delle etichette delle serie in Analysis Workspace
 description: Sono state introdotte alcune nuove funzioni che consentono ad analisti e addetti al marketing di regolare le etichette nei grafici in base alle esigenze di visualizzazione.
-feature: Visualizations
+feature: Visualizzazioni
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1906
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 26daa836-a43b-43e7-bcd9-ebffff3aaa9b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '54'
 ht-degree: 1%
 
 ---
-
 
 # Modifica delle etichette delle serie in Analysis Workspace {#series-label-editing-in-analysis-workspace}
 
