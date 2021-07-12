@@ -1,22 +1,21 @@
 ---
 title: Utilizzo delle dimensioni nelle metriche calcolate
-description: Le dimensioni sono ora disponibili nel generatore di metriche calcolate. Possono essere aggiunti immediatamente a qualsiasi formula metrica calcolata per creare al volo un segmento interno.
-feature: Calculated Metrics
+description: I Dimension sono ora disponibili nel Generatore di metrica calcolata. Possono essere aggiunti immediatamente a qualsiasi formula metrica calcolata per creare al volo un segmento interno.
+feature: Metriche calcolate
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1904
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 15%
+source-wordcount: '83'
+ht-degree: 32%
 
 ---
-
 
 # Utilizzo di [!UICONTROL Dimensions] in [!UICONTROL Calculated Metrics] {#using-dimensions-in-calculated-metrics}
 
@@ -26,4 +25,4 @@ ht-degree: 15%
 
 Questa funzione semplifica il flusso di lavoro per la creazione e l’utilizzo di [!UICONTROL segments] all’interno di [!UICONTROL calculated metrics].
 
-Per ulteriori informazioni su questa funzione, visita la [documentazione](https://marketing.adobe.com/resources/help/it_IT/analytics/calcmetrics/cm_build_metrics.html).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://marketing.adobe.com/resources/help/it_IT/analytics/calcmetrics/cm_build_metrics.html).
