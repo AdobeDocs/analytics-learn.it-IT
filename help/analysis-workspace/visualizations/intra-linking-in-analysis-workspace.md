@@ -1,26 +1,25 @@
 ---
-title: Collegamenti di tipo intra-link in Analysis Workspace
-description: I collegamenti di tipo intra-link consentono agli analisti che creano progetti in Analysis Workspace di indirizzare i lettori del progetto a pannelli e visualizzazioni esatti all’interno del progetto.
-feature: Visualizations
+title: Collegamenti interni in Analysis Workspace
+description: I collegamenti di tipo intra-link consentono agli analisti che creano progetti in Analysis Workspace di spingere i lettori del progetto a pannelli e visualizzazioni esatti all’interno del progetto.
+feature: Visualizzazioni
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1908
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 1%
+source-wordcount: '79'
+ht-degree: 11%
 
 ---
 
+# Collegamenti interni in Analysis Workspace {#intra-linking-in-analysis-workspace}
 
-# Collegamenti di tipo intra-link in Analysis Workspace {#intra-linking-in-analysis-workspace}
-
-I collegamenti di tipo intra-link consentono agli analisti che creano progetti in Analysis Workspace di spingere i lettori del progetto a pannelli e [!UICONTROL visualizations] all’interno del progetto.
+I collegamenti di tipo intra-link consentono agli analisti che creano progetti in Analysis Workspace di spingere i lettori del progetto a pannelli esatti e [!UICONTROL visualizations] all’interno del progetto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
