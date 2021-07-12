@@ -8,16 +8,15 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2562
 topic: Mobile
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Experienced
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '171'
+exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '167'
 ht-degree: 100%
 
 ---
-
 
 # Tracciamento dello stato (ossia di pagine o schermate) in un’app mobile con l’SDK di Experience Platform {#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
 
