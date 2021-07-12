@@ -2,12 +2,12 @@
 title: Visualizzazione grafico a dispersione
 description: Con questa visualizzazione, puoi vedere la relazione tra più metriche per le dimensioni, eseguendo il grafico degli elementi su un grafico X/Y. Scopri informazioni e dettagli utili per prendere decisioni aziendali.
 feature: Visualizzazioni
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334459.jpg
 kt: 8188
-source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 11%
