@@ -1,25 +1,24 @@
 ---
-title: Utilizzo Della Funzione Media Cumulativa Per Applicare L’Arrotondamento Della Metrica
+title: Utilizzo della funzione Media cumulativa per applicare uniformità metrica
 description: Più è lungo il periodo di tempo con tendenze di una metrica, più è difficile individuare le tendenze direzionali per la metrica. Per risolvere questo problema, la funzione Media cumulativa in Metriche calcolate può essere utilizzata per applicare l’uniformità alle metriche in Analysis Workspace.
-feature: Visualizations
+feature: Visualizzazioni
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 27068.jpg
 kt: 2854
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 1%
+source-wordcount: '93'
+ht-degree: 10%
 
 ---
 
-
-# Utilizzando [!UICONTROL Cumulative Average] [!UICONTROL Function] Per Applicare [!UICONTROL Metric] Uniformità {#using-the-cumulative-average-function-to-apply-metric-smoothing}
+# Utilizzando [!UICONTROL Cumulative Average] [!UICONTROL Function] Per Applicare [!UICONTROL Metric] Arrotondamento {#using-the-cumulative-average-function-to-apply-metric-smoothing}
 
 Più è lungo il periodo di tempo con tendenze di [!UICONTROL metric], più è difficile individuare le tendenze direzionali per il [!UICONTROL metric]. Per risolvere questo problema, è possibile utilizzare [!UICONTROL Cumulative Average] [!UICONTROL function] in [!UICONTROL Calculated Metrics] per applicare l’uniformità a [!UICONTROL metrics] in Analysis Workspace.
 
