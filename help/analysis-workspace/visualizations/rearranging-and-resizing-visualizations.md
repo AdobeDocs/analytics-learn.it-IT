@@ -1,22 +1,21 @@
 ---
 title: Ridisposizione e ridimensionamento delle visualizzazioni in Analysis Workspace
 description: Questo video mostra come creare un layout personalizzato ridimensionando, ridisponendo e riorganizzando visualizzazioni e tabelle in Analysis Workspace.
-feature: Visualizations
+feature: Visualizzazioni
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2138
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: bdda9534-cae8-457a-a9c2-8167b8d0d09d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '53'
 ht-degree: 1%
 
 ---
-
 
 # Ridisposizione e ridimensionamento di [!UICONTROL Visualizations] in Analysis Workspace {#rearranging-and-resizing-visualizations-in-analysis-workspace}
 
