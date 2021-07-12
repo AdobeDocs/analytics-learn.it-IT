@@ -1,26 +1,25 @@
 ---
 title: Utilizzo del modello di consumo audio in Analysis Workspace
-description: Questo video illustra il modello Consumo audio in Analysis Workspace, disponibile come standard per Audio Analytics.
-feature: Panels
+description: Questo video illustra il modello di consumo audio in Analysis Workspace, disponibile come standard per Audio Analytics.
+feature: Pannelli
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 08131913-cb39-4c58-a322-da1e83442e84
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 8%
 
 ---
 
-
 # Utilizzo del modello [!UICONTROL Audio Consumption] in Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
 
-Questo video illustra il modello [!UICONTROL Audio Consumption] di Analysis Workspace, disponibile come standard per [!DNL Audio Analytics].
+Questo video illustra il modello [!UICONTROL Audio Consumption] in Analysis Workspace, disponibile come standard per [!DNL Audio Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12)
 
