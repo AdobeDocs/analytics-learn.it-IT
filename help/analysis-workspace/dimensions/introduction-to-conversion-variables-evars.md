@@ -1,22 +1,21 @@
 ---
-title: Introduzione alle variabili di conversione (eVar)
+title: Introduzione alle variabili di conversione (eVars)
 description: In questo video, ottieni un’introduzione alle variabili di conversione, note anche come "eVar". Scopri anche la differenza tra le variabili di traffico e conversione e come si relazionano agli eventi di conversione.
-feature: Dimensions
+feature: Dimensioni
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3577
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4f7bedec-efca-46e8-981a-18118982012f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 1%
+source-wordcount: '66'
+ht-degree: 15%
 
 ---
-
 
 # Introduzione alle variabili di conversione ([!DNL eVars])
 
