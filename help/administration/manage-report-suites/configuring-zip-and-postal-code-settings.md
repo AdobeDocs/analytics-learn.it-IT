@@ -1,26 +1,25 @@
 ---
-title: Configurazione delle impostazioni del CAP e del codice postale in Adobe Analytics
-seo-title: Configurazione delle impostazioni del CAP e del codice postale in Adobe Analytics
+title: Configurazione delle impostazioni Zip e CAP in Adobe Analytics
+seo-title: Configurazione delle impostazioni Zip e CAP in Adobe Analytics
 description: Questo video illustra come configurare le impostazioni del codice postale e zip per eseguire analisi basate su questi dati della regione.
 seo-description: Questo video illustra come configurare le impostazioni del codice postale e zip per eseguire analisi basate su questi dati della regione.
-feature: Data Configuration and Collection
+feature: Configurazione e raccolta dei dati
 topics: null
 activity: setup
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2679
-topic: Administration
-role: "Administrator, Architect"
+topic: Amministrazione
+role: Admin, Architect
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
-
 
 # Configurazione delle impostazioni [!UICONTROL Zip] e del codice postale in Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
 
