@@ -1,22 +1,21 @@
 ---
 title: Visualizzazione istogramma in Analysis Workspace
 description: Gli istogrammi consentono di visualizzare la distribuzione di una metrica tra i visitatori, le visite e ora gli hit, per trovare segmenti di valore elevato e basso.
-feature: Visualizations
+feature: Visualizzazioni
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1909
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '70'
 ht-degree: 12%
 
 ---
-
 
 # [!UICONTROL Histogram] [!UICONTROL Visualization] in Analysis Workspace {#histogram-visualization-in-analysis-workspace}
 
