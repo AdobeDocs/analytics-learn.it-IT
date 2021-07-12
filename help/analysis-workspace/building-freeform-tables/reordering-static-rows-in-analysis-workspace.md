@@ -1,23 +1,22 @@
 ---
 title: Riordinamento di righe statiche in Analysis Workspace
 description: È possibile riordinare manualmente le righe statiche nel Generatore di tabelle a forma libera. Questo consente di disporre le righe statiche della tabella nell’ordine esatto desiderato, ad esempio Visite, quindi Ordini e quindi Tasso di conversione.
-feature: Freeform Tables
+feature: Tabelle a forma libera
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31319.jpg
 kt: 4218
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 1a4e82fe-12ac-4c44-afec-60010f1214f6
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 2%
+source-wordcount: '80'
+ht-degree: 17%
 
 ---
-
 
 # Riordinamento di righe statiche in Analysis Workspace
 
