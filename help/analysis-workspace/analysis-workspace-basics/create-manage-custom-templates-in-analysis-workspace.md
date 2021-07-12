@@ -1,22 +1,21 @@
 ---
 title: Creare e gestire modelli personalizzati in Analysis Workspace
 description: Questo video illustra come creare modelli personalizzati in Analysis Workspace, in modo che tu e il tuo team possiate iniziare da un set specifico di rapporti.
-feature: Projects
+feature: Progetti
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1695
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '142'
+exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '139'
 ht-degree: 100%
 
 ---
-
 
 # Creare e gestire modelli personalizzati in Analysis Workspace {#create-and-manage-custom-templates-in-analysis-workspace}
 
