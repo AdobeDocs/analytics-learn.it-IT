@@ -1,24 +1,23 @@
 ---
 title: Creare dashboard di Advertising Cloud con Adobe Analytics
 description: Tecniche per creare una dashboard di Advertising Cloud per il monitoraggio delle campagne in tempo reale.
-feature: Advertising Cloud Integration
+feature: Integrazione Advertising Cloud
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35121.jpg
 kt: 5478
-topic: Integrations
-role: Business Practitioner
+topic: Integrazioni
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 9e53a8b4-a02f-41c4-97cc-ea50751d75c8
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 86%
+source-wordcount: '40'
+ht-degree: 92%
 
 ---
-
 
 # Creare dashboard di Advertising Cloud con Adobe Analytics
 
