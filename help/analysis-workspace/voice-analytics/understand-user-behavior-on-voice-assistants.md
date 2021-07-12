@@ -1,24 +1,23 @@
 ---
-title: Comprendere il comportamento degli utenti sugli assistenti vocali
+title: Comprendere il comportamento degli utenti di assistenti vocali
 description: Scopri come comprendere il comportamento degli utenti e ottenere informazioni approfondite guardando metriche chiave come intenti principali, parametri e autenticazione degli utenti.
-feature: Visualizations
+feature: Visualizzazioni
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2904
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 7a69541c-8cea-4454-847c-4f0b10aa2788
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 1%
+source-wordcount: '56'
+ht-degree: 23%
 
 ---
 
-
-# Comprendere il comportamento degli utenti sugli assistenti vocali {#understand-user-behavior-on-voice-assistants}
+# Comprendere il comportamento degli utenti di assistenti vocali {#understand-user-behavior-on-voice-assistants}
 
 Scopri come comprendere il comportamento degli utenti e ottenere informazioni approfondite guardando le [!UICONTROL metrics] chiave, ad esempio gli intenti principali, i parametri e l’autenticazione degli utenti.
 
