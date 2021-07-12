@@ -1,22 +1,21 @@
 ---
 title: Impostazioni origine dati tabella in Analysis Workspace
 description: 'Le impostazioni dell’origine dati sono ora disponibili nelle tabelle a forma libera e a coorte. In precedenza, le origini dati potevano essere gestite solo dalle visualizzazioni collegate. Ora, dalle impostazioni della tabella, potrai vedere quali visualizzazioni sono collegate e nascondere la tabella sorgente stessa. '
-feature: Visualizations
+feature: Visualizzazioni
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1772
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 7530f41b-2d56-4e8e-a8eb-b3081f5f5d45
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '89'
 ht-degree: 1%
 
 ---
-
 
 # Tabella [!UICONTROL Data Source Settings] in Analysis Workspace {#table-data-source-settings-in-analysis-workspace}
 
