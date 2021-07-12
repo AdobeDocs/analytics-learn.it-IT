@@ -1,24 +1,23 @@
 ---
-title: Comprendere Le Differenze Tra Dispositivi Abilitati Per Voce
+title: Comprendere le differenze tra i diversi dispositivi vocali
 description: Scopri come comprendere le diverse prestazioni e funzionalità dei vari dispositivi con assistenza vocale per dare priorità alla roadmap dei prodotti.
-feature: Visualizations
+feature: Visualizzazioni
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2905
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 73cb28d8-1078-4d70-a4ce-76427c550fc3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 2%
+source-wordcount: '47'
+ht-degree: 23%
 
 ---
 
-
-# Comprendere le differenze tra i dispositivi abilitati per voce {#understand-differences-across-voice-enabled-devices}
+# Comprendere le differenze tra i diversi dispositivi vocali {#understand-differences-across-voice-enabled-devices}
 
 Scopri come comprendere le diverse prestazioni e funzionalità dei vari dispositivi con assistenza vocale per dare priorità alla roadmap dei prodotti.
 
