@@ -8,16 +8,15 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 23651.jpg
 kt: 1705
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3c259132-250a-4579-a4d8-344e0b0055f1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '65'
 ht-degree: 1%
 
 ---
-
 
 # Aggiunta di confronti affiancati di [!DNL Attribution IQ] [!DNL Models] in Analysis Workspace {#adding-side-by-side-comparisons-of-attribution-iq-models-in-analysis-workspace}
 
