@@ -1,22 +1,21 @@
 ---
 title: 'Caso di utilizzo di un cliente: Home Depot innova con la gestione della customer experience'
 description: HomeDepot.com, sito di eCommerce da 7 miliardi di dollari all’interno di un’azienda da 100 miliardi di dollari, punta sull’ottimizzazione della customer experience per battere la concorrenza. Scopri in che modo utilizza le soluzioni Adobe per creare esperienze di acquisto personalizzate che incrementano brand loyalty e customer satisfaction.
-feature: Use Cases
+feature: Casi di utilizzo
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4387
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '111'
+exl-id: 97221e6f-24c6-4d03-a0b9-69e1944bb775
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
-
 
 # Caso di utilizzo di un cliente: [!DNL The Home Depot] innova con la gestione della customer experience
 
