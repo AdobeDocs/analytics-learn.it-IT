@@ -1,6 +1,6 @@
 ---
 title: Utilizzo del pannello Attribution IQ in Analysis Workspace
-description: Questo video mostra il pannello Attribution IQ , un ottimo punto di partenza per la creazione del progetto di attribuzione Analysis Workspace.
+description: Questo video mostra il Pannello Attribution IQ , un ottimo punto di partenza per la creazione del progetto di attribuzione Analysis Workspace.
 feature: Attribution
 topics: null
 activity: use
@@ -9,16 +9,15 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 23139.jpg
 kt: 1667
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,2c265c0b-5d5e-435f-9fdd-086f7faa0bd9
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 2%
+source-wordcount: '115'
+ht-degree: 4%
 
 ---
-
 
 # Utilizzo di [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace {#using-the-attribution-iq-panel-in-analysis-workspace}
 
