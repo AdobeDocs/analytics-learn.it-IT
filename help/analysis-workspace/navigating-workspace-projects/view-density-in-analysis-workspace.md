@@ -1,22 +1,21 @@
 ---
-title: Visualizzazione della densità in Analysis Workspace
+title: Densità di visualizzazione in Analysis Workspace
 description: L’impostazione Visualizza densità in Progetto > Informazioni e impostazioni consente di controllare la spaziatura verticale applicata alla barra e alle tabelle a sinistra (Forma libera e coorte). È possibile scegliere tra Espanso (predefinito), Confortevole o Compatto.
-feature: Projects
+feature: Progetti
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 378426ce-fc29-4912-9289-e763b941877a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 5%
+source-wordcount: '68'
+ht-degree: 13%
 
 ---
-
 
 # [!UICONTROL View Density] in Analysis Workspace {#view-density-in-analysis-workspace}
 
