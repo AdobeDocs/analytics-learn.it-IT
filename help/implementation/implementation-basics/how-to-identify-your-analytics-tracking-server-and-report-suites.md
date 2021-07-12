@@ -1,24 +1,23 @@
 ---
 title: Come identificare il server di tracciamento di Analytics e le suite di rapporti
 description: Quando si configura Adobe Analytics, o quando vi si fa riferimento in altre soluzioni Experience Cloud, spesso è utile o addirittura necessario conoscere il “server di tracciamento” di Analytics in uso, o anche la “suite di rapporti” in cui si inviano i dati. Questo video illustra come individuare entrambi i valori, indipendentemente dal fatto che Adobe Analytics sia già stato implementato.
-feature: Implementation Basics
+feature: Nozioni di base sull’implementazione
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '294'
+exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '290'
 ht-degree: 100%
 
 ---
 
-
-# Come identificare il [!DNL Tracking Server] e le [!UICONTROL Report Suites] di Analytics {#how-to-identify-your-analytics-tracking-server-and-report-suites}
+# Come identificare il [!DNL Tracking Server] e le [!UICONTROL Report Suites] di Analytics  {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
 Quando si configura Adobe Analytics, o quando vi si fa riferimento in altre soluzioni Experience Cloud, spesso è utile o addirittura necessario conoscere il [!DNL Analytics] “[!DNL Tracking Server]” in uso, o anche la “[!UICONTROL Report Suite]” in cui si inviano i dati. Questo video illustra come individuare entrambi i valori, indipendentemente dal fatto che Adobe Analytics sia già stato implementato.
 
