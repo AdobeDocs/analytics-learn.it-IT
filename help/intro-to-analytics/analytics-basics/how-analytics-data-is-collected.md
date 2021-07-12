@@ -1,22 +1,21 @@
 ---
 title: Raccolta dei dati in Analytics
 description: Come vengono trasmessi i dati dalla pagina ai rapporti in Adobe Analytics? Questo video mostra come.
-feature: Analytics Basics
+feature: Nozioni di base su Analytics
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3565
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '50'
+exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '47'
 ht-degree: 100%
 
 ---
-
 
 # Raccolta dei dati in [!DNL Analytics]
 
