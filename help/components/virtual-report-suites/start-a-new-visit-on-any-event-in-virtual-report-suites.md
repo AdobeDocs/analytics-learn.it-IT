@@ -1,5 +1,5 @@
 ---
-title: Avviare una nuova visita su qualsiasi evento nelle suite di rapporti virtuali
+title: Iniziare una nuova visita per qualsiasi evento nelle suite di rapporti virtuali
 description: Questo video mostra come utilizzare gli eventi per attivare l’inizio di una nuova visita in Adobe Analytics utilizzando le impostazioni di visita di una suite di rapporti virtuali.
 feature: VRS
 topics: null
@@ -7,16 +7,15 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1663
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 0%
+source-wordcount: '124'
+ht-degree: 8%
 
 ---
-
 
 # Avvia una nuova visita su qualsiasi evento in [!UICONTROL Virtual Report Suites] {#start-a-new-visit-on-any-event-in-virtual-report-suites}
 
