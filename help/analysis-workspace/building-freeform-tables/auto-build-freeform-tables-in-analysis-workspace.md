@@ -1,23 +1,22 @@
 ---
 title: Creazione automatica di tabelle a forma libera in Analysis Workspace
 description: Puoi rilasciare i componenti direttamente in un progetto o pannello vuoto oppure in una tabella a forma libera vuota per creare automaticamente una tabella a forma libera in un formato consigliato.
-feature: Freeform Tables
+feature: Tabelle a forma libera
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40855.jpg
 kt: 6308
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 576fc9f8-1418-4ffa-83fa-010cc11f2ace
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 95%
+source-wordcount: '62'
+ht-degree: 100%
 
 ---
-
 
 # Creazione automatica di tabelle a forma libera in Analysis Workspace
 
