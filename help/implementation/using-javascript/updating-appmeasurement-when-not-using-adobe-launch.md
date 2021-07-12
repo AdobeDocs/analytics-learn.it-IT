@@ -1,26 +1,25 @@
 ---
 title: Aggiornamento di AppMeasurement quando non si utilizza Experience Platform Launch
-description: Questo video mostra come aggiornare il codice appMeasurement quando non utilizzi Experience Platform Launch. Ciò include dove ottenere il codice e dove aggiornarlo.
-feature: Appmeasurement Implementation
+description: Questo video mostra come aggiornare il codice appMeasurement quando non utilizzi il Experience Platform Launch. Ciò include dove ottenere il codice e dove aggiornarlo.
+feature: Implementazione di Appmeasurement
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1848
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 27a8ce2f-afea-4505-9525-49720432f40f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 0%
+source-wordcount: '140'
+ht-degree: 5%
 
 ---
 
-
 # Aggiornamento di AppMeasurement quando non si utilizza [!DNL Experience Platform Launch] {#updating-appmeasurement-when-not-using-adobe-launch}
 
-Questo video mostra come aggiornare il codice appMeasurement quando non utilizzi Adobe [!DNL Experience Platform Launch]. Ciò include dove ottenere il codice e dove aggiornarlo.
+Questo video mostra come aggiornare il codice appMeasurement quando non utilizzi l&#39;Adobe [!DNL Experience Platform Launch]. Ciò include dove ottenere il codice e dove aggiornarlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12)
 
