@@ -1,22 +1,21 @@
 ---
 title: Modifica metriche nelle richieste in Report Builder
-description: È ora possibile modificare le metriche in più richieste di dati di Report Builder alla volta, con opzioni di aggiunta, sostituzione e rimozione.
+description: È ora possibile modificare le metriche in più richieste di dati di Report Builder alla volta con le opzioni di aggiunta, sostituzione e rimozione.
 feature: Report Builder
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1769
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '96'
 ht-degree: 2%
 
 ---
-
 
 # Modifica [!UICONTROL Metrics] tra le richieste in [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
 
