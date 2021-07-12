@@ -1,22 +1,21 @@
 ---
-title: Utilizzo delle palette di colori personalizzate in Analysis Workspace
+title: Utilizzo delle palette Colore personale in Analysis Workspace
 description: Puoi modificare la palette di colori utilizzata in Analysis Workspace per allinearla meglio con il tuo marchio o con quello dei tuoi clienti.
-feature: Workspace Basics
+feature: Concetti di base di Workspace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1943
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 03cb00ce-42c1-481b-8dc2-bf90d8a98acc
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 9%
+source-wordcount: '102'
+ht-degree: 24%
 
 ---
-
 
 # Utilizzo di [!UICONTROL Color Palettes] personalizzati in Analysis Workspace {#using-custom-color-palettes-in-analysis-workspace}
 
@@ -26,4 +25,4 @@ Puoi modificare il [!UICONTROL color palette] utilizzato in [!UICONTROL Analysis
 
 Sono disponibili 5 palette OTB e è possibile specificare una stringa di colore univoca. I colori influenzeranno tutte le visualizzazioni categoriche in [!UICONTROL Analysis Workspace]. Gli unici [!UICONTROL visualizations] esclusi sono [!UICONTROL Summary Change], la formattazione condizionale in [!UICONTROL freeform tables], le voci/uscite in [!UICONTROL Flow] e [!UICONTROL Map].
 
-Per ulteriori informazioni, visita la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/color_palettes.html).
+Per ulteriori informazioni, consulta la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/color_palettes.html).
