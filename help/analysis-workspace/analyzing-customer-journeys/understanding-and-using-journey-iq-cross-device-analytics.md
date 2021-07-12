@@ -1,22 +1,21 @@
 ---
-title: Informazioni e utilizzo di Journey IQ - Analisi multidispositivo
-description: Quando gli utenti interagiscono con il tuo marchio, lo fanno in molti modi e su più dispositivi. Cross-Device Analytics si integra con Adobe Experience Platform Identity Service per identificare in che modo i dispositivi vengono mappati alle persone. Quindi sfrutta questa intelligenza per creare una visione cross-device del comportamento degli utenti. Questo si traduce nella possibilità di eseguire analisi sulle persone, non sui dispositivi.
+title: Informazioni e utilizzo del Percorso IQ - Analisi multidispositivo
+description: Quando gli utenti interagiscono con il tuo marchio, lo fanno in molti modi e su più dispositivi. Analisi multidispositivo si integra con il servizio Adobe Experience Platform Identity per identificare in che modo i dispositivi si associano alle persone. Quindi sfrutta questa intelligenza per creare una visione cross-device del comportamento degli utenti. Questo si traduce nella possibilità di eseguire analisi sulle persone, non sui dispositivi.
 feature: CDA
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4138
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '1609'
+source-wordcount: '1606'
 ht-degree: 5%
 
 ---
-
 
 # Informazioni e utilizzo di [!DNL Journey IQ] - Analisi multidispositivo
 
@@ -31,16 +30,16 @@ Quando gli utenti interagiscono con il tuo marchio lo fanno in molti modi e su p
 Ecco un esempio. Supponiamo che Isabelle interagisca con il tuo marchio nel modo seguente:
 
 *Isabelle è composta da tre*
-![visitatoriPercorso tradizionale di Analytics](assets/cda-isabelle-journey-traditional-analytics.png)
+![visitatoriPercorso di analisi tradizionale](assets/cda-isabelle-journey-traditional-analytics.png)
 
-Con l&#39;analisi tradizionale, il viaggio di Isabelle è diviso in tre parti. È rappresentata da tre visitatori unici, ciascuno dei quali ha utilizzato un dispositivo diverso per eseguire attività isolate. Ciò che serve è una visione unificata e interattiva delle interazioni di Isabelle. [!DNL Journey IQ: Cross-Device Analytics] fornisce questa visualizzazione.
+Utilizzando l&#39;analisi tradizionale, il percorso di Isabelle è diviso in tre parti. È rappresentata da tre visitatori unici, ciascuno dei quali ha utilizzato un dispositivo diverso per eseguire attività isolate. Ciò che serve è una visione unificata e interattiva delle interazioni di Isabelle. [!DNL Journey IQ: Cross-Device Analytics] fornisce questa visualizzazione.
 
-*Isabelle è una*
-![personaCross-Device Analytics Journey](assets/cda-isabelle-journey-cross-device-analytics.png)
+*Isabelle è una sola*
+![persona nel Percorso Cross-Device Analytics](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 ### Una Visualizzazione multidispositivo Offre Una Migliore Analisi
 
-Avere una visione del comportamento di Isabelle incentrata sulla persona e su più dispositivi può fare una differenza significativa nella tua analisi. Ad esempio, l’approccio tradizionale basato sui visitatori non offre un quadro completo dell’efficacia dei canali di marketing. Guardiamo ancora una volta il percorso di Isabelle, concentrandoci su quale canale riceve credito per la sua visualizzazione del prodotto e per il suo acquisto. Useremo l’attribuzione [!UICONTROL last-touch] per la semplicità, ma lo stesso problema si verifica quando si suddivide il comportamento di Isabelle in visitatori separati. L&#39;utilizzo della visione tradizionale del mondo basata sui visitatori dà risultati molto diversi, anche fuorvianti:
+Avere una visione del comportamento di Isabelle incentrata sulla persona e su più dispositivi può fare una differenza significativa nella tua analisi. Ad esempio, l’approccio tradizionale basato sui visitatori non offre un quadro completo dell’efficacia dei canali di marketing. Vediamo ancora una volta il percorso di Isabelle, concentrandoci su quale canale riceve credito per la sua visualizzazione del prodotto e per il suo acquisto. Useremo l’attribuzione [!UICONTROL last-touch] per la semplicità, ma lo stesso problema si verifica quando si suddivide il comportamento di Isabelle in visitatori separati. L&#39;utilizzo della visione tradizionale del mondo basata sui visitatori dà risultati molto diversi, anche fuorvianti:
 
 *Attribuzione canali tradizionali di Analytics e*
 ![Analytics tra dispositivi](assets/channel-attribution.png)
@@ -62,7 +61,7 @@ Continua a leggere per saperne di più:
 
 Il CDA viene presentato attraverso un tipo speciale di cross-device [[!UICONTROL Virtual Report Suite]](https://docs.adobe.com/content/help/it-IT/analytics/components/virtual-report-suites/vrs-about.html). Questo consente di continuare a utilizzare la suite di rapporti originale basata su dispositivi durante l’introduzione dell’analisi tra più dispositivi nell’organizzazione. Configurare una VRS CDA è facile.
 
-Nel passaggio uno del generatore VRS, scegli il [!UICONTROL report suite] configurato da Adobe come abilitato per CDA:
+Nel passaggio uno del generatore VRS, scegli il [!UICONTROL report suite] configurato da Adobe come abilitato da CDA:
 
 *Scegli una base abilitata per CDA (origine)[!UICONTROL report suite]*
 ![[!UICONTROL Virtual Report Suite] Passaggio 1](assets/cda-vrs-step-one.png)
@@ -72,7 +71,7 @@ Quindi attiva [!UICONTROL Report Time Processing] e abilita [!UICONTROL cross-de
 *Abilita  [!UICONTROL report-time processing] e[!UICONTROL cross-device stitching]*
 ![[!UICONTROL Virtual Report Suite] passaggio 2](assets/cda-vrs-step-two.png)
 
-Completare la configurazione VRS e salvarla. La VRS CDA verrà visualizzata in Analysis Workspace con un’icona speciale accanto ad essa, come mostrato di seguito:
+Completare la configurazione VRS e salvarla. La VRS CDA verrà visualizzata in Analysis Workspace con un’icona speciale accanto ad essa, come illustrato di seguito:
 
 *Seleziona la VRS CDA in Analysis*
 ![[!UICONTROL Virtual Report Suite] WorkspacePassaggio 3](assets/cda-vrs-step-three.png)
@@ -89,7 +88,7 @@ Come aiuta questo? Ricorda il percorso utente di Isabelle dalla discussione prec
 
 ![[!DNL Cross-Device Analytics] Percorso](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-È possibile che Isabelle non abbia effettuato l&#39;accesso fino al momento in cui ha effettuato l&#39;acquisto e che i dispositivi di Isabelle non siano stati mappati fino a qualche momento dopo il suo acquisto. [!DNL Co-op Graph][!DNL Private Graph] Ma il look-back di 30 giorni di CDA permette a CDA di riaffermare il comportamento passato di Isabelle a livello di persona, fornendo la visione cross-device del suo viaggio che vi serve.
+È possibile che Isabelle non abbia effettuato l&#39;accesso fino al momento in cui ha effettuato l&#39;acquisto e che i dispositivi di Isabelle non siano stati mappati fino a qualche momento dopo il suo acquisto. [!DNL Co-op Graph][!DNL Private Graph] Ma il look-back di 30 giorni di CDA permette a CDA di riaffermare il comportamento passato di Isabelle a livello di persona, fornendo la visione cross-device del suo percorso di cui hai bisogno.
 
 >[!NOTE]
 >
@@ -118,13 +117,13 @@ All&#39;interno di CDA [!UICONTROL Virtual Report Suite], vedrai alcune modifich
 Nel [[!UICONTROL Segment Builder]](https://docs.adobe.com/content/help/it-IT/analytics/components/segmentation/segmentation-workflow/seg-build.html) il contenitore di segmenti [!UICONTROL Visitor] è stato sostituito da un contenitore di segmenti [!UICONTROL Person]. Utilizzando una VRS CDA, puoi creare segmenti tra dispositivi quali:
 
 * Utenti che utilizzano più dispositivi
-* Persone che iniziano il loro percorso su un dispositivo mobile e successivamente acquistano su un dispositivo desktop
+* Chi inizia il percorso su un dispositivo mobile e successivamente acquista su un dispositivo desktop
 * Visite in cui le persone utilizzano più dispositivi per eseguire un’attività
 
 *Contenitore*
 ![[!DNL Segment Builder] [!UICONTROL Person] segmenti a livello di persona](assets/cda-segment-builder-person-container.png)
 
-### Persistenza dimensione
+### Persistenza Dimension
 
 All’interno di una VRS CDA, dimensioni come [!DNL eVars] persistono automaticamente tra i dispositivi. Ad esempio, un [!DNL eVar] configurato come:
 
@@ -144,7 +143,7 @@ Vi siete mai chiesti quante persone interagiscono con il vostro marchio? Avete v
 
 ### Cross-Device [!DNL Flow]
 
-Con CDA e Analysis Workspace, puoi visualizzare il modo in cui le persone si spostano da un dispositivo all’altro nel tempo in [[!DNL Flow visualization]](https://docs.adobe.com/content/help/it-IT/analytics/analyze/analysis-workspace/visualizations/flow/flow.html). Potete vedere dove abbandonano il loro viaggio e dove proseguono.
+Con CDA e Analysis Workspace, puoi visualizzare il modo in cui le persone si spostano da un dispositivo all’altro nel tempo in [[!DNL Flow visualization]](https://docs.adobe.com/content/help/it-IT/analytics/analyze/analysis-workspace/visualizations/flow/flow.html). Potete vedere dove abbandonano nel loro percorso e dove continuano.
 
 *[!DNL Flow]con CDA*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
