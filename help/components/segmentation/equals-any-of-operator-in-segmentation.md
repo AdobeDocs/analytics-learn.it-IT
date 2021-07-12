@@ -1,22 +1,21 @@
 ---
 title: Utilizzo dell’operatore Uguale a qualsiasi operatore nella segmentazione
 description: È stato aggiunto al generatore di segmenti uno qualsiasi degli operatori di segmenti e non è uguale a nessuno di essi. Utilizzare questi operatori per filtrare un elenco di elementi specifici, anziché utilizzare più istruzioni OR o Contains any of. L’utilizzo di questi operatori invece di contiene uno qualsiasi di contribuirà a migliorare anche la velocità della query.
-feature: Segmentation
+feature: Segmentazione
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 4%
 
 ---
-
 
 # Utilizzo dell’operatore &quot;È uguale a uno di&quot; nella segmentazione
 
@@ -24,4 +23,4 @@ Al generatore di segmenti sono stati aggiunti gli operatori di segmenti &quot;È
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
-Per ulteriori informazioni, visita la [documentazione](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html)
+Per ulteriori informazioni, consulta la [documentazione](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html)
