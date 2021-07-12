@@ -1,23 +1,22 @@
 ---
 title: Utilizzo di Analisi multischeda per esplorare le attribuzioni marketing di base in Analysis Workspace
 description: Esistono diversi modi per dare una spinta ulteriore alla metodologia di attribuzione con Adobe Analytics. In questo video, viene evidenziato come ottenere informazioni più approfondite dal rapporto Marketing Channels (Canali di marketing) mediante le analisi incrociate in Workspace.
-feature: Marketing Channels
+feature: Canali marketing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b5843678-6444-453b-a9c9-1e301ffca876
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 33%
+source-wordcount: '290'
+ht-degree: 38%
 
 ---
-
 
 # Utilizzo di Analisi multischeda per esplorare le attribuzioni marketing di base in Analysis Workspace
 
