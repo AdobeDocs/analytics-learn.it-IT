@@ -1,23 +1,22 @@
 ---
 title: Metrica Persone in Adobe Analytics
 description: Adobe Analytics ora offre una metrica Persone per deduplicare i visitatori in base ad Adobe Experience Cloud Device Co-op. Questo video fornisce ulteriori informazioni e mostra come iniziare.
-feature: Metrics
+feature: Metriche
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '125'
+exl-id: 47110d1b-7ae7-483f-ba05-796d00741b20
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
-
 
 # [!UICONTROL Metric] [!UICONTROL People] in Adobe Analytics {#people-metric-in-adobe-analytics}
 
