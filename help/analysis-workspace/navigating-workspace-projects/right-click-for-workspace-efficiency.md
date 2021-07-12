@@ -1,26 +1,25 @@
 ---
 title: Fare clic con il pulsante destro del mouse per migliorare l’efficienza di Workspace
 description: Scopri tutte le possibilità offerte dal clic con il pulsante destro del mouse in Analysis Workspace e come sfruttarle al meglio. Dalle tabelle a forma libera alle visualizzazioni di fallout, l’utilizzo del clic con il pulsante destro del mouse migliorerà la tua efficienza e competenza in Workspace.
-feature: Workspace Basics
+feature: Concetti di base di Workspace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4f0ce6d2-4ce4-4aa7-907d-efcaab958674
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 71%
+source-wordcount: '64'
+ht-degree: 95%
 
 ---
 
-
 # Fai clic con il pulsante destro del mouse per migliorare l’ [!DNL Workspace] efficienza
 
-Scopri tutte le possibilità offerte dal clic con il pulsante destro del mouse in Analysis Workspace e come sfruttarle al meglio. Da [!UICONTROL Freeform Tables] a [!UICONTROL Fallout Visualizations], il clic con il pulsante destro del mouse ti renderà più efficiente e competente in [!DNL Workspace].
+Scopri tutte le possibilità offerte dal clic con il pulsante destro del mouse in Analysis Workspace e come sfruttarle al meglio. Da [!UICONTROL Freeform Tables] a [!UICONTROL Fallout Visualizations], il clic con il pulsante destro del mouse ti permette di accedere a menu di scelta rapida, per lavorare meglio e in modo più efficiente in [!DNL Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
