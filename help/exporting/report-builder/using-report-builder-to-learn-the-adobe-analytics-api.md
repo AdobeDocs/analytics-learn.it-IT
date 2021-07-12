@@ -1,26 +1,25 @@
 ---
-title: Utilizzo di Report Builder per imparare l’API di Adobe Analytics
-description: Report Builder è qualcosa che tutti conosciamo e amiamo. E se ti dicessi che puoi utilizzare ciò che sai su Report Builder per migliorare ulteriormente le tue competenze in Adobe Analytics? Questo video illustra come eseguire il debug delle richieste di Report Builder e come utilizzarle per apprendere come creare le tue query API di Analytics.
+title: Utilizzo di Report Builder per apprendere l’API di Adobe Analytics
+description: Il Report Builder è qualcosa che tutti conosciamo e amiamo. E se vi dicessi che potreste usare quello che sapete sul Report Builder per migliorare ulteriormente la vostra abilità Adobe Analytics? Questo video illustra come eseguire le richieste di Report Builder di debug e utilizzarle per apprendere come creare le tue query API di Analytics.
 feature: Report Builder
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2345
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 1%
+source-wordcount: '260'
+ht-degree: 8%
 
 ---
 
+# Utilizzo di [!UICONTROL Report Builder] per imparare l’API di Adobe Analytics {#using-report-builder-to-learn-the-adobe-analytics-api}
 
-# Utilizzo di [!UICONTROL Report Builder] per imparare l&#39;API di Adobe Analytics {#using-report-builder-to-learn-the-adobe-analytics-api}
-
-[!UICONTROL Report Builder] è qualcosa che tutti conosciamo e amiamo. E se ti dicessi che puoi usare ciò che sai su [!UICONTROL Report Builder] per migliorare ulteriormente la tua competenza in Adobe Analytics? Questo video illustra come eseguire le richieste di debug [!UICONTROL Report Builder] e utilizzarle per imparare a creare query API personalizzate [!DNL Analytics].
+[!UICONTROL Report Builder] è qualcosa che tutti conosciamo e amiamo. E se ti dicessi che potresti usare quello che sai su [!UICONTROL Report Builder] per migliorare ulteriormente la tua abilità Adobe Analytics? Questo video illustra come eseguire le richieste di debug [!UICONTROL Report Builder] e utilizzarle per imparare a creare query API personalizzate [!DNL Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
 
@@ -36,4 +35,4 @@ In un debugger:
 
 Esiste anche un metodo alternativo per il debug delle richieste di questo tipo e funziona allo stesso modo. Puoi attivare la registrazione [!UICONTROL Report Builder] dal menu [!UICONTROL Options] e registrare le stesse informazioni di un debugger. I registri si trovano in [!UICONTROL Documents] > [!UICONTROL ReportBuilderLogs] e saranno organizzati per giorno. Puoi cercare il file per &#39;Report.Queue&#39; per trovare ciascuna delle tue richieste. I registri consentono inoltre di risolvere eventuali problemi.
 
-Per ulteriori informazioni su questa funzione, visita la [documentazione](https://www.adobe.io/).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://www.adobe.io/).
