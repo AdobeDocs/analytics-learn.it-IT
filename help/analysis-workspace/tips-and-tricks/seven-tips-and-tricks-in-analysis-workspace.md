@@ -1,26 +1,25 @@
 ---
 title: 7 Suggerimenti per creare progetti di Analytics personalizzati più rapidamente e con maggiore facilità
 description: Analysis Workspace è uno strumento potente all’interno di Adobe Analytics che può aiutarti a creare progetti di analisi di maggiore impatto. Ha una vasta gamma di funzioni che ti permette di eseguire qualsiasi tipo di analisi a forma libera, ma una semplice esperienza utente che rende accessibile questa potenza e scalabilità.
-feature: Workspace Basics
+feature: Concetti di base di Workspace
 topics: topics
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3945
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '1004'
+source-wordcount: '993'
 ht-degree: 0%
 
 ---
 
-
 # 7 Suggerimenti per creare progetti di Analytics personalizzati più rapidamente e con maggiore facilità
 
-**Espandi le tue competenze di Analysis Workspace!**
+**Espandi le tue competenze Analysis Workspace!**
 Analysis Workspace è uno strumento potente all’interno di Adobe Analytics che può aiutarti a creare progetti di analisi di maggiore impatto. Ha una vasta gamma di funzioni che ti permette di eseguire qualsiasi tipo di analisi a forma libera, ma una semplice esperienza utente che rende accessibile questa potenza e scalabilità.
 
 ## Build: Espansione fino ai punti dati giusti
@@ -67,7 +66,7 @@ Modifica facilmente la visualizzazione del tempo quando si lavora con visualizza
 
 ### ***Suggerimento 5: Creare un&#39;unità  [!DNL Virtual Report Suite] di business personalizzata per specifiche unità***
 
-Adobe Analytics raccoglie grandi quantità di dati. La cura dei componenti in [!DNL Virtual Report Suites] consente agli amministratori di creare un set di dati per ogni business unit di un&#39;organizzazione. Ciò significa che gli analisti che lavorano in Analysis Workspace non devono analizzare i dati per trovare ciò che conta di più. È sufficiente selezionare la casella &quot;[!UICONTROL Enable Customization of Virtual Report Suite Components]&quot; nel generatore [!UICONTROL Virtual Report Suites] in [!UICONTROL “Components],&quot; quindi selezionare il [!UICONTROL components] corrispondente alle misure di un team specifico.
+Adobe Analytics raccoglie grandi quantità di dati. La cura dei componenti in [!DNL Virtual Report Suites] consente agli amministratori di creare un set di dati per ogni business unit di un&#39;organizzazione. Ciò significa che gli analisti che lavorano in Analysis Workspace non devono analizzare i dati per trovare ciò che è più importante per loro. È sufficiente selezionare la casella &quot;[!UICONTROL Enable Customization of Virtual Report Suite Components]&quot; nel generatore [!UICONTROL Virtual Report Suites] in [!UICONTROL “Components],&quot; quindi selezionare il [!UICONTROL components] corrispondente alle misure di un team specifico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
 
@@ -87,7 +86,7 @@ Crea collegamenti che porteranno il pubblico ovunque in Analysis Workspace. Fai 
 
 ### ***Suggerimento 7: Salvare i progetti come modelli personalizzati riutilizzabili***
 
-Ora puoi facilmente trasformare qualsiasi progetto in un modello personalizzato. È sufficiente selezionare &quot;[!UICONTROL Save As Template]&quot; dal menu a discesa &quot;[!UICONTROL Project]&quot;, aggiungere tag che rendano il modello facile da trovare e fare clic su &quot;[!UICONTROL Save Project As Template]&quot;. Ora, il modello sarà disponibile per tutti gli utenti di Analysis Workspace nella scheda &quot;[!UICONTROL Custom Templates]&quot;. Questo consente agli analisti di iniziare i loro progetti con punti di dati significativi, invece di iniziare da uno quadrato.
+Ora puoi facilmente trasformare qualsiasi progetto in un modello personalizzato. È sufficiente selezionare &quot;[!UICONTROL Save As Template]&quot; dal menu a discesa &quot;[!UICONTROL Project]&quot;, aggiungere tag che rendano il modello facile da trovare e fare clic su &quot;[!UICONTROL Save Project As Template]&quot;. Ora, il modello sarà disponibile per tutti gli utenti Analysis Workspace nella scheda &quot;[!UICONTROL Custom Templates]&quot;. Questo consente agli analisti di iniziare i loro progetti con punti di dati significativi, invece di iniziare da uno quadrato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
 
@@ -99,4 +98,4 @@ Ora puoi facilmente trasformare qualsiasi progetto in un modello personalizzato.
 
 | Informazioni sull&#39;autore |  |
 |------------|------------|
-| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser è un manager del team di gestione dei prodotti Adobe Analytics. <br> In questo ruolo, incontra i clienti per comprendere le loro esigenze aziendali,  <br>utilizzando ciò che apprende per informare la roadmap del prodotto Adobe Analytics  <br>e per dare priorità alle nuove funzionalità del prodotto. Prima della sua posizione attuale, <br>Jen era un consulente principale del team di Adobe Consulting, che lavorava come <br>esperto in materia di visualizzazione dei dati, Analysis Workspace e [!DNL Report Builder]. <br><br>Con il vantaggio della sua visione nel mondo reale, abbiamo curato i seguenti suggerimenti e trucchi per  <br>facilitare la creazione, la visualizzazione e la condivisione di progetti Analysis Workspace |
+| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser è un manager del team di gestione dei prodotti Adobe Analytics. <br> In questo ruolo, incontra i clienti per comprendere le loro esigenze aziendali,  <br>utilizzando ciò che apprende per informare la roadmap del prodotto Adobe Analytics  <br>e per dare priorità alle nuove funzionalità del prodotto. Prima della sua posizione attuale, <br>Jen era un consulente principale del team di consulenza Adobe, che lavorava come <br>esperto in materia di visualizzazione dei dati, Analysis Workspace e [!DNL Report Builder]. <br><br>Con il vantaggio della sua visione nel mondo reale, abbiamo curato i seguenti suggerimenti e trucchi per  <br>facilitare la creazione, la visualizzazione e la condivisione di progetti Analysis Workspace |
