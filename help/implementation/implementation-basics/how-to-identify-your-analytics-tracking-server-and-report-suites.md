@@ -11,13 +11,13 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '290'
 ht-degree: 100%
 
 ---
 
-# Come identificare il [!DNL Tracking Server] e le [!UICONTROL Report Suites] di Analytics  {#how-to-identify-your-analytics-tracking-server-and-report-suites}
+# Come identificare il [!DNL Tracking Server] e le [!UICONTROL Report Suites] di Analytics {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
 Quando si configura Adobe Analytics, o quando vi si fa riferimento in altre soluzioni Experience Cloud, spesso è utile o addirittura necessario conoscere il [!DNL Analytics] “[!DNL Tracking Server]” in uso, o anche la “[!UICONTROL Report Suite]” in cui si inviano i dati. Questo video illustra come individuare entrambi i valori, indipendentemente dal fatto che Adobe Analytics sia già stato implementato.
 
