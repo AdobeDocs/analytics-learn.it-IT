@@ -4,10 +4,10 @@ user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 6587d9ff43b7fcbf697bda4cdd9be2ae7a63ef86
-workflow-type: ht
+source-git-commit: dbab0f9190e660eadfacdb75ac00994afff375e7
+workflow-type: tm+mt
 source-wordcount: '2065'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -132,7 +132,7 @@ ht-degree: 100%
       + [Collegamenti interni in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Tema mappa positiva-negativa](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [Ridisposizione e ridimensionamento delle visualizzazioni](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [Modifica delle etichette delle serie](analysis-workspace/visualizations/series-label-editing.md)
+      + [Personalizzare le legende della visualizzazione](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [Visualizzazioni sovrapposte al 100%](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Impostazioni dell’origine dati della tabella](analysis-workspace/visualizations/table-data-source-settings.md)
       + [Creare una mappa di calore con separazione temporale](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
