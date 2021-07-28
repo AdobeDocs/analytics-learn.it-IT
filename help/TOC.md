@@ -4,9 +4,9 @@ user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: dbab0f9190e660eadfacdb75ac00994afff375e7
+source-git-commit: aa1627c6f13274e35fcf10f25d709fec484007b2
 workflow-type: tm+mt
-source-wordcount: '2065'
+source-wordcount: '2068'
 ht-degree: 99%
 
 ---
@@ -391,3 +391,4 @@ ht-degree: 99%
       + [Configurare i rapporti sulla ricerca interna del sito](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Impostazione dell’analisi del CAP nel mercato](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Corso universitario su Analytics](analytics-university/curriculum.md)
++ [Experience League LIVE](exl-live/exl-live-overview.md)
