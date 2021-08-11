@@ -4,10 +4,10 @@ description: Adobe è orgogliosa di presentare alla tua università questo corso
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
-workflow-type: ht
-source-wordcount: '244'
-ht-degree: 100%
+source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
+workflow-type: tm+mt
+source-wordcount: '320'
+ht-degree: 76%
 
 ---
 
@@ -18,6 +18,12 @@ ht-degree: 100%
 ## Contenuto del corso su Analytics
 
 Adobe è orgogliosa di presentare alla tua università questo corso di base su Analytics. Il corso comprende 4 moduli introduttivi distinti sulle funzioni di raccolta e reporting di Adobe Analytics, che possono essere suddivisi e incorporati in corsi di marketing o analisi digitale. Questo manuale introduttivo permetterà a professori e studenti di acquisire le conoscenze necessarie per partecipare ogni autunno al concorso Adobe Analytics Challenge.
+
+### Un nuovo corso per aiutarti a preparare
+
+Per prepararsi all’apprendimento e all’insegnamento del programma di analisi, abbiamo lanciato un nuovo corso su Adobe Education Exchange dove puoi imparare a insegnare tutti i concetti di base descritti di seguito. Consigliamo di iniziare con questo corso per essere certi di essere pronti a istruire i tuoi studenti sui 4 moduli principali e oltre.
+
+Iscriviti al corso qui: [https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
 ### Ecco cosa imparerai:
 
