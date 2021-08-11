@@ -4,10 +4,10 @@ user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: aa1627c6f13274e35fcf10f25d709fec484007b2
+source-git-commit: 48da246e50ed658bdb496a8a8a551e8f0454021d
 workflow-type: tm+mt
-source-wordcount: '2068'
-ht-degree: 99%
+source-wordcount: '2141'
+ht-degree: 96%
 
 ---
 
@@ -62,6 +62,7 @@ ht-degree: 99%
       + [Gestione dei componenti in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Utilizzo di Component Manager](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Selezione di una suite di rapporti in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+      + [Visualizzare le metriche delle prestazioni di Analysis Workspace](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + Suggerimenti {#tips-and-tricks}
       + [7 suggerimenti utili per Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Suggerimenti per aumentare la produttività in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -211,9 +212,14 @@ ht-degree: 99%
 + Reports and Analytics {#reports-and-analytics}
    + [Generazione rapporti in tempo reale in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Amministrazione {#administration}
+   + Impostazioni aziendali {#company-settings}
+      + [Applica restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [Visualizza le funzioni disponibili dell&#39;account](administration/company-settings/view-your-accounts-available-features.md)
    + Gestione utente {#user-management}
       + [Aggiunta di un amministratore ad Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Limitare l’accesso alle suite di rapporti nella Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [Trasferire le risorse utente a un altro utente](administration/user-management/transfer-user-assets-to-a-different-user.md)
+      + [Controlla l’ID IMS collegato per evitare problemi di accesso](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Gestire suite di rapporti {#manage-report-suites}
       + [Come configurare le impostazioni generali dell’account](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personalizzare le impostazioni del calendario](administration/manage-report-suites/customize-calendar-settings.md)
@@ -222,13 +228,17 @@ ht-degree: 99%
       + [Impostare filtri URL interni](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configurazione delle impostazioni del CAP](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configurazione delle variabili in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Abilita l’impostazione opzionale Timestamp](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Configurare le regole bot in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Governance dei dati e RGPD {#data-governance-and-gdpr}
       + [Governance dei dati e RGPD in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Chi includere nel team Analytics](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Gestione traffico {#traffic-management}
       + [Utilizzo delle chiamate server](administration/traffic-management/server-call-usage.md)
+      + [Gestire un picco di traffico imminente](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Registri {#logs}
       + [Tracciamento del registro di utilizzo per Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+      + [Panoramica dei registri di amministrazione di Analytics](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementazione {#implementation}
    + Nozioni di base sull’implementazione {#implementation-basics}
       + [Implementazione iniziale](implementation/implementation-basics/first-time-implementation.md)
@@ -311,8 +321,12 @@ ht-degree: 99%
       + [Esportare in formato CSV da Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Introduzione a Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Invia richiesta di Data Warehouse tramite SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
    + Feed dati {#data-feeds}
       + [Interfaccia per la gestione dei feed dei dati](exporting/data-feeds/data-feeds-management-ui.md)
+      + [Scaricare la chiave di autenticazione del feed dati](exporting/data-feeds/download-the-data-feed-authentication-key.md)
+      + [Trova il tuo ID feed dati](exporting/data-feeds/find-your-data-feed-id.md)
+      + [Ripristino di un processo feed dati](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
       + [Aggiungere segmenti a più richieste contemporaneamente in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Rilevamento delle anomalie in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
