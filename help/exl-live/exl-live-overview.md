@@ -1,6 +1,6 @@
 ---
-title: Experience League eventi LIVE
-description: Una raccolta di collegamenti ai precedenti eventi Experience League LIVE
+title: Eventi Experience League LIVE
+description: Raccolta di collegamenti ai precedenti eventi Experience League LIVE
 type: Event
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -9,14 +9,14 @@ hidefromtoc: true
 source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 2%
+ht-degree: 56%
 
 ---
 
 
 # Experience League LIVE
 
-Experience League LIVE è uno streaming live prodotto dal team di Experience League e fornisce suggerimenti utili, trucchi e strategie da applicare nelle applicazioni di Experience Cloud, nei servizi applicativi e in Adobe Experience Platform.
+Experience League LIVE offre sessioni in streaming live prodotte dal team di Experience League, con suggerimenti utili, trucchi e strategie da mettere in atto nelle applicazioni Experience Cloud, nei servizi applicativi e in Adobe Experience Platform.
 
 ## L&#39;episodio successivo: Experience Platform e Real-time CDP!
 
@@ -62,9 +62,9 @@ Entusiasti per i seguenti prossimi episodi di Experience League LIVE!
 </tr>
 </table>
 
-## Riflessioni degli episodi passati
+## Riproduzione degli episodi passati
 
-Ti sei perso un episodio di Experience League LIVE? Ti perdoniamo. Qui ci sono collegamenti che ti permettono di vedere gli episodi passati.
+Ti sei perso un episodio di Experience League LIVE? Ma puoi rimediare. Con questi link puoi vedere gli episodi passati.
 
 <table>
 <tr>
@@ -84,4 +84,4 @@ Ti sei perso un episodio di Experience League LIVE? Ti perdoniamo. Qui ci sono c
 
 >[!TIP]
 >
->Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/#dashboard/learning) gratuiti e i singoli [tutorial](https://experienceleague.adobe.com/docs/home-tutorials.html).
+>Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/?lang=it#home) gratuiti e i singoli [tutorial](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
