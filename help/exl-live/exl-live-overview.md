@@ -6,80 +6,89 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
+source-git-commit: dcfa04814012434a3f017cd0f06c8707b4d4cf2c
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 56%
+source-wordcount: '201'
+ht-degree: 33%
 
 ---
 
 
 # Experience League LIVE
 
-Experience League LIVE offre sessioni in streaming live prodotte dal team di Experience League, con suggerimenti utili, trucchi e strategie da mettere in atto nelle applicazioni Experience Cloud, nei servizi applicativi e in Adobe Experience Platform.
+## Unitevi a noi per il prossimo episodio!
 
-## L&#39;episodio successivo: Experience Platform e Real-time CDP!
+<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="fai clic su per accedere alla lobby YouTube, ad Experience League Live" src="assets/1440x492.png" /></a>
 
-![successivo ](assets/exl-live-ep2-after-2.jpg)
-*episodioOspiti:* Aaron Shields, Yaya Wang, Andres Monroy 
-***MARK THE DATE!*** Prossimo giovedì,  **26 agosto** che  **9** amPacific Time
+Experience League LIVE è uno spettacolo in diretta prodotto dal team Experience League.  È un&#39;opportunità per entrare in contatto con gli esperti dei prodotti Adobe e imparare suggerimenti utili, trucchi e strategie applicabili alle applicazioni Adobe Experience Cloud.
 
-## Prossimi episodi
 
-Entusiasti per i seguenti prossimi episodi di Experience League LIVE!
+## Prossimi eventi Experience League LIVE!
 
 <table>
 <tr>
   <td>
-    <img height="113" width="200" alt="Logo Adobe Campaign" src="assets/AdobeCampaignLogo.jpg" />
+      <img alt="Content Services" src="./assets/journeys.png" />
+     <div>
+          <strong>Percorsi cliente</strong>
+     </div>
+     <div>
+          <em>Settembre 2021</em>
+     </div>
+    <p>
+    <em>Scopri dagli esperti di prodotto come creare esperienze che si adattano ai clienti in tempo reale</em>
+    <p>
   </td>
   <td>
-    <strong><img height="113" width="200" alt="Logo di Adobe AEM" src="assets/aem-logo.png" /></strong>
+      <img alt="Content Services" src="./assets/content.png" />
+     <div>
+          <strong>Content and Commerce</strong>
+     <div>
+          <em>Ottobre 2021</em>
+     </div>
+     </div>
+    <p>
+    <em>Scopri come creare e gestire contenuti su larga scala e creare esperienze di e-commerce personalizzate</em>
+    <p>
   </td>
   <td>
-    <strong><img height="113" width="200" alt="Logo Adobe Campaign" src="assets/platform-logo.jpeg" /></strong>
-  </td>
-</tr>
-<tr>
-  <td>
-    <strong>Applicazione: </strong> Adobe <br/>
-    <strong>CampaignDate:</strong> settembre 2021<br/>
-    <strong>Argomento: </strong> <br/>
-    <strong>TBDGuests:</strong> TBD
-  </td>
-  <td>
-    <strong>Applicazione: </strong> Adobe Experience <br/>
-    <strong>ManagerDate: </strong> Ott 2021<br/>
-    <strong>Argomento: </strong> <br/>
-    <strong>TBDGuests:</strong> TBD
-  </td>
-  <td>
-    <strong>Applicazione: </strong> Adobe Experience <br/>
-    <strong>PlatformDate: </strong> nov 2021<br/>
-    <strong>Argomento: </strong> <br/>
-    <strong>TBDGuests:</strong> TBD
+      <img alt="Content Services" src="./assets/platform.png" />
+     <div>
+          <strong>Experience Platform</strong>
+     </div>
+     <div>
+          <em>Dicembre 2021</em>
+     </div>    
+    <p>
+    <em>Scopri dagli esperti di prodotto come creare esperienze che si adattano ai clienti in tempo reale</em>
+    <p>
   </td>
 </tr>
 </table>
 
-## Riproduzione degli episodi passati
 
-Ti sei perso un episodio di Experience League LIVE? Ma puoi rimediare. Con questi link puoi vedere gli episodi passati.
+## episodi passati
+
+Ti sei perso un episodio di Experience League LIVE? Ma puoi rimediare. Guarda uno dei nostri episodi passati!
 
 <table>
 <tr>
-  <td>
+
+<td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
       <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
-    </a><br/>
-    <b>Host: </b> <i></i><br/>
-    <b>DougGuests:</b> <i>Eric Matisoff e Dasha </i><br/>
-    <b>FitzpatrickAired:</b> <i>29 luglio 2021</i>
-
-</td>
-
+    </a>
+     <div>
+          <strong>Ospiti</strong> :  <i>Eric Matisoff e Dasha Fitzpatrick</i>
+     </div>
+     <div>
+          <em>29 luglio 2021</em>
+     </div>    
+    <p>
+    <em></em>
+    <p>
+  </td>
 </tr>
-
 </table>
 
 >[!TIP]
