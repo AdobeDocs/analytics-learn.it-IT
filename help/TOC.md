@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: a0cf655c7eab8deaf2897746ece4883147888d7a
 workflow-type: tm+mt
 source-wordcount: '2139'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -212,13 +212,13 @@ ht-degree: 96%
    + [Generazione rapporti in tempo reale in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Amministrazione {#administration}
    + Impostazioni aziendali {#company-settings}
-      + [Applica restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
-      + [Visualizza le funzioni disponibili dell&#39;account](administration/company-settings/view-your-accounts-available-features.md)
+      + [Applicare restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [Visualizzare le funzioni disponibili per l’account](administration/company-settings/view-your-accounts-available-features.md)
    + Gestione utente {#user-management}
       + [Aggiunta di un amministratore ad Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Limitare l’accesso alle suite di rapporti nella Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Trasferire le risorse utente a un altro utente](administration/user-management/transfer-user-assets-to-a-different-user.md)
-      + [Controlla l’ID IMS collegato per evitare problemi di accesso](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
+      + [Controllare l’ID IMS collegato per evitare problemi di accesso](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Gestire suite di rapporti {#manage-report-suites}
       + [Come configurare le impostazioni generali dell’account](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personalizzare le impostazioni del calendario](administration/manage-report-suites/customize-calendar-settings.md)
@@ -227,7 +227,7 @@ ht-degree: 96%
       + [Impostare filtri URL interni](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configurazione delle impostazioni del CAP](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configurazione delle variabili in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-      + [Abilita l’impostazione opzionale Timestamp](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Abilitare l’impostazione opzionale Timestamp](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Configurare le regole bot in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Governance dei dati e RGPD {#data-governance-and-gdpr}
       + [Governance dei dati e RGPD in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
@@ -320,12 +320,12 @@ ht-degree: 96%
       + [Esportare in formato CSV da Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Introduzione a Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
-      + [Invia richiesta di Data Warehouse tramite SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Inviare una richiesta al Data Warehouse tramite SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
    + Feed dati {#data-feeds}
       + [Interfaccia per la gestione dei feed dei dati](exporting/data-feeds/data-feeds-management-ui.md)
       + [Scaricare la chiave di autenticazione del feed dati](exporting/data-feeds/download-the-data-feed-authentication-key.md)
-      + [Trova il tuo ID feed dati](exporting/data-feeds/find-your-data-feed-id.md)
-      + [Ripristino di un processo feed dati](exporting/data-feeds/rerun-a-data-feed-job.md)
+      + [Trovare il proprio ID di feed dati](exporting/data-feeds/find-your-data-feed-id.md)
+      + [Rieseguire un processo di feed dati](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
       + [Aggiungere segmenti a più richieste contemporaneamente in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Rilevamento delle anomalie in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
