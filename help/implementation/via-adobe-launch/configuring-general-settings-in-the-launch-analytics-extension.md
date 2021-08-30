@@ -1,7 +1,7 @@
 ---
 title: Configurazione delle impostazioni generali nell’estensione Launch Analytics
 description: Se inizi a usare Launch, per Adobe, e l’estensione Adobe Analytics, questo video ti può aiutare con la parte relativa alle impostazioni generali della configurazione, inclusa l’impostazione del server di tracciamento.
-feature: Implementazione di Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 22%
+source-wordcount: '122'
+ht-degree: 9%
 
 ---
 
@@ -25,8 +25,8 @@ Se hai appena iniziato con Experience Platform Launch e Adobe Analytics [!UICONT
 
 Per ulteriori informazioni sugli aspetti di questo caso d’uso, consulta i seguenti argomenti della documentazione:
 
-[CAP e codice postale](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
+[CAP e codice postale](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
 
-[Classificazioni](https://docs.adobe.com/content/help/it-IT/analytics/components/classifications/c-classifications.html)
+[Classificazioni](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
 
-[Analysis Workspace](https://docs.adobe.com/content/help/it-IT/analytics/analyze/analysis-workspace/home.translate.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
