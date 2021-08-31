@@ -1,20 +1,20 @@
 ---
 title: Utilizzo del convertitore progetti per spostare i progetti da Ad Hoc Analysis ad Analytics Workspace
 description: Ad Hoc Analysis Project Converter converte facilmente i progetti Ad Hoc Analysis (AHA) in progetti Analysis Workspace con un clic.
-feature: Integrazione di Experience Cloud
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
-topic: Integrazioni
+topic: Integrations
 role: User
 level: Intermediate
 exl-id: 04dfc59e-d7a8-4477-bc98-2bd63debf81f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 27%
+source-wordcount: '62'
+ht-degree: 22%
 
 ---
 
@@ -24,6 +24,3 @@ Il convertitore di progetti [!UICONTROL Ad Hoc Analysis] converte facilmente i p
 
 >[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
 
-## Risorse aggiuntive {#additional-resources}
-
-* [Documentazione sulle funzioni](https://marketing.adobe.com/resources/help/en_US/analytics/aha2aw/)

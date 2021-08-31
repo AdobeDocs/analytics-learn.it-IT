@@ -1,7 +1,7 @@
 ---
 title: Utilizzo di un livello dati per impostare Nome pagina e Altre variabili in Adobe Analytics tramite Launch
 description: L’utilizzo di un livello di dati per Analytics e altre soluzioni di Experience Cloud è considerata una best practice. In questo video vedrai come estrarre i valori dal livello dati e utilizzarli in Launch per popolare le variabili in Adobe Analytics.
-feature: Implementazione di Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,9 +10,9 @@ kt: 1852
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '356'
 ht-degree: 4%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 4%
 
 ## Livelli dati {#data-layers}
 
-È consigliabile utilizzare un livello dati quando si lavora con dati sul sito e soluzioni Adobe Experience Cloud, in particolare con Adobe Analytics. Un _livello dati_ è un framework di oggetti JavaScript che gli sviluppatori inseriscono nelle pagine. I livelli dati possono essere utilizzati da strumenti di tracciamento (inclusi sistemi di gestione tag come [!DNL Experience Platform Launch]) per popolare i rapporti. Per ulteriori informazioni sui livelli dati, consulta la [documentazione Experience Cloud](https://marketing.adobe.com/resources/help/en_US/sc/implement/ref-data-layer.html) o il [sito W3C](https://www.w3.org/).
+È consigliabile utilizzare un livello dati quando si lavora con dati sul sito e soluzioni Adobe Experience Cloud, in particolare con Adobe Analytics. Un _livello dati_ è un framework di oggetti JavaScript che gli sviluppatori inseriscono nelle pagine. I livelli dati possono essere utilizzati da strumenti di tracciamento (inclusi sistemi di gestione tag come [!DNL Experience Platform Launch]) per popolare i rapporti. Per ulteriori informazioni sui livelli dati, consulta la [documentazione Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en) o il [sito W3C](https://www.w3.org/).
 
 Inoltre, consulta il blog [Livelli dati: Da Buzzword a Best Practice,](https://theblog.adobe.com/data-layers-buzzword-best-practice/), che fornisce alcune informazioni fantastiche sui livelli di dati, così come un paio di esempi.
 

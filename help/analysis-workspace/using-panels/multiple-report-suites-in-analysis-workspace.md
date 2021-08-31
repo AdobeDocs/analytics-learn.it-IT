@@ -1,7 +1,7 @@
 ---
 title: Più suite di rapporti in Analysis Workspace
 description: È possibile analizzare più suite di rapporti in un singolo progetto Workspace selezionando le suite a livello di pannello. Questo consente di eseguire analisi in pannelli affiancati tra diversi set di dati.
-feature: Pannelli
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 4820
 role: User
 level: Beginner
 exl-id: ae9e55c0-a9ab-4b71-8a00-67a2c31a7676
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 37%
+source-wordcount: '126'
+ht-degree: 36%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 37%
 
 I dati provenienti da più [!UICONTROL report suites] non possono essere combinati in tabelle, [!UICONTROL segments] o [!UICONTROL calculated metrics] (sommati, divisi, ecc.). La best practice per un approccio olistico ai dati continua a consistere nell’invio di tutti gli hit a una &quot;suite globale&quot;.
 
-Per ulteriori informazioni, consulta la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html?lang=it).

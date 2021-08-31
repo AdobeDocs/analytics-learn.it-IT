@@ -1,9 +1,9 @@
 ---
 title: Impostazione dell’analisi del codice postale nel mercato - un caso d’uso
-seo-title: Impostazione dell’analisi del codice postale nel mercato - un caso d’uso
+seo-title: Setting Up In-Market Zip Code Analysis - a Use Case
 description: In questo caso d’uso, configureremo il sistema per inserire codici postali, classificarli come in-market o out-of-market, e quindi utilizzeremo questi dati in Analysis Workspace in modo da poter vedere l’efficacia delle nostre campagne di marketing mirate per il geotargeting.
-seo-description: In questo caso d’uso, configureremo il sistema per inserire codici postali, classificarli come in-market o out-of-market, e quindi utilizzeremo questi dati in Analysis Workspace in modo da poter vedere l’efficacia delle nostre campagne di marketing mirate per il geotargeting.
-feature: Casi di utilizzo
+seo-description: In this use case, we will configure the system to bring in zip codes, classify them as in-market or out-of-market, and then use this data in Analysis Workspace so that we can see the effectiveness of our geo-targeted marketing campaigns.
+feature: Use Cases
 topics: null
 activity: use
 doc-type: feature video
@@ -13,10 +13,10 @@ kt: 2846
 role: User
 level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 6%
+source-wordcount: '147'
+ht-degree: 7%
 
 ---
 
@@ -28,8 +28,8 @@ In questo caso d’uso, configureremo il sistema per inserire codici postali, cl
 
 Per ulteriori informazioni sugli aspetti di questo caso d’uso, consulta i seguenti argomenti della documentazione:
 
-[CAP e codice postale](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html)
+[CAP e codice postale](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
 
-[[!UICONTROL Classifications]](https://marketing.adobe.com/resources/help/en_US/reference/classifications.html)
+[[!UICONTROL Classifications]](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=en)
 
-[Analysis Workspace](https://marketing.adobe.com/resources/help/it_IT/analytics/analysis-workspace/analysis-workspace-features.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=it)

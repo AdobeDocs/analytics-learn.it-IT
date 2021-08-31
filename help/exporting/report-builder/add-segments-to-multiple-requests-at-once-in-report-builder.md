@@ -10,10 +10,10 @@ kt: 2344
 role: User
 level: Intermediate
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 21%
+source-wordcount: '88'
+ht-degree: 10%
 
 ---
 
@@ -23,4 +23,4 @@ Questo video mostra come utilizzare [!UICONTROL Report Builder] per aggiungere s
 
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://marketing.adobe.com/resources/help/it_IT/arb/index.html).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=en).

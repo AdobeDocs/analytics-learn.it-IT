@@ -1,7 +1,7 @@
 ---
 title: Miglioramenti alla visualizzazione Abbandono in Analysis Workspace
 description: Questo video mostra gli aggiornamenti alla visualizzazione Abbandono fortemente richiesti dai clienti, compresi passaggi diretti ed eventuali, la ridenominazione dei punti di contatto, il confronto di segmenti illimitati e le percentuali di conversione dei punti di contatto con tendenze nel tempo.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2276
 role: User
 level: Beginner
 exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 21%
+ht-degree: 9%
 
 ---
 
@@ -24,4 +24,4 @@ Questo video mostra gli aggiornamenti di [!DNL Fallout Visualization] che sono s
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://marketing.adobe.com/resources/help/it_IT/analytics/analysis-workspace/fallout_flow.html).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).

@@ -1,7 +1,7 @@
 ---
 title: Ritorno a capo e flusso multidimensionale in Analysis Workspace
 description: Questo video mostra come attivare e disattivare il troncamento delle etichette nella visualizzazione di flusso. Inoltre, scopri come trascinare e rilasciare dimensioni sul tuo flusso per un’analisi di flusso multidimensionale.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -12,10 +12,10 @@ kt: 2281
 role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 21%
+source-wordcount: '88'
+ht-degree: 10%
 
 ---
 
@@ -25,4 +25,4 @@ Questo video mostra come attivare e disattivare il troncamento delle etichette n
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://marketing.adobe.com/resources/help/it_IT/analytics/analysis-workspace/flow.html).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).

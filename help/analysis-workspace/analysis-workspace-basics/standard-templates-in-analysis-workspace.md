@@ -1,9 +1,9 @@
 ---
 title: Modelli standard in Analysis Workspace
-seo-title: Modelli standard in Analysis Workspace
+seo-title: Standard Templates in Analysis Workspace
 description: Analysis Workspace facilita l’esecuzione di analisi grazie ai modelli standard (precedentemente denominati Progetti iniziali)
-seo-description: Analysis Workspace facilita l’esecuzione di analisi grazie ai modelli standard (precedentemente denominati Progetti iniziali)
-feature: Progetti
+seo-description: Analysis Workspace gives you a head start on your analysis with Standard Templates (formerly called Starter Projects)
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
@@ -13,9 +13,9 @@ kt: 1963
 role: User
 level: Beginner
 exl-id: 1234f64e-f5e5-4bb1-a553-da438bde46e0
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
@@ -26,4 +26,4 @@ Analysis Workspace facilita l’esecuzione di analisi grazie ai [!DNL Standard T
 
 >[!VIDEO](https://video.tv.adobe.com/v/23960/?quality=12)
 
-I [!DNL Standard Templates] sono modelli completamente personalizzabili e condivisibili, progettati per esigenze aziendali comuni, con visualizzazioni belle e intuitive che permettono di trovare facilmente le informazioni che servono. Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://marketing.adobe.com/resources/help/it_IT/analytics/analysis-workspace/starter_projects.html).
+I [!DNL Standard Templates] sono modelli completamente personalizzabili e condivisibili, progettati per esigenze aziendali comuni, con visualizzazioni belle e intuitive che permettono di trovare facilmente le informazioni che servono. Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=it).

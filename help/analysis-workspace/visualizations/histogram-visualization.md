@@ -1,7 +1,7 @@
 ---
 title: Visualizzazione istogramma in Analysis Workspace
 description: Gli istogrammi consentono di visualizzare la distribuzione di una metrica tra i visitatori, le visite e ora gli hit, per trovare segmenti di valore elevato e basso.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 1909
 role: User
 level: Beginner
 exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 12%
+ht-degree: 11%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 12%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12)
 
-Per ulteriori informazioni su questa funzione, visita la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/histogram.html).
+Per ulteriori informazioni su questa funzione, visita la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=en).

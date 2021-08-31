@@ -1,7 +1,7 @@
 ---
 title: Panoramica di Segment Builder
 description: Panoramica e orientamento rapidi per il generatore di segmenti in Adobe Analytics.
-feature: Segmentazione
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2300
 role: User
 level: Beginner
 exl-id: 763c9504-0692-4d56-ba5e-a3af7e2e607a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 31%
+source-wordcount: '28'
+ht-degree: 21%
 
 ---
 
@@ -23,4 +23,3 @@ Panoramica e orientamento rapidi per [!UICONTROL segment builder] in Adobe Analy
 
 >[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/segment/index.html?f=seg_build_ui).

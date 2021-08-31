@@ -1,7 +1,7 @@
 ---
 title: Segmentazione per conteggi di dimensioni distinte
 description: I nuovi operatori Conteggio distinto nel Generatore di segmenti consentono di segmentare in base al numero di elementi univoci all’interno di qualsiasi dimensione. Consente di filtrare le visite in cui sono state visualizzate più di 5 pagine o gli hit in cui sono stati acquistati più di 5 prodotti, ovvero all’interno di un singolo ordine.
-feature: Segmentazione
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 14%
+source-wordcount: '117'
+ht-degree: 13%
 
 ---
 
@@ -25,4 +25,4 @@ I nuovi operatori [!UICONTROL Distinct Count] nel [!UICONTROL Segment builder] t
 
 Questa funzione potrebbe essere un refrigeratore? :
 
-Per ulteriori informazioni, consulta la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_operators.html).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=en).

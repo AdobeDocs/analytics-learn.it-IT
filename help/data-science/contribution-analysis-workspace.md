@@ -10,10 +10,10 @@ kt: 2337
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: fd939c04-f28c-4b84-9768-2e9644945afb
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 20%
+source-wordcount: '93'
+ht-degree: 18%
 
 ---
 
@@ -25,4 +25,4 @@ Questo video illustra [!UICONTROL Contribution Analysis] e la sua capacità di u
 
 [!UICONTROL Contribution Analysis] è disponibile in Analysis Workspace per i clienti di Adobe Analytics Premium.
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/anomaly_detection.html).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).

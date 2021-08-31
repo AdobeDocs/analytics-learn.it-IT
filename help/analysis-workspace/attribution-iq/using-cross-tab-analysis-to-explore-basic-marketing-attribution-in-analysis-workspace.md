@@ -1,7 +1,7 @@
 ---
 title: Utilizzo di Analisi multischeda per esplorare le attribuzioni marketing di base in Analysis Workspace
 description: Esistono diversi modi per dare una spinta ulteriore alla metodologia di attribuzione con Adobe Analytics. In questo video, viene evidenziato come ottenere informazioni più approfondite dal rapporto Marketing Channels (Canali di marketing) mediante le analisi incrociate in Workspace.
-feature: Canali marketing
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 38%
+source-wordcount: '286'
+ht-degree: 37%
 
 ---
 
@@ -39,4 +39,4 @@ Esistono diversi modi per dare una spinta ulteriore alla metodologia di attribuz
 * 4:30 - Le impostazioni delle colonne possono essere aggiornate in blocco ora, anziché 1 per 1. Per saperne di più, visita 8:45 del video: [Impostazioni riga e colonna nelle tabelle a forma libera](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-Per ulteriori informazioni su questo argomento, visita la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics/analyze/analysis-workspace/attribution/models.html).
+Per ulteriori informazioni su questo argomento, visita la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=it).

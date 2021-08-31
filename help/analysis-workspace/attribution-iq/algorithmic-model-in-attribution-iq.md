@@ -11,9 +11,9 @@ kt: 5554
 role: User
 level: Intermediate
 exl-id: fc7a4eda-0e1b-45a5-876d-022b97ef6e42
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
@@ -24,4 +24,4 @@ Il modello di attribuzione algoritmica di Analysis Workspace utilizza tecniche s
 
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics/analyze/analysis-workspace/attribution/algorithmic.html)
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=it)

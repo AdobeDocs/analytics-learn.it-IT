@@ -1,7 +1,7 @@
 ---
 title: Video e tutorial di Analytics
 description: Una raccolta di video e tutorial per Adobe Analytics.
-feature: Nozioni di base su Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: overview
@@ -9,16 +9,16 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '294'
-ht-degree: 100%
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '290'
+ht-degree: 97%
 
 ---
 
 # Panoramica
 
-Benvenuto/a nel sito dei tutorial di [!DNL Analytics].  Segui questi tutorial e consulta la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics/landing/home.html) per comprendere meglio come utilizzare Adobe Analytics per acquisire approfondimenti sul cliente in modo più rapido che mai.  Per iniziare,
+Benvenuto/a nel sito dei tutorial di [!DNL Analytics].  Segui questi tutorial e consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/landing/home.html) per comprendere meglio come utilizzare Adobe Analytics per acquisire approfondimenti sul cliente in modo più rapido che mai.  Per iniziare,
 * Scopri le **Novità** nella sezione qui di seguito.
 * Nella sezione **Proposte del nostro staff** sono evidenziati alcuni dei nostri contenuti preferiti.
 * Nella sezione di **navigazione a sinistra** puoi esplorare i contenuti per argomento e sottoargomento.

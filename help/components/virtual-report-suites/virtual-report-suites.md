@@ -10,7 +10,7 @@ kt: 2325
 role: User
 level: Intermediate
 exl-id: db1c229a-96a0-4ca0-8c4e-a04721564c7d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 11%
@@ -23,4 +23,4 @@ Adobe Analytics ti consente di creare &quot;[!UICONTROL Virtual Report Suites]&q
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://marketing.adobe.com/resources/help/en_US/reference/vrs-about.html).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=en).

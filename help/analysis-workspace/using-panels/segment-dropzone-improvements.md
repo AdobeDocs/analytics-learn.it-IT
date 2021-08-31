@@ -1,7 +1,7 @@
 ---
 title: Miglioramenti delle aree di rilascio dei segmenti in Analysis Workspace
 description: Le zone di rilascio dei segmenti sono state migliorate per consentirti di rilasciare qualsiasi elemento in un progetto.
-feature: Pannelli
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2008
 role: User
 level: Beginner
 exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 10%
+source-wordcount: '95'
+ht-degree: 9%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 10%
 
 È ora possibile eliminare i formati [!UICONTROL dimensions] e [!UICONTROL metrics] completi, oltre al supporto esistente per gli elementi [!UICONTROL dimension], [!UICONTROL date ranges] e [!UICONTROL segments]. Inoltre, è stato migliorato il modo in cui vengono gestiti gli elementi [!UICONTROL dimension] di &quot;non specificato&quot; e &quot;nessuno&quot; quando vengono rilasciati nella zona di rilascio [!UICONTROL segment].
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).
