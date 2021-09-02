@@ -4,10 +4,10 @@ user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: d8ac4494a517608fce4c78769136b684937c7639
 workflow-type: tm+mt
-source-wordcount: '2131'
-ht-degree: 98%
+source-wordcount: '2192'
+ht-degree: 97%
 
 ---
 
@@ -28,13 +28,15 @@ ht-degree: 98%
       + [Summit 2019 Super Session: high tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Nozioni di base su Analytics {#analytics-basics}
       + [Pulsante Prova in Workspace in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
-      + [Metrica Persone](intro-to-analytics/analytics-basics/people-metric.md)
       + [Informazioni sul ciclo di Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Raccolta dei dati in Analytics](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Accesso ad Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Introduzione all’interfaccia utente di Analytics](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [Comprensione e creazione di suite di rapporti](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Adobe Labs (anteprime di tecnologie)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
+      + [Informazioni sulle metriche di base del visitatore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [Introduzione alle variabili di traffico (Prop)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+      + [Introduzione alle variabili di conversione (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+      + [Introduzione agli eventi di conversione](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + Personalizzazione dell’interfaccia utente {#customizing-the-ui}
       + [Preferenze utente in Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Aggiunta delle descrizioni di dimensioni e metriche](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
@@ -98,7 +100,7 @@ ht-degree: 98%
       + [Impostazioni per riga e colonna nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Utilizzo del Generatore di tabelle a forma libera](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Riordinamento di righe statiche in Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [Utilizzo di Attribution IQ nelle tabelle a forma libera](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=it)
+      + [Utilizzo di Attribution IQ nelle tabelle a forma libera](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
       + [Utilizzo del menu di scelta rapida in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
       + [Menu di scelta rapida continuato in Analysis Workspace](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
       + [Analisi cross-selling in Analysis Workspace](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
@@ -147,7 +149,7 @@ ht-degree: 98%
       + [Utilizzo di segmenti per limitare i dati in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + Metriche {#metrics}
       + [Informazioni sulle metriche di base del visitatore](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Aggiungere dimensioni e metriche al progetto in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=it)
+      + [Aggiungere dimensioni e metriche al progetto in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [Introduzione agli eventi di conversione](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Utilizzo delle metriche nelle tabelle a forma libera](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=it)
       + [Utilizzo delle metriche di partecipazione in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
@@ -241,6 +243,7 @@ ht-degree: 98%
 + Implementazione {#implementation}
    + Nozioni di base sull’implementazione {#implementation-basics}
       + [Implementazione iniziale](implementation/implementation-basics/first-time-implementation.md)
+      + [Creazione di suite di rapporti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
       + [Mappare le variabili contextData in Prop ed eVar con regole di elaborazione](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Come identificare il server di tracciamento di Analytics e le suite di rapporti](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Creazione di un documento sui requisiti aziendali (BRD)](implementation/implementation-basics/creating-a-business-requirements-document.md)
@@ -311,6 +314,7 @@ ht-degree: 98%
       + [Panoramica di Activity Map](components/activity-map/activity-map-overview.md)
       + [Abilitazione, debug e personalizzazione di Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Strumenti aggiuntivi {#additional-tools}
+   + [Adobe Labs (anteprime di tecnologie)](additional-tools/adobe-labs-technology-previews.md)
    + Dashboard di Analytics {#analytics-dashboards}
       + [Generatore di Scorecard per Adobe Analytics dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [Applicare intervalli date personalizzati](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
