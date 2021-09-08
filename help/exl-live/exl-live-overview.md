@@ -7,20 +7,20 @@ level: Beginner
 hide: true
 hidefromtoc: true
 source-git-commit: dcfa04814012434a3f017cd0f06c8707b4d4cf2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '201'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
 
 # Experience League LIVE
 
-## Unitevi a noi per il prossimo episodio!
+## Unisciti a noi per il prossimo episodio!
 
-<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="fai clic su per accedere alla lobby YouTube, ad Experience League Live" src="assets/1440x492.png" /></a>
+<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="fai clic per accedere alla lobby YouTube per Experience League Live" src="assets/1440x492.png" /></a>
 
-Experience League LIVE è uno spettacolo in diretta prodotto dal team Experience League.  È un&#39;opportunità per entrare in contatto con gli esperti dei prodotti Adobe e imparare suggerimenti utili, trucchi e strategie applicabili alle applicazioni Adobe Experience Cloud.
+Experience League LIVE è un evento in diretta prodotto dal team Experience League.  È un’opportunità per entrare in contatto con gli esperti dei prodotti Adobe e imparare suggerimenti, trucchi e strategie da mettere in pratica nelle applicazioni Adobe Experience Cloud.
 
 
 ## Prossimi eventi Experience League LIVE!
@@ -36,7 +36,7 @@ Experience League LIVE è uno spettacolo in diretta prodotto dal team Experience
           <em>Settembre 2021</em>
      </div>
     <p>
-    <em>Scopri dagli esperti di prodotto come creare esperienze che si adattano ai clienti in tempo reale</em>
+    <em>Scopri dagli esperti di prodotto come creare esperienze in grado di adattarsi in tempo reale ai singoli clienti</em>
     <p>
   </td>
   <td>
@@ -60,16 +60,16 @@ Experience League LIVE è uno spettacolo in diretta prodotto dal team Experience
           <em>Dicembre 2021</em>
      </div>    
     <p>
-    <em>Scopri dagli esperti di prodotto come creare esperienze che si adattano ai clienti in tempo reale</em>
+    <em>Scopri dagli esperti di prodotto come creare esperienze in grado di adattarsi in tempo realre ai singoli clienti</em>
     <p>
   </td>
 </tr>
 </table>
 
 
-## episodi passati
+## Episodi passati
 
-Ti sei perso un episodio di Experience League LIVE? Ma puoi rimediare. Guarda uno dei nostri episodi passati!
+Ti sei perso un episodio di Experience League LIVE? Ma puoi rimediare. Guarda uno dei nostri episodi passati.
 
 <table>
 <tr>
@@ -79,7 +79,7 @@ Ti sei perso un episodio di Experience League LIVE? Ma puoi rimediare. Guarda un
       <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
     </a>
      <div>
-          <strong>Ospiti</strong> :  <i>Eric Matisoff e Dasha Fitzpatrick</i>
+          <strong>Ospiti</strong>: <i>Eric Matisoff e Dasha Fitzpatrick</i>
      </div>
      <div>
           <em>29 luglio 2021</em>
