@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: ff682b772fb0c261bee2e57b75f49ee07a318030
 workflow-type: tm+mt
 source-wordcount: '2197'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -138,7 +138,7 @@ ht-degree: 96%
       + [Ridisposizione e ridimensionamento delle visualizzazioni](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Personalizzare le legende delle visualizzazioni](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [Visualizzazioni sovrapposte al 100%](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [Impostazioni delle origini dati per la tabella e la visualizzazione](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
+      + [Impostazioni delle origini dati per tabelle e visualizzazioni](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Creare una mappa di calore con separazione temporale](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Applicazione dei segmenti {#applying-segments}
       + [Applicazione dei segmenti a un progetto Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
