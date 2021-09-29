@@ -12,9 +12,9 @@ author: Doug Moore
 team: Technical Marketing
 kt: 1597
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ Le viste del progetto rappresentano l’indicatore migliore per capire se gli ut
 
 ## Risorse aggiuntive {#additional-resources}
 
-* [Ulteriori informazioni sui registri](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
+* [Ulteriori informazioni sui registri](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=it)
 * [Scarica dashboard dimostrativo](https://adobe.ly/2ygP5ws)
 
 NOVITÀ IN PROGRAMMA: stiamo lavorando per presentare a breve queste informazioni in un’interfaccia utente intuitiva (e con maggiori dettagli) in [!DNL Analytics].
