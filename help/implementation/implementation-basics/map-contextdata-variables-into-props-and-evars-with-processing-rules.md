@@ -11,9 +11,9 @@ role: User
 level: Intermediate
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Quando si utilizzano le variabili [!DNL contextData] nell’implementazione di A
 
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=en).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=it).
