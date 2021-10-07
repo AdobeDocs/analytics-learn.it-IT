@@ -3,10 +3,10 @@ user-guide-title: Tutorial di Adobe Analytics
 user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: 3fa5d24147c0a2074921144d725d21ea57a92336
+source-git-commit: 808129e3d71b11446eadac44862e6a879c9e95b7
 workflow-type: tm+mt
-source-wordcount: '2197'
-ht-degree: 100%
+source-wordcount: '2201'
+ht-degree: 99%
 
 ---
 
@@ -317,6 +317,7 @@ ht-degree: 100%
    + [Adobe Labs (anteprime di tecnologie)](additional-tools/adobe-labs-technology-previews.md)
    + Dashboard di Analytics {#analytics-dashboards}
       + [Generatore di Scorecard per Adobe Analytics dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [Visualizzazioni per scorecard per dispositivi mobili](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Applicare intervalli date personalizzati](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Esperienza in-app con i dashboard di Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + Esportazione {#exporting}
