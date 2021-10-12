@@ -10,9 +10,9 @@ thumbnail: 23140.jpg
 kt: 1668
 exl-id: 47016dae-2694-4bbe-a23f-ebff9799c239,1789789c-19aa-4e77-999f-15fa11b7f858
 source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Le metriche calcolate ora supportano uno qualsiasi dei dieci modelli di attribuz
 
 ## Risorse aggiuntive {#additional-resources}
 
-Per ulteriori informazioni sulle  [!DNL Attribution IQ], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html).
+Per ulteriori informazioni sulle [!DNL Attribution IQ], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html?lang=it).
