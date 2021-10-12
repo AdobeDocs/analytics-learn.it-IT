@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: 748ba7ff-a75d-4ecb-a5d8-5451d1922725,01466500-25ef-40d5-9ae1-ce1e0e92b0b5
 source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
 # Aggiunta di [!UICONTROL Dimensions] e [!UICONTROL Metrics] al progetto in Analysis Workspace
 
-In questo video, scopri [!UICONTROL dimensions] e [!UICONTROL metrics] la differenza tra di essi e come aggiungerli alle tabelle e alle visualizzazioni in Analysis Workspace. Inoltre, scopri come aggiungere [!UICONTROL Calculated Metrics] predefinito.
+In questo video, scopri [!UICONTROL dimensions] e [!UICONTROL metrics], la loro differenza e come aggiungerle alle tabelle e alle visualizzazioni in Analysis Workspace. Inoltre, scopri come aggiungere [!UICONTROL Calculated Metrics] pronte all’uso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12)
 
