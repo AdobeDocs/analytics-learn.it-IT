@@ -1,25 +1,23 @@
 ---
 title: Contenitori di segmenti in Adobe Analytics
-description: Questo video mostra come lavorare con i tre diversi tipi di contenitori di segmenti nel Generatore di segmenti di Adobe Analytics.
+description: Quando crei segmenti, i contenitori hit, visita e visitatore controllano la quantità di dati che il segmento conterrà. In questo video, scopri come utilizzare i contenitori e ascolta alcuni esempi di ciascuno di essi.
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2301
+thumbnail: 2301.jpg
 role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 4b195762364148ca1f4affe79f5c9a174761558f
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 6%
+source-wordcount: '90'
+ht-degree: 7%
 
 ---
 
-# [!UICONTROL containers] [!UICONTROL Segment] in Adobe Analytics {#segment-containers-in-adobe-analytics}
+Contenitori di segmenti in Adobe Analytics {#segment-containers-in-adobe-analytics}
 
-Questo video mostra come lavorare con i tre diversi tipi [!UICONTROL segment] [!UICONTROL container] in [!UICONTROL Segment Builder] di Adobe Analytics.
+Quando crei segmenti, i contenitori hit, visita e visitatore controllano la quantità di dati che il segmento conterrà. In questo video, scopri come utilizzare i contenitori e ascolta alcuni esempi di ciascuno di essi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en).
