@@ -1,6 +1,6 @@
 ---
-title: Nozioni di base di Analytics per gli utenti aziendali è stato ritirato
-description: I fondamentali di Analytics per gli utenti aziendali sono stati ritirati per diversi motivi.
+title: Analytics Fundamentals for Business Users è stato ritirato
+description: Analytics Fundamentals for Business Users è stato ritirato per diversi motivi.
 feature: Workspace Basics
 role: User
 level: Beginner
@@ -9,14 +9,14 @@ kt: 9167
 hide: true
 hidefromtoc: true
 source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '191'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
 
-# Nozioni di base di Analytics per gli utenti aziendali è stato ritirato
+# Analytics Fundamentals for Business Users è stato ritirato
 
 Abbiamo ritirato questo corso per diversi motivi, tra cui:
 
@@ -24,15 +24,15 @@ Abbiamo ritirato questo corso per diversi motivi, tra cui:
 * Mancanza di organizzazione globale
 * Il corso originale era troppo ampio
 
-Per tutti questi motivi, abbiamo deciso che sarebbe stato utile a voi, ai nostri meravigliosi clienti, se avessimo riorganizzato, ri-registrato e ri-pubblicato i corsi più specificamente intitolati, in modo da poter sapere esattamente cosa ottenete durante il corso.
+Per tutti questi motivi, abbiamo deciso che per renderlo più utile dovevamo riorganizzare, riregistrare e ripubblicare corsi più specifici e dal titolo più chiaro, che permetta di individuare con esattezza l’argomento trattato.
 
-Se ti trovi in un ruolo di Business User, Business Practioner o altro ruolo simile, ti consigliamo di seguire i seguenti corsi per ottenere le nozioni di base che ti aiuteranno a ottimizzare l’utilizzo di Analysis Workspace:
+Se sei un utente aziendale, un operatore commerciale o rivesti un ruolo simile, ti consigliamo di seguire i corsi elencati di seguito per acquisire le nozioni di base necessarie per utilizzare al meglio Analysis Workspace:
 
-1. [Guida introduttiva di Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
+1. [Guida introduttiva di Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=it)
 1. [Tabelle a forma libera, il fondamento dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-1. [Utilizzo delle visualizzazioni per raccontare le tue storie di dati](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)
-1. [Attribuzione di valore ai punti di contatto digitali nel percorso del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)
+1. [Utilizzo delle visualizzazioni per raccontare le tue storie di dati](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=it)
+1. [Attribuzione di valore ai punti di contatto digitali nel percorso del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it)
 
-Sono disponibili ad Experience League altri corsi relativi a [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) .
+Su Experience League sono disponibili altri corsi relativi ad [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=it).
 
 Grazie!
