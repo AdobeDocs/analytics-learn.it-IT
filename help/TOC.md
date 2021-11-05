@@ -410,4 +410,4 @@ ht-degree: 99%
    + [Impostazione dell’analisi del CAP nel mercato](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Corso universitario su Analytics](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [Nozioni di base di Analytics per gli utenti aziendali è stato ritirato](retired-courses/retire-fundamentals-for-business-users-course.md)
++ [Analytics Fundamentals for Business Users è stato ritirato](retired-courses/retire-fundamentals-for-business-users-course.md)
