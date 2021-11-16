@@ -3,10 +3,10 @@ user-guide-title: Tutorial di Adobe Analytics
 user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
+source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
 workflow-type: tm+mt
-source-wordcount: '2208'
-ht-degree: 99%
+source-wordcount: '2225'
+ht-degree: 98%
 
 ---
 
@@ -87,6 +87,7 @@ ht-degree: 99%
       + [Pannello Quick Insights (Approfondimenti rapidi) in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Utilizzo del pannello Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=it)
       + [Pannello Visualizzatori simultanei di elementi multimediali in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
+      + [Pannello Tempo di riproduzione dei contenuti multimediali](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [Utilizzo dei filtri a discesa](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Utilizzo dei pannelli per organizzare i progetti Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Miglioramenti nella zona di rilascio dei segmenti](analysis-workspace/using-panels/segment-dropzone-improvements.md)
@@ -380,8 +381,9 @@ ht-degree: 99%
       + [Aggiunta di una regola di Launch per l’evento di acquisto](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Summit 2019 Super Session: vendite al dettaglio](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=it)
 + Media Analytics {#media-analytics}
-   + Misurazione di dati vocali o audio {#measuring-voice-or-audio}
-      + [Utilizzo del modello di consumo audio in Analysis Workspace](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
+   + Misurazione di Media Analytics {#measuring-media-analytics}
+      + [Pannello Tempo di riproduzione dei contenuti multimediali](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
+      + [Utilizzo del modello di consumo audio in Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Analytics per app mobili {#mobile-app-analytics}
    + Implementazione {#implementation}
       + [Impostazioni di amministrazione per le app mobili](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
