@@ -3,9 +3,9 @@ user-guide-title: Tutorial di Adobe Analytics
 user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
+source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
 workflow-type: tm+mt
-source-wordcount: '2225'
+source-wordcount: '2231'
 ht-degree: 98%
 
 ---
@@ -293,6 +293,7 @@ ht-degree: 98%
       + [Segmentazione per conteggi di dimensioni distinte](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Modelli di dimensione nella segmentazione](components/segmentation/dimension-models-in-segmentation.md)
       + [Operatore “Equals any of” nella segmentazione](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Webinar Analytics Insider - Strategie di segmentazione del cliente](components/segmentation/customer-segmentation-strategies.md)
    + Metriche calcolate {#calculated-metrics}
       + [Funzione “Approximate count distinct” nelle metriche calcolate](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ nelle metriche calcolate](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=it)
