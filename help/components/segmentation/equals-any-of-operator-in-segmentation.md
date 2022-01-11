@@ -2,15 +2,13 @@
 title: Utilizzo dell’operatore Uguale a qualsiasi operatore nella segmentazione
 description: È stato aggiunto al generatore di segmenti uno qualsiasi degli operatori di segmenti e non è uguale a nessuno di essi. Utilizzare questi operatori per filtrare un elenco di elementi specifici, anziché utilizzare più istruzioni OR o Contains any of. L’utilizzo di questi operatori invece di contiene uno qualsiasi di contribuirà a migliorare anche la velocità della query.
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
+thumbnail: 32960.jpg
 team: Technical Marketing
 kt: 4844
 role: User
 level: Beginner
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 4%
