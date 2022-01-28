@@ -3,10 +3,10 @@ user-guide-title: Tutorial di Adobe Analytics
 user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: 376accf865e72799c0238250ac1e17f000c8d5b5
+source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
 workflow-type: tm+mt
-source-wordcount: '2251'
-ht-degree: 97%
+source-wordcount: '2254'
+ht-degree: 98%
 
 ---
 
@@ -225,16 +225,17 @@ ht-degree: 97%
    + Gestire suite di rapporti {#manage-report-suites}
       + [Come configurare le impostazioni generali dell’account](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personalizzare le impostazioni del calendario](administration/manage-report-suites/customize-calendar-settings.md)
-      + [Configura rilevamento ricerca a pagamento](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [Configurazione di Rilevamento ricerca a pagamento](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Personalizzare i menu in Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
-      + [Manipolazione dei dati in arrivo con le regole di elaborazione](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [Manipolazione dei dati in arrivo con regole di elaborazione](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configurazione delle variabili di traffico (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurare le classificazioni del traffico](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Configurazione delle variabili in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Configurare le classificazioni di conversione](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configurazione delle variabili elenco](administration/manage-report-suites/configuring-list-variables.md)
       + [Configurare i metodi di ricerca](administration/manage-report-suites/configure-finding-methods.md)
       + [Impostare filtri URL interni](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configurazione delle impostazioni del CAP](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Configurazione delle variabili in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Abilitare l’impostazione opzionale Timestamp](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Configurare le regole bot in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Governance dei dati e RGPD {#data-governance-and-gdpr}
