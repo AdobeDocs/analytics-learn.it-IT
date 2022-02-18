@@ -1,6 +1,6 @@
 ---
 title: Impostazioni della tabella coorte
-description: 'Sono disponibili diverse impostazioni della tabella coorte che ti consentono di personalizzare la visualizzazione del livello di fidelizzazione o abbandono. Li vedi evidenziati in questo video. '
+description: 'Diverse impostazioni della tabella coorte consentono di personalizzare la visualizzazione del livello di fidelizzazione o abbandono. Guarda questo video che le descrive. '
 feature: Visualizations
 topics: null
 activity: use
@@ -12,24 +12,24 @@ role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
 source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Cohort Table] Impostazioni
+# Impostazioni [!UICONTROL Cohort Table]
 
-Sono disponibili diverse impostazioni di ¨ che consentono di personalizzare la visualizzazione di [!UICONTROL retention] o [!UICONTROL churn]. Li vedi evidenziati in questo video.
+Diverse impostazioni ¨ consentono di personalizzare la visualizzazione del livello di [!UICONTROL retention] o [!UICONTROL churn]. Guarda questo video che le descrive.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12)
 
-Le personalizzazioni per [!UICONTROL Cohort Table] includono la possibilità di
+Le personalizzazioni di [!UICONTROL Cohort Table] includono la possibilità di
 
-1. Solo percentuali di visualizzazione
-1. Arrotonda le percentuali al numero intero più vicino
-1. Mostra/nascondi una riga di percentuale media nella parte superiore della tabella.
+1. Mostrare solo le percentuali
+1. Arrotondare le percentuali al numero intero più vicino
+1. Mostrare/nascondere una riga con la percentuale media nella parte superiore della tabella.
 
-La riga media è particolarmente utile per visualizzare [!UICONTROL retention] o [!UICONTROL churn] nel complesso, anziché per singole righe [!UICONTROL cohort].
+La riga con la media è particolarmente utile nella visualizzazione complessiva del livello di [!UICONTROL retention] o [!UICONTROL churn], anziché per singole righe di [!UICONTROL cohort].
 
-Per ulteriori informazioni sull&#39;analisi [!UICONTROL cohort], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).
+Per ulteriori informazioni sull’analisi per [!UICONTROL cohort], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=it).
