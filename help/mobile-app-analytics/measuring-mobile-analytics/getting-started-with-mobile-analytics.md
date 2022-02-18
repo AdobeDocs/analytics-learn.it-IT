@@ -1,7 +1,7 @@
 ---
 title: Guida introduttiva di Adobe Mobile Analytics
 description: Scopri come iniziare a utilizzare Adobe Analytics per le app mobili utilizzando i modelli. I modelli standard predefiniti consentono di comprendere il coinvolgimento degli utenti e le metriche delle prestazioni delle app in Analysis Workspace. Inoltre, scopri come personalizzare il tuo progetto mediante l’interfaccia intuitiva basata su semplici operazioni di trascinamento.
-feature: Concetti di base di Workspace
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 80d3545c-3c3c-4003-a92a-39a410c76996
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
