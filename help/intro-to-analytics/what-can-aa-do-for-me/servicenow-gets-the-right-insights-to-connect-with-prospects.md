@@ -1,7 +1,7 @@
 ---
 title: 'Caso di utilizzo di un cliente: ServiceNow ottiene dati importanti per relazionarsi con potenziali clienti'
 description: Scopri come ServiceNow ottiene dati actionable dai suoi canali di marketing e incrementa il Return on Investment (ROI) sugli annunci di ricerca a pagamento con Adobe Advertising Cloud e Adobe Analytics.
-feature: Casi di utilizzo
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
