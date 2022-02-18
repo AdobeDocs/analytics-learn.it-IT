@@ -12,16 +12,16 @@ role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Cohort] Analisi con qualsiasi  [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
+# [!UICONTROL Cohort] Analisi con qualsiasi [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
 
-L’opzione Personalizzato [!UICONTROL Cohort] [!UICONTROL Dimension] consente di analizzare [!UICONTROL cohorts] utilizzando [!UICONTROL dimensions] diverso dal tempo. Confronta [!UICONTROL cohorts] per canale di marketing, area geografica della campagna, pagina prodotto, ecc. per comprendere meglio come [!UICONTROL retention] (o [!UICONTROL churn]) cambia in base a [!UICONTROL dimension] elemento.
+L’opzione [!UICONTROL Cohort] [!UICONTROL Dimension] personalizzata consente di analizzare [!UICONTROL cohorts] utilizzando [!UICONTROL dimensions] diverse dal tempo. Confronto [!UICONTROL cohorts] per canale di marketing, regione della campagna, pagina del prodotto, ecc. per capire meglio come [!UICONTROL retention] (o [!UICONTROL churn]) cambia da oggetto [!UICONTROL dimension].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=it).
