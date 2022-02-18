@@ -1,7 +1,7 @@
 ---
 title: Creazione e manutenzione di un documento SDR
 description: Il documento Solution Design Reference (SDR, riferimento per la progettazione della soluzione) è fondamentalmente il blueprint del sito. In questo video viene illustrato come crearne uno, in combinazione con il documento BRD (Business Requirements Document, documento sui requisiti aziendali), in modo da poter sempre disporre di una fonte affidabile a cui fare riferimento quando si implementa Adobe Analytics e in futuro.
-feature: Nozioni di base sull’implementazione
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: c942e819-0763-4907-adcc-747ec753c407
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '164'
+source-wordcount: '162'
 ht-degree: 100%
 
 ---
