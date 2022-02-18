@@ -1,7 +1,7 @@
 ---
-title: 'Utilizzo delle best practice per il tracciamento delle applicazioni a pagina singola (SPA) in Adobe Analytics '
-description: In questo documento verranno descritte diverse best practice da seguire e di cui tenere conto quando utilizzi Adobe Analytics per monitorare le applicazioni a pagina singola (SPA). Questo documento si concentrerà sull'utilizzo di Experience Platform Launch, che è il metodo di implementazione consigliato.
-feature: Nozioni di base sull’implementazione
+title: 'Best practice per il monitoraggio delle applicazioni a pagina singola (SPA) in Adobe Analytics '
+description: In questo documento verranno descritte alcune best practice da seguire e di cui tenere conto quando utilizzi Adobe Analytics per monitorare le applicazioni a pagina singola (SPA). Questo documento si concentrerà sull’utilizzo di Experience Platform Launch, che è il metodo di implementazione consigliato.
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
@@ -12,32 +12,32 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '1642'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1639'
+ht-degree: 100%
 
 ---
 
-# Utilizzo delle best practice per il tracciamento delle applicazioni a pagina singola (SPA) in Adobe Analytics {#using-best-practices-when-tracking-spa-in-adobe-analytics}
+# Best practice per il monitoraggio delle applicazioni a pagina singola (SPA) in Adobe Analytics {#using-best-practices-when-tracking-spa-in-adobe-analytics}
 
-In questo documento verranno descritte diverse best practice da seguire e di cui tenere conto quando utilizzi Adobe Analytics per monitorare le applicazioni a pagina singola (SPA). Questo documento si concentrerà sull&#39;utilizzo dell&#39;Adobe [!DNL Experience Platform Launch], che è il metodo di implementazione consigliato.
+In questo documento verranno descritte alcune best practice da seguire e di cui tenere conto quando utilizzi Adobe Analytics per monitorare le applicazioni a pagina singola (SPA). Questo documento si concentrerà sull’utilizzo di Adobe [!DNL Experience Platform Launch], che è il metodo di implementazione consigliato.
 
 NOTE INIZIALI:
 
-* Gli elementi seguenti presupporranno l&#39;utilizzo di [!DNL Experience Platform Launch] per l&#39;implementazione sul sito. Le considerazioni esistono ancora se non utilizzi [!DNL Experience Platform Launch], ma dovrai adattarle al metodo di implementazione.
-* Tutte le SPA sono diverse, quindi potrebbe essere necessario modificare alcuni dei seguenti elementi per soddisfare al meglio le tue esigenze, ma abbiamo voluto condividere alcune best practice con te; cose a cui devi pensare durante l’implementazione di Adobe Analytics sulle pagine SPA.
+* Gli elementi riportati di seguito presuppongono l’uso di [!DNL Experience Platform Launch] per l’implementazione sul sito. Le considerazioni sono valide anche se non utilizzi [!DNL Experience Platform Launch], ma dovrai adattarle al tuo metodo di implementazione.
+* Tutte le applicazioni a pagina singola sono diverse, quindi potrebbe essere necessario modificare alcuni dei seguenti elementi per soddisfare al meglio le tue esigenze. Abbiamo comunque voluto raccogliere alcune best practice che riguardano aspetti da tenere presenti quando si implementa Adobe Analytics nelle pagine di applicazioni a pagina singola.
 
-## Diagramma semplice del lavoro con SPA in [!DNL Experience Platform Launch] {#simple-diagram-of-working-with-spas-in-launch}
+## Diagramma semplice dell’uso delle applicazioni a pagina singola in [!DNL Experience Platform Launch] {#simple-diagram-of-working-with-spas-in-launch}
 
-![spa per analytics in launch](assets/spa_for_analyticsinlaunch.png)
+![applicazioni a pagina singola per analytics in launch](assets/spa_for_analyticsinlaunch.png)
 
-**NOTA:** come indicato, si tratta di un diagramma semplificato per la gestione delle pagine SPA in un’implementazione Adobe Analytics utilizzando  [!DNL Experience Platform Launch]. Nelle seguenti sezioni di questa pagina, discuteremo i passaggi e tutti i problemi che dovresti considerare attentamente o su cui devi agire.
+**NOTA:** come indicato, si tratta di un diagramma semplificato del modo in cui le pagine di applicazioni a pagina singola vengono gestite in un’implementazione di Adobe Analytics utilizzando [!DNL Experience Platform Launch]. Nelle seguenti sezioni di questa pagina, vengono trattati i passaggi ed eventuali problemi che dovresti considerare attentamente o su cui potresti dover intervenire.
 
 ## Impostazione del livello dati {#setting-the-data-layer}
 
-Quando un nuovo contenuto viene caricato su una pagina SPA o quando un’azione viene eseguita su una pagina SPA, una delle prime operazioni da eseguire è aggiornare il livello dati. Questo deve accadere PRIMA che l&#39;evento personalizzato attivi e attivi regole in [!DNL Experience Platform Launch], in modo che [!DNL Experience Platform Launch] possa raccogliere i nuovi valori dal livello dati e inviarli in Adobe Analytics.
+Quando si caricano nuovi contenuti o si esegue un’azione sulla pagina di un’applicazione a pagina singola, una delle prime operazioni da eseguire è aggiornare il livello dati. Questo deve accadere PRIMA che l’evento personalizzato si avvii e attivi regole in [!DNL Experience Platform Launch], affinché [!DNL Experience Platform Launch] possa raccogliere i nuovi valori dal livello dati e inviarli in Adobe Analytics.
 
-Di seguito è riportato un livello di dati di esempio, i cui elementi possono essere modificati in seguito a una modifica della visualizzazione o a un’azione sul SPA. Ad esempio, in caso di modifica a schermo intero/a maggioranza, è comune modificare un elemento &quot;[!DNL pageName]&quot; in modo che il nuovo possa essere acquisito in [!DNL Experience Platform Launch] e inviato in Adobe Analytics.
+Di seguito è riportato un livello dati di esempio, i cui elementi possono essere modificati in seguito a una modifica della visualizzazione o a un’azione nell’applicazione a pagina singola. Ad esempio, per una modifica che coinvolge tutta la schermata o quasi, può essere opportuno modificare un elemento “[!DNL pageName]” in modo che il nuovo elemento possa essere acquisito in [!DNL Experience Platform Launch] e inviato ad Adobe Analytics.
 
 ```JavaScript
 <script>
@@ -75,70 +75,70 @@ Di seguito è riportato un livello di dati di esempio, i cui elementi possono es
 
 ## Impostazione di eventi personalizzati e ascolto in [!DNL Experience Platform Launch] {#setting-custom-events-and-listening-in-launch}
 
-Quando un nuovo contenuto viene caricato sulla pagina o quando si verifica un&#39;azione sul sito, è necessario informare [!DNL Experience Platform Launch] in modo che possa eseguire una regola e inviare dati a [!DNL Analytics]. Ci sono un paio di modi diversi per farlo: [!UICONTROL Direct Call] [!UICONTROL rules] o Eventi personalizzati.
+Quando un nuovo contenuto viene caricato sulla pagina o quando si verifica un’azione sul sito, è necessario informare [!DNL Experience Platform Launch] affinché possa eseguire una regola e inviare i dati a [!DNL Analytics]. Esistono due modi diversi per farlo: tramite [!UICONTROL rules] [!UICONTROL Direct Call] o Eventi personalizzati.
 
-* [!UICONTROL Direct Call] [!UICONTROL Rules]: in  [!DNL Experience Platform Launch], puoi impostare un  [!UICONTROL direct call] [!UICONTROL rule] che viene eseguito quando viene chiamato direttamente dalla pagina. Se il caricamento della pagina o l&#39;azione sul sito è molto semplice o se è univoco e può eseguire un set specifico di istruzioni ogni volta (impostare [!DNL eVar4] su X e attivare [!DNL event2] ogni volta), puoi utilizzare un [!UICONTROL direct call] [!UICONTROL rule]. Consulta la documentazione [!DNL Experience Platform Launch] relativa alla creazione di [!UICONTROL direct call] [!UICONTROL rules] .
-* Eventi personalizzati: Per ulteriori funzionalità e per la possibilità di allegare dinamicamente un payload con valori diversi, è necessario impostare eventi JavaScript personalizzati e ascoltarli in [!DNL Experience Platform Launch], dove è possibile utilizzare il payload per impostare le variabili e inviare i dati in Adobe Analytics. È più probabile che questa funzionalità sia necessaria, quindi questa opzione è considerata la best practice. Tuttavia, ogni funzione sul sito può determinare quale sarà il metodo più appropriato. In questo documento si procederà partendo dal presupposto che sarà necessario utilizzare questo metodo di eventi personalizzati.
+*  [!UICONTROL Rules] [!UICONTROL Direct Call]: in [!DNL Experience Platform Launch] puoi impostare una [!UICONTROL rule] [!UICONTROL direct call] che viene eseguita quando viene chiamata direttamente dalla pagina. Se il caricamento della pagina o l’azione sul sito è molto semplice o se è univoco e può eseguire ogni volta un set di istruzioni specifico (imposta [!DNL eVar4] su X e attiva [!DNL event2] ogni volta), puoi utilizzare una [!UICONTROL rule] [!UICONTROL direct call]. Vedi la documentazione di [!DNL Experience Platform Launch] relativa alla creazione di [!UICONTROL rules] [!UICONTROL direct call].
+* Eventi personalizzati: per ulteriori funzionalità e per la possibilità di allegare dinamicamente un payload con valori diversi, è necessario impostare eventi JavaScript personalizzati e ascoltarli in [!DNL Experience Platform Launch], dove puoi utilizzare il payload per impostare le variabili e inviare i dati ad Adobe Analytics. È più probabile che questa funzionalità sia necessaria, quindi questa opzione è considerata la best practice. Tuttavia, il metodo più appropriato dipende dalle funzioni specifiche del tuo sito. Per questo documento, si partirà dal presupposto che sia necessario utilizzare questo metodo con eventi personalizzati.
 
-**Esempi:** nel documento  [](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html) ThisHelp sono presenti collegamenti a siti di SPA di esempio che sono stati implementati  [!DNL Analytics] (e altre soluzioni Experience Cloud), nonché documenti che descrivono ciò che è stato implementato. In questi SPA esempi sono stati utilizzati i seguenti eventi personalizzati:
+**Esempi:** in [QUESTO](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html?lang=it) documento dell’Aiuto trovi i link a siti basati su applicazioni a pagina singola di esempio in cui è implementato [!DNL Analytics] (oltre ad altre soluzioni Experience Cloud), nonché i documenti che descrivono ciò che è stato implementato. In questi esempi di applicazioni a pagina singola sono stati utilizzati i seguenti eventi personalizzati:
 
-* [!DNL event-view-start]: Questo evento deve essere attivato all&#39;inizio della visualizzazione o dello stato che si sta caricando.
-* [!DNL event-view-end]: Questo evento deve essere attivato anche quando si è verificata una modifica della visualizzazione o dello stato e il caricamento di tutti i componenti SPA sulla pagina è terminato. Questo è l’evento che in genere attiva una chiamata ad Adobe Analytics.
-* [!DNL event-action-trigger]: Questo evento deve essere attivato quando si verifica un evento sulla pagina ad eccezione del caricamento visualizzazione/stato. Potrebbe trattarsi di un evento clic o di una modifica del contenuto più piccola senza una modifica della visualizzazione.
+* [!DNL event-view-start]: questo evento deve essere attivato all’inizio della visualizzazione o dello stato che si sta caricando.
+* [!DNL event-view-end]: questo evento deve essere attivato anche quando si è verificata una modifica della visualizzazione o dello stato ed è stato completato il caricamento di tutti i componenti dell’applicazione a pagina singola. Questo è l’evento che in genere attiva una chiamata ad Adobe Analytics.
+* [!DNL event-action-trigger]: questo evento deve essere attivato quando si verifica un evento sulla pagina, ad eccezione del caricamento di una visualizzazione o uno stato. Potrebbe trattarsi di un evento clic o di una modifica minore del contenuto, che non comporta una modifica della visualizzazione.
 
-Per ulteriori informazioni su come/quando vengono attivate, consulta le pagine/documenti di cui sopra. Non è necessario utilizzare gli stessi nomi di evento, ma la funzionalità riportata di seguito è la best practice consigliata. Il video seguente mostra un sito di esempio e dove in [!DNL Experience Platform Launch] per ascoltare gli eventi personalizzati.
+Per ulteriori informazioni su come/quando vengono attivati, consulta le pagine o i documenti menzionati sopra. Non è necessario utilizzare gli stessi nomi di evento, ma la funzionalità indicata qui è la best practice consigliata. Il video seguente mostra un sito di esempio e la posizione in [!DNL Experience Platform Launch] per l’ascolto degli eventi personalizzati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
 
-## Esecuzione di s.t() o s.tl() in [!DNL Experience Platform Launch] [!UICONTROL Rule] {#running-s-t-or-s-tl-in-the-launch-rule}
+## Esecuzione di s.t() o s.tl() nella [!UICONTROL Rule] di [!DNL Experience Platform Launch] {#running-s-t-or-s-tl-in-the-launch-rule}
 
-Una delle cose più importanti da comprendere per [!DNL Analytics] quando si lavora con un SPA è la differenza tra `s.t()` e `s.tl()`. Verrà attivato uno di questi metodi in [!DNL Experience Platform Launch] per inviare dati a [!DNL Analytics], ma è necessario sapere quando inviarli.
+Una delle cose più importanti da capire per [!DNL Analytics] quando si lavora con un’applicazione a pagina singola è la differenza tra `s.t()` e `s.tl()`. Verrà attivato uno di questi metodi in [!DNL Experience Platform Launch] per inviare dati in [!DNL Analytics], ma è importante sapere quando inviarli.
 
-* **s.t()**  - La &quot;t&quot; sta per &quot;track&quot; ed è una normale visualizzazione di pagina. Anche se l&#39;URL potrebbe non cambiare, la visualizzazione cambia abbastanza da *considerare* una nuova &quot;pagina&quot;? In tal caso, imposta la variabile s.[!DNL pageName] e utilizza `s.t()` per inviare la chiamata a [!DNL Analytics]
+* **s.t()** - La “t” sta per “track” ed è una normale visualizzazione pagina. Anche se l’URL non cambia, la visualizzazione è sufficientemente diversa da poter essere *considerata* come una nuova “pagina”? In tal caso, imposta la variabile s.[!DNL pageName] e utilizza `s.t()` per inviare la chiamata a [!DNL Analytics]
 
-* **s.tl()**  - Il &quot;tl&quot; sta per &quot;tracciamento collegamento&quot; e viene normalmente utilizzato per tracciare clic o piccole modifiche di contenuto sulla pagina, invece di una modifica a schermo intero. Se la modifica sulla pagina è piccola, in modo da non considerarla una nuova &quot;pagina&quot; completa, utilizza `s.tl()` e non preoccuparti di impostare la variabile s.pageName, in quanto [!DNL Analytics] la ignorerà.
+* **s.tl()** - “tl” sta per “track link” e viene normalmente utilizzato per monitorare i clic o le piccole modifiche al contenuto della pagina, anziché una modifica che interessa l’intera schermata. Se la modifica sulla pagina è piccola, tale da non essere considerata come una nuova “pagina” completa, utilizza `s.tl()` e non preoccuparti di impostare la variabile s.pageName poiché [!DNL Analytics] la ignorerà.
 
-**SUGGERIMENTO:** alcune persone utilizzano una linea guida generale che indica che se la schermata cambia di oltre il 50%, deve essere considerata una visualizzazione di pagina e utilizzata  `s.t()`. Se la modifica allo schermo è inferiore al 50%, utilizza `s.tl()`. Tuttavia, dipende interamente da te e da cosa consideri una nuova &quot;pagina&quot; e come desideri monitorare il tuo sito in Adobe Analytics.
+**SUGGERIMENTO:** una linea guida generale seguita da alcuni utenti prevede che, se la schermata cambia di oltre il 50%, deve essere trattata come una visualizzazione pagina e richiede quindi l’utilizzo di `s.t()`. Se la modifica della schermata è inferiore al 50%, si utilizza invece `s.tl()`. Tuttavia, dipende interamente da te, da cosa consideri una nuova “pagina” e come desideri eseguire il tracciamento nel tuo sito in Adobe Analytics.
 
-Il video seguente mostra dove/come attivare `s.t()` o `s.tl()` in Launch by Adobe.
+Il video seguente mostra dove e come attivare `s.t()` o `s.tl()` in Experience Platform Launch.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
 
 ## Cancellazione delle variabili {#clearing-variables}
 
-Quando monitori il tuo sito con Adobe Analytics, ovviamente desideri solo inviare i dati giusti in [!DNL Analytics] al momento giusto. In un ambiente SPA, un valore tracciato in una variabile [!DNL Analytics] può persistere e essere reinviato in [!DNL Analytics], potenzialmente quando non lo desideri più. Per questo motivo, esiste una funzione nell&#39;estensione [!DNL Analytics] [!DNL Launch] per cancellare le variabili, in modo da avere una nuova ardesia quando esegui la richiesta di immagine successiva e invii dati in [!DNL Analytics].
+Quando esegui il tracciamento nel tuo sito con Adobe Analytics, vorrai ovviamente inviare ad [!DNL Analytics] solo i dati giusti al momento giusto. In un ambiente con applicazioni a pagina singola, un valore tracciato in una variabile di [!DNL Analytics] può persistere ed essere inviato nuovamente in [!DNL Analytics], anche se magari non serve più. Per questo motivo, nell’estensione [!DNL Analytics] di [!DNL Launch] esiste una funzione che consente di cancellare le variabili, in modo da ricominciare da zero quando si esegue la richiesta di immagine successiva e si inviano i dati ad [!DNL Analytics].
 
-Nel diagramma precedente, lo abbiamo elencato alla fine del processo, cancellando le variabili *dopo* che invii l&#39;hit. In realtà può essere eseguito prima o dopo l’invio dell’hit, ma deve essere coerente nelle regole [!DNL Experience Platform Launch], in modo da cancellare sempre prima o dopo l’impostazione delle variabili e l’invio delle stesse. Ricorda che se vuoi cancellare le variabili *prima* esegui `s.t()`, assicurati di cancellare prima le variabili, quindi di impostare le nuove variabili e infine di inviare i nuovi dati in [!DNL Analytics].
+Nel diagramma precedente, è riportata alla fine del processo affinché le variabili vengono cancellate *dopo* che l’invio dell’hit. In realtà può essere eseguita prima o dopo l’invio dell’hit, purché sia coerente nelle regole di [!DNL Experience Platform Launch]: la cancellazione dovrà avvenire sempre prima o sempre dopo l’impostazione e l’invio delle variabili. Se vuoi cancellare le variabili *prima* di eseguire `s.t()`, assicurati di cancellare prima le variabili, quindi imposta le nuove variabili e infine invia i nuovi dati ad [!DNL Analytics].
 
-**NOTA:** la cancellazione delle variabili non è sempre necessaria durante l’esecuzione  `s.tl()`, perché  `s.tl()` richiede l’utilizzo della  [!DNL linkTrackVars] variabile accanto a essa ogni volta per sapere  [!DNL Analytics] quali variabili saranno impostate (aggiunta automatica dietro le quinte in  [!DNL Experience Platform Launch]). Questo significa che le variabili erranti di solito non vengono incluse quando si utilizza `s.tl()`, ma è molto consigliato quando si utilizza `s.t()` in un ambiente SPA. Detto questo, vorrei raccomandare come best practice l&#39;utilizzo della funzione Clear Variables sia per `s.t()` che per `s.tl()` in un ambiente SPA, solo per garantire una raccolta di dati di qualità.
+**NOTA:** la cancellazione delle variabili non è sempre necessaria quando si esegue `s.tl()` perché `s.tl()` richiede anche l’utilizzo della variabile [!DNL linkTrackVars] ogni volta per indicare ad [!DNL Analytics] quali variabili verranno impostate (aggiunte automaticamente dietro le quinte in [!DNL Experience Platform Launch]). Pertanto, le variabili erranti di solito non vengono incluse quando si utilizza `s.tl()`, ma è molto consigliato che lo siano se si utilizza `s.t()` in un ambiente con applicazioni a pagina singola. Detto questo, è consigliabile adottare come best practice l’utilizzo della funzione di cancellazione delle variabili sia per `s.t()` che per `s.tl()` in un ambiente per applicazioni a pagina singola, per garantire una raccolta di dati di qualità.
 
-Il video seguente mostra dove/come cancellare le variabili in [!DNL Launch].
+Il video seguente mostra dove e come cancellare le variabili in [!DNL Launch].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
 
 ## Considerazioni aggiuntive {#additional-considerations}
 
-### Finestre del codice personalizzato in [!DNL Experience Platform Launch] {#custom-code-windows-in-launch}
+### Finestre per codice personalizzato in [!DNL Experience Platform Launch] {#custom-code-windows-in-launch}
 
-Nell&#39;estensione [!DNL Launch] [!DNL Analytics] sono disponibili due posizioni in cui è possibile inserire codice personalizzato: La sezione [!UICONTROL library management] e la sezione &quot;[!UICONTROL Configure Tracker Using Custom Code]&quot; aggiuntiva.
+Nell’estensione [!DNL Analytics] di [!DNL Launch] puoi inserire codice personalizzato in due luoghi: nella sezione [!UICONTROL library management] e nella sezione aggiuntiva “[!UICONTROL Configure Tracker Using Custom Code]”.
 
-![Finestra del codice personalizzato di Launch Analytics](assets/launch_analyticscustomcodewindows.png)
+![Finestre per codice personalizzato di Analytics per Launch](assets/launch_analyticscustomcodewindows.png)
 
-È importante sapere che una di queste posizioni eseguirà il codice solo una volta, quando il caricamento iniziale della pagina avviene sulla pagina SPA. Se hai bisogno che il codice venga eseguito su una modifica della visualizzazione o su un&#39;azione sul tuo sito, devi aggiungere un&#39;azione aggiuntiva alla **[!UICONTROL rule]** appropriata (ad esempio nel &quot;caricamento della pagina: event-view-end&quot; [!UICONTROL rule]), in modo che il codice venga eseguito ogni volta che [!UICONTROL rule] viene eseguito. Quando crei tale azione in [!UICONTROL rule], imposta *Estensione = Core* e *Tipo azione = Codice personalizzato*.
+È importante sapere che in entrambe queste posizioni il codice verrà eseguito solo una volta, quando il caricamento iniziale della pagina avviene sulla pagina dell’applicazione a pagina singola. Se il codice deve essere eseguito quando cambia la visualizzazione o quando si esegue una specifica azione sul sito, devi aggiungere un’ulteriore azione alla **[!UICONTROL rule]** appropriata (ad esempio, nella [!UICONTROL rule] “page load: event-view-end”), in modo che il codice venga eseguito ogni volta che viene eseguita tale [!UICONTROL rule]. Quando crei tale azione nella [!UICONTROL rule], imposta *Extension = Core* e *Action Type = Custom Code*.
 
-### Siti SPA/regolari &quot;ibridi&quot; {#hybrid-spa-regular-sites}
+### Siti ibridi regolari e con applicazione a pagina singola {#hybrid-spa-regular-sites}
 
-Alcuni siti sono una combinazione di pagine &quot;regolari&quot; e pagine SPA. In questo caso, dovrai utilizzare una strategia che funzioni per entrambi i tipi di pagina. Durante la configurazione degli eventi personalizzati sul sito e l’attivazione delle regole in [!DNL Experience Platform Launch], assicurati che non ci siano doppi hit che entrano in [!DNL Analytics] dalla pagina, in base a modifiche hash e così via. (in questo modo hai scelto di attivare la regola [!DNL Experience Platform Launch]). In questo caso, sarà necessario eliminare una delle visualizzazioni di pagina in modo che non fornisca dati errati in Adobe Analytics.
+Alcuni siti contengono una combinazione di pagine “regolari” e pagine da applicazioni a pagina singola. In tali situazioni, dovrai utilizzare una strategia che funzioni per entrambi i tipi di pagina. Quando configuri gli eventi personalizzati sul sito e attivi le regole in [!DNL Experience Platform Launch], fai attenzione a che non finiscano doppi hit in [!DNL Analytics] dalla pagina, in base a modifiche hash, ecc. (se è così che hai scelto di attivare la regola [!DNL Experience Platform Launch]). In questo caso, dovrai eliminare una delle visualizzazioni di pagina affinché non fornisca dati errati ad Adobe Analytics.
 
-Se decidi di suddividere la funzionalità in [!UICONTROL rules] separate in modo da avere un maggiore controllo su di essa, ricorda/documenta di aver eseguito questa operazione, in modo che tutte le modifiche apportate a una [!UICONTROL rule] possano essere apportate anche all&#39;altra [!UICONTROL rule], proteggendo l&#39;integrità dei dati [!DNL Analytics].
+Se decidi di suddividere la funzionalità in [!UICONTROL rules] separate in modo da avere più controllo su di essa, assicurati di ricordare/documentare questa operazione: così le modifiche apportate a una [!UICONTROL rule] potranno essere apportate anche all’altra [!UICONTROL rule], per proteggere l’integrità dei dati di [!DNL Analytics].
 
 ### Integrazione con [!DNL Target] tramite A4T {#integration-with-target-via-a4t}
 
-Solo un rapido callout. Se esegui l’integrazione con [!DNL Target] utilizzando A4T, assicurati che la richiesta [!DNL Target] e la richiesta [!DNL Analytics] sulla stessa modifica di visualizzazione abbiano lo stesso SDID. In questo modo i dati verranno sincronizzati correttamente sulle soluzioni.
+Solo un rapido callout. Se esegui l’integrazione con [!DNL Target] tramite A4T, assicurati che la richiesta di [!DNL Target] e quella di [!DNL Analytics] per lo stesso cambiamento di visualizzazione abbiano lo stesso SDID. In questo modo i dati verranno sincronizzati correttamente tra le due soluzioni.
 
-Per visualizzare gli hit, utilizza un programma di debug o packet sniffer. Puoi anche utilizzare il Experience Cloud Debugger, un&#39;estensione Chrome che può essere scaricata [QUI](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj). [!DNL Target] dovrebbe essere attivato per primo sulla pagina, in modo da poter controllare anche nella console JavaScript o nel debugger.
+Per visualizzare gli hit, utilizza un programma di debug o packet sniffing. Puoi anche utilizzare Experience Cloud Debugger, un’estensione per Chrome che puoi scaricare [QUI](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj). [!DNL Target] deve essere attivato prima sulla pagina, e puoi verificare anche questo nella console JavaScript o nel debugger.
 
 ## Risorse aggiuntive {#additional-resources}
 
-* [SPA discussione sui forum Adobi](https://forums.adobe.com/thread/2451022)
-* [Siti dell’architettura di riferimento per mostrare come implementare SPA in Experience Platform Launch](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* [Discussione su applicazioni a pagina singola nei forum Adobe](https://forums.adobe.com/thread/2451022)
+* [Architettura di riferimento per mostrare come implementare applicazioni a pagina singola in Experience Platform Launch](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html?lang=it)
