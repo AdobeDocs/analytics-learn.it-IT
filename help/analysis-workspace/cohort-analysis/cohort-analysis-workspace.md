@@ -1,6 +1,6 @@
 ---
-title: Analisi per coorte in Analysis Workspace
-description: Come creare una tabella di analisi per coorte in Analysis Workspace.
+title: Analisi di coorte in Analysis Workspace
+description: Come creare una tabella di analisi di coorte in Analysis Workspace.
 feature: Visualizations
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User
 level: Intermediate
 exl-id: eec26e68-eed9-47b5-8ebf-26a1f6c28d40
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Cohort] Analisi in Analysis Workspace {#cohort-analysis-in-analysis-workspace}
+# Analisi [!UICONTROL Cohort] in Analysis Workspace {#cohort-analysis-in-analysis-workspace}
 
-Come creare una tabella di analisi [!UICONTROL cohort] in Analysis Workspace.
+Come creare una tabella di analisi di [!UICONTROL cohort] in Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=it).
