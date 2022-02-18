@@ -1,23 +1,23 @@
 ---
-title: Manipolazione dei dati in arrivo con le regole di elaborazione
-description: Può essere molto utile manipolare i dati che entrano nelle suite di rapporti, per aggiungere o modificare i dati in base a ciò che già scorre. Questo video offre una panoramica delle regole di elaborazione in Adobe Analytics e illustra i motivi per cui vengono utilizzate. Include anche alcuni suggerimenti, esempi e persino un avviso.
+title: Manipolazione dei dati in entrata con le regole di elaborazione
+description: Può essere molto utile intervenire sui dati inseriti nelle suite di rapporti, per aggiungerli o modificarli in base a quelli in arrivo. Questo video offre una panoramica delle regole di elaborazione in Adobe Analytics e ne illustra le modalità di utilizzo. Include anche alcuni suggerimenti, esempi e persino un’avvertenza.
 feature: Processing Rules
 role: Admin
 level: Intermediate
 doc-type: feature video
 thumbnail: 339440.jpg
 kt: 9529
-source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
-workflow-type: tm+mt
+exl-id: 630864be-b60e-4ed0-b675-77bd20567ec1
+source-git-commit: b6ba0e9a2291e30cb0ac979bbac79714dc981fca
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
+# Manipolazione dei dati in entrata con le regole di elaborazione
 
-# Manipolazione dei dati in arrivo con le regole di elaborazione
-
-Può essere molto utile manipolare i dati che entrano nelle suite di rapporti, per aggiungere o modificare i dati in base a ciò che già scorre. Questo video offre una panoramica delle regole di elaborazione in Adobe Analytics e illustra i motivi per cui vengono utilizzate. Include anche alcuni suggerimenti, esempi e persino un avviso.
+Può essere molto utile intervenire sui dati inseriti nelle suite di rapporti, per aggiungerli o modificarli in base a quelli in arrivo. Questo video offre una panoramica delle regole di elaborazione in Adobe Analytics e ne illustra le modalità di utilizzo. Include anche alcuni suggerimenti, esempi e persino un’avvertenza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
 
