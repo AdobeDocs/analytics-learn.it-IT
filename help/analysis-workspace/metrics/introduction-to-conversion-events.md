@@ -1,7 +1,7 @@
 ---
 title: Introduzione agli eventi di conversione
-description: In questo video, ottieni un’introduzione agli "eventi" di conversione o alla variabile che aiuta a monitorare le conversioni sul tuo sito (ad esempio ordini, iscrizioni, registrazioni, completamenti del modulo, ecc.)
-feature: Metriche
+description: Questo video offre un’introduzione agli “eventi” di conversione ovvero le variabili che consentono di tenere traccia delle conversioni nel sito. Ad esempio ordini, iscrizioni, registrazioni, compilazioni di moduli e altro ancora.
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: 3f2876fe-d7da-47d3-a23d-0d8f790f7f5b
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 14%
+workflow-type: ht
+source-wordcount: '62'
+ht-degree: 100%
 
 ---
 
 # Introduzione agli eventi di conversione
 
-In questo video, ottieni un’introduzione agli &quot;eventi&quot; di conversione o alla variabile che aiuta a monitorare le conversioni sul tuo sito (ad esempio ordini, iscrizioni, registrazioni, completamenti del modulo, ecc.)
+Questo video offre un’introduzione agli “eventi” di conversione ovvero le variabili che consentono di tenere traccia delle conversioni nel sito. Ad esempio ordini, iscrizioni, registrazioni, compilazioni di moduli e altro ancora.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12)
