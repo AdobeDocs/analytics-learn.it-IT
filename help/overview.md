@@ -10,7 +10,7 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '288'
 ht-degree: 100%
 
@@ -60,7 +60,7 @@ Benvenuto/a nel sito dei tutorial di [!DNL Analytics].  Segui questi tutorial e 
   </td>
    <td>
     <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
-      <img alt="Modello delle esercitazioni di formazione in Analysis Workspace" src="assets/33773.jpg" />
+      <img alt="Modello per tutorial di formazione in Analysis Workspace" src="assets/33773.jpg" />
     </a>
     <div>
       <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
