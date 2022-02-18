@@ -1,7 +1,7 @@
 ---
 title: Gestione dei componenti in Analysis Workspace
 description: Puoi gestire dimensioni, segmenti, metriche e intervalli di date direttamente in Analysis Workspace. Non è necessario uscire dal progetto mentre trovi un segmento da condividere.
-feature: Concetti di base di Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 6778e714-3fe9-479f-aacd-d1e702e2c584
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '63'
+source-wordcount: '61'
 ht-degree: 100%
 
 ---
