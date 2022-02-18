@@ -1,7 +1,7 @@
 ---
 title: Come identificare il server di tracciamento di Analytics e le suite di rapporti
 description: Quando si configura Adobe Analytics, o quando vi si fa riferimento in altre soluzioni Experience Cloud, spesso è utile o addirittura necessario conoscere il “server di tracciamento” di Analytics in uso, o anche la “suite di rapporti” in cui si inviano i dati. Questo video illustra come individuare entrambi i valori, indipendentemente dal fatto che Adobe Analytics sia già stato implementato.
-feature: Nozioni di base sull’implementazione
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '290'
+source-wordcount: '288'
 ht-degree: 100%
 
 ---
