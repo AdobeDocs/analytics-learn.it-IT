@@ -1,6 +1,6 @@
 ---
 title: Configurazione della gestione della libreria per Analytics
-description: Se hai appena iniziato con l’estensione Experience Platform Launch per Adobe Analytics, questo video può aiutarti con la parte di gestione della libreria della configurazione, inclusa la selezione delle suite di rapporti in cui desideri inviare i dati.
+description: Se hai appena iniziato a utilizzare l’estensione Experience Platform Launch per Adobe Analytics, questo video può aiutarti con la parte della configurazione che riguarda la gestione della libreria, inclusa la selezione delle suite di rapporti in cui desideri inviare i dati.
 feature: Launch Implementation
 topics: null
 activity: implement
@@ -11,22 +11,22 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
 source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Configurazione di [!UICONTROL Library Management] per [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
+# Configurazione della [!UICONTROL Library Management] per [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
 
-Se hai appena iniziato con Experience Platform Launch e Adobe Analytics [!UICONTROL Extension], questo video può aiutarti con [!UICONTROL Library Management], inclusa la selezione di [!UICONTROL report suites] in cui inviare i dati.
+Se hai appena iniziato a utilizzare Experience Platform Launch e l’[!UICONTROL Extension] di Adobe Analytics, questo video può aiutarti con la [!UICONTROL Library Management], compresa la selezione delle [!UICONTROL report suites] in cui inviare i dati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
 
 Per ulteriori informazioni sugli aspetti di questo caso d’uso, consulta i seguenti argomenti della documentazione:
 
-[CAP e codice postale](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
+[CAP e codice postale](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=it)
 
-[Classificazioni](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
+[Classificazioni](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=it)
 
-[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html?lang=it)
