@@ -11,13 +11,13 @@ role: User
 level: Intermediate
 exl-id: eccd24d8-ed55-49db-894c-ef31de891728
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# Sessioni in base al contesto in [!UICONTROL Virtual Report Suites] {#context-aware-sessions-in-virtual-report-suites}
+# Sessioni in base al contenuto nelle [!UICONTROL Virtual Report Suites] {#context-aware-sessions-in-virtual-report-suites}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12)
 
@@ -27,4 +27,4 @@ Sezioni in questo video:
 
 2:45 - Utilizzo di VRS in Analysis Workspace
 
-Per ulteriori informazioni su questa funzione, visita la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=en).
+Per ulteriori informazioni su questa funzione, consulta [la documentazione](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=it).
