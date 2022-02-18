@@ -1,7 +1,7 @@
 ---
 title: Creazione di nuovi progetti Analysis Workspace
 description: Questo video illustra come usare la finestra modale Nuovo progetto di Analysis Workspace per creare un progetto da un’area di lavoro vuota, da un modello standard Adobe o da un modello personalizzato. Puoi anche cercare e ordinare i modelli nella finestra modale in base alle tue esigenze.
-feature: Progetti
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 7d0bacb3-9b4d-4723-8a64-6e4fdf5d3c78
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '110'
+source-wordcount: '109'
 ht-degree: 100%
 
 ---
