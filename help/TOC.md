@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
 workflow-type: tm+mt
 source-wordcount: '2254'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 98%
    + Personalizzazione dell’interfaccia utente {#customizing-the-ui}
       + [Preferenze utente in Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Aggiunta delle descrizioni di dimensioni e metriche](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Utilizzo delle palette Colore personale in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
+      + [Utilizzo delle palette di colori personalizzate in Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [Estensione contagocce colore per definire palette personalizzate](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
       + [Personalizzazione del menu in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [Miglioramento della sicurezza in Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
@@ -48,7 +48,7 @@ ht-degree: 98%
       + [Estensione modalità scura per Analysis Workspace](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
    + Assistenza {#getting-help}
       + [Suggerimenti in Analysis Workspace](intro-to-analytics/getting-help/in-product-tips.md)
-      + [Invio di una richiesta di assistenza direttamente del prodotto](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
+      + [Invio di una richiesta di assistenza direttamente dal prodotto](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
       + [Come trovare assistenza in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Concetti di base di Analysis Workspace {#analysis-workspace-basics}
@@ -71,7 +71,7 @@ ht-degree: 98%
       + [Suggerimenti dei clienti per continuare il percorso di apprendimento di Adobe Analytics](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navigazione nei progetti Workspace {#navigating-workspace-projects}
       + [Avvio del primo progetto in Analysis Workspace](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Modello delle esercitazioni di formazione in Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Modello per tutorial di formazione in Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Copiare e inserire in Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Creazione di un sommario](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Fare clic con il pulsante destro del mouse per migliorare l’efficienza di Workspace](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
@@ -84,10 +84,10 @@ ht-degree: 98%
       + [Utilizzo dei filtri (tag) nella barra a sinistra](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + Utilizzo dei pannelli {#using-panels}
       + [Utilizzo di tabelle, visualizzazioni e pannelli in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
-      + [Pannello Quick Insights (Approfondimenti rapidi) in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
+      + [Pannello Quick Insights in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Utilizzo del pannello Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=it)
       + [Pannello Visualizzatori simultanei di elementi multimediali in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
-      + [Pannello Tempo di riproduzione dei contenuti multimediali](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
+      + [Pannello Tempo di riproduzione dei contenuti multimediali](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=it)
       + [Utilizzo dei filtri a discesa](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Utilizzo dei pannelli per organizzare i progetti Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Miglioramenti nella zona di rilascio dei segmenti](analysis-workspace/using-panels/segment-dropzone-improvements.md)
@@ -116,7 +116,7 @@ ht-degree: 98%
       + [Come inserire dati nelle visualizzazioni](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Menu a discesa dei componenti in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualizzazioni con superfici e superfici sovrapposte](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [Visualizzazioni con barre e barre sovrapposte](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [Visualizzazioni a barre e barre sovrapposte](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualizzazione Grafico bullet](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualizzazione ad anello](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Visualizzazione Istogramma](analysis-workspace/visualizations/histogram-visualization.md)
@@ -128,12 +128,12 @@ ht-degree: 98%
       + [Visualizzazione con grafico a dispersione](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Visualizzazione con mappa ad albero](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualizzazione Diagramma di Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [Utilizzo della funzione Media cumulativa per applicare uniformità metrica](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [Utilizzo della funzione Media cumulativa per applicare l’arrotondamento delle metriche](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Layout flessibili](analysis-workspace/visualizations/flexible-layouts.md)
       + [Modifica di scala/asse nelle visualizzazioni](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [Collegamento in tempo reale tra dimensione e grafico](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [Selettore di granularità](analysis-workspace/visualizations/granularity-toggle.md)
-      + [Collegamenti interni in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
+      + [Link interni in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Tema mappa positiva-negativa](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [Ridisposizione e ridimensionamento delle visualizzazioni](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Personalizzare le legende delle visualizzazioni](analysis-workspace/visualizations/customize-visualization-legends.md)
@@ -165,7 +165,7 @@ ht-degree: 98%
       + [Utilizzo di intervalli e confronti di date in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
       + [Creazione di intervalli date personalizzati](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Confronto di date in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
-      + [Aggiunta di confronti tra mesi e anni precedenti nelle tendenze](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
+      + [Confronto con il mese o anno precedente nelle tendenze](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + Analisi dei percorsi dei clienti {#analyzing-customer-journeys}
       + [Comprendere i dati: fallout e flusso](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ: Cross-Device Analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
@@ -177,7 +177,7 @@ ht-degree: 98%
       + [Espansione della visualizzazione Flusso](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
       + [Ritorno a capo e flusso multidimensionale](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Curare e condividere i progetti {#curate-and-share-projects}
-      + [Salvataggio, condivisione e collaborazione ai progetti in Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
+      + [Salvataggio, condivisione e collaborazione nei progetti in Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Cura e condivisione in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Collegamento diretto a un progetto](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [Download di 50.000 elementi come CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
@@ -196,14 +196,14 @@ ht-degree: 98%
       + [Modello algoritmico in Attribution IQ](analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md)
       + [Finestre di look-back personalizzate in Attribution IQ](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + Analisi per coorte {#cohort-analysis}
-      + [Analisi per coorte in Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
+      + [Analisi di coorte in Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
       + [Comprendere i dati: tabelle coorte](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
       + [Panoramica delle tabelle coorte](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [Impostazioni della tabella coorte](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [Analisi dell’abbandono con le tabelle coorte](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
       + [Analisi per coorte con qualsiasi dimensione](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [Analisi della latenza con tabelle coorte](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
-      + [Calcolare la retention su base continua nelle tabelle coorte](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
+      + [Calcolare la fidelizzazione su base continua nelle tabelle coorte](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
    + Analisi dei dati vocali {#voice-analytics}
       + [Come gestire e tenere traccia dei dati da app di assistenza vocale](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Comprendere le differenze tra i diversi dispositivi vocali](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
@@ -219,24 +219,24 @@ ht-degree: 98%
       + [Visualizzare le funzioni disponibili per l’account](administration/company-settings/view-your-accounts-available-features.md)
    + Gestione utente {#user-management}
       + [Aggiunta di un amministratore ad Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
-      + [Limitare l’accesso alle suite di rapporti nella Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
-      + [Trasferire le risorse utente a un altro utente](administration/user-management/transfer-user-assets-to-a-different-user.md)
+      + [Limitare l’accesso alle suite di rapporti in Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [Trasferire le risorse da utente a un altro](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Controllare l’ID IMS collegato per evitare problemi di accesso](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Gestire suite di rapporti {#manage-report-suites}
       + [Come configurare le impostazioni generali dell’account](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personalizzare le impostazioni del calendario](administration/manage-report-suites/customize-calendar-settings.md)
-      + [Configurazione di Rilevamento ricerca a pagamento](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [Configurazione del rilevamento di ricerche a pagamento](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Personalizzare i menu in Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
-      + [Manipolazione dei dati in arrivo con regole di elaborazione](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [Manipolazione dei dati in entrata con le regole di elaborazione](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configurazione delle variabili di traffico (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurare le classificazioni del traffico](administration/manage-report-suites/configure-traffic-classifications.md)
       + [Configurazione delle variabili in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Configurare le classificazioni di conversione](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configurazione delle variabili elenco](administration/manage-report-suites/configuring-list-variables.md)
       + [Configurare i metodi di ricerca](administration/manage-report-suites/configure-finding-methods.md)
-      + [Impostare filtri URL interni](administration/manage-report-suites/set-internal-url-filters.md)
+      + [Impostare filtri per URL interni](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configurazione delle impostazioni del CAP](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Abilitare l’impostazione opzionale Timestamp](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Abilitare l’impostazione per marca temporale opzionale](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Configurare le regole bot in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Governance dei dati e RGPD {#data-governance-and-gdpr}
       + [Governance dei dati e RGPD in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
@@ -245,7 +245,7 @@ ht-degree: 98%
       + [Utilizzo delle chiamate server](administration/traffic-management/server-call-usage.md)
       + [Gestire un picco di traffico imminente](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Registri {#logs}
-      + [Tracciamento del registro di utilizzo per Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+      + [Tracciamento dell’utilizzo tramite i registri per Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Panoramica dei registri di amministrazione di Analytics](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementazione {#implementation}
    + Nozioni di base sull’implementazione {#implementation-basics}
@@ -261,8 +261,8 @@ ht-degree: 98%
       + [Configurazione di base dell’estensione Analytics Launch](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Configurazione della gestione della libreria per Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Configurazione delle impostazioni generali nell’estensione Launch Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Configurazione delle variabili globali nell’estensione Launch Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
-      + [Configurazione delle impostazioni dei cookie nell’estensione Launch Analytics](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
+      + [Configurazione delle variabili globali nell’estensione Analytics di Launch](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [Configurazione delle impostazioni dei cookie nell’estensione Analytics di Launch](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Utilizzo del codice personalizzato durante la configurazione dell’estensione Launch Analytics](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
       + [Utilizzo di un livello dati per impostare il nome della pagina e altre variabili tramite Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
       + [Aggiunta di plug-in di implementazione in Launch](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
@@ -277,10 +277,10 @@ ht-degree: 98%
       + [Creazione di regole di Experience Platform Launch per eventi di successo](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
       + [Pubblicazione di librerie Experience Platform Launch per staging e produzione](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + Utilizzo di JavaScript {#using-javascript}
-      + [Tracciamento personalizzato dei collegamenti senza gestione di tag](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
+      + [Tracciamento dei collegamenti personalizzati senza un gestore di tag](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Aggiornamento di AppMeasurement quando non si utilizza Experience Platform Launch](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
    + Convalida e risoluzione dei problemi {#validating-and-troubleshooting}
-      + [Analisi delle implementazioni con Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
+      + [Verifica delle implementazioni con Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
    + Pagine di applicazioni a pagina singola {#spa-pages}
       + [Best practice per il tracciamento delle applicazioni a pagina singola](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Componenti {#components}
@@ -296,18 +296,18 @@ ht-degree: 98%
       + [Utilizzo di segmenti per limitare i dati in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=it)
       + [Segmentazione sequenziale](components/segmentation/sequential-segmentation.md)
       + [Sequenze prima/dopo nella segmentazione sequenziale](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
-      + [Segmentazione per conteggi di dimensioni distinte](components/segmentation/segmentation-on-distinct-dimension-counts.md)
+      + [Segmentazione per conteggi di dimensioni distinti](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Modelli di dimensione nella segmentazione](components/segmentation/dimension-models-in-segmentation.md)
       + [Operatore “Equals any of” nella segmentazione](components/segmentation/equals-any-of-operator-in-segmentation.md)
-      + [Webinar Analytics Insider - Strategie di segmentazione del cliente](components/segmentation/customer-segmentation-strategies.md)
+      + [Webinar Analytics Insider: strategie di segmentazione del cliente](components/segmentation/customer-segmentation-strategies.md)
    + Metriche calcolate {#calculated-metrics}
-      + [Funzione “Approximate count distinct” nelle metriche calcolate](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Funzione per conteggio distinto approssimativo nelle metriche calcolate](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ nelle metriche calcolate](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=it)
       + [Metriche calcolate: generatore metriche](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [Metriche calcolate: funzioni](components/calculated-metrics/calculated-metrics-functions.md)
       + [Metriche calcolate: metriche senza implementazione](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Metriche calcolate: metriche segmentate](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-      + [Metriche calcolate: selettore metrica](components/calculated-metrics/calculated-metrics-metric-selector.md)
+      + [Metriche calcolate: selettore delle metriche](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Metriche calcolate rapide in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Utilizzo delle dimensioni nelle metriche calcolate](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
    + Classificazioni {#classifications}
@@ -317,14 +317,14 @@ ht-degree: 98%
       + [Suite di rapporti virtuali](components/virtual-report-suites/virtual-report-suites.md)
       + [Cura dei componenti nelle suite di rapporti virtuali](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [Sessioni in base al contesto nelle suite di rapporti virtuali](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-      + [Iniziare una nuova visita per qualsiasi evento nelle suite di rapporti virtuali](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+      + [Avviare una nuova visita in base a un evento nelle suite di rapporti virtuali](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Panoramica di Activity Map](components/activity-map/activity-map-overview.md)
       + [Abilitazione, debug e personalizzazione di Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Strumenti aggiuntivi {#additional-tools}
    + [Adobe Labs (anteprime di tecnologie)](additional-tools/adobe-labs-technology-previews.md)
    + Dashboard di Analytics {#analytics-dashboards}
-      + [Generatore di Scorecard per Adobe Analytics dashboards](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [Generatore di scorecard per le dashboard di Adobe Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [Visualizzazioni per scorecard per dispositivi mobili](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Applicare intervalli date personalizzati](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Esperienza in-app con i dashboard di Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
@@ -337,7 +337,7 @@ ht-degree: 98%
    + Feed dati {#data-feeds}
       + [Interfaccia per la gestione dei feed dei dati](exporting/data-feeds/data-feeds-management-ui.md)
       + [Scaricare la chiave di autenticazione del feed dati](exporting/data-feeds/download-the-data-feed-authentication-key.md)
-      + [Trovare il proprio ID di feed dati](exporting/data-feeds/find-your-data-feed-id.md)
+      + [Trovare l’ID del proprio feed dati](exporting/data-feeds/find-your-data-feed-id.md)
       + [Rieseguire un processo di feed dati](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
       + [Aggiungere segmenti a più richieste contemporaneamente in Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
@@ -346,7 +346,7 @@ ht-degree: 98%
       + [Utilizzo di Report Builder per apprendere l’API di Adobe Analytics](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + Integrazioni {#integrations}
    + Experience Cloud {#experience-cloud}
-      + [Miglioramento nella pubblicazione dei tipi di pubblico in Experience Cloud](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
+      + [Miglioramento della pubblicazione dei tipi di pubblico in Experience Cloud](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [Abilitare l’inoltro lato server in Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics: integrazione di segmenti AAM in Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
@@ -356,7 +356,7 @@ ht-degree: 98%
    + Ad Cloud {#ad-cloud}
       + [Configurazione di Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementazione dei modelli di tracciamento nei motori di ricerca](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Introduzione ad Analytics per l’integrazione con Advertising Cloud DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [Introduzione all’integrazione Analytics for Advertising Cloud DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
       + [Creazione dell’analisi per una campagna pre-lancio](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
       + [Generazione di rapporti con i canali marketing di Advertising Cloud](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [Creare profili di percorso del sito in Analytics](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
@@ -366,13 +366,13 @@ ht-degree: 98%
       + [Creare rapporti sulle visite al sito con Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Creare dashboard di Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad Hoc Analytics {#ad-hoc-analytics}
-      + [Utilizzo del convertitore progetti per spostare i progetti da Ad Hoc Analysis ad Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
+      + [Uso del convertitore di progetti per spostare i progetti da Ad Hoc Analysis ad Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Connettore Adobe Analytics in Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
    + Magento {#magento}
       + [Modello Magento per Analysis Workspace](integrations/magento/magento-analysis-workspace-template.md)
 + Data Science {#data-science}
-   + [Utilizzo di apprendimento automatico e AI in Adobe Analytics per i momenti che contano](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
+   + [Utilizzo di apprendimento automatico e IA in Adobe Analytics nei momenti che contano](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Rilevamento delle anomalie in Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
    + [Analisi contributi in Analysis Workspace](data-science/contribution-analysis-workspace.md)
    + [Avvisi intelligenti](data-science/intelligent-alerts.md)
@@ -389,8 +389,8 @@ ht-degree: 98%
       + [Summit 2019 Super Session: vendite al dettaglio](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=it)
 + Media Analytics {#media-analytics}
    + Misurazione di Media Analytics {#measuring-media-analytics}
-      + [Pannello Tempo di riproduzione dei contenuti multimediali](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
-      + [Utilizzo del modello di consumo audio in Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
+      + [Tempo trascorso su contenuti multimediali](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
+      + [Utilizzo del modello per consumo audio in Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Analytics per app mobili {#mobile-app-analytics}
    + Implementazione {#implementation}
       + [Impostazioni di amministrazione per le app mobili](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
@@ -411,11 +411,11 @@ ht-degree: 98%
    + [Utilizzo di Postman per effettuare richieste API di Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Casi di utilizzo di analisi {#analysis-use-cases}
    + Ricerca sito interna {#internal-site-search}
-      + [Definizione dei requisiti aziendali interni per la ricerca del sito](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
+      + [Definizione dei requisiti di business interni per la ricerca del sito](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
       + [Implementare le variabili di ricerca interna utilizzando AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
       + [Implementare le variabili di ricerca interna tramite Web SDK](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
       + [Mappare le variabili Web SDK in Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
-      + [Configurare i rapporti sulla ricerca interna del sito](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
+      + [Configurare i rapporti sulla ricerca interna al sito](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Impostazione dell’analisi del CAP nel mercato](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Corso universitario su Analytics](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
