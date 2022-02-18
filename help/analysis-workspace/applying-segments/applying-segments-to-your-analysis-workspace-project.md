@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
 source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 29%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ In questo video, scopri come limitare i dati nelle tabelle e nelle visualizzazio
 
 >[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html?lang=it).
