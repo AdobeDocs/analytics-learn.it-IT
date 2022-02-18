@@ -1,6 +1,6 @@
 ---
-title: Collegamenti interni in Analysis Workspace
-description: I collegamenti di tipo intra-link consentono agli analisti che creano progetti in Analysis Workspace di spingere i lettori del progetto a pannelli e visualizzazioni esatti all’interno del progetto.
+title: Link interni in Analysis Workspace
+description: I link interni consentono agli analisti che creano progetti in Analysis Workspace di indirizzare i lettori del progetto a pannelli e visualizzazioni specifici all’interno del progetto.
 feature: Visualizations
 doc-type: feature video
 thumbnail: 23724.jpg
@@ -9,16 +9,16 @@ role: User
 level: Beginner
 exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
 source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-# Collegamenti interni in Analysis Workspace {#intra-linking-in-analysis-workspace}
+# Link interni in Analysis Workspace {#intra-linking-in-analysis-workspace}
 
-I collegamenti di tipo intra-link consentono agli analisti che creano progetti in Analysis Workspace di spingere i lettori del progetto a pannelli esatti e [!UICONTROL visualizations] all’interno del progetto.
+I link interni consentono agli analisti di creare progetti in Analysis Workspace per indirizzare i lettori del progetto a pannelli e [!UICONTROL visualizations] specifici all’interno del progetto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
-I collegamenti di tipo intra-link possono essere utilizzati anche per creare sommario e raccontare storie di dati più efficaci nel loro complesso. Il collegamento tra progetti è ora possibile anche a causa della nuova funzionalità di collegamento ipertestuale.
+I link interni possono essere utilizzati anche per creare sommari e presentare il significato dei dati in modo più efficace. Il collegamento tra progetti è ora possibile grazie alla nuova funzionalità di collegamento ipertestuale.
