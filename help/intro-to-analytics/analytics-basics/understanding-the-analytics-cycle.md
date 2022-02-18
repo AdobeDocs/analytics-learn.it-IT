@@ -1,7 +1,7 @@
 ---
 title: Informazioni sul ciclo di Analytics
 description: 'Segui questo video semplice ma importante per scoprire i passaggi necessari per eseguire l’analisi dei dati del tuo sito. Prenditi un po’ di tempo per capire bene questo processo: ti aiuterà a usare al meglio Analytics.'
-feature: Nozioni di base su Analytics
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: e106c36b-f636-4194-af4f-8c260f91fc93
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
