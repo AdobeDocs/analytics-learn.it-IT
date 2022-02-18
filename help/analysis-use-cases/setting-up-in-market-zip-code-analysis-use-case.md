@@ -14,9 +14,9 @@ role: User
 level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '147'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
@@ -28,8 +28,8 @@ In questo caso d’uso, configureremo il sistema per inserire codici postali, cl
 
 Per ulteriori informazioni sugli aspetti di questo caso d’uso, consulta i seguenti argomenti della documentazione:
 
-[CAP e codice postale](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
+[CAP e codice postale](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=it)
 
-[[!UICONTROL Classifications]](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=en)
+[[!UICONTROL Classifications]](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=it)
 
 [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=it)
