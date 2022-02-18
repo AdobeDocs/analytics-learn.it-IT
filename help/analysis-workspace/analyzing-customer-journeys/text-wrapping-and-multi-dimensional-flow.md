@@ -1,6 +1,6 @@
 ---
-title: Ritorno a capo e flusso multidimensionale in Analysis Workspace
-description: Questo video mostra come attivare e disattivare il troncamento delle etichette nella visualizzazione di flusso. Inoltre, scopri come trascinare e rilasciare dimensioni sul tuo flusso per un’analisi di flusso multidimensionale.
+title: Testo a capo e flusso multidimensionale in Analysis Workspace
+description: Questo video mostra come attivare e disattivare il troncamento delle etichette nella visualizzazione del flusso. Scoprirai anche come trascinare e rilasciare le dimensioni sul flusso per l’analisi del flusso multidimensionale.
 feature: Visualizations
 topics: null
 activity: use
@@ -13,16 +13,16 @@ role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-# Ritorno a capo e [!DNL Multi-Dimensional Flow] in Analysis Workspace {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
+# Testo a capo e [!DNL Multi-Dimensional Flow] in Analysis Workspace {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
 
-Questo video mostra come attivare e disattivare il troncamento delle etichette nel [!DNL flow visualization]. Inoltre, scopri come trascinare e rilasciare dimensioni sul tuo [!DNL flow] per l’analisi multidimensionale [!DNL flow].
+Questo video mostra come attivare e disattivare il troncamento delle etichette nella [!DNL flow visualization]. Scoprirai anche come trascinare e rilasciare le dimensioni sul [!DNL flow] per l’analisi del [!DNL flow] multidimensionale.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=it).
