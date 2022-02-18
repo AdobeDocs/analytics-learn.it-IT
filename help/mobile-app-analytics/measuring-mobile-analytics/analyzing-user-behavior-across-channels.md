@@ -1,7 +1,7 @@
 ---
 title: Analisi del comportamento degli utenti nei diversi canali
 description: Scopri come individuare i percorsi seguiti degli utenti fino alla conversione nelle app mobili utilizzando la funzione Flusso e come fare un confronto con altre esperienze, come il web. Impara a definire e misurare la conversione in processi con più fasi, per il successo delle tue app mobili.
-feature: Concetti di base di Workspace
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 92af75b4-c1c3-4679-aede-b9e154e9f836
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '83'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
