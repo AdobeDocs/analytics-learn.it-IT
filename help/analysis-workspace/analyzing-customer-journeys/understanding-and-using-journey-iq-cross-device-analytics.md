@@ -1,6 +1,6 @@
 ---
-title: Informazioni e utilizzo del Percorso IQ - Analisi multidispositivo
-description: Quando gli utenti interagiscono con il tuo marchio, lo fanno in molti modi e su più dispositivi. Analisi multidispositivo si integra con il servizio Adobe Experience Platform Identity per identificare in che modo i dispositivi si associano alle persone. Quindi sfrutta questa intelligenza per creare una visione cross-device del comportamento degli utenti. Questo si traduce nella possibilità di eseguire analisi sulle persone, non sui dispositivi.
+title: 'Informazioni e utilizzo di Journey IQ: Cross-Device Analytics'
+description: Quando gli utenti interagiscono con il tuo marchio, lo fanno in molti modi e su più dispositivi. Cross-Device Analytics si integra con il servizio di identità Adobe Experience Platform per identificare in che modo i dispositivi si associano alle persone. Queste informazioni vengono sfruttate per creare una visione del comportamento degli utenti su tutti i dispositivi. Questo si traduce nella possibilità di eseguire analisi sulle persone, non sui dispositivi.
 feature: CDA
 topics: null
 activity: use
@@ -11,159 +11,159 @@ role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1583'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Informazioni e utilizzo di [!DNL Journey IQ] - Analisi multidispositivo
+# Informazioni e utilizzo di [!DNL Journey IQ]: Cross-Device Analytics
 
-Quando gli utenti interagiscono con il tuo marchio, lo fanno in molti modi e su più dispositivi. Cross-Device Analytics si integra con [!DNL Adobe Experience Platform Identity Service] per identificare in che modo i dispositivi vengono mappati alle persone. Quindi sfrutta questa intelligenza per creare una visione cross-device del comportamento degli utenti. Questo si traduce nella possibilità di eseguire analisi sulle persone, non sui dispositivi.
+Quando gli utenti interagiscono con il tuo marchio, lo fanno in molti modi e su più dispositivi. Cross-Device Analytics si integra con [!DNL Adobe Experience Platform Identity Service] per identificare il modo in cui i dispositivi si associano alle persone. Queste informazioni vengono sfruttate per creare una visione del comportamento degli utenti su tutti i dispositivi. Questo si traduce nella possibilità di eseguire analisi sulle persone, non sui dispositivi.
 
-## Panoramica di Analytics tra dispositivi
+## Panoramica di Cross-Device Analytics
 
-### Non Sono I Miei Dispositivi
+### Io non sono i miei dispositivi
 
-Quando gli utenti interagiscono con il tuo marchio lo fanno in molti modi e su più &quot;superfici&quot; o &quot;dispositivi&quot;. Possono utilizzare un browser web su un PC o su un dispositivo mobile, oppure un&#39;app mobile. Nell’analisi digitale tradizionale, cresciuta nella raccolta di dati basata sui cookie, ciascuna di queste superfici è rappresentata come un &quot;visitatore&quot; univoco. Questo significa che ogni utente umano è rappresentato da un multiplo di visitatori unici.
+Quando gli utenti interagiscono con il tuo marchio lo fanno in molti modi e su più “superfici” o “dispositivi”. Possono utilizzare un browser web su un PC o su un dispositivo mobile, oppure un’app mobile. Nell’analisi digitale tradizionale, sviluppata sulla raccolta di dati basata sui cookie, ciascuna di queste superfici è rappresentata come un “visitatore” univoco. Ciò significa che ogni utente umano è rappresentato da molti visitatori univoci.
 
 Ecco un esempio. Supponiamo che Isabelle interagisca con il tuo marchio nel modo seguente:
 
-*Isabelle è composta da tre*
-![visitatoriPercorso di analisi tradizionale](assets/cda-isabelle-journey-traditional-analytics.png)
+*Isabelle riconosciuta come tre visitatori*
+![Percorso tradizionale di Analytics](assets/cda-isabelle-journey-traditional-analytics.png)
 
-Utilizzando l&#39;analisi tradizionale, il percorso di Isabelle è diviso in tre parti. È rappresentata da tre visitatori unici, ciascuno dei quali ha utilizzato un dispositivo diverso per eseguire attività isolate. Ciò che serve è una visione unificata e interattiva delle interazioni di Isabelle. [!DNL Journey IQ: Cross-Device Analytics] fornisce questa visualizzazione.
+Nell’analisi tradizionale, il percorso di Isabelle viene suddiviso in tre parti. Viene riconosciuta come tre visitatori univoci, ciascuno dei quali ha utilizzato un dispositivo diverso per eseguire attività isolate. Ma serve una visione unificata e cross-device delle interazioni di Isabelle. [!DNL Journey IQ: Cross-Device Analytics] fornisce proprio questo tipo di visualizzazione.
 
-*Isabelle è una sola*
-![persona nel Percorso Cross-Device Analytics](assets/cda-isabelle-journey-cross-device-analytics.png)
+*Isabelle riconosciuta come una singola persona*
+![Percorso di Cross-Device Analytics](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-### Una Visualizzazione multidispositivo Offre Una Migliore Analisi
+### Visualizzazione cross-device per una migliore analisi
 
-Avere una visione del comportamento di Isabelle incentrata sulla persona e su più dispositivi può fare una differenza significativa nella tua analisi. Ad esempio, l’approccio tradizionale basato sui visitatori non offre un quadro completo dell’efficacia dei canali di marketing. Vediamo ancora una volta il percorso di Isabelle, concentrandoci su quale canale riceve credito per la sua visualizzazione del prodotto e per il suo acquisto. Useremo l’attribuzione [!UICONTROL last-touch] per la semplicità, ma lo stesso problema si verifica quando si suddivide il comportamento di Isabelle in visitatori separati. L&#39;utilizzo della visione tradizionale del mondo basata sui visitatori dà risultati molto diversi, anche fuorvianti:
+Avere una visione del comportamento di Isabelle incentrata sulla persona e cross-device può fare una differenza significativa nelle analisi. Ad esempio, l’approccio tradizionale basato sul visitatore non offre un quadro completo dell’efficacia dei diversi canali di marketing. Vediamo ancora una volta il percorso di Isabelle, concentrandoci sui canali a cui vengono attribuiti la visualizzazione e l’acquisto del prodotto. Per semplicità, useremo l’attribuzione [!UICONTROL last-touch], ma lo stesso problema si verifica per qualsiasi modello di attribuzione se si divide il comportamento di Isabelle in base a visitatori separati. Con la visione tradizionale basata sul visitatore si ottengono risultati molto diversi, anche fuorvianti:
 
-*Attribuzione canali tradizionali di Analytics e*
-![Analytics tra dispositivi](assets/channel-attribution.png)
+*Analisi tradizionale e Cross-Device Analytics*
+![attribuzione del canale](assets/channel-attribution.png)
 
-Tieni presente che con la visualizzazione su più dispositivi, il canale e-mail riceve credito sia per la visualizzazione del prodotto che per l’acquisto, che rappresenta più accuratamente l’esperienza reale di Isabelle.
+Con la visualizzazione cross-device, al canale e-mail vengono attribuiti sia la visualizzazione del prodotto che l’acquisto, e questo rappresenta più accuratamente l’effettiva esperienza di Isabelle.
 
-Continua a leggere per saperne di più:
+Leggi le sezioni seguenti e scopri:
 
 * Come funziona [!DNL Cross-Device Analytics]
-* Prerequisiti Per [!DNL Cross-Device Analytics]
-* Interpretazione dei dati tra dispositivi
-* Analisi dei dati tra dispositivi in Analysis Workspace
+* Prerequisiti per [!DNL Cross-Device Analytics]
+* Interpretazione dei dati cross-device
+* Analisi dei dati cross-device in Analysis Workspace
 
 ## Come funziona [!DNL Cross-Device Analytics]
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] si integra con  [!DNL Adobe Experience Platform Identity Service], utilizzando  [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html) o  [!DNL Private Graph] per identificare in che modo i dispositivi si associano alle persone. Quindi sfrutta questa intelligenza per creare una visione cross-device del comportamento degli utenti. CDA include funzionalità e strumenti ineguagliabili per aiutare la tua azienda a comprendere l’utilizzo multi-dispositivo e l’esperienza del cliente tra questi dispositivi nelle loro interazioni con il tuo marchio. Si trova come livello sotto Analysis Workspace per fornire informazioni approfondite sull’analisi del pubblico basata su persone e sull’attribuzione, la segmentazione e l’analisi del percorso tra dispositivi utilizzando potenti strumenti come [!UICONTROL Fallout], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] e [!DNL Attribution IQ].
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] si integra con [!DNL Adobe Experience Platform Identity Service], utilizzando [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=it) o [!DNL Private Graph] per identificare la correlazione tra dispositivi e persone. Queste informazioni vengono sfruttate per creare una visione del comportamento degli utenti su tutti i dispositivi. CDA include funzionalità e strumenti unici per aiutarti a comprendere l’utilizzo di più dispositivi e l’esperienza del cliente che interagisce con il tuo marchio usando diversi dispositivi. Si trova un livello sotto Analysis Workspace e fornisce informazioni approfondite sull’analisi del pubblico basata su persone e sull’attribuzione, la segmentazione e l’analisi del percorso con diversi dispositivi utilizzando potenti strumenti come [!UICONTROL Fallout], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] e [!DNL Attribution IQ].
 
-### Le selezioni del menu [!DNL Cross-Device Virtual Report Suite]
+### [!DNL Cross-Device Virtual Report Suite]
 
-Il CDA viene presentato attraverso un tipo speciale di cross-device [[!UICONTROL Virtual Report Suite]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html). Questo consente di continuare a utilizzare la suite di rapporti originale basata su dispositivi durante l’introduzione dell’analisi tra più dispositivi nell’organizzazione. Configurare una VRS CDA è facile.
+CDA viene presentato attraverso uno speciale tipo di [[!UICONTROL Virtual Report Suite]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=it) cross-device. Questo consente di continuare a utilizzare la suite di rapporti originale basata su dispositivi mentre si inizia a introdurre l’analisi cross-device nell’organizzazione. Configurare una suite di rapporti vistuale per CDA è facile.
 
-Nel passaggio uno del generatore VRS, scegli il [!UICONTROL report suite] configurato da Adobe come abilitato da CDA:
+Nel primo passaggio della creazione di una suite di rapporti virtuale, scegli la [!UICONTROL report suite] che è stata configurata da Adobe come abilitata per CDA:
 
-*Scegli una base abilitata per CDA (origine)[!UICONTROL report suite]*
-![[!UICONTROL Virtual Report Suite] Passaggio 1](assets/cda-vrs-step-one.png)
+*Scegliere una[!UICONTROL report suite]* di base (sorgente) abilitata per CDA
+![[!UICONTROL Virtual Report Suite] Passaggio uno](assets/cda-vrs-step-one.png)
 
-Quindi attiva [!UICONTROL Report Time Processing] e abilita [!UICONTROL cross-device stitching]:
+Quindi, attiva [!UICONTROL Report Time Processing] e abilita [!UICONTROL cross-device stitching]:
 
-*Abilita  [!UICONTROL report-time processing] e[!UICONTROL cross-device stitching]*
-![[!UICONTROL Virtual Report Suite] passaggio 2](assets/cda-vrs-step-two.png)
+*Abilitare [!UICONTROL report-time processing] e[!UICONTROL cross-device stitching]*
+![[!UICONTROL Virtual Report Suite] Passaggio due](assets/cda-vrs-step-two.png)
 
-Completare la configurazione VRS e salvarla. La VRS CDA verrà visualizzata in Analysis Workspace con un’icona speciale accanto ad essa, come illustrato di seguito:
+Completa la configurazione della suite di rapporti virtuale e salvala. La suite di rapporti virtuale di CDA viene visualizzata in Analysis Workspace con un’icona speciale, come illustrato di seguito:
 
-*Seleziona la VRS CDA in Analysis*
-![[!UICONTROL Virtual Report Suite] WorkspacePassaggio 3](assets/cda-vrs-step-three.png)
+*Selezionare la suite di rapporti virtuale di CDA in Analysis Workspace*
+![[!UICONTROL Virtual Report Suite] Passaggio tre](assets/cda-vrs-step-three.png)
 
 >[!TIP]
 >
->Puoi creare tutti i CDA [!UICONTROL virtual report suites] che desideri sulla base abilitata per CDA [!UICONTROL report suite].
+>Sulla [!UICONTROL report suite] di base abilitata per CDA puoi creare tutte le [!UICONTROL virtual report suites] per CDA che ti servono.
 
-### Ripristino della cronologia
+### Aggiornare la cronologia
 
-A volte ci vuole un po&#39; di tempo prima che gli utenti effettuino l&#39;accesso e che i [!DNL Co-op Graph] o [!DNL Private Graph] identifichino e mappino i loro dispositivi. CDA utilizza un intervallo di look-back di 30 giorni, che consente di ripristinare un visitatore non identificato in precedenza come persona fino a 30 giorni nel passato.
+A volte ci vuole un po’ di tempo perché gli utenti accedano e vengano identificati da [!DNL Co-op Graph] o [!DNL Private Graph] con la relativa mappatura dei loro dispositivi. CDA utilizza un intervallo di look-back di 30 giorni che consente di riconoscere come persone quei visitatori che non erano stati identificati in precedenza, fino a 30 giorni nel passato.
 
-Come aiuta questo? Ricorda il percorso utente di Isabelle dalla discussione precedente:
+A cosa può servire? Torniamo al percorso utente di Isabelle dalla discussione precedente:
 
 ![[!DNL Cross-Device Analytics] Percorso](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-È possibile che Isabelle non abbia effettuato l&#39;accesso fino al momento in cui ha effettuato l&#39;acquisto e che i dispositivi di Isabelle non siano stati mappati fino a qualche momento dopo il suo acquisto. [!DNL Co-op Graph][!DNL Private Graph] Ma il look-back di 30 giorni di CDA permette a CDA di riaffermare il comportamento passato di Isabelle a livello di persona, fornendo la visione cross-device del suo percorso di cui hai bisogno.
+È possibile che Isabelle abbia effettuato l’accesso solo al momento di effettuare l’acquisto, e che [!DNL Co-op Graph] o [!DNL Private Graph] ne abbia mappato i dispositivi solo qualche attimo dopo l’acquisto. Il look-back di 30 giorni di CDA permette di aggiornare il comportamento passato di Isabelle a livello di persona, fornendo la visione cross-device del suo percorso di cui hai bisogno.
 
 >[!NOTE]
 >
->Poiché la cronologia può essere ripristinata, i dati potrebbero cambiare nel tempo in un [!UICONTROL virtual report suite] abilitato per CDA. Tieni presente questo aspetto durante la comunicazione delle informazioni da un’analisi basata su CDA.
+>Poiché la cronologia può essere aggiornata, i dati possono cambiare nel tempo in una [!UICONTROL virtual report suite] abilitata per CDA. Tieni presente questo aspetto durante la comunicazione di insights da un’analisi basata su CDA.
 
-## Prerequisiti Per [!UICONTROL Cross-Device Analytics]
+## Prerequisiti per [!UICONTROL Cross-Device Analytics]
 
-CDA è incluso in [[!DNL Analytics Ultimate]](https://helpx.adobe.com/legal/product-descriptions/adobe-analytics.html). A partire da settembre 2019, i clienti [!DNL Analytics Ultimate] che soddisfano i prerequisiti elencati di seguito possono utilizzare CDA. I prerequisiti per CDA sono i seguenti:
+CDA è incluso in [[!DNL Analytics Ultimate]](https://helpx.adobe.com/it/legal/product-descriptions/adobe-analytics.html?lang=it). A partire da settembre 2019, i clienti [!DNL Analytics Ultimate] che soddisfano i prerequisiti elencati di seguito possono utilizzare CDA. I prerequisiti per CDA sono i seguenti:
 
-* La tua azienda deve essere membro di [!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html) oppure utilizzare un [!DNL Adobe Experience Platform Identity Service Private Graph].
-* Devi implementare tutto ciò che è necessario per [!DNL Co-op Graph] o [!DNL Private Graph], compresi [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html) e la sincronizzazione ID con il grafico. Si noti che oltre ai requisiti tecnici, il [!DNL Co-op Graph] ha altri requisiti legali e contrattuali.
-* Attualmente non è possibile utilizzare due organizzazioni IMS con un singolo [!DNL Private Graph], pertanto devi standardizzare un’unica organizzazione IMS. In alcuni casi è possibile per un cliente con più organizzazioni IMS utilizzare [!DNL Co-op Graph] insieme a CDA.
-* I [!DNL Co-op graph] e [!DNL Private Graph], così come alcuni componenti di CDA, sono ospitati in [!DNL Microsoft Azure]. Ciò significa che i dati [!DNL Analytics] vengono copiati avanti e indietro tra il centro di elaborazione dati di Adobe e la presenza di Adobe in [!DNL Microsoft Azure]. Alcuni dati [!DNL Analytics] verranno memorizzati in [!DNL Azure]. La tua azienda deve accettare questo accordo.
-* CDA richiede un &quot;cross-device&quot; [!UICONTROL report suite]. In altre parole, la [!UICONTROL report suite] utilizzata per CDA deve includere dati provenienti da più tipi di dispositivi o &quot;superfici&quot; diversi, come web per desktop, web per dispositivi mobili e app mobili. A partire da settembre 2019, il volume delle chiamate al server per questo [!UICONTROL report suite] deve essere di 100 MM al giorno o meno. (I limiti di volume delle chiamate al server aumenteranno nei prossimi mesi.)
-* A partire da settembre 2019, i formati [!DNL Co-op Graph] e [!DNL Private Graph] sono disponibili solo in Nord America. Il programma per la presenza di grafici in EMEA e APAC verrà annunciato in un momento futuro. Se ti trovi in queste aree, ti invitiamo a iniziare a esaminare questi prerequisiti in modo da essere pronti per iniziare quando il grafico sarà disponibile.
+* La tua azienda deve essere iscritta a [!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=it) o utilizzare un [!DNL Adobe Experience Platform Identity Service Private Graph].
+* Devi implementare tutto ciò che è richiesto da [!DNL Co-op Graph] o [!DNL Private Graph], compreso [ID Experience Cloud (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=it) e la sincronizzazione degli ID con il grafo. Oltre ai requisiti tecnici, [!DNL Co-op Graph] ha altri requisiti legali e contrattuali.
+* Attualmente non è possibile utilizzare due organizzazioni IMS con un solo [!DNL Private Graph], quindi occorre standardizzare su una singola organizzazione IMS. In alcuni casi, un cliente con più organizzazioni IMS può utilizzare [!DNL Co-op Graph] insieme a CDA.
+* [!DNL Co-op graph] e [!DNL Private Graph], così come alcuni componenti di CDA, sono ospitati in [!DNL Microsoft Azure]. Pertanto, i dati di [!DNL Analytics] vengono copiati avanti e indietro tra il centro di elaborazione dati di Adobe e la presenza di Adobe in [!DNL Microsoft Azure]. Alcuni dati di [!DNL Analytics] saranno memorizzati in [!DNL Azure]. La tua azienda deve accettare questo accordo.
+* CDA richiede una [!UICONTROL report suite] “cross-device”. Questo significa che la [!UICONTROL report suite] utilizzata per CDA deve includere dati provenienti da più tipi di dispositivi o “superfici” diversi, ad esempio web da desktop, web da dispositivi mobili e app mobili. A settembre 2019, il volume massimo di chiamate server per questa [!UICONTROL report suite] è di 100 milioni di chiamate al server al giorno. I limiti di volume delle chiamate al server aumenteranno nei prossimi mesi.
+* A settembre 2019, [!DNL Co-op Graph] e [!DNL Private Graph] sono disponibili solo in Nord America. La tempistica per l’introduzione dei grafi in EMEA e APAC verrà annunciata in un momento futuro. Se ti trovi in tali aree geografiche, ti invitiamo a iniziare a esaminare i prerequisiti in modo da essere pronti per iniziare nonn appena il grafo sarà disponibile.
 
-## Interpretazione dei dati tra dispositivi
+## Interpretazione dei dati cross-device
 
-### Persone non visitatori
+### Persone, non visitatori
 
-All&#39;interno di CDA [!UICONTROL Virtual Report Suite], vedrai alcune modifiche. Ad esempio, la metrica [!UICONTROL Unique Visitors] viene sostituita da due nuove metriche: [!UICONTROL People] e [!UICONTROL Unique Devices]. Queste nuove metriche consentono di ottenere informazioni molto migliori sulle dimensioni del pubblico.
+All’interno della [!UICONTROL Virtual Report Suite] di CDA, vedrai alcune modifiche. Ad esempio, [!UICONTROL Unique Visitors] è sostituito da due nuove metriche: [!UICONTROL People] e [!UICONTROL Unique Devices]. Queste consentono di ottenere informazioni approfondite molto migliori sulle dimensioni del pubblico.
 
-*Persone e*
-![dispositivi uniciCDA  [!UICONTROL People Metric]](assets/cda-people-metric.png)
+*Persone e dispositivi univoci*
+![CDA [!UICONTROL People Metric]](assets/cda-people-metric.png)
 
-Nel [[!UICONTROL Segment Builder]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=it) il contenitore di segmenti [!UICONTROL Visitor] è stato sostituito da un contenitore di segmenti [!UICONTROL Person]. Utilizzando una VRS CDA, puoi creare segmenti tra dispositivi quali:
+In [[!UICONTROL Segment Builder]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=it), il contenitore di segmenti [!UICONTROL Visitor] è stato sostituito da un contenitore di segmenti [!UICONTROL Person]. Utilizzando una suite di rapporti virtuale per CDA, puoi creare segmenti cross-device quali:
 
 * Utenti che utilizzano più dispositivi
-* Chi inizia il percorso su un dispositivo mobile e successivamente acquista su un dispositivo desktop
+* Persone che iniziano il percorso su un dispositivo mobile e poi acquistano da un dispositivo desktop
 * Visite in cui le persone utilizzano più dispositivi per eseguire un’attività
 
-*Contenitore*
-![[!DNL Segment Builder] [!UICONTROL Person] segmenti a livello di persona](assets/cda-segment-builder-person-container.png)
+*Segmenti a livello di persona*
+![[!DNL Segment Builder] [!UICONTROL Person] Contenitore](assets/cda-segment-builder-person-container.png)
 
-### Persistenza Dimension
+### Persistenza della dimensione
 
-All’interno di una VRS CDA, dimensioni come [!DNL eVars] persistono automaticamente tra i dispositivi. Ad esempio, un [!DNL eVar] configurato come:
+All’interno di una VRS CDA, dimensioni come [!DNL eVars] ora persistono automaticamente tra i dispositivi. Ad esempio, una [!DNL eVar] configurata come:
 
-* Allocazione: Più recente (ultimo)
-* Scadenza dopo: Acquisto
+* Allocazione: più recente (ultimo)
+* Scadenza dopo: acquisto
 
-persisterà automaticamente da un dispositivo all&#39;altro fino all&#39;attivazione dell&#39;evento di acquisto.
+persisterà automaticamente da un dispositivo all’altro fino all’attivazione dell’evento di acquisto.
 
-## Analisi dei dati tra dispositivi in Analysis Workspace
+## Analisi dei dati cross-device in Analysis Workspace
 
 ### Analisi del pubblico basata su persona
 
-Vi siete mai chiesti quante persone interagiscono con il vostro marchio? Avete voluto capire quanti e che tipo di dispositivi utilizzano? Come si sovrappone il loro utilizzo? Utilizzando una VRS CDA, è possibile creare diagrammi di Venn [e diagrammi di Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html) e dispositivi per persona [istogrammi](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html).
+Hai mai avuto la curiosità di sapere quante persone interagiscono con il tuo marchio? Ti piacerebbe capire quanti e che tipo di dispositivi utilizzano? Come si sovrappone il loro utilizzo? Utilizzando una VRS CDA, puoi creare [Diagrammi di Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=it) cross-device e [istogrammi](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=it) su dispositivi per persona.
 
-*Analisi del pubblico basata su personaVenn e*
-![Istogramma](assets/cda-venn-and-histogram.png)
+*Analisi del pubblico basata su persona*
+![Venn e istogramma](assets/cda-venn-and-histogram.png)
 
-### Cross-Device [!DNL Flow]
+### [!DNL Flow] cross-device
 
-Con CDA e Analysis Workspace, puoi visualizzare il modo in cui le persone si spostano da un dispositivo all’altro nel tempo in [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html). Potete vedere dove abbandonano nel loro percorso e dove continuano.
+Con CDA e Analysis Workspace, puoi visualizzare il modo in cui le persone si spostano da un dispositivo all’altro nel tempo in [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=it). Puoi constatare a che punto del percorso abbandonano e dove continuano.
 
 *[!DNL Flow]con CDA*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
-### Cross-Device [!DNL Fallout]
+### [!DNL Fallout] cross-device
 
-È probabile che si utilizzino diversi [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html) per analizzare in che modo gli utenti lo fanno attraverso una determinata serie di passaggi prima di raggiungere il successo. Sapevi che la tua visione di questi [!DNL Fallout visualizations] è limitata quando usi le analisi tradizionali basate su dispositivi? Per eseguire con successo il passaggio &quot;fall-through&quot;, il passaggio successivo deve verificarsi nello stesso browser o app del passaggio precedente. Nelle analisi basate su dispositivi, non sei cieco nei confronti delle persone che hanno completato con successo il passaggio successivo su un altro dispositivo.
+È probabile che tu debba utilizzare diversi [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=it) per analizzare il modo in cui gli utenti percorrono una determinata serie di passaggi prima di raggiungere il successo. Sapevi che la tua visione di questi [!DNL Fallout visualizations] è limitata quando utilizzi analisi tradizionali basate su dispositivo? Per esaminare con successo il “fallimento”, il passaggio successivo deve verificarsi nello stesso browser o app del passaggio precedente. Nelle analisi basate su dispositivi, non puoi vedere le persone che hanno completato con successo il passaggio successivo su un altro dispositivo.
 
-Non ti preoccupare, CDA ti ha coperto. CDA crea la visualizzazione cross-device che rende [!DNL Fallout visualizations] molto, molto più utile. Dopo tutto, ciò che conta veramente è se la persona alla fine è riuscita nel loro compito da qualche parte.
+Nessun problema, ci pensa CDA. CDA crea la visualizzazione cross-device che rende [!DNL Fallout visualizations] molto più utile. Dopo tutto, ciò che conta veramente è se da qualche parte la persona alla fine è riuscita suo intento.
 
 *[!DNL Fallout]con CDA*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
 
 ### [!DNL Cross-Device Attribution IQ]
 
-Poiché CDA crea un livello di dati multi-dispositivo sotto Analysis Workspace, tutte le tue analisi saranno aromatizzate con una prospettiva multi-dispositivo. Un esempio potente è attraverso [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html). [!DNL Attribution IQ] in Analysis Workspace puoi confrontare più modelli di attribuzione uno accanto all’altro. Utilizzando questa funzionalità con CDA, ora puoi confrontare come diversi dispositivi contribuiscono al successo.
+Poiché CDA crea un livello di dati cross-device sotto Analysis Workspace, tutte le analisi saranno caratterizzate da una prospettiva cross-device. Abbiamo un esempio efficace con [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=it). [!DNL Attribution IQ] in Analysis Workspace consente di confrontare più modelli di attribuzione uno accanto all’altro. Utilizzando questa funzionalità con CDA, ora puoi confrontare i modi in cui i diversi dispositivi contribuiscono al successo.
 
-Ad esempio, supponi di voler capire quanto spesso un telefono cellulare è il primo dispositivo utilizzato in un&#39;interazione che alla fine porta al successo. Ciò rappresenta il &quot;tasso di acquisizione&quot; del telefono cellulare. CDA + [!DNL Attribution IQ] consente di eseguire questa analisi:
+Ad esempio, supponi di voler capire quanto spesso un telefono cellulare è il primo dispositivo utilizzato in un’interazione che alla fine porta al successo. Ciò rappresenta il “tasso di acquisizione” del telefono cellulare. CDA con [!DNL Attribution IQ] consente di eseguire questa analisi:
 
 *[!DNL Attribution IQ]con CDA*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
-Per ulteriori informazioni, consulta la [[!DNL Cross-Device Analytics] documentazione della guida](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html).
+Per ulteriori informazioni, consulta la [[!DNL Cross-Device Analytics] documentazione di supporto](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=it).
