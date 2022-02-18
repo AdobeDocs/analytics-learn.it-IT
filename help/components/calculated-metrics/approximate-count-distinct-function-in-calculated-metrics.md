@@ -1,7 +1,7 @@
 ---
-title: Funzione “Approximate count distinct” nelle metriche calcolate
-description: Al generatore di metriche calcolate è stata aggiunta una funzione Approximate Count Distinct (Conteggio valori univoci approssimativo). È una funzione attesa da molto tempo che restituirà il conteggio distinto approssimativo degli elementi dimensionali per una dimensione selezionata.
-feature: Metriche calcolate
+title: Funzione per conteggio distinto approssimativo nelle metriche calcolate
+description: La funzione Conteggio distinto approssimativo è stata aggiunta al generatore di metriche calcolate. Si tratta di una funzione molto richiesta, che restituirà il conteggio distinto approssimativo degli elementi di dimensione per una dimensione selezionata.
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,16 +11,16 @@ role: User
 level: Beginner
 exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 11%
+workflow-type: ht
+source-wordcount: '88'
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Approximate Count Distinct] [!UICONTROL Function] in [!UICONTROL Calculated Metrics]{#approximate-count-distinct-function-in-calculated-metrics}
+# [!UICONTROL Function] [!UICONTROL Approximate Count Distinct] in [!UICONTROL Calculated Metrics] {#approximate-count-distinct-function-in-calculated-metrics}
 
-È stato aggiunto un [!UICONTROL Approximate Count Distinct] [!UICONTROL function] al [!UICONTROL Calculated Metric Builder]. È un [!UICONTROL function] atteso da molto tempo che restituirà [!UICONTROL approximate distinct count] di [!UICONTROL dimension] elementi per un elemento selezionato [!UICONTROL dimension].
+La [!UICONTROL function] [!UICONTROL Approximate Count Distinct] è stata aggiunta al [!UICONTROL Calculated Metric Builder]. Si tratta di una [!UICONTROL function] molto richiesta, che restituirà il [!UICONTROL approximate distinct count] degli elementi di [!UICONTROL dimension] per una [!UICONTROL dimension] selezionata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12)
 
-Puoi utilizzare il valore [!UICONTROL metric] in qualsiasi rapporto per comprendere il conteggio di un elemento [!UICONTROL dimension] rispetto ai valori di un altro. Ad esempio, il numero di clienti univoci per canale di marketing.
+È possibile utilizzare la [!UICONTROL metric] in qualsiasi rapporto per comprendere il conteggio di una [!UICONTROL dimension] rispetto ai valori delle altre. Ad esempio, il numero di clienti univoci per canale di marketing.
