@@ -3,9 +3,9 @@ user-guide-title: Tutorial di Adobe Analytics
 user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
+source-git-commit: 55ab1f97bcc06c497c7f367a3d56bdd21763be45
 workflow-type: tm+mt
-source-wordcount: '2268'
+source-wordcount: '2271'
 ht-degree: 99%
 
 ---
@@ -234,6 +234,7 @@ ht-degree: 99%
       + [Manipolazione dei dati in entrata con le regole di elaborazione](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configurazione delle variabili di traffico (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurare le classificazioni del traffico](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Configurare le variabili della gerarchia](administration/manage-report-suites/configure-hierarchy-variables.md)
       + [Configurazione delle variabili in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Configurare le classificazioni di conversione](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configurazione delle variabili elenco](administration/manage-report-suites/configuring-list-variables.md)
