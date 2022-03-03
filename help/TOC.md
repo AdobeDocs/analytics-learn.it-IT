@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
 workflow-type: tm+mt
 source-wordcount: '2280'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -215,7 +215,7 @@ ht-degree: 98%
    + [Generazione rapporti in tempo reale in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Amministrazione {#administration}
    + Abilità dell’amministratore chiave {#key-admin-skills}
-      + [Creazione di una comunità dotata di poteri](administration/key-admin-skills/empowered-community.md)
+      + [Creazione di una community autonoma](administration/key-admin-skills/empowered-community.md)
       + [Semplificare e dedicare meno tempo alla formazione degli utenti](administration/key-admin-skills/simplify-training-users.md)
       + [Chi includere nel team Analytics](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + Impostazioni aziendali {#company-settings}
