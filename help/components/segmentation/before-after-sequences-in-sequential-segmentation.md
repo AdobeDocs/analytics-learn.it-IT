@@ -26,4 +26,4 @@ Questo video illustra come [!UICONTROL segment] in Adobe Analytics in modo da ot
 
 ## Informazioni aggiuntive
 
-Per ulteriori informazioni su questo argomento, visita la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=it).
+Per ulteriori informazioni su questo argomento, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=it).
