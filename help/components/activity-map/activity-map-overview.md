@@ -2,18 +2,15 @@
 title: Panoramica di Activity Map in Adobe Analytics
 description: Activity Map è uno strumento disponibile per gli utenti Adobe Analytics che consente di visualizzare i dati delle attività degli utenti direttamente sul sito web. Puoi vedere il numero di clic (o altre metriche) direttamente sui collegamenti della pagina.
 feature: Activity Map
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
+thumbnail: 25451.jpg
 kt: 2349
 role: User
 level: Beginner
 exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+source-git-commit: e04bfe38ba95485180e1f5e2587d6e26518c339b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
