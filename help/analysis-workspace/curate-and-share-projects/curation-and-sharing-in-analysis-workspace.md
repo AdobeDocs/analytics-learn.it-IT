@@ -8,14 +8,14 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341021.jpg
 kt: 2294
-source-git-commit: 5791ddd8ef948d74148bc4c2d4834a69ce879858
+source-git-commit: 8cba2c4f9d7daa5befe4f6bd90afed066dbbfea9
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 89%
+source-wordcount: '122'
+ht-degree: 90%
 
 ---
 
-# titolo Cura e condividi in Analysis Workspace
+# Cura e condivisione in Analysis Workspace
 
 Dopo aver creato un progetto in Analysis Workspace, puoi [!UICONTROL curate] (semplifica) e condividerlo con altri team e singoli utenti all’interno delle organizzazioni in modo che possano esplorarlo e distribuirlo con i dati. Questo video illustra come utilizzare [!UICONTROL curation] e la condivisione.
 
