@@ -2,16 +2,14 @@
 title: Abilitazione, debug e personalizzazione di Adobe Analytics Activity Map
 description: Scopri come abilitare, eseguire il debug e personalizzare il modo in cui Activity Map viene distribuito nell’estensione Adobe Analytics.
 feature: Activity Map
-topics: null
-activity: use
-doc-type: feature video
 team: Technical Marketing
+thumbnail: 25878.jpg
 kt: 1995
 role: User
 level: Beginner
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+source-git-commit: d087d830c6ddf03eb5c620fa0a9484ff6c817e7f
+workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
 
