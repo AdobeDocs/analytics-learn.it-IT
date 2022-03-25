@@ -1,6 +1,6 @@
 ---
-title: Suggerimenti su come semplificare e dedicare meno tempo alla formazione degli utenti
-description: Assicurare che gli utenti aziendali all'interno della tua organizzazione abbiano una buona formazione su Adobe Analytics è fondamentale per costruire una cultura del processo decisionale basato sui dati. Gli utenti che possono trovare facilmente le informazioni all’interno di Adobe Analytics possono rispondere da soli a semplici domande aziendali, consentendo agli analisti di avere più tempo per rispondere a domande aziendali difficili. La condivisione delle tue conoscenze contribuisce a promuovere la democrazia dei dati e consente agli utenti aziendali di essere più indipendenti nel prendere decisioni basate sulle prestazioni.
+title: Suggerimenti su come semplificare e ridurre il tempo dedicato alla formazione degli utenti
+description: Per costruire una cultura del processo decisionale basato sui dati è fondamentale assicurare che gli utenti aziendali all’interno della tua organizzazione abbiano una buona formazione su Adobe Analytics. Gli utenti in grado di trovare con facilità le informazioni all’interno di Adobe Analytics possono rispondere in autonomia a semplici domande aziendali, lasciando agli analisti più tempo per elaborare le risposte a questioni più complesse. La condivisione delle tue conoscenze contribuisce a promuovere la democrazia dei dati e consente agli utenti aziendali di essere più indipendenti nel prendere decisioni basate sulle prestazioni.
 feature: Admin Tools
 topic: Administration
 type: Documentation
@@ -8,60 +8,60 @@ role: Admin
 level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
-source-git-commit: c08c284f9e69cb2e16266e54c42ea15307e946b5
-workflow-type: tm+mt
+exl-id: d7fb6c34-262c-482c-95ab-fc45399bf9be
+source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
+workflow-type: ht
 source-wordcount: '912'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
-# Suggerimenti su come semplificare e dedicare meno tempo alla formazione degli utenti
+# Suggerimenti su come semplificare e ridurre il tempo dedicato alla formazione degli utenti
 
 >[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
-Assicurare che gli utenti aziendali all&#39;interno della tua organizzazione abbiano una buona formazione su Adobe Analytics è fondamentale per costruire una cultura del processo decisionale basato sui dati. Gli utenti che possono trovare facilmente le informazioni all’interno di Adobe Analytics possono rispondere da soli a semplici domande aziendali, consentendo agli analisti di avere più tempo per rispondere a domande aziendali difficili. La condivisione delle tue conoscenze contribuisce a promuovere la democrazia dei dati e consente agli utenti aziendali di essere più indipendenti nel prendere decisioni basate sulle prestazioni.
+Per costruire una cultura del processo decisionale basato sui dati è fondamentale assicurare che gli utenti aziendali all’interno della tua organizzazione abbiano una buona formazione su Adobe Analytics. Gli utenti in grado di trovare con facilità le informazioni all’interno di Adobe Analytics possono rispondere in autonomia a semplici domande aziendali, lasciando agli analisti più tempo per elaborare le risposte a questioni più complesse. La condivisione delle tue conoscenze contribuisce a promuovere la democrazia dei dati e consente agli utenti aziendali di essere più indipendenti nel prendere decisioni basate sulle prestazioni.
 
-Pertanto, è fondamentale dedicare tempo alla creazione di una struttura che consenta una formazione continua degli utenti e, in particolare, che i nuovi utenti possano essere integrati su richiesta. La creazione di un piccolo portfolio di contenuti di formazione che possono essere riutilizzati in base alle esigenze ti consentirà di risparmiare tempo. La parte migliore è che non richiede uno sforzo extra. L’Adobe fornisce anche corsi di formazione in aula e in remoto, ma solo le sfumature di qualsiasi implementazione personalizzata.
+È quindi determinante dedicare tempo alla creazione di una struttura che consenta una formazione continua degli utenti e soprattutto che possa integrare nuovi utenti a seconda della richiesta. La creazione di un piccolo portfolio di contenuti formativi riutilizzabili in base alle esigenze ti consentirà di risparmiare tempo. E soprattutto, non richiede un grande sforzo. Ricorda, poi, che Adobe fornisce anche corsi di formazione in aula e in remoto, ma solo tu puoi conoscere le particolarità di un’implementazione personalizzata.
 
 
 ## Formazione di base per tutti
 
-Per prima cosa, crea una sessione di formazione di base standardizzata per l’utilizzo di Adobe Analytics che si adatterà ai calendari della maggior parte delle persone. Questo sarà probabilmente di circa un’ora e conterrà tutti gli elementi necessari agli utenti per iniziare a utilizzare Adobe Analytics nella tua organizzazione.
+Per prima cosa, crea una sessione di formazione di base standardizzata per l’utilizzo di Adobe Analytics che sia compatibile con l’agenda della maggior parte delle persone. Avrà una durata di un’ora circa e conterrà tutti gli elementi necessari agli utenti per iniziare a utilizzare Adobe Analytics nella tua organizzazione.
 
-* Scrivi un&#39;agenda per mantenere in movimento la tua sessione di formazione e in modo da non dimenticare alcune delle nozioni di base, che potrebbero non essere più di primo piano per te.
-* Non dimenticare cose semplici come ottenere l’accesso, il login, nonché la modifica delle password o degli indirizzi e-mail.
-* Scorri gli utenti attraverso l’interfaccia, descrivi gli elementi di base di dimensioni, metriche e intervalli di date.
-* Descrivi la differenza tra visualizzazioni di pagina, visite e visitatori.
-* Mostra esempi su come creare progetti, tabelle a forma libera e visualizzazioni in Analysis Workspace.
-* Consenti tempo per domande e risposte.
+* Scrivi un programma per dare ritmo e progressione alla sessione di formazione e per non dimenticare qualche nozione di base che potresti ormai dare per scontata.
+* Non dimenticare aspetti basilari come ottenere l’accesso o effettuare il login, nonché modificare le password o gli indirizzi e-mail.
+* Spiega agli utenti l’interfaccia, descrivi le nozioni di base relative a dimensioni, metriche e intervalli di date.
+* Spiega la differenza tra visualizzazioni di pagina, visite e visitatori.
+* Mostra alcuni esempi su come creare progetti, tabelle a forma libera e visualizzazioni in Analysis Workspace.
+* Prevedi un adeguato spazio di tempo per domande e risposte.
 
-## Registrare
+## Registrare la sessione
 
-È possibile che tu ripeta più e più volte il corso di formazione più basilare man mano che i membri del team si uniscono all’organizzazione, che i ruoli cambiano all’interno dell’azienda o che fornisce nuovi accessi ai tirocinanti. Dopo aver portato a termine con successo una o due sessioni di formazione come round di allenamento, assicurati e registra una sessione di formazione live per aumentare la tua efficienza fornendo formazione automatizzata on-demand.
+Può capitare di dover ripetere più e più volte lo stesso corso di formazione di base, man mano che si uniscono nuovi membri del gruppo, quando ci sono cambi di ruolo all’interno dell’azienda o se è necessario fornire l’accesso a nuovi tirocinanti. Dopo aver completato positivamente un paio di sessioni di formazione per fare pratica, registra una sessione live, così potrai migliorare la tua produttività offrendo una formazione automatizzata on-demand.
 
-* La maggior parte degli strumenti di comunicazione video aziendali offrono una funzionalità di registrazione, potrebbe essere semplice come premere il pulsante di registrazione nella prossima sessione di formazione programmata. Assicurati che questo sia in linea con le politiche aziendali sulla privacy o trova il modo di garantire la conformità, ovvero chiedendo ai partecipanti di disattivare le proprie telecamere prima di premere la registrazione.
-* Se la tua azienda non offre questa funzionalità, esistono diversi strumenti online gratuiti o basati su abbonamento per la registrazione dello schermo e video webcam, insieme a semplici funzionalità di editing video.
-* Assicurati di trovare un luogo in cui ospitare i video in conformità ai criteri di sicurezza IT. Gli strumenti online hanno generalmente una funzionalità di hosting per consentire la riproduzione agli utenti finali. In caso contrario, sarà necessario ospitare il video su un server aziendale o tramite un sito di hosting video protetto da password.
+* La maggior parte degli strumenti di comunicazione video aziendali includono la funzionalità di registrazione: sarà sufficiente premere un pulsante per registrare la tua prossima sessione di formazione che hai in programma. Verifica che sia la registrazione conforme all’informativa sulla privacy aziendale, ad esempio chiedi ai partecipanti di disattivare le proprie videocamere prima di avviare la registrazione.
+* Se la tua azienda non include questa possibilità, esistono numerosi strumenti online gratuiti o basati su abbonamento per registrare la condivisione schermo e i video da webcam, con semplici funzionalità di editing video.
+* Assicurati di individuare una posizione per l’hosting dei video in conformità ai criteri di sicurezza IT. Solitamente gli strumenti online hanno una funzionalità di hosting per consentire agli utenti finali di riprodurre la sessione registrata. In caso contrario, sarà necessario ospitare il video su un server aziendale o tramite un sito di hosting video protetto da password.
 
-## Formazione avanzata per alcuni
+## Formazione avanzata su misura
 
-Naturalmente, una sessione di formazione di base standard non copre tutte le domande e tutti i casi d’uso per gli utenti della tua organizzazione. Dopo aver creato il corso di formazione di base, passa ad altri argomenti di formazione rilevanti in sessioni aggiuntive.
+Naturalmente, una sola sessione di formazione di base standard non è sufficiente per contemplare tutte le domande e tutti i casi di utilizzo degli utenti della tua organizzazione. Dopo aver creato il corso di formazione di base, passa ad altri argomenti di formazione rilevanti in sessioni complementari.
 
-* Assicurati e registra anche queste sessioni e rendili disponibili una per una durante la creazione del nuovo contenuto.
-* A volte, con la crescita e l’evoluzione dell’implementazione, potrebbe essere necessario aggiornare le sessioni di formazione per mantenere aggiornato il contenuto.
-* A seconda della struttura dell’implementazione e dell’organizzazione, potrebbe essere utile creare sessioni di formazione mirate a un reparto o gruppo specifico: ovvero fornire formazione a un reparto IT in merito all’utilizzo dei browser e dei sistemi operativi, dimostrando gli avvisi relativi alla disponibilità del sito rispetto a fornire formazione a un reparto marketing in merito a referrer, canali di marketing e pagine di contenuti più visitate.
-* Non è necessario creare tutti i contenuti da solo. Adobe ha alcuni ottimi percorsi di apprendimento gratuiti e contenuti di formazione aggiuntivi, che puoi offrire ai tuoi utenti in [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=it).
+* Registra anche queste sessioni e poi rendile disponibili una alla volta mentre crei nuovi contenuti.
+* Ogni tanto, man mano che la tua implementazione cresce ed evolve, avrai bisogno di aggiornare le sessioni di formazione esistenti affinché siano sempre attuali.
+* A seconda di come siano strutturate l’implementazione e l’organizzazione, potrebbe essere utile creare sessioni di formazione destinate a specifici gruppi o reparti: la formazione a un reparto IT deve ricoprire aspetti relativi all’utilizzo dei browser e dei sistemi operativi, con dimostrazioni sugli avvisi legati alla disponibilità del sito, mentre quella dedicata a un reparto marketing considera argomenti quali i referrer, i canali di marketing e le pagine di contenuti più visitate.
+* Non è necessario creare tutti i contenuti da solo. Adobe dispone di alcuni ottimi percorsi di apprendimento gratuiti e contenuti di formazione aggiuntivi, che puoi offrire ai tuoi utenti in [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=it).
 
 
 
-## Formazione degli utenti per formare gli altri
+## Insegnare agli utenti come formarne altri
 
-In ogni reparto, c&#39;è generalmente un utente più avanzato e competente in Adobe Analytics. Sfrutta le loro competenze e collabora con loro per diventare un &quot;Leader del reparto Adobe Analytics&quot;. Creando questo livello di supporto, aiuterai gli utenti a migliorare le loro competenze, a investire di più nella tua organizzazione in Adobe Analytics e a risparmiare tempo per domande più avanzate e impegnative.
+In ogni reparto solitamente c’è almeno un utente con più esperienza e competenza su Adobe Analytics. Sfrutta le competenze degli utenti più esperti e assegna loro il ruolo di “leader di reparto per Adobe Analytics”. Creando questo livello di supporto, gli utenti potranno sviluppare nuove competenze, la tua organizzazione potrà sfruttare sempre meglio il suo investimento in Adobe Analytics, e tu avrai più tempo da dedicare ad aspetti più avanzati e impegnativi.
 
-* Investite tempo a formare i responsabili del reparto affinché diventino utenti avanzati, in modo che possano rispondere comodamente a qualsiasi domanda e aiutare i nuovi utenti del reparto. Questo tempo investito pagherà i dividendi in seguito.
-* Assicurati di impostare le aspettative che tutte le domande del dipartimento siano inoltrate attraverso il responsabile del dipartimento. Se non sono in grado di rispondere a una domanda, è allora che si dovrebbe essere portati in aiuto.
+* Investi del tempo nella formazione dei leader di reparto affinché diventino utenti avanzati, così potranno rispondere con facilità a qualsiasi domanda e aiutare i nuovi utenti appena entrati in reparto. Questo investimento porterà i suoi benefici più avanti.
+* Fai sì che tutte le domande del reparto vengano rivolte al leader del reparto. Se non sarà in grado di rispondere a una domanda, a questo punto potrà richiedere il tuo intervento.
 
 >[!IMPORTANT]
 >
->Ricorda che l’abilitazione degli utenti con le tue conoscenze consente di semplificare il fardello di rispondere alle stesse semplici domande ripetutamente, consentendoti di concentrarti sull’analisi di un quadro generale e di rafforzare la qualità dell’implementazione.
+>Ricordati che se trasferisci agli utenti le tue conoscenze, potrai alleggerire il tuo carico di lavoro evitando di rispondere ripetutamente alle stesse domande più semplici, e avrai quindi più tempo per concentrarti sul quadro generale e rafforzare la qualità dell’implementazione.
