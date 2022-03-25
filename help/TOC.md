@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
 workflow-type: tm+mt
 source-wordcount: '2286'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 98%
       + [Summit 2019 Super Session: vendite al dettaglio](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 Super Session: high tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Transizione da altre piattaforme {#transitioning-from-other-platforms}
-      + [Transizione dalle Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
+      + [Transizione da Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Nozioni di base su Analytics {#analytics-basics}
       + [Pulsante Prova in Workspace in Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Informazioni sul ciclo di Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
@@ -217,7 +217,7 @@ ht-degree: 98%
 + Reports and Analytics {#reports-and-analytics}
    + [Generazione rapporti in tempo reale in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Amministrazione {#administration}
-   + Abilità dell’amministratore chiave {#key-admin-skills}
+   + Competenze chiave dell’amministratore {#key-admin-skills}
       + [Creazione di una community autonoma](administration/key-admin-skills/empowered-community.md)
       + [Semplificare e dedicare meno tempo alla formazione degli utenti](administration/key-admin-skills/simplify-training-users.md)
       + [Chi includere nel team Analytics](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
@@ -234,7 +234,7 @@ ht-degree: 98%
       + [Personalizzare le impostazioni del calendario](administration/manage-report-suites/customize-calendar-settings.md)
       + [Configurazione del rilevamento di ricerche a pagamento](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Impostare i canali di marketing](administration/manage-report-suites/set-up-marketing-channels.md)
-      + [Creare regole di elaborazione per i canali di marketing](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
+      + [Creare regole di elaborazione per il canale di marketing](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Personalizzare i menu in Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Manipolazione dei dati in entrata con le regole di elaborazione](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configurazione delle variabili di traffico (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
