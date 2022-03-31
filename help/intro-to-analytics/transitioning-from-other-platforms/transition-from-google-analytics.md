@@ -9,9 +9,9 @@ thumbnail: 34749.jpg
 kt: 9830
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: de78868e07b0fa59a7babc092c463bbe4d8e2da7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3690'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -268,11 +268,11 @@ Ti consigliamo comunque di utilizzare sia Adobe Analytics sia Google Analytics n
 
 Oltre a questa guida sono disponibili numerose risorse che possono contribuire a migliorare la tua strategia:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=it#home) - Contiene esercitazioni, video, documentazione e forum della community
-* [Adobe di gruppi di utenti](https://analytics-augs.adobe.com/) - Un hub di eventi gestiti dalla community per consentire agli utenti di connettersi tra loro e migliorare le loro implementazioni - poiché si basano su un fuso orario specifico, è meglio controllare anche le altre aree geografiche in esecuzione.
-* [Canale YouTube dei gruppi di utenti Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Impossibile creare una sessione del gruppo utenti di Adobe Analytics? Per ulteriori informazioni sull’utilizzo dello strumento da parte dei colleghi, consulta le sessioni precedenti del gruppo di utenti in tutto il mondo.
-* [Misura canale di Slack chat](https://www.measure.chat/) - Connettiti con gli utenti Adobe Analytics di tutto il mondo e condividi le lezioni del settore, fai domande ai tuoi colleghi e unisciti a gruppi di interesse incentrati sulla misurazione.
-* e altro ancora!
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=it#home) - Contiene tutorial, video, documentazione e i forum della community
+* [Adobe User Groups](https://analytics-augs.adobe.com/) - Hub di eventi gestiti dalla community per consentire agli utenti di connettersi tra loro e migliorare le loro implementazioni; sono basati su determinati fusi orari, quindi controlla anche le altre aree geografiche.
+* [Canale YouTube di Adobe Analytics User Groups](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Non puoi partecipare a una sessione del gruppo utenti di Adobe Analytics? Guarda le sessioni precedenti da tutto il mondo e scopri come altri professionisti come te utilizzano questo strumento.
+* [Canale Slack di Measure Chat](https://www.measure.chat/) - Entra in contatto con gli utenti di Adobe Analytics in tutto il mondo e condividi esperienze nel settore, fai domande ad altri professionisti come te e partecipa a gruppi di interesse incentrati sulla misurazione.
+* E altro ancora!
 
 ## Autore
 
@@ -280,7 +280,7 @@ Questo documento è stato scritto da:
 
 ![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
 
-Jennifer Dungan, Optimization Manager Analytics a Torstar
+Jennifer Dugan, Optimization Manager Analytics presso Torstar
 
 Adobe Analytics Champion
 
