@@ -1,24 +1,24 @@
 ---
 title: Annotazioni in Analysis Workspace
-description: Le annotazioni in Workspace consentono di comunicare in modo efficace sfumature di dati e informazioni contestuali agli utenti in tutta l’organizzazione. È possibile annotare un intervallo di date o di date con problemi di dati noti, festività pubbliche, avvii di campagne, ecc. per informare meglio gli utenti del motivo per cui visualizzano ciò che visualizzano in grafici a linee, tabelle e altro ancora.
+description: Le annotazioni in Workspace consentono di comunicare in modo efficace dettagli sui dati contestuali a beneficio degli utenti in tutta l’organizzazione. È possibile aggiungere a una data o un intervallo di date annotazioni relative a problemi noti, festività, avvii di campagne, ecc. per informare gli utenti del motivo di eventuali dati insoliti visualizzati nei grafici a linee, nelle tabelle e altro ancora.
 feature: Annotations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 341266.jpg
 kt: 9978
-source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
-workflow-type: tm+mt
+exl-id: 9b67b953-80c0-4a0c-bc57-8183338691c5
+source-git-commit: 6997a3939f53de32605d814f0a788288f9d6cb90
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
 # Annotazioni in Analysis Workspace
 
-Le annotazioni in Workspace consentono di comunicare in modo efficace sfumature di dati e informazioni contestuali agli utenti in tutta l’organizzazione. È possibile annotare un intervallo di date o di date con problemi di dati noti, festività pubbliche, avvii di campagne, ecc. per informare meglio gli utenti del motivo per cui visualizzano ciò che visualizzano in grafici a linee, tabelle e altro ancora.
+Le annotazioni in Workspace consentono di comunicare in modo efficace dettagli sui dati contestuali a beneficio degli utenti in tutta l’organizzazione. È possibile aggiungere a una data o un intervallo di date annotazioni relative a problemi noti, festività, avvii di campagne, ecc. per informare gli utenti del motivo di eventuali dati insoliti visualizzati nei grafici a linee, nelle tabelle e altro ancora.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=en).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=it).
