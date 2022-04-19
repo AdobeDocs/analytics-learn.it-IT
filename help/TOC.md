@@ -3,9 +3,9 @@ user-guide-title: Tutorial di Adobe Analytics
 user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: 7caea7a0194180dd1d4489703adc0356d9564609
+source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
 workflow-type: tm+mt
-source-wordcount: '2321'
+source-wordcount: '2327'
 ht-degree: 98%
 
 ---
@@ -226,6 +226,7 @@ ht-degree: 98%
       + [Raccontare storie di grande impatto con i dati](administration/key-admin-skills/telling-impactful-stories-with-data.md)
       + [Traduzione del linguaggio tecnico Adobe Analytics in modo non tecnico](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Funzionamento interfunzionale](administration/key-admin-skills/working-cross-functionally.md)
+      + [State facendo le domande giuste?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Impostazioni aziendali {#company-settings}
       + [Applicare restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visualizzare le funzioni disponibili per l’account](administration/company-settings/view-your-accounts-available-features.md)
