@@ -7,9 +7,9 @@ role: Admin
 level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: b5cda911edf548886cc0aeb404a8289bcea4f454
 workflow-type: tm+mt
-source-wordcount: '1080'
+source-wordcount: '1082'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Invia un elenco di domande ai tuoi stakeholder da rivedere prima della riunione 
 
 Le domande variano in base al potere tecnico o analitico, alla struttura aziendale o alla complessità dell’argomento relativo alla raccolta dei dati. Spesso è utile iniziare a un livello elevato, con domande sull’intera organizzazione, quindi discutere il ruolo delle parti interessate a sostegno di tali obiettivi organizzativi e così via in livelli di dettaglio crescenti. Puoi quindi assicurarti che i punti dati granulari discussi supportino efficacemente gli obiettivi generali dell’organizzazione. Permette anche di pensare in modo creativo e suggerire nuove idee per i dati che supportano i loro obiettivi.
 
-[Esplora questo modello](assets/stakeholder-questionnaire.pdf) contenente diverse domande di esempio per i colloqui delle parti interessate. Riutilizzali o modificali per preparare le domande pertinenti per le tue discussioni.
+[Esplora questo modello](assets/stakeholder-questionnaire.pdf){target=&quot;_blank&quot;} contenente diverse domande di esempio per le interviste alle parti interessate. Riutilizzali o modificali per preparare le domande pertinenti per le tue discussioni.
 
 ### 2. Richiedere rapporti di esempio
 
