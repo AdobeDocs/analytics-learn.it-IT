@@ -3,10 +3,10 @@ user-guide-title: Tutorial di Adobe Analytics
 user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: c127c940ee352cc4815c34551e74564b725c776d
 workflow-type: tm+mt
-source-wordcount: '2327'
-ht-degree: 98%
+source-wordcount: '2346'
+ht-degree: 97%
 
 ---
 
@@ -360,6 +360,9 @@ ht-degree: 98%
       + [Rilevamento delle anomalie in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Modificare le metriche in più richieste](exporting/report-builder/edit-metrics-across-requests.md)
       + [Utilizzo di Report Builder per apprendere l’API di Adobe Analytics](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
+      + [Guida introduttiva a Report Builder](exporting/report-builder/get-started-with-report-builder.md)
+      + [Pianificazione di una richiesta di Report Builder](exporting/report-builder/schedule-a-report-builder-request.md)
+      + [Utilizzare opzioni di consegna avanzate Report Builder per Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integrazioni {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Miglioramento della pubblicazione dei tipi di pubblico in Experience Cloud](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
