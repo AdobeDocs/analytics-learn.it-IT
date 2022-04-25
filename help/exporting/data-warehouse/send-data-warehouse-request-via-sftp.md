@@ -1,6 +1,6 @@
 ---
-title: Inviare una richiesta al Data Warehouse tramite SFTP
-description: Data Warehouse rimanda alla copia dei dati di Analytics per l’archiviazione e i rapporti personalizzati, che si possono eseguire filtrando i dati. È possibile richiedere rapporti per visualizzare relazioni avanzate tra i dati, da dati non elaborati in base a domande specifiche. I rapporti data warehouse vengono inviati tramite e-mail o FTP e la loro elaborazione può richiedere fino a 72 ore. Il tempo di elaborazione dipende dalla complessità della query e dalla quantità di dati richiesti.
+title: Invia richiesta di data warehouse tramite SFTP
+description: Data Warehouse fa riferimento alla copia dei dati di Analytics per l'archiviazione e i report personalizzati, che puoi eseguire filtrando i dati. È possibile richiedere rapporti per visualizzare relazioni avanzate tra i dati, da dati non elaborati in base a domande specifiche. I rapporti data warehouse vengono inviati tramite e-mail o FTP e la loro elaborazione può richiedere fino a 72 ore. Il tempo di elaborazione dipende dalla complessità della query e dalla quantità di dati richiesti.
 feature: Data Warehouse
 topic: Administration
 role: User, Architect
@@ -9,16 +9,16 @@ doc-type: feature video
 thumbnail: 335751.jpg
 kt: KT-8467
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 100%
+ht-degree: 67%
 
 ---
 
 # Inviare una richiesta al Data Warehouse tramite SFTP
 
-Data Warehouse rimanda alla copia dei dati di Analytics per l’archiviazione e i rapporti personalizzati, che si possono eseguire filtrando i dati. È possibile richiedere rapporti per visualizzare relazioni avanzate tra i dati, da dati non elaborati in base a domande specifiche. I rapporti data warehouse vengono inviati tramite e-mail o FTP e la loro elaborazione può richiedere fino a 72 ore. Il tempo di elaborazione dipende dalla complessità della query e dalla quantità di dati richiesti.
+Data Warehouse fa riferimento alla copia dei dati di analisi per l&#39;archiviazione e i report personalizzati, che puoi eseguire filtrando i dati. È possibile richiedere rapporti per visualizzare relazioni avanzate tra i dati, da dati non elaborati in base a domande specifiche. I rapporti data warehouse vengono inviati tramite e-mail o FTP e la loro elaborazione può richiedere fino a 72 ore. Il tempo di elaborazione dipende dalla complessità della query e dalla quantità di dati richiesti.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)

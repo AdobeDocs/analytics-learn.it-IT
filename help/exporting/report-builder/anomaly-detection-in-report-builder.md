@@ -1,23 +1,21 @@
 ---
-title: Rilevamento delle anomalie in Report Builder
+title: Rilevamento delle anomalie nel Report Builder
 description: Scopri come aggiungere metriche di rilevamento delle anomalie alle richieste di dati nonché grafici creativi dei dati.
 feature: Report Builder
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1768
 role: User
 level: Intermediate
+doc-type: feature video
+thumbnail: 25444.jpg
+kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
-# [!UICONTROL Anomaly Detection] in [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
+# [!UICONTROL Anomaly detection] in [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
 
 Scopri come aggiungere [!UICONTROL anomaly detection] [!UICONTROL metrics] alle richieste di dati nonché grafici creativi dei dati.
 

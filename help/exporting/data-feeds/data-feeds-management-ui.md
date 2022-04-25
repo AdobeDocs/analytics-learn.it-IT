@@ -1,25 +1,23 @@
 ---
-title: Interfaccia per la gestione dei feed dei dati
+title: Interfaccia utente per la gestione dei feed dati
 description: Feed dati di Adobe Analytics consente di esportare dati clickstream non elaborati da importare e unire con altre origini dati in un EDW o in un data lake. Puoi creare e gestire i tuoi feed di dati in Adobe Analytics. Questo video ti mostrerà come.
 feature: Data Feeds
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2353
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25452.jpg
+kt: 2353
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
-source-git-commit: c25fa27046e5dd573e4dfb07535e319afe27c478
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
-# [!UICONTROL Data Feeds] Interfaccia utente di gestione {#data-feeds-management-ui}
+# [!UICONTROL Data feeds] interfaccia di gestione {#data-feeds-management-ui}
 
-Adobe Analytics [!UICONTROL Data Feed] consente di esportare i dati clickstream non elaborati per importare e unire con altre origini dati in un EDW o in un data lake. Puoi creare e gestire [!UICONTROL Data Feeds] in Adobe Analytics. Questo video ti mostrerà come.
+Adobe Analytics [!UICONTROL Data feed] consente di esportare i dati clickstream non elaborati per importare e unire con altre origini dati in un EDW o in un data lake. Puoi creare e gestire [!UICONTROL Data Feeds] in Adobe Analytics. Questo video ti mostrerà come.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 

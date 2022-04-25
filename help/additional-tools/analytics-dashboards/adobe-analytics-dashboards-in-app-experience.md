@@ -1,25 +1,23 @@
 ---
-title: Esperienza in-app con le dashboard di Adobe Analytics
-description: Questo video spiega come utilizzare le dashboard di Adobe Analytics (app mobile) per visualizzare le scorecard che hai creato o che sono state condivise con te.
+title: Esperienza in-app con Adobe Analytics dashboards
+description: In questo video, scopri come utilizzare Adobe Analytics dashboards (app mobile) per accedere e visualizzare le "scorecard" create da o condivise con te.
 feature: Analytics Dashboards
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 5287
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 34545.jpg
+kt: 5287
 exl-id: ba29664f-da1a-49c7-8c73-ae5b65f11b4a
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 100%
+ht-degree: 22%
 
 ---
 
-# Esperienza in-app con le dashboard di Adobe Analytics
+# Esperienza in-app delle dashboard di Adobe Analytics
 
-Questo video spiega come utilizzare le dashboard di Adobe Analytics (app mobile) per visualizzare le scorecard che hai creato o che sono state condivise con te.
+In questo video, scopri come utilizzare Adobe Analytics dashboards (app mobile) per accedere e visualizzare le &quot;scorecard&quot; create da o condivise con te.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12)
 
