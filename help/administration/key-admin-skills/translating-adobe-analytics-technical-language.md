@@ -1,6 +1,6 @@
 ---
-title: Traduzione del linguaggio tecnico Adobe Analytics in modo non tecnico
-description: Con più occhi sul mondo digitale che mai, è sempre più necessario comprendere, analizzare e intervenire sui dati avanzati disponibili nella configurazione di Adobe Analytics. Questa maggiore attenzione può far emergere una serie di soggetti interessati che sono completamente nuovi nel mondo delle proprietà e delle eVar. In qualità di esperto Adobe Analytics della tua organizzazione, sei fondamentale per aiutare le parti interessate a comprendere i dettagli tecnici e trarre il massimo dal tuo investimento Adobe Analytics.
+title: Traduzione del linguaggio tecnico di Adobe Analytics per utenti non tecnici
+description: Con la sempre crescente attenzione sul mondo digitale, è più necessario che mai comprendere, analizzare e intervenire sui dati avanzati disponibili nella propria configurazione di Adobe Analytics. E tra le parti interessate ci sono anche utenti che non conoscono ancora il mondo delle proprietà e delle eVar. In qualità di esperto di Adobe Analytics nella tua organizzazione, rivesti un ruolo fondamentale per aiutare le persone a comprendere i dettagli tecnici e trarre il massimo dall’investimento in Adobe Analytics.
 feature: Admin Tools
 topic: Administration
 role: Admin
@@ -8,64 +8,64 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1017'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Traduzione del linguaggio tecnico Adobe Analytics in modo non tecnico
+# Traduzione del linguaggio tecnico di Adobe Analytics per utenti non tecnici
 
 >[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Parlare lingue diverse
 
-Con più occhi sul mondo digitale che mai, è sempre più necessario comprendere, analizzare e intervenire sui dati avanzati disponibili nella configurazione di Adobe Analytics. Questa maggiore attenzione può far emergere una serie di soggetti interessati che sono completamente nuovi nel mondo delle proprietà e delle eVar. In qualità di esperto Adobe Analytics della tua organizzazione, sei fondamentale per aiutare le parti interessate a comprendere i dettagli tecnici e trarre il massimo dal tuo investimento Adobe Analytics.
+Con la sempre crescente attenzione sul mondo digitale, è più necessario che mai comprendere, analizzare e intervenire sui dati avanzati disponibili nella propria configurazione di Adobe Analytics. E tra le parti interessate ci sono anche utenti che non conoscono ancora il mondo delle proprietà e delle eVar. In qualità di esperto di Adobe Analytics nella tua organizzazione, rivesti un ruolo fondamentale per aiutare le persone a comprendere i dettagli tecnici e trarre il massimo dall’investimento in Adobe Analytics.
 
-Ecco quattro suggerimenti che ho trovato utili per far sì che i miei stakeholder comprendano il linguaggio tecnico di Adobe Analytics.
+Ecco quattro suggerimenti che ho trovato utili per aiutare altri a comprendere il linguaggio tecnico di Adobe Analytics.
 
-## Suggerimento 1: Avvia gli azionisti con forza
+## 1 - Fornire alle parti interessate una solida base
 
-Un solido programma di onboarding per i nuovi utenti Adobe Analytics è fondamentale per promuovere l&#39;adozione fin dall&#39;inizio. Molte volte, il vostro programma di onboarding sarà la loro prima esposizione al meraviglioso mondo di prop ed eVar. Il tuo programma di onboarding deve essere accessibile, pertinente e memorabile per garantire che i tuoi utenti continuino a tornare allo strumento.
+Un solido programma di onboarding per i nuovi utenti di Adobe Analytics è fondamentale per favorire fin da subito l’adozione di questo sistema. Spesso, il tuo programma di onboarding rappresenterà il primo contatto con il meraviglioso mondo di prop ed eVar. Per essere certi che i tuoi utenti continuino a usare questo strumento, il programma di onboarding deve essere accessibile, pertinente e memorabile.
 
-Ad esempio, ecco il mio modo preferito di spiegare eVar e metodi di allocazione ai nuovi analisti: Immaginate di essere fuori una sera a piedi per il vostro quartiere e oh no, saltate su un pezzo di gomma da masticare. Per il resto della vostra passeggiata, quel pezzo di gomma è ora bloccato sul fondo della scarpa (proprio come un eVar!). Fai un paio di passi in avanti e un altro pezzo di gomma si blocca alla tua scarpa. Alla fine della tua passeggiata, decidi di tirarti fuori le scarpe. Cosa l&#39;ha portato a quella decisione? È stato il primo pezzo di gomma su cui avete calpestato, l&#39;ultimo, o sono stati entrambi ugualmente da incolpare?
-
->[!TIP]
->
->**Denominazione chiara dei componenti (ovvero dimensioni, segmenti e metriche) con descrizioni**
->La condivisione del dizionario dati di eVar e proprietà è sempre un buon passo per democratizzare i dati della tua organizzazione, ma non aspettarti che un utente casuale memorizzi tutte le variabili personalizzate e l’utilizzo previsto per indice/numero. In Adobe Workspace, invece, accertati che i nomi dei componenti siano descrittivi con tag e descrizioni significativi. In questo modo gli utenti potranno trovare rapidamente la metrica corretta tra le centinaia di eVar e le metriche/segmenti infinite.
-
-## Suggerimento 2: Trova una lingua comune
-
-Indipendentemente dal settore in cui lavori, trova il linguaggio comune che collega il mondo di Adobe Analytics a qualcosa di familiare ai tuoi stakeholder.
-
-A [!DNL The Home Depot], un commerciante o un responsabile store potrebbe non avere familiarità con un hit, una visita o un visitatore univoco. Potremmo fornire loro una spiegazione sulle chiamate al server di analytics, le sessioni di navigazione, i timeout e i cookie... oppure potremmo riportarlo al nostro negozio fisico e ai nostri clienti (cioè quel linguaggio comune). Un visitatore unico diventa un cliente che cammina attraverso le nostre porte. Le visite al sito web diventano quanti viaggi a un [!DNL Home Depot] archivia il cliente prodotto. E i risultati diventano gesti per i clienti come camminare sui corridoi o parlare con un socio del negozio.
+Ad esempio, ecco come mi piace spiegare le eVar e i metodi di allocazione a un nuovo analista: immagina di passeggiare per le strade del tuo quartiere e... di calpestare una gomma da masticare! Per il resto della passeggiata, ti resterà appiccicata alla suola (proprio come un eVar!). Fai un paio di passi, e un’altra gomma da masticare ti si appiccica alla scarpa. Alla fine della passeggiata, decidi di buttar via le scarpe. Cosa ti ha fatto prendere questa decisione? È stata la prima gomma da masticare che hai calpestato? L’ultima? O forse entrambe?
 
 >[!TIP]
 >
->**Fai in modo che l’implementazione rifletta il linguaggio comune**
->Tutto ciò che nell’interfaccia utente di Adobe Analytics è personalizzabile. Se l&#39;organizzazione fa riferimento ai carrelli come borse, puoi rinominare l&#39;evento carrello in shopping bag.
->
->Considera la creazione di un proprio vocabolario controllato per la tua organizzazione se trovi diversi termini sinonimi che galleggiano intorno, o se ci sono termini che normalmente inciampano sui tuoi utenti. Prendete l&#39;iniziativa di promuovere la standardizzazione della terminologia preferita. Inoltre, rivedi i termini confusi più comuni nelle sessioni di onboarding e abilitazione per aiutare gli utenti ad essere acclimatati.
+>**Assegnare nomi chiari ai componenti (dimensioni, segmenti e metriche) con relative descrizioni.**
+>È sempre utile condividere con i colleghi il dizionario dati di eVar e prop, ma non aspettarti che un utente sporadico possa ricordare con il loro numero o codice tutte le variabili personalizzate e il loro utilizzo. In Adobe Workspace, assicurati quindi di assegnare ai componenti nomi descrittivi, con tag e descrizioni. Gli utenti potranno così trovare rapidamente la metrica necessaria tra le centinaia di eVar e l’infinità di metriche e segmenti.
 
-## Suggerimento n. 3: Formare un gruppo di stelle rocciose
+## 2 - Trovare una lingua comune
 
-Tieni d&#39;occhio le tue rock star analitiche, quelle che possono afferrare rapidamente le sfumature tecniche di Adobe Analytics e applicarle rapidamente durante le loro analisi. Sia formalmente che informalmente, appoggiati al tuo gruppo di rock star per testare le modifiche al tuo programma di onboarding o diventare utenti beta di un nuovo report. Possono anche contrassegnare quando ci sono lacune nelle conoscenze analitiche all’interno dei loro team.
+Indipendentemente dal settore in cui lavori, trova un linguaggio comune che colleghi il mondo di Adobe Analytics a qualcosa che sia familiare a tutte le parti interessate.
 
-A [!DNL The Home Depot], abbiamo ospitato una sfida Adobe Analytics in cui abbiamo posto ai nostri utenti domande complesse che potevano essere risolte utilizzando lo strumento . La sfida ha evidenziato alcune rock star dell&#39;analisi e ci ha aiutato a capire quanto i nostri stakeholder abbiano compreso i dettagli tecnici di Adobe Analytics.
+In [!DNL The Home Depot], un commerciante o il manager di un negozio potrebbe non sapere cosa sono gli hit, le visite o i visitatori univoci. Potremmo parlare loro delle chiamate al server di Analytics, delle sessioni di navigazione, dei timeout e dei cookie... oppure potremmo riportarli al negozio fisico e ai clienti (linguaggio comune). Un visitatore univoco diventa così un cliente che entra nel negozio. Le visite al sito web sono paragonabili alle volte che il cliente è entrato in un negozio [!DNL Home Depot]. E gli hit sono come le azioni eseguite dal cliente, ad esempio camminare lungo le varie corsie o parlare con un addetto alla vendita.
 
 >[!TIP]
 >
->**Creare modelli e indicazioni per aree di lavoro specifiche per soluzioni annotate**
->Utilizza i rapporti aziendali (Modelli) e le visualizzazioni di testo in analysis workspace per creare guide contestuali che aiuteranno le tue rock star a rimanere sulla strada giusta.
+>**Assicurarsi che l’implementazione rifletta il linguaggio comune.**
+>Quasi tutto ciò che vedi nell’interfaccia utente di Adobe Analytics può essere personalizzato. Se nella tua organizzazione, ad esempio, il “carrello” viene chiamato “shopper”, puoi cambiare il nome dell’evento Carrello in Shopper.
 >
->La flessibilità di Analysis Workspace consente di creare modelli per analisi più veloci e di abilitare funzioni self-service e self-enablement. Combinando le funzionalità di funzioni quali modelli curati, annotazioni e collegamento tra aree di lavoro/intra, puoi creare guide efficienti, accessibili e facili da divulgare agli utenti non tecnici nel contesto di Adobe Analytics.
+>E se internamente usate diversi sinonimi oppure alcuni termini creano spesso confusione, potrai creare un glossario “ufficiale” specifico per la tua organizzazione e cogliere l’opportunità per promuovere la standardizzazione in base alla terminologia preferita. Inoltre, nelle sessioni di onboarding e formazione, dedica del tempo a chiarire quei termini che generano più spesso confusione.
 
-## Suggerimento n. 4: Mantieni canali di comunicazione aperti
+## 3 - Formare un gruppo di esperti
 
-Offri agli interessati ampie opportunità di ricevere aiuto durante la creazione di dashboard di Adobe Analytics. È possibile ospitare un orario di ufficio aperto in cui le parti interessate possono effettuare il check-in con domande e essere associate con un esperto. Oppure crea un canale di assistenza dove le parti interessate possono porre domande in un ambiente di apprendimento sicuro.
+Tieni d’occhio gli utenti che brillano di più nell’analisi, che afferrano facilmente le sfaccettature tecniche di Adobe Analytics e riescono ad applicarle in breve tempo alle loro analisi. Che sia in modo formale o informale, usa questo gruppo di esperti per testare le modifiche che apporti al programma di onboarding o magari come utenti beta di un nuovo tipo di rapporto. Potranno anche segnalarti quando riscontrano delle lacune nei loro team.
 
-A [!DNL The Home Depot], le nostre parti interessate amano il nostro orario di ufficio aperto e l&#39;helpline di Slack. Sin dall&#39;inizio di questi canali aperti, abbiamo visto una maggiore precisione nella creazione di report e l&#39;adozione di Adobe Analytics è cresciuta alle stelle. In passato, siamo diventati il 5% dei migliori punteggi di adozione di Adobe Analytics per i retailer di tutto il mondo!
+Presso [!DNL The Home Depot], abbiamo organizzato una sfida su Adobe Analytics, proponendo una serie di domande complesse che gli utenti potevano risolvere con questo strumento. Da questa sfida sono emersi anche i nostri utenti più esperti di analisi, e abbiamo potuto valutare il livello di familiarità di tutte le parti interessate con i dettagli tecnici di Adobe Analytics.
 
-Aiutare gli utenti a comprendere il mondo tecnico di Adobe Analytics non è facile. Spero che questi suggerimenti e esempi aiutino i vostri stakeholder a immergersi in profondità, costruire queste tabelle a forma libera e innamorarsi del mondo delle proprietà e degli eVar.
+>[!TIP]
+>
+>**Creare modelli e indicazioni con annotazioni per specifici modelli di Workspace.**
+>Utilizza i rapporti aziendali (modelli) e le visualizzazioni di testo in Analysis Workspace per creare guide contestuali che aiuteranno i tuoi esperti a rimanere sulla strada giusta.
+>
+>La flessibilità di Analysis Workspace consente di creare modelli per analisi più veloci e abilitare funzioni self-service e per l’auto-formazione. Combinando funzionalità quali modelli curati, annotazioni e collegamenti Workspace interni ed esterni, puoi creare guide efficaci, accessibili e facili da divulgare agli utenti non tecnici nel contesto di Adobe Analytics.
+
+## 4 - Mantenere canali di comunicazione aperti
+
+Offri agli interessati numerose opportunità di ricevere aiuto durante la creazione delle dashboard di Adobe Analytics. Puoi ospitare sessioni aperte negli orari di lavoro, in cui gli utenti possono portare le loro domande ed essere messi in contatto con un esperto. Oppure crea un canale di assistenza che consenta di porre domande in un ambiente di apprendimento sicuro.
+
+In [!DNL The Home Depot], i nostri utenti apprezzano molto le sessioni aperte negli orari di lavoro e il canale di assistenza su Slack. Sin dall’introduzione di questi canali, abbiamo registrato una maggiore precisione nella creazione dei rapporti e il tasso di adozione di Adobe Analytics è notevolmente cresciuto. In passato, siamo entrati nel primo 5% dei migliori punteggi di adozione di Adobe Analytics, tra tutti i retailer nel mondo!
+
+Non è semplice aiutare gli utenti a comprendere il mondo tecnico di Adobe Analytics. Ma spero che questi suggerimenti ed esempi ti aiutino ad aiutare i tuoi utenti a entrare in questo ambiente senza timori, a creare tabelle a forma libera e a innamorarsi del meraviglioso mondo di prop ed eVar.
