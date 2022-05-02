@@ -1,6 +1,6 @@
 ---
-title: Raccontare storie di grande impatto con i dati
-description: La narrazione dei dati è il luogo in cui arte e scienza si riuniscono utilizzando dati, visualizzazioni e narrazioni.  Sfruttando questi componenti, ci sono tre parti per creare una storia di dati di impatto. Raccontando in modo efficace una storia con i dati, Analytics può diventare più accessibile a un pubblico più ampio e puoi aumentare il valore che apporti alla tua organizzazione attraverso processi decisionali basati sui dati.
+title: Narrazione efficace attraverso i dati
+description: Nella narrazione dei dati, vengono utilizzati dati, visualizzazioni e narrazioni con un approccio sia umanistico che scientifico.  Sfruttando questi componenti, la creazione di una narrazione efficace attraverso i dati prevede tre parti. Utilizzando i dati per presentare una narrazione, Analytics può diventare più accessibile a un pubblico più ampio e puoi aumentare il valore che apporti alla tua organizzazione attraverso processi decisionali basati sui dati.
 feature: Admin Tools
 topic: Administration
 role: Admin
@@ -8,39 +8,38 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '460'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Raccontare storie di grande impatto con i dati
+# Narrazione efficace attraverso i dati
 
-La narrazione dei dati è il luogo in cui arte e scienza si riuniscono utilizzando dati, visualizzazioni e narrazioni.  Sfruttando questi componenti, ci sono tre parti per creare una storia di dati di impatto. Raccontando in modo efficace una storia con i dati, Analytics può diventare più accessibile a un pubblico più ampio e puoi aumentare il valore che apporti alla tua organizzazione attraverso processi decisionali basati sui dati.
+Nella narrazione dei dati, vengono utilizzati dati, visualizzazioni e narrazioni con un approccio sia umanistico che scientifico.  Sfruttando questi componenti, la creazione di una narrazione efficace attraverso i dati prevede tre parti. Utilizzando i dati per presentare una narrazione, Analytics può diventare più accessibile a un pubblico più ampio e puoi aumentare il valore che apporti alla tua organizzazione attraverso processi decisionali basati sui dati.
 
-## Identificare l&#39;opportunità o il problema
+## Identificare l’opportunità o il problema
 
-Inizia definendo la situazione attuale e stabilendo il problema o l&#39;opportunità. Qui si imposta la fase e si forniscono informazioni sufficienti per catturare il pubblico ma non per rivelare completamente la soluzione. Questa introduzione è critica (e può essere impegnativa) ma è l&#39;intera motivazione della vostra analisi!  Il valore della narrazione dei dati consiste nel richiedere un&#39;azione che dia luogo a **comportamento modificato**. I dati, Insight &amp; Analysis sono altrimenti impotenti.
+Per iniziare, definisci la situazione attuale e stabilisci quale sia il problema o l’opportunità. In questa fase si imposta la scena e si forniscono abbastanza informazioni con cui catturare l’attenzione del pubblico, senza però rivelare completamente la soluzione. Questa introduzione ha un ruolo fondamentale (e può essere impegnativa), e rappresenta l’intera motivazione della tua analisi!  Il valore della narrazione attraverso i dati consiste nel richiedere un’azione che dia luogo a un **cambiamento di comportamento**. Un sua assenza, dati, insight e analisi perderebbero la loro potenza.
 
-**Suggerimento di Adobe Workspace:** Assegna un titolo alle visualizzazioni sotto forma di domanda per mostrare esattamente quale problema o situazione attuale viene evidenziato.
+**Suggerimento per Adobe Workspace:** assegna un titolo alle visualizzazioni sotto forma di domanda, per mostrare chiaramente il problema o la situazione attuale che viene evidenziata.
 
 ## Spiegare attraverso i dati
 
-Dopo aver impostato la situazione, utilizza i dati per rivelare l’origine del problema/opportunità. Concentrati sui risultati e sulle variabili che meglio spiegano la situazione attuale, invece che sull&#39;analisi e l&#39;esplorazione complete per arrivarci.  Includi elementi visivi accattivanti che consentono di mostrare la relazione tra le variabili indipendenti e dipendenti, ma che lo mantengono semplice in modo che sia facilmente utilizzabile dal pubblico.
+Dopo aver impostato la situazione, utilizza i dati per rivelare l’origine del problema o dell’opportunità. A tale scopo, non presentare un’analisi approfondita: piuttosto, concentrati su quei risultati e quelle variabili che meglio illustrano la situazione attuale.  Illustra la relazione tra le variabili indipendenti e dipendenti mediante l’uso di elementi visivi d’impatto e allo stesso tempo semplici, affinché il tuo pubblico possa comprenderli facilmente.
 
-**Suggerimento di Adobe Workspace:**
-Crea visualizzazioni semplici e di facile lettura, in linea con il tipo di dati che stai condividendo:
+**Suggerimento per Adobe Workspace:** crea visualizzazioni semplici e di facile lettura, in linea con il tipo di dati che vuoi condividere:
 
-* Utilizzare i grafici a barre per i dati categorici e binari
-* Utilizza grafici a linee (o bolle al di fuori dell’Adobe) per i dati numerici
-* Dispersioni negli Stati Uniti per dimostrare relazioni statistiche
+* Utilizza i grafici a barre per dati binari o relativi a categorie.
+* Utilizza i grafici a linee (o a bolle, realizzati al di fuori della soluzione Adobe) per dati numerici.
+* Utilizza i grafici a dispersione per dimostrare relazioni statistiche.
 
 ## Offrire una soluzione
 
-Comunica l’azione consigliata e gli eventuali interventi necessari per raggiungerla.  Assicurati di fornire informazioni sufficienti affinché le parti interessate possano prendere una decisione informata, ad esempio, sulle implicazioni in termini di costi o sulle risorse necessarie per apportare un cambiamento. Il modo più efficace per farlo è quantificare il possibile impatto attraverso almeno un KPI critico.
+Comunica l’azione consigliata e come conseguirla.  Assicurati di fornire informazioni tali da consentire alle parti interessate di prendere una decisione informata, ad esempio: implicazioni in termini di costi o risorse necessarie per apportare un cambiamento. Il modo più efficace per farlo consiste nel quantificare il possibile impatto attraverso almeno un KPI critico.
 
-**Suggerimento di Adobe Workspace:** Utilizza strumenti come classificazioni e/o metriche calcolate per quantificare (ad esempio, Net Profit o CLV) il possibile impatto direttamente all’interno di Adobe Analytics e utilizza numeri di riepilogo o modifiche all’interno di Adobe Workspace per terminare con una nota elevata!
+**Suggerimento per Adobe Workspace:** utilizza strumenti come classificazioni e/o metriche calcolate per quantificare (ad esempio, in termini di Ricavo netto o Customer Lifetime Value) il possibile impatto direttamente in Adobe Analytics, e come gran finale, utilizza le visualizzazioni Numero riepilogo o Modifica riepilogo in Adobe Workspace.
 
 ## Autore
 
@@ -48,6 +47,6 @@ Questo documento è stato scritto da:
 
 ![Amy Ard](assets/amy-ard-headshot-small.png)
 
-Amy Ard, Director di Analytics a Levelwing
+Amy Ard, Director of Analytics presso Levelwing
 
 Adobe Analytics Champion
