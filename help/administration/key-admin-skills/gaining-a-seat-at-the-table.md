@@ -1,6 +1,6 @@
 ---
-title: Ottenimento di un posto a tavola
-description: Ottenendo un posto al tavolo. Questa frase popolare è stata un argomento caldo nel mondo degli affari per anni ora. Ma cosa significa? Ottenere un posto al tavolo significa che sei incluso nelle conversioni decisionali di alto livello. Non solo siete invitati, ma il vostro contributo è apprezzato e apprezzato. Vi mostrerò come ottenere un posto al tavolo aiuterà la vostra azienda e la vostra carriera come amministratore Adobe Analytics.
+title: Guadagnarsi un posto al tavolo
+description: “Guadagnarsi un posto al tavolo” è un’espressione entrata nel mondo degli affari già da diversi anni. Ma cosa significa? Significa essere inclusi nelle conversioni decisionali di alto livello. Non solo essere invitati, ma essere apprezzati per il contributo che si è in grado di dare. Vi mostrerò come, guadagnandovi un posto al tavolo, potrete giovare alla vostra azienda e migliorare la vostra carriera di amministratore di Adobe Analytics.
 feature: Admin Tools
 topic: Administration
 role: Admin
@@ -8,49 +8,49 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1263'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Ottenimento di un posto a tavola
+# Guadagnarsi un posto al tavolo
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-&quot;Ottenendo un posto al tavolo.&quot; Questa frase popolare è stata un argomento caldo nel mondo degli affari per anni ora. Ma cosa significa? Ottenere un posto al tavolo significa che sei incluso nelle conversioni decisionali di alto livello. Non solo siete invitati, ma il vostro contributo è apprezzato e apprezzato. Vi mostrerò come ottenere un posto al tavolo aiuterà la vostra azienda e la vostra carriera come amministratore Adobe Analytics.
+“Guadagnarsi un posto al tavolo” è un’espressione entrata nel mondo degli affari già da diversi anni. Ma cosa significa? Significa essere inclusi nelle conversioni decisionali di alto livello. Non solo essere invitati, ma essere apprezzati per il contributo che si è in grado di dare. Vi mostrerò come, guadagnandovi un posto al tavolo, potrete giovare alla vostra azienda e migliorare la vostra carriera di amministratore di Adobe Analytics.
 
 ## Perché devi essere al tavolo
 
-Primo, prendiamo qualcosa di sbagliato. Il ruolo di amministratore di Analytics si è evoluto. Gli amministratori non possono più sedersi dietro le schermate del computer concentrandosi solo su eVar, eventi e sProp. Come amministratore hai la responsabilità di assicurarti che la tua azienda prenda le decisioni giuste in base ai dati. Ma per fare questo, devi essere dove vengono prese quelle decisioni, non dei numeri schiaccianti sulla tua scrivania.
+Per prima cosa, chiariamo subito un concetto. Il ruolo di amministratore di Analytics si è evoluto. Gli amministratori non possono più restare seduti al computer concentrandosi solo su eVar, eventi e sProp. Come amministratore, hai la responsabilità di assicurarti che la tua azienda prenda le decisioni giuste in base ai dati. Ma per fare questo, devi trovarti anche tu al tavolo attorno al quale vengono prese quelle decisioni.
 
 Ecco tre ragioni per cui devi essere lì.
 
-1. **Fornisci una prospettiva unica.** Le decisioni migliori vengono prese quando nel processo è incluso un insieme diverso di partecipanti. Ogni persona ha bisogno di portare una nuova prospettiva. In qualità di esperto argomento (PMI) per i dati di analisi digitale, è improbabile che chiunque altro possieda la tua esperienza unica. La leadership sarebbe difficile trovare qualcuno che possa fornire lo stesso valore incrementale di voi.
-1. **Puoi contribuire ad evitare l’interpretazione errata dei dati.** Il lavoro che fai è complesso e sfumato. È impossibile comunicare tale sfumatura attraverso definizioni metriche e liberatoria dei dati. Qualcuno al tavolo deve avere una profonda comprensione dei dati; altrimenti, è quasi certamente frainteso. Di solito, l&#39;impatto di tale interpretazione errata è minore, ma potrebbe non essere sempre così. Devi essere al tavolo per evitare decisioni sbagliate basate su un&#39;interpretazione errata dei dati.
-1. **Puoi migliorare la comunicazione.** Quando un dirigente ha una domanda a cui puoi rispondere, è molto più efficiente che ti chiedano direttamente. Le domande spesso perdono contesto e urgenza quando vengono reindirizzate attraverso i manager di livello intermedio. La disconnessione rende anche difficile chiedere chiarimenti. Questo problema è risolto se sei già alla riunione. La comunicazione diretta migliorerà la velocità e il valore dell&#39;analisi.
+1. **Sei in grado di fornire una prospettiva unica.** Le decisioni migliori vengono prese quando si includono persone da diversi ambienti. Ogni persona può contribuire con una nuova prospettiva. In qualità di esperto in materia di analisi digitale, è improbabile che altri possano offrire la tua esperienza unica. Il gruppo dirigenziale faticherà a trovare un’altra persona che possa fornire un valore incrementale paragonabile.
+1. **Puoi evitare che i dati vengano interpretati in modo errato.** Il lavoro che fai è complesso e sfaccettato. È impossibile comunicare tali sfaccettature attraverso definizioni di metriche e dati. Al tavolo deve essere presente una persona che abbia una profonda comprensione dei dati, per evitare che questi vengano fraintesi. Di solito, un’interpretazione errata di questo tipo ha un impatto minore, ma potrebbe non essere sempre così. Devi prendere posto a quel tavolo per evitare decisioni sbagliate basate su un’interpretazione errata dei dati.
+1. **Puoi migliorare la comunicazione.** Quando un dirigente ha una domanda a cui puoi rispondere, è molto più semplice se te la può sottoporre direttamente. Le domande spesso perdono contesto e urgenza se vengono trasmesse attraverso manager intermedi. E la distanza fisica e temporale rende difficile chiedere chiarimenti. Ma questo problema non si pone più se sei già presente alla riunione. La comunicazione diretta migliorerà la tempestività e il valore delle analisi.
 
-## Come prendere un posto al tavolo
+## Come guadagnarsi un posto al tavolo
 
-Ora che capisci il motivo per cui devi essere incluso, è il momento di iniziare a prendere provvedimenti per ottenere quell’invito. Ecco tre cose che potete iniziare a fare oggi per prendere un posto al tavolo.
+Ora che capisci perché è importante essere a quel tavolo, vediamo come ottenere un invito. Ecco tre cose che puoi iniziare a fare già oggi per guadagnarti un posto al tavolo.
 
-**Passaggio 1: Trova qualcuno già al tavolo -** Per prendere un posto al tavolo, qualcuno deve invitarti. Pensa ai responsabili delle decisioni della tua organizzazione e valutali con le seguenti domande in mente:
+**Passaggio 1: Trovare qualcuno che già siede al tavolo -** Affinché ti venga riservato un posto, qualcuno deve invitarti. Pensa a chi prende le decisioni nella tua organizzazione e, per valutarli, chiediti quanto segue:
 
-* Questa persona ha il potere/l&#39;influenza di invitare altri? Se non possono influenzare l’elenco degli ospiti, non sono il tuo target.
-* Posso fornire un valore a questa persona? Alcune persone al tavolo saranno troppo lontane dal lavoro che fai perché tu possa davvero dare valore. Trova qualcuno che si preoccupa davvero dei dati che sono la tua esperienza.
-* Questa persona sarà una buona compagna? Questo è probabilmente il più difficile da identificare, ma potrebbe essere il più importante. Gli attributi che cerco di più sono la mentalità aperta e la fiducia in se stessi. Considerano seriamente i punti di vista alternativi quando vengono presentate prove a sostegno? Hanno la fiducia in se stessi necessaria per condividere il merito per un buon lavoro? (Ricorda, se non sei al tavolo, è probabile che questa persona prenda tutti i crediti.) Queste sono un paio delle domande che puoi fare quando cerchi un buon partner.
-* BONUS - Questa persona sta facendo un lavoro di grande impatto? Ammettiamolo, non tutti fanno un lavoro di impatto. Ci sono persone di grande successo che non stanno facendo un impatto notevole nell&#39;organizzazione. Trova qualcuno che abbia un impatto. Il tuo lavoro sarà molto più soddisfacente quando vedi che il lavoro che fai fa la differenza.
+* Questa persona ha il potere o l’influenza di invitare altri? Se non ha alcuna influenza sull’elenco degli ospiti, allora non fa per te.
+* Posso fornire valore a questa persona? Alcune persone saranno troppo distanti dal lavoro che svolgi perché tu possa davvero fornire loro valore. Trova una persona che si preoccupa di dati che rientrano nella tua sfera di esperienza.
+* Questa persona sarà un buon partner? Questo aspetto è probabilmente il più difficile da riconoscere, ma potrebbe essere il più importante. Gli attributi che mi interessano di più sono mentalità aperta e fiducia in se stessi. Considerano seriamente punti di vista alternativi quando vengono presentate prove a loro sostegno? Hanno la fiducia in se stessi necessaria per condividere il merito di un lavoro ben fatto? (Ricorda, se non sei a quel tavolo, è probabile che questa persona si prenda tutto il merito.) Queste sono un paio delle domande utili a identificare un buon partner.
+* BONUS - Il lavoro svolto da questa persona ha un grande impatto? Ammettiamolo, non tutti fanno un lavoro di grande impatto. Ci sono persone di successo che non hanno un impatto significativo sull’organizzazione. Trova qualcuno che abbia un impatto. Il tuo lavoro sarà molto più soddisfacente se potrai vedere che il tuo lavoro fa una differenza.
 
-Le domande di cui sopra dovrebbero aiutare a restringere l&#39;elenco. A questo punto, dovresti avere una o due persone su cui concentrarti per i prossimi due passaggi. Ruberò la cornice dei prossimi due passaggi da un recente [guest Analytics Power Hour - Cassie Kozyrkov](https://analyticshour.io/2021/12/14/182-making-better-decisions-and-being-useful-with-cassie-kozyrkov/). Lo spiegò così perfettamente quando disse che dovevi &quot;essere utile ed essere eccellente&quot;.
+Queste domande ti aiuteranno a restringere la scelta. A questo punto dovresti avere già in mente un paio di persone, per i prossimi due passaggi. Ruberò il contesto dei prossimi due passaggi da [Cassie Kozyrkov, ospite di una recente sessione Analytics Power Hour](https://analyticshour.io/2021/12/14/182-making-better-decisions-and-being-useful-with-cassie-kozyrkov/). Fu lei, infatti, a sintetizzarlo con queste semplici parole: “siate utili e siate eccellenti”.
 
-**Passaggio 2: Sii utile -** Il passo successivo è capire come puoi essere il più utile possibile per i responsabili decisionali che hai identificato nel primo passaggio. La chiave qui è mettersi nei loro panni. A loro cosa importa? Di cosa sono preoccupati? Quali incognite siete in grado di far luce che li aiuterà a fare meglio il loro lavoro?
+**Passaggio 2: Essere utili -** Il passaggio successivo consiste nel capire come puoi essere quanto più utile possibile ai decision-maker che hai identificato nel passaggio precedente. Prova a metterti nei loro panni. Cosa sta loro a cuore? Cosa li preoccupa? Su quali incognite sei in grado di fare luce per aiutarli a svolgere al meglio il loro lavoro?
 
-Mostrare a questa persona che si capisce cosa è importante per loro e che si può aiutare a risolvere i loro problemi.
+Fai vedere a questa persona che capisci gli aspetti che ha a cuore e che puoi aiutarla a risolvere i suoi problemi.
 
-**Passaggio 3: Sii Eccellente -** Ora che hai identificato i tuoi stakeholder di destinazione e hai stabilito come essere utile, devi continuare con il tuo lavoro eccellente. Ognuno ha la propria idea di che aspetto abbia l&#39;eccellenza. Potrebbe essere abbastanza diverso per voi che per me. La chiave qui è andare oltre e oltre quello che si farebbe normalmente per qualsiasi altra persona o qualsiasi altra richiesta. Ecco un paio di suggerimenti che mi hanno aiutato a produrre un lavoro eccellente.
+**Passaggio 3: Essere eccellenti -** Ora che hai identificato le parti interessate a cui rivolgerti e hai stabilito come puoi essere utile, devi fare un lavoro eccellente. Ognuno di noi ha una propria idea di eccellenza. La mia idea di eccellenza potrebbe essere molto diversa dalla tua. L’importante è spingersi oltre ciò che si farebbe normalmente per qualsiasi altra persona o richiesta. Ecco un paio di suggerimenti che mi hanno aiutato a produrre un lavoro eccellente.
 
-* **Suggerimento 1: Concentrati sul design.** Un consiglio semplice che troppo spesso viene ignorato è quello di concentrarsi sul design. Presta attenzione nella presentazione del tuo lavoro e segui le best practice per la progettazione delle informazioni. Questo ti aiuterà a far sì che il tuo messaggio sia di facile comprensione. Quando distribuisci un lavoro troppo complesso senza un messaggio chiaro, fai sentire il tuo pubblico stupido. A nessuno piace sentirsi stupido. E non vogliono lavorare con qualcuno che li fa sentire stupidi.
-* **Suggerimento 2: Fai l&#39;Impossibile.** Hai mai ricevuto una richiesta che sembrava impossibile? Di solito, questi provengono da persone che non capiscono come funzionano i dati. È facile reagire con divertimento (&quot;ha, chiaramente non hanno idea di cosa stanno parlando&quot;) o anche rabbia (&quot;Non posso credere che vogliono che lo faccia! È impossibile!&quot;). Ho avuto entrambe queste reazioni più volte di quanto non possa contare. Ma quando faccio un passo indietro e affronto il problema con una mente aperta mi stupisco quasi sempre di quello che riesco a realizzare. Se si rimane con un problema abbastanza a lungo, qualcosa di buono di solito viene da esso. Questo perché quando qualcosa sembra impossibile, devi pensare fuori dagli schemi per trovare una soluzione. E pensare fuori dagli schemi spesso porta a un lavoro eccellente.
+* **1 - Concentrarsi sul design.** Un consiglio semplice, ma che troppo spesso viene ignorato, è quello di concentrarsi sul design. Presenta con cura il tuo lavoro e segui le best practice sulla progettazione delle informazioni. Ti aiuterà a trasmettere un messaggio di facile comprensione. Se parli di un lavoro complesso senza un messaggio chiaro, il tuo pubblico si sentirà stupido. A nessuno piace sentirsi stupido. E nessuno vuole lavorare con qualcuno che li faccia sentire stupidi.
+* **2 - Fare l’impossibile.** Hai mai ricevuto una richiesta che sembrava impossibile? Di solito, queste provengono da persone che non capiscono come funzionano i dati. È facile reagire con ironia (“Ah, tutto chiaro: non hanno idea di cosa stanno parlando!”) o persino con rabbia (“Non posso credere che mi chieda proprio questo, è impossibile!”). Ho avuto entrambe queste reazioni più volte di quanto non possa contarle. Ma soffermandomi un attimo e affrontando il problema con mente aperta, quasi sempre riesco a sorprendermi con una soluzione. Se consideri un problema abbastanza a lungo, qualcosa di buono di solito viene fuori. Quando qualcosa sembra impossibile, si deve pensare fuori dagli schemi per trovare una soluzione. Ed è proprio pensare fuori dagli schemi che spesso porta a un lavoro eccellente.
 
-Spero che questo articolo ti abbia aiutato a capire che devi essere al tavolo. È probabile che ci vorrà del tempo e uno sforzo mirato. Ma se ci si attiene e si seguono i passaggi precedenti, ci si troverà in una posizione con più autonomia e influenza nella tua organizzazione. In ultima analisi, questo porterà più successo nel tuo ruolo e a una carriera più soddisfacente.
+Spero che questo articolo ti abbia aiutato a capire che devi sedere anche tu a quel tavolo. Probabilmente ci vorrà un po’ di tempo e impegno mirato. Ma se insisti e segui questi passaggi, ti ritroverai con più autonomia e maggiore influenza nella tua organizzazione. In ultima analisi, questo porterà a più successo nel tuo ruolo e a una carriera più soddisfacente.
