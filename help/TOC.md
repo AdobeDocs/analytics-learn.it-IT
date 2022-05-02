@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
 workflow-type: tm+mt
 source-wordcount: '2364'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -225,10 +225,10 @@ ht-degree: 96%
       + [Creazione di una community autonoma](administration/key-admin-skills/empowered-community.md)
       + [Semplificare e dedicare meno tempo alla formazione degli utenti](administration/key-admin-skills/simplify-training-users.md)
       + [Chi includere nel team Analytics](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
-      + [Ottenimento di un posto a tavola](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
-      + [Raccontare storie di grande impatto con i dati](administration/key-admin-skills/telling-impactful-stories-with-data.md)
-      + [Traduzione del linguaggio tecnico Adobe Analytics in modo non tecnico](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
-      + [Funzionamento interfunzionale](administration/key-admin-skills/working-cross-functionally.md)
+      + [Guadagnarsi un posto al tavolo](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+      + [Narrazione efficace attraverso i dati](administration/key-admin-skills/telling-impactful-stories-with-data.md)
+      + [Traduzione del linguaggio tecnico di Adobe Analytics per utenti non tecnici](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+      + [Collaborazione cross-functional](administration/key-admin-skills/working-cross-functionally.md)
       + [State facendo le domande giuste?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Impostazioni aziendali {#company-settings}
       + [Applicare restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
@@ -352,7 +352,7 @@ ht-degree: 96%
    + Data Warehouse {#data-warehouse}
       + [Introduzione a Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Inviare una richiesta al Data Warehouse tramite SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Invia rapporti Data Warehouse in Estrazione dati Tableau](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Inviare rapporti Data Warehouse in formato Tableau Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Feed dati {#data-feeds}
       + [Interfaccia per la gestione dei feed dei dati](exporting/data-feeds/data-feeds-management-ui.md)
       + [Scaricare la chiave di autenticazione del feed dati](exporting/data-feeds/download-the-data-feed-authentication-key.md)
