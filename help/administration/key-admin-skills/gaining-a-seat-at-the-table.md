@@ -8,10 +8,10 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
-source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
+source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 98%
+source-wordcount: '1283'
+ht-degree: 94%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-“Guadagnarsi un posto al tavolo” è un’espressione entrata nel mondo degli affari già da diversi anni. Ma cosa significa? Significa essere inclusi nelle conversioni decisionali di alto livello. Non solo essere invitati, ma essere apprezzati per il contributo che si è in grado di dare. Vi mostrerò come, guadagnandovi un posto al tavolo, potrete giovare alla vostra azienda e migliorare la vostra carriera di amministratore di Adobe Analytics.
+“Guadagnarsi un posto al tavolo” è un’espressione entrata nel mondo degli affari già da diversi anni. Ma cosa significa? Significa essere inclusi nelle conversioni decisionali di alto livello. Non solo essere invitati, ma essere apprezzati per il contributo che si è in grado di dare. Vi mostrerò come ottenere un posto al tavolo aiuterà la vostra azienda e la vostra carriera come utente di potere Adobe Analytics, che il vostro ruolo ufficiale sia quello di un amministratore, un analista di dati, o qualsiasi altra cosa il vostro biglietto da visita dice.
 
 ## Perché devi essere al tavolo
 
-Per prima cosa, chiariamo subito un concetto. Il ruolo degli analisti di dati si è evoluto. Gli analisti non possono più sedersi dietro le schermate del computer concentrandosi solo su eVar, eventi e sProp. Come amministratore, hai la responsabilità di assicurarti che la tua azienda prenda le decisioni giuste in base ai dati. Ma per fare questo, devi trovarti anche tu al tavolo attorno al quale vengono prese quelle decisioni.
+Per prima cosa, chiariamo subito un concetto. Il ruolo dei professionisti dei dati si è evoluto. Non possono più stare dietro lo schermo del computer concentrandosi solo su eVar, eventi e sProp. Come amministratore, hai la responsabilità di assicurarti che la tua azienda prenda le decisioni giuste in base ai dati. Ma per fare questo, devi trovarti anche tu al tavolo attorno al quale vengono prese quelle decisioni.
 
 Ecco tre ragioni per cui devi essere lì.
 
