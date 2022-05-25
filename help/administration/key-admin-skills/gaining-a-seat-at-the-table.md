@@ -7,13 +7,13 @@ role: Admin
 level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
-source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: ht
+exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
+source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
+workflow-type: tm+mt
 source-wordcount: '1263'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
-
 
 # Guadagnarsi un posto al tavolo
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ## Perché devi essere al tavolo
 
-Per prima cosa, chiariamo subito un concetto. Il ruolo di amministratore di Analytics si è evoluto. Gli amministratori non possono più restare seduti al computer concentrandosi solo su eVar, eventi e sProp. Come amministratore, hai la responsabilità di assicurarti che la tua azienda prenda le decisioni giuste in base ai dati. Ma per fare questo, devi trovarti anche tu al tavolo attorno al quale vengono prese quelle decisioni.
+Per prima cosa, chiariamo subito un concetto. Il ruolo degli analisti di dati si è evoluto. Gli analisti non possono più sedersi dietro le schermate del computer concentrandosi solo su eVar, eventi e sProp. Come amministratore, hai la responsabilità di assicurarti che la tua azienda prenda le decisioni giuste in base ai dati. Ma per fare questo, devi trovarti anche tu al tavolo attorno al quale vengono prese quelle decisioni.
 
 Ecco tre ragioni per cui devi essere lì.
 
