@@ -1,6 +1,6 @@
 ---
-title: Introduzione al data warehouse
-description: Lo strumento di richiesta di data warehouse in Adobe Analytics consente di accedere alla query dei dati non elaborati. Data Warehouse può elaborare un numero illimitato di righe in una singola richiesta per singoli report pianificati e scaricati. Questo video offre un’introduzione allo strumento e descrive come creare un rapporto di Data Warehouse.
+title: Introduzione a data warehouse
+description: Lo strumento per richieste data warehouse disponibile in Adobe Analytics consente di accedere alle query sui dati non elaborati. Data warehouse può elaborare un numero illimitato di righe in una singola richiesta per distinti rapporti pianificati e scaricati. Questo video offre un’introduzione allo strumento e descrive come creare un rapporto di Data Warehouse.
 feature: Data Warehouse
 role: User
 level: Beginner
@@ -9,9 +9,9 @@ thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
 source-git-commit: 036646c3343a7025f394d74f344b0f8780ebc7df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
