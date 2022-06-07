@@ -25,4 +25,4 @@ Scopri come mappare le variabili di analisi dall’SDK per web ad Adobe Analytic
 
 Per un elenco delle variabili mappate automaticamente SDK Web ad Adobe Analytics, consulta questa [documentazione](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html?lang=it)
 
-**NOTA:** quando si impostano le Regole di elaborazione, è possibile che la variabile “&quot;a.x.[schema]” non venga visualizzata automaticamente nella finestra a discesa. Se non c’è, non preoccuparti. Digitalo in base al formato e aggiungilo come variabile contextData. Dopo aver aggiunto uno o due, potresti riscontrare che altri sono caricati lentamente.
+**NOTA:** quando si impostano le Regole di elaborazione, è possibile che la variabile “a.x.[schema]” non venga visualizzata automaticamente nella finestra a discesa. Se non c’è, non preoccuparti. Digitalo in base al formato e aggiungilo come variabile contextData. Dopo aver aggiunto uno o due, potresti riscontrare che altri sono caricati lentamente.
