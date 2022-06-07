@@ -26,4 +26,4 @@ Questo video illustra i passaggi necessari per implementare i modelli di traccia
 
 ## Risorse aggiuntive {#additional-resources}
 
-* [Configurazione [!DNL Advertising Analytics] in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/configuring-advertising-analytics.html?lang=it)
+* [Configurazione  [!DNL Advertising Analytics]  in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/configuring-advertising-analytics.html?lang=it)
