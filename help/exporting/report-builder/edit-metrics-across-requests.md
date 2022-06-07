@@ -1,5 +1,5 @@
 ---
-title: Modifica metriche nelle richieste in Report Builder
+title: Modificare le metriche in più richieste con Report Builder
 description: Ora è possibile modificare le metriche in più richieste di dati di Report Builder contemporaneamente, con le opzioni di aggiunta, sostituzione e rimozione.
 feature: Report Builder
 role: User
@@ -9,13 +9,13 @@ thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 source-git-commit: 4c6120752763383727ddec5e9bbc8e391bfec4d9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# Modifica [!UICONTROL metrics] tra le richieste in [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
+# Modificare le [!UICONTROL metrics] in più richieste con [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
 
 Ora è possibile modificare le [!UICONTROL metrics] in più richieste di dati di [!UICONTROL Report Builder] contemporaneamente, con opzioni di aggiunta, sostituzione e rimozione.
 
