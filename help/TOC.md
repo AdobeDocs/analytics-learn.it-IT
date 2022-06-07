@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
 workflow-type: tm+mt
 source-wordcount: '2365'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 98%
    + Concetti di base di Analysis Workspace {#analysis-workspace-basics}
       + [Introduzione ad Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Panoramica di Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [Navigazione nella nuova pagina di destinazione](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Passare alla nuova pagina di destinazione](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Aggiornamenti alla pagina di destinazione di Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Creazione di nuovi progetti Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Creazione di un progetto Workspace da zero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
@@ -97,7 +97,7 @@ ht-degree: 98%
       + [Utilizzo dei pannelli per organizzare i progetti Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Miglioramenti nella zona di rilascio dei segmenti](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Più suite di rapporti in Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-      + [Pannelli e rapporti dell’area di lavoro Successivo/Precedente e Riepilogo pagina](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [Rapporti e pannelli Precedente/Successivo e Riepilogo pagina in Workspace](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Creazione di tabelle a forma libera {#building-freeform-tables}
       + [Comprendere i dati: tabelle a forma libera](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Utilizzo della barra a sinistra per creare tabelle a forma libera in Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -229,7 +229,7 @@ ht-degree: 98%
       + [Narrazione efficace attraverso i dati](administration/key-admin-skills/telling-impactful-stories-with-data.md)
       + [Traduzione del linguaggio tecnico di Adobe Analytics per utenti non tecnici](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Collaborazione cross-functional](administration/key-admin-skills/working-cross-functionally.md)
-      + [State facendo le domande giuste?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+      + [Stai facendo le domande giuste?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Impostazioni aziendali {#company-settings}
       + [Applicare restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visualizzare le funzioni disponibili per l’account](administration/company-settings/view-your-accounts-available-features.md)
@@ -363,9 +363,9 @@ ht-degree: 98%
       + [Rilevamento delle anomalie in Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Modificare le metriche in più richieste](exporting/report-builder/edit-metrics-across-requests.md)
       + [Utilizzo di Report Builder per apprendere l’API di Adobe Analytics](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
-      + [Guida introduttiva a Report Builder](exporting/report-builder/get-started-with-report-builder.md)
+      + [Introduzione a Report Builder](exporting/report-builder/get-started-with-report-builder.md)
       + [Pianificazione di una richiesta di Report Builder](exporting/report-builder/schedule-a-report-builder-request.md)
-      + [Utilizzare opzioni di consegna avanzate Report Builder per Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
+      + [Utilizzare le opzioni di consegna avanzate di Report Builder per Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integrazioni {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Miglioramento della pubblicazione dei tipi di pubblico in Experience Cloud](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
