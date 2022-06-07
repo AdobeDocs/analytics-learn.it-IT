@@ -93,4 +93,4 @@ Ti sei perso un episodio di Experience League LIVE? Ma puoi rimediare. Guarda un
 
 >[!TIP]
 >
->Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/?lang=it#home) gratuiti e i singoli [tutorial](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
+>Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/?lang=it#dashboard/learning) gratuiti e i singoli [tutorial](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
