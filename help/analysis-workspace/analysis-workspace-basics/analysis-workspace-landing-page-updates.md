@@ -1,21 +1,21 @@
 ---
 title: Aggiornamenti alla pagina di destinazione di Analysis Workspace
-description: Scopri alcuni dei grandi miglioramenti e aggiunte alla nuova pagina di destinazione. Abbiamo preso il tuo feedback dal cliente e abbiamo cercato di incorporare il più saliente ... (Le descrizioni devono essere comprese tra 60 e 160 caratteri)
+description: Scopri alcuni importanti miglioramenti e aggiunte alla nuova pagina di destinazione. Abbiamo preso in considerazione il tuo feedback di cliente, cercando di incorporare le funzionalità più importanti ... (Le descrizioni devono essere comprese tra 60 e 160 caratteri)
 feature: Analysis Workspace
 role: User
 level: Beginner
 kt: 10294
 thumbnail: 342476.jpg
-source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
-workflow-type: tm+mt
+exl-id: c7ff29b1-4a78-4b25-946a-0e065ffdd804
+source-git-commit: 9ee93461a944fc844bc314f2faafc0ffc6b77b8b
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Aggiornamenti alla pagina di destinazione di Analysis Workspace
 
-Scopri alcuni dei grandi miglioramenti e aggiunte alla nuova pagina di destinazione. Abbiamo raccolto il feedback dei clienti e cercato di incorporare le funzioni più importanti come il ridimensionamento delle colonne, i nuovi tipi di colonna, i collegamenti ai rapporti in tempo reale e bot e molti altri.
+Scopri alcuni importanti miglioramenti e aggiunte alla nuova pagina di destinazione. Abbiamo preso in considerazione il tuo feedback di cliente, cercando di incorporare le funzionalità più importanti quali il ridimensionamento delle colonne, i nuovi tipi di colonna, i collegamenti ai rapporti in tempo reale e bot e molte altre ancora.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342476/?quality=12&learn=on)
