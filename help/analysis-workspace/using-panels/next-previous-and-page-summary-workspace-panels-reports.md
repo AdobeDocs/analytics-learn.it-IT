@@ -1,21 +1,21 @@
 ---
-title: Pannelli e rapporti dell’area di lavoro Successivo/Precedente e Riepilogo pagina
-description: 'Abbiamo aggiunto due nuovi tipi di pannelli ad Analysis Workspace: Successivo/Precedente e Riepilogo pagina, oltre a elencarli come parte dei rapporti predefiniti. Questi portano.. (Le descrizioni devono essere comprese tra 60 e 160 caratteri)'
+title: Rapporti e pannelli Precedente/Successivo e Riepilogo pagina in Workspace
+description: 'Abbiamo aggiunto ad Analysis Workspace due nuovi tipi di pannello: Successivo/Precedente e Riepilogo pagina, oltre a elencarli come parte dei rapporti predefiniti. Questo consente... (Le descrizioni devono essere comprese tra 60 e 160 caratteri)'
 feature: Panels
 role: User
 level: Beginner
 kt: 10293
 thumbnail: 342477.jpg
-source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
-workflow-type: tm+mt
+exl-id: 1dfd39f3-7a96-42e0-b510-4c2443f074c3
+source-git-commit: 9ee93461a944fc844bc314f2faafc0ffc6b77b8b
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Rapporti e pannelli Precedente/Successivo e Riepilogo pagina in Workspace
 
-# Pannelli e rapporti dell’area di lavoro Successivo/Precedente e Riepilogo pagina
-
-Abbiamo aggiunto due nuovi tipi di pannelli ad Analysis Workspace - Successivo/Precedente e Riepilogo pagina - e li abbiamo elencati come parte dei rapporti predefiniti. Questi mettono Workspace in parit à con alcuni dei report più popolari di Reports &amp; Analytics.
+Abbiamo aggiunto ad Analysis Workspace due nuovi tipi di pannello: Successivo/Precedente e Riepilogo pagina, oltre a elencarli come parte dei rapporti predefiniti. Questo consente di portare Workspace in condizione di parità con alcuni dei report più popolari di Reports e Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342477/?quality=12&learn=on)
