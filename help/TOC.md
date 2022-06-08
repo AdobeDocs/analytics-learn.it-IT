@@ -3,10 +3,10 @@ user-guide-title: Tutorial di Adobe Analytics
 user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
 workflow-type: tm+mt
-source-wordcount: '2392'
-ht-degree: 98%
+source-wordcount: '2430'
+ht-degree: 97%
 
 ---
 
@@ -234,6 +234,14 @@ ht-degree: 98%
       + [Traduzione del linguaggio tecnico di Adobe Analytics per utenti non tecnici](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Collaborazione cross-functional](administration/key-admin-skills/working-cross-functionally.md)
       + [Stai facendo le domande giuste?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+   + Suggerimenti per gli amministratori e best practice {#admin-tips}
+      + [Scarica il playbook di implementazione](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [Creare convenzioni di denominazione standardizzate](administration/admin-tips/create-standardized-naming-conventions.md)
+      + [Creare modelli di codice standardizzati](administration/admin-tips/create-standardized-code-templates.md)
+      + [Creazione di video e formazione di base](administration/admin-tips/create-basic-videos-and-training.md)
+      + [Creare un sito Adobe Analytics interno](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [Utilizzare una suite di rapporti globale](administration/admin-tips/use-a-global-report-suite.md)
+      + [Crea un progetto di notizie e annunci](administration/admin-tips/create-a-news-and-announcements-project.md)
    + Impostazioni aziendali {#company-settings}
       + [Applicare restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visualizzare le funzioni disponibili per l’account](administration/company-settings/view-your-accounts-available-features.md)
