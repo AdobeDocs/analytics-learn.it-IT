@@ -1,10 +1,11 @@
 ---
 title: Semplici hacks per una maggiore efficienza e self-service - parte 1
-description: 'Scopri le principali sfide che i team di analytics devono affrontare oggi e i nostri consigli per superarle utilizzando strategie al di fuori dell’interfaccia utente di Adobe Analytics. '
+description: Scopri le principali sfide che i team di analytics devono affrontare oggi e i nostri consigli per superarle utilizzando strategie al di fuori dell’interfaccia utente di Adobe Analytics.
 solution: Analytics
-source-git-commit: 70097d69b165d63fe5a99d5083208b19725ad263
+exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
+source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
@@ -84,3 +85,5 @@ Altre sfide chiave affrontate dagli analisti:
    * Creare PMI all&#39;interno delle varie squadre dell&#39;organizzazione
    * Costruire la loro presenza aiutando a socializzare rilasci e vittorie
    * Utilizzare gli orari regolari dell&#39;ufficio per aiutare i formatori e ridurre le domande ad hoc
+
+Per saperne di più sulla strategia e la leadership del pensiero, consulta [Successo del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub

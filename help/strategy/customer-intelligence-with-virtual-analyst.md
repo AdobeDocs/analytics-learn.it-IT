@@ -1,10 +1,11 @@
 ---
 title: Masterizzazione delle informazioni sui clienti con Virtual Analyst e Segment IQ
-description: 'Impara l''importanza di utilizzare l''intelligenza artificiale e l''apprendimento automatico (AI/ML). Scopri i vantaggi e le informazioni sulle storie di successo reali dei clienti globali che utilizzano Analista virtuale e IQ segmento per rilevare le anomalie, evitare le anomalie e massimizzare il ROI. '
+description: Impara l'importanza di utilizzare l'intelligenza artificiale e l'apprendimento automatico (AI/ML). Scopri i vantaggi e le informazioni sulle storie di successo reali dei clienti globali che utilizzano Analista virtuale e IQ segmento per rilevare le anomalie, evitare le anomalie e massimizzare il ROI.
 solution: Analytics
-source-git-commit: 3915782f800ad5e7c1ab8c1157919dec40cc3183
+exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '1082'
+source-wordcount: '1100'
 ht-degree: 4%
 
 ---
@@ -121,3 +122,5 @@ Informati sempre delle anomalie presenti nei tuoi dati, sia in ufficio che in mo
 **Scorta del prodotto:** &quot;Le persone che acquistavano Fitbit avevano una probabilità 6 volte superiore di ottenere un &quot;esaurito&quot; rispetto agli altri, per questo abbiamo deciso di aumentare gli ordini di Fitbit.&quot; → Scorte evitate e più ordini di vacanza completati
 
 Per maggiori informazioni, guarda la nostra [webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
+
+Per saperne di più sulla strategia e la leadership del pensiero, consulta [Successo del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub

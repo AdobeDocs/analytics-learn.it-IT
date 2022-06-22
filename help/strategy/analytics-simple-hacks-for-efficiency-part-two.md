@@ -1,10 +1,11 @@
 ---
 title: Semplici hacks per una maggiore efficienza e self-service - parte due
-description: 'Scopri le principali sfide che i team di Analytics devono affrontare oggi e le nostre raccomandazioni per superarle utilizzando strategie interne allo strumento. '
+description: Scopri le principali sfide che i team di Analytics devono affrontare oggi e le nostre raccomandazioni per superarle utilizzando strategie interne allo strumento.
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '777'
 ht-degree: 9%
 
 ---
@@ -94,3 +95,5 @@ Utilizza le annotazioni per creare riferimenti alla documentazione della soluzio
 Sfrutta l’API di reporting per spostare i rapporti standard da [!UICONTROL Workspace] a report e dashboard pianificati. Inoltre, sfrutta [!UICONTROL Analysis Workspace] per generare richieste API.
 
 Speriamo che tu abbia trovato questo articolo sulle strategie in-tool preziose. Per ulteriori informazioni sulle soluzioni efficaci per una maggiore efficienza al di fuori della piattaforma Adobe Analytics, fai clic su [qui](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
+
+Per saperne di più sulla strategia e la leadership del pensiero, consulta [Successo del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub
