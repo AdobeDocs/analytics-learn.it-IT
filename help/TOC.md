@@ -13,7 +13,7 @@ ht-degree: 97%
 
 # Tutorial di Analytics {#tutorials}
 
-+ [Esercitazioni di Analytics](overview.md)
++ [Tutorial di Analytics](overview.md)
 + Introduzione ad Analytics {#intro-to-analytics}
    + Che vantaggi mi offre Adobe Analytics? {#what-can-aa-do-for-me}
       + [Come Adobe Analysis Workspace può cambiare il tuo business](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
