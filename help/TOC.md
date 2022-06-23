@@ -3,9 +3,9 @@ user-guide-title: Tutorial di Adobe Analytics
 user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
+source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2432'
 ht-degree: 97%
 
 ---
@@ -150,6 +150,17 @@ ht-degree: 97%
       + [Visualizzazioni sovrapposte al 100%](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Impostazioni delle origini dati per tabelle e visualizzazioni](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Creare una mappa di calore con separazione temporale](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
+   + Analisi dei percorsi dei clienti {#analyzing-customer-journeys}
+      + [Comprendere i dati: fallout e flusso](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Journey IQ: Cross-Device Analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [Visualizzazione Abbandono](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Miglioramenti nella visualizzazione Abbandono](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
+      + [Abbandono multidimensionale](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
+      + [Confronto dei segmenti in Abbandono](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+      + [Visualizzazione Flusso](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Espansione della visualizzazione Flusso](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [Miglioramenti al flusso 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [Ritorno a capo e flusso multidimensionale](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Applicazione dei segmenti {#applying-segments}
       + [Applicazione dei segmenti a un progetto Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Utilizzo dei segmenti in Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
@@ -177,16 +188,6 @@ ht-degree: 97%
       + [Creazione di intervalli date personalizzati](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Confronto di date in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Confronto con il mese o anno precedente nelle tendenze](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + Analisi dei percorsi dei clienti {#analyzing-customer-journeys}
-      + [Comprendere i dati: fallout e flusso](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Journey IQ: Cross-Device Analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [Visualizzazione Abbandono](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Miglioramenti nella visualizzazione Abbandono](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [Abbandono multidimensionale](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [Confronto dei segmenti in Abbandono](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
-      + [Visualizzazione Flusso](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Espansione della visualizzazione Flusso](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Ritorno a capo e flusso multidimensionale](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Curare e condividere i progetti {#curate-and-share-projects}
       + [Salvataggio, condivisione e collaborazione nei progetti in Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Cura e condivisione in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
