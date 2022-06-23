@@ -9,25 +9,25 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '345'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
 
 
-# Esercitazioni di Analytics
+# Tutorial di Analytics
 
 Sfrutta al massimo [!DNL Adobe Analytics].  Utilizza queste esercitazioni per padroneggiare le funzioni di Analytics e sfruttare i vantaggi per la tua azienda. Questo contenuto è adatto ad amministratori, analisti di dati, addetti al marketing, sviluppatori e architetti.
 
 Per iniziare,
-* Consulta la sezione **&quot;Novità&quot;** sezione seguente per gli ultimi aggiornamenti e funzioni
+* Scopri le **Novità** nella sezione qui di seguito per gli ultimi aggiornamenti e le nuove funzioni
 * Nella sezione **Proposte del nostro staff** sono evidenziati alcuni dei nostri contenuti preferiti.
 * Nella sezione di **navigazione a sinistra** puoi esplorare i contenuti per argomento e sottoargomento.
-* Utilizza la **ricerca** campo nella parte superiore della pagina se sai cosa vuoi imparare
+* Utilizza il campo **Ricerca** in alto per eseguire ricerche mirate
 
-Le esperienze di apprendimento curate in base al ruolo e al livello di competenza sono inoltre offerte nella sezione dei corsi. È sufficiente accedere con il tuo Adobe ID e passare a **Scopri > Corsi consigliati** nella navigazione superiore.
+Nella sezione relativa ai corsi sono messe a disposizione esperienze di apprendimento curate in base al ruolo e al livello di competenza. Accedi con il tuo Adobe ID e vai a **Scopri > Corsi consigliati** nella barra di navigazione in alto.
 
 ## Novità
 
@@ -38,7 +38,7 @@ Le esperienze di apprendimento curate in base al ruolo e al livello di competenz
    *Scopri come scaricare l’applicazione scorecard per dispositivi mobili e visualizzare le scorecard per dispositivi mobili create in [!DNL Analysis Workspace].*
 
 * **[Annotazioni nell’area di lavoro (video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Le annotazioni in consentono di comunicare in modo efficace dettagli sui dati contestuali a beneficio degli utenti in tutta l’organizzazione. [!DNL Analysis Workspace] Annota un intervallo di date o date con problemi di dati noti, festività pubbliche, avvii di campagne e così via, per informare meglio gli utenti del motivo per cui visualizzano ciò che visualizzano in grafici a linee, tabelle e altro ancora.*
+   *Le annotazioni in [!DNL Analysis Workspace] consentono di comunicare in modo efficace dettagli sui dati contestuali a beneficio degli utenti in tutta l’organizzazione. Annota una data o un intervallo di date con problemi di dati noti, festività pubbliche, avvii di campagne e altro per spiegare al meglio agli utenti perché stanno visualizzando determinate informazioni nei grafici a linee, nelle tabelle e altro ancora.*
 
 ## Proposte del nostro staff
 
