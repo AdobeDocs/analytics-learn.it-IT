@@ -1,6 +1,6 @@
 ---
-title: Scarica la playlist di implementazione Adobe Analytics
-description: Un documento sui requisiti aziendali (comunemente denominato BRD) è una documentazione molto importante su cui i principali soggetti interessati, utenti aziendali e utenti tecnologici vorranno collaborare. È un luogo in cui documentare tutti i KPI desiderati, i requisiti di reporting e qualsiasi punto dati che desideri visualizzare al termine dell’implementazione di AA.
+title: Scarica il playbook di implementazione di Adobe Analytics
+description: Un documento sui requisiti aziendali (BRD, Business Requirements Doc) è una risorsa molto importante per la cui realizzazione sarà importante coinvolgere le principali parti interessate, utenti aziendali e utenti tecnici. Consente di documentare tutti i KPI desiderati, i requisiti di reporting e tutti i punti dati che dovranno essere disponibili al termine dell’implementazione di AA.
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -8,109 +8,110 @@ level: Beginner
 doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
-source-git-commit: 160df6c23acb67f1b07f2fcd25f1eca96eb6dee7
-workflow-type: tm+mt
+exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
+source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+workflow-type: ht
 source-wordcount: '1805'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
-# Scarica la playlist di implementazione Adobe Analytics
+# Scarica il playbook di implementazione di Adobe Analytics
 
 Prima di iniziare, [scarica il playbook](assets/aa-implementation-playbook.xlsx).
 
 ## Scheda Requisiti aziendali
 
-**COSA:** Un documento sui requisiti aziendali (comunemente denominato BRD) è una documentazione molto importante su cui i principali soggetti interessati, utenti aziendali e utenti tecnologici vorranno collaborare. È un luogo in cui documentare tutti i KPI desiderati, i requisiti di reporting e qualsiasi punto dati che desideri visualizzare al termine dell’implementazione di Adobe Analytics (AA).
+**COSA:** un documento sui requisiti aziendali (BRD, Business Requirements Doc) è una risorsa molto importante per la cui realizzazione sarà importante coinvolgere le principali parti interessate, utenti aziendali e utenti tecnici. Consente di documentare tutti i KPI desiderati, i requisiti di reporting e tutti i punti dati che dovranno essere disponibili al termine dell’implementazione di Adobe Analytics (AA).
 
-**PERCHÉ:** Questo funge da punto di partenza per la documentazione seguente (SDR, specifiche tecniche, ecc.) ed è una fonte comune di verità per uno stato finale concordato di AA. Questo documento organizza riflessioni tra i team all’interno dell’organizzazione per formare una direzione guida che consenta di progredire nella creazione o nel miglioramento dell’implementazione.
+**PERCHÉ:** funge da punto di partenza per la documentazione successiva (SDR, specifiche tecniche, ecc.) ed è una fonte comune di verità per lo stato finale concordato di AA. Questo documento raccoglie i punti proposti dai vari team all’interno dell’organizzazione e definisce la direzione da seguire per sviluppare o ottimizzare l’implementazione.
 
-**COME:** Documentare i requisiti aziendali è comunemente fatto dagli utenti aziendali finali di AA, ma è importante ottenere feedback dagli utenti tecnologici in quanto ci possono essere problemi tecnici da notare e alcuni punti dati possono richiedere più sforzo di altri, quali fattori nella definizione delle priorità.
+**COME:** la documentazione dei requisiti aziendali è comunemente preparata dagli utenti aziendali finali di AA, ma è importante ottenere feedback anche dagli utenti tecnici, in quanto ci possono essere problemi tecnici da considerare e alcuni punti dati possono richiedere più lavoro di altri, e sarà necessario tenerne conto nella definizione delle priorità.
 
-Chiedetevi, &quot;quali sono le cose che vogliamo monitorare sul nostro sito&quot;, &quot;quali punti di dati saranno importanti per me nel reporting dell&#39;utilizzo&quot;, e, soprattutto, &quot;come questi punti di dati daranno informazioni alle decisioni&quot;. È importante garantire che ciascuno dei requisiti aziendali si riferisca a un punto dati che può essere utilizzato per informare le decisioni aziendali. Ad esempio, può essere utile tenere traccia di ogni clic sul sito, ma alla fine di tutto il giorno, quali informazioni trai da quel rapporto?
+Cosa desideri monitorare sul sito? Quali punti dati saranno utili in termini di reporting? E, soprattutto, in che modo orienteranno il processo decisionale? È importante assicurarsi che ciascuno dei requisiti aziendali si riferisca a un punto dati che possa essere utilizzato per orientare le decisioni aziendali. Ad esempio, si può essere tentati di tenere traccia di ogni clic sul sito, ma alla fine... quali informazioni potrai trarre da tali dati?
 
-Inizia compilando la colonna C nella schermata sottostante (Requisiti aziendali). Questo dovrebbe essere qualcosa come &quot;Quante ricerche interne sono completate sul nostro sito&quot; o &quot;Quale spot della campagna interna è più efficace in termini di impression&quot;. Dopo aver riempito questo livello di dettaglio, è possibile tornare indietro e compilare la colonna B (Categoria) e raggruppare i requisiti in categorie come &quot;Ricerca&quot; o &quot;Promozione Interna&quot; che dovrebbe corrispondere perfettamente con le sezioni specifiche tecniche.
+Per iniziare, compila la colonna C nella schermata sottostante (Requisiti aziendali). Ad esempio: “Quante ricerche interne sono state completate sul nostro sito” o “Quale annuncio di una campagna interna è più efficace in termini di impression”. Dopo averlo compilato questo tipo di dettagli, compila la colonna B (Categoria) e raggruppa i requisiti in categorie, ad esempio “Ricerca” o “Promozione interna”, in base alle sezioni delle specifiche tecniche.
 
-Indica inoltre se si pensa che utilizzando un eVar, un evento, un prop o una combinazione si otterrà ciò che si sta cercando di tracciare.
+Indica inoltre se, utilizzando un eVar, un evento, un prop o una combinazione di questi, si otterrà ciò che si intende tracciare.
 
-Infine, la colonna Stato di implementazione fungerà da controllo di stato quando inizierai ad aggiungere elementi al tuo sito.
+Infine, la colonna Stato di implementazione fungerà da verifica dello stato una volta che inizierai ad aggiungere elementi al sito.
 
-![Documento sui requisiti aziendali](assets/brd-template.png)
+![Documento sui requisiti aziendali (BRD)](assets/brd-template.png)
 
-## Scheda Mappa variabile (assegnazione tag doc/SDR)
+## Scheda Mappa variabili (documento sui tag/SDR)
 
-**COSA:** Un documento per l’assegnazione tag (comunemente denominato SDR) è un elemento critico della documentazione, utile sia per gli utenti tecnologici che per gli utenti aziendali di AA. Elenca tutte le variabili utilizzate dalle suite di rapporti insieme a tutti i dettagli rilevanti per le impostazioni delle variabili, il modo in cui la variabile viene implementata e lo scopo del rapporto. Come il tuo documento sulle proprietà, questo dovrebbe essere un documento Excel vivente e ben governato con una persona responsabile di mantenerlo aggiornato man mano che vengono introdotti miglioramenti di tagging o modifiche di implementazione.
+**COSA:** un documento sui tag (SDR, Solution Design Reference) è un elemento fondamentale della documentazione, utile sia per gli utenti tecnici che per gli utenti aziendali di AA. Elenca tutte le variabili utilizzate dalle suite di rapporti e tutti i dettagli rilevanti per le impostazioni delle variabili, il modo in cui ogni variabile viene implementata e il suo scopo nei rapporti. Come il documento sulle proprietà, questo dovrebbe essere un documento Excel attivo e ben gestito, con una persona responsabile di mantenerlo aggiornato man mano che vengono introdotti miglioramenti ai tag o modifiche all’implementazione.
 
-**PERCHÉ:** Questo documento ha molti scopi, ma i più importanti sono i seguenti:
+**PERCHÉ:** questo documento ha molti scopi, ma i più importanti sono i seguenti:
 
-* Per tutti coloro che non sono esperti nella tua implementazione (nuovo noleggio, proprietario aziendale che cercano di comprendere meglio le informazioni disponibili, ecc.) questo documento offre una visione ottimale di tutte le variabili implementate e del loro scopo in modo che gli individui possano self-service in termini di apprendimento della configurazione AA.
-* Per l’utente proprietario/tecnico del prodotto AA, questo documento fungerà da promemoria della configurazione di altre variabili e delle variabili disponibili per l’utilizzo quando si aggiunge una nuova dimensione.
+* Per ogni nuovo utente dell’implementazione (nuovo assunto, responsabile Business che desidera comprendere meglio i rapporti disponibili, ecc.) questo documento offre un quadro completo di tutte le variabili implementate e del loro scopo, in modo che gli utenti possano servirsene in autonomia, apprendendo la configurazione di AA.
+* Per l’utente tecnico o proprietario del prodotto AA, questo documento fungerà da promemoria della configurazione di altre variabili e delle variabili disponibili che possono essere utilizzate quando si aggiunge una nuova dimensione.
 
-**COME:** Inizia elencando tutte le variabili predefinite di Adobe (pagina, prodotto, geo, ecc.), nonché eVar, prop, eventi ed elenchi variabili in un documento Excel. Dovrebbe essere presente una scheda per sito/suite di rapporti.
+**COME:** per iniziare, elenca in un documento Excel tutte le variabili predefinite di Adobe (page, product, geo, ecc.), nonché eVar, prop, eventi. Dovrebbe essere presente una scheda per ogni sito o suite di rapporti.
 Per ciascuna di queste dimensioni, aggiungo le colonne seguenti:
-* **Nome:** Fornisci un nome semplice e breve che può essere compreso dalla maggior parte. Questo dovrebbe essere sufficientemente intuitivo da consentire a un nuovo utente di raccoglierlo e capire quale sia il suo scopo.
-* **Descrizione:** Maggiori dettagli su ciò per cui viene utilizzata la variabile e su quali dati tiene traccia. Mantengo questo breve e semplice e lo faccio corrispondere alla descrizione utilizzata nell&#39;interfaccia. Idealmente, non voglio che i miei utenti abbiano bisogno di consultare il documento di assegnazione tag. Quindi, quando una nuova dimensione viene impostata sul backend amministratore, aggiungo la stessa descrizione. In questo modo, l’utente può fare clic sull’icona delle informazioni direttamente in Workspace per capire quale dimensione è - non è necessario estrarre un documento Excel!
+* **Nome:** il nome deve essere breve e semplice, facilmente comprensibile dalla maggior parte degli utenti. Dovrebbe essere abbastanza intuitivo da consentire a un nuovo utente di sceglierlo e di capirne lo scopo.
+* **Descrizione:** maggiori dettagli sullo scopo della variabile e sui dati di cui tiene traccia. Nel mio caso, uso descrizioni brevi e semplici, che corrispondono a quelle utilizzate nell’interfaccia. Gli utenti non dovrebbero mai avere bisogno di consultare il documento sui tag. Quindi, quando una nuova dimensione viene impostata sul backend di amministrazione, aggiungo qui la stessa descrizione. L’utente può fare clic sull’icona delle informazioni direttamente in Workspace per capire a cosa serve una dimensione, non è necessario consultare un documento Excel.
 
 ![URL della pagina semplificato](assets/page-url-simplified.png)
 
-* **Codice:** Il codice del backend che imposta il valore. Questo può essere il campo dal livello dati sulla pagina, oppure puoi chiamare che questo è fatto con una regola Launch, una regola di elaborazione, ecc.
-* **Rapporti di classificazione:** Richiama tutti i rapporti di classificazione eseguiti con Importazione classificazioni o Generatore regole di classificazione
-* **Ambito della soluzione:** Trovo utile elencare tutte le proprietà (almeno quelle che utilizzano più variabili standard) in colonne di piccole dimensioni e aggiungere un segno di spunta per ogni dimensione impostata su tale proprietà. In questo modo puoi filtrare facilmente una specifica proprietà e vedere rapidamente dove viene impostata una particolare dimensione.
-* **Configurazione:** Impostazioni dell’interfaccia utente amministratore per ciascuna variabile (ad es. per eVar: scadenza, allocazione, merchandising, ecc.)
+* **Codice:** il codice del backend che imposta il valore. Può essere il campo dal livello dati sulla pagina, oppure puoi richiamarlo con una regola di avvio, una regola di elaborazione, ecc.
+* **Rapporti di classificazione:** richiama i rapporti di classificazione eseguiti mediante Classifications Importer (Importazione classificazioni) o Classification Rule Builder (Generatore regole di classificazione).
+* **Ambito della soluzione:** è utile elencare tutte le proprietà (almeno quelle che utilizzano più variabili standard) in colonne di piccole dimensioni e aggiungere un segno di spunta per ogni dimensione impostata su tale proprietà. Così potrai filtrare facilmente una specifica proprietà e vedere al volo dove viene impostata una particolare dimensione.
+* **Configurazione:** impostazioni dell’interfaccia di amministrazione per ciascuna variabile (ad esempio, per le eVar: scadenza, allocazione, merchandising, ecc.)
 
-Schermata del campione SDR:
-![DSP campione](assets/sample-sdr.png)
+Schermata del documento SDR di esempio:
+![Documento SDR di esempio](assets/sample-sdr.png)
 
-Si consiglia inoltre di utilizzare questo documento di assegnazione tag per tenere traccia di eventuali variabili gratuite e di eventuali variabili &quot;spazzatura&quot;. Quando una dimensione non è più utile, in genere deve essere eliminata solo dopo un po’ di tempo. Anche dopo questo, può verificarsi la memorizzazione in cache, o si può rendersi conto che la dimensione era impostata anche altrove. Pulire le dimensioni non è facile e spesso richiede pazienza. Ecco alcuni suggerimenti per mantenere la tua spazzatura nascosta sotto il letto in modo che i tuoi utenti non si confondano mentre ne tengono traccia.
+Si consiglia inoltre di utilizzare questo documento sui tag per tenere traccia di eventuali variabili libere o non più valide. Quando una dimensione non è più utile, in genere è necessario un po’ di tempo per eliminarla. Anche dopo la sua eliminazione, può essere ancora presente in cache, oppure ti puoi rendere conto che la dimensione era stata impostata anche altrove. Pulire le dimensioni non è facile e spesso richiede pazienza. Ecco alcuni suggerimenti per nascondere ciò che non serve agli utenti, per non confonderli, pur tenendone traccia.
 
-* Tutte le dimensioni/eventi non utilizzati sono &quot;gratuiti&quot; o &quot;eliminati&quot;
-   * Se negli ultimi 90 giorni la dimensione ha valori non consentiti, viene &#39;eliminata&#39;
-   * Se la dimensione è libera e chiara per almeno gli ultimi 90 giorni, è &quot;gratuita&quot;
-   * Contrassegna questi come tali in &#39;Nome&#39; nel documento di assegnazione tag, in modo da poterli filtrare facilmente. Tengo questi dati deselezionati nel documento di assegnazione tag (filtro dati Excel) in modo che gli utenti non li vedano
-   * Contrassegna questi come nome eVar nell’interfaccia in modo che gli utenti non li trovino in una ricerca (ad es. &#39;(v6)&#39;) e rimuovi la descrizione nell&#39;interfaccia
-* In questo modo, quando è necessaria una nuova dimensione, puoi facilmente filtrare &#39;gratis&#39; nella colonna &#39;Nome&#39; per trovare una dimensione pulita da utilizzare
-* Per le dimensioni ed eventi &quot;essere eliminati&quot;, ti consigliamo di tenere traccia di questi eventi utilizzando Workspace:
-   * Crea un progetto visibile agli amministratori solo con 3 tabelle: eVar, prop ed eventi. Utilizzo le &quot;istanze&quot; per le eVar specifiche e per le proprietà creo segmenti HIT con &quot;prop5 exists&quot;, ad esempio.
-   * Imposta data su Ultimi 90 giorni
-   * Utilizzare le righe precedenti nelle 3 tabelle, insieme alle occorrenze
-   * Non appena qualcosa arriva a &#39;0&#39;, lo contrassegno come &#39;gratuito&#39; nel documento di assegnazione tag e lo rimuoverò dal progetto Workspace
+* Tutte le dimensioni e tutti gli eventi non utilizzati sono contrassegnati “liberi” o “in eliminazione”.
+   * Se negli ultimi 90 giorni una dimensione presenta dei valori non validi, è “in eliminazione”.
+   * Se la dimensione è libera e “pulita” da almeno 90 giorni, è “libera”.
+   * Contrassegna questi stati nella sezione “Nome” nel documento sui tag, in modo da poterli filtrare facilmente. Nel documento sui tag, tengo questi dati deselezionati (tramite la funzione filtro dei dati in Excel) in modo che gli utenti non possano vederli.
+   * Indicali come nome eVar nell’interfaccia, in modo che gli utenti non li possano trovare in una ricerca (ad es. “(v6)”) e rimuovine la descrizione nell’interfaccia.
+* In questo modo, quando è necessaria una nuova dimensione, puoi facilmente filtrare i dati della colonna “Nome” per trovare una voce “libera” (pulita) da utilizzare.
+* Per le dimensioni e gli eventi “in eliminazione”, ti consigliamo di tenerne traccia utilizzando Workspace:
+   * Crea un progetto visibile agli amministratori che contenga solo 3 tabelle: eVar, prop ed eventi. Ad esempio, io utilizzo “istanze” per le eVar specifiche, mentre per i prop creo dei segmenti HIT con, ad esempio, “prop5 esiste”.
+   * Imposta la data su Ultimi 90 giorni.
+   * Usa quanto sopra come righe nelle 3 tabelle, insieme alle occorrenze.
+   * Non appena qualcosa arriva a “0”, lo contrassegno come “libero” nel documento sui tag e lo rimuovo dal progetto Workspace
 
-In questo modo i tuoi dati sono sempre puliti, e hai una chiara idea della tua spazzatura.
+In questo modo i dati sono sempre puliti, e avrai una chiara idea di ciò che non è più utile.
 
 ![Panoramica delle variabili e degli eventi](assets/variables-and-events-overview.png)
 
 ## Scheda Proprietà
 
-**COSA:** Un documento sulle proprietà dovrebbe elencare tutte le proprietà digitali: siti web, app mobili, altri strumenti (chat, feedback, ecc.), indipendentemente dal fatto che tali proprietà siano o meno taggate con Adobe Analytics. Questo dovrebbe fungere da documento centralizzato e vivente per gli utenti aziendali e tecnologici.
+**COSA:** un documento sulle proprietà dovrebbe elencare tutte le tue proprietà digitali: siti web, app mobili, altri strumenti (chat, feedback, ecc.), che siano o meno taggate con Adobe Analytics. Questo dovrebbe fungere da documento centralizzato e attivo per gli utenti sia aziendali che tecnici.
 
-**PERCHÉ:** Questo ti darà una visione chiara del percorso dell’utente in tutte le tue proprietà digitali, e di cosa fa e non copre Adobe Analytics, in modo da poter iniziare ad assegnare priorità all’aggiunta di tag a qualsiasi proprietà in cui manca. Inserendo l’ecosistema digitale in questo modo, è possibile identificare potenziali opportunità nella strategia di assegnazione tag per ottenere una visione completa del percorso dell’utente. Ad esempio, è necessaria una suite di rapporti globale per il monitoraggio tra più domini/siti? È necessaria una consegna ID visitatore tra domini o un’esperienza ibrida dall’app all’app? È necessario aggiornare i filtri URL interni per il tracciamento tra domini diversi?
+**PERCHÉ:** ti darà una visione chiara del percorso dell’utente in tutte le tue proprietà digitali, e di quali siano coperte o meno da Adobe Analytics; così potrai definire l’ordine di priorità da seguire per aggiungere i tag alle proprietà a cui mancano. Delineando in questo modo il tuo ecosistema digitale, potrai individuare potenziali opportunità nella strategia di assegnazione dei tag per avere una visione completa del percorso dell’utente. Ad esempio: è necessaria una suite di rapporti globale per tenere traccia dei dati tra più domini o siti? È necessario trasmettere l’ID visitatore a un altro dominio o un’altra app per esperienze ibride? È necessario aggiornare i filtri URL interni per il tracciamento tra domini diversi?
 
-**COME:** Identifica un proprietario del documento per fornire governance e un&#39;unica fonte di responsabilità per la gestione degli aggiornamenti.
+**COME:** identifica un proprietario del documento a scopo di governance e un’unica fonte di responsabilità per la gestione degli aggiornamenti.
 Elenca quanto segue nella scheda delle proprietà:
-* **Nome proprietà:** Può essere un dominio, un sottodominio, un nome app, ecc. Anche all’interno dello stesso dominio, se alcune parti di esso sono gestite separatamente (come un team diverso, o una tecnologia diversa), queste devono essere separate.
-* **Collegamento (URL)** a proprietà se disponibile
-* **Proprietario e contatti:** Elencare il proprietario principale o i contatti per la proprietà
-* **Metodo di tag:** Molti di noi dispongono di diversi metodi e implementazioni di codice (Launch, file JS, AEP, ecc.). Puoi suddividerlo ulteriormente se necessario (ad esempio tramite la versione del codice o il sistema di gestione dei tag), ma con questo scopo puoi tenere traccia di tutti i diversi metodi e versioni del codice, di dove è necessario aggiornare il codice e di come deve essere mantenuto. Se utilizzi Adobe Launch, elenca il nome della proprietà Launch.
+* **Nome proprietà:** può essere un dominio, un sottodominio, il nome di un’app, ecc. Anche all’interno dello stesso dominio, se alcune parti sono gestite separatamente (ad esempio, da un team diverso o con una tecnologia diversa), queste devono essere separate.
+* **Collegamento (URL)** per la proprietà, se disponibile
+* **Proprietario e contatti:** elenca il proprietario principale o i contatti per la proprietà.
+* **Metodo di tag:** spesso usiamo diversi metodi e implementazioni di codice (Launch, file JS, AEP, ecc.). Se necessario, puoi suddividerlo ulteriormente (ad esempio in base alla versione del codice o al sistema di gestione dei tag), ma questo ha lo scopo di tenere traccia di tutti i diversi metodi e versioni del codice, dove è necessario aggiornare il codice e come deve essere mantenuto. Se utilizzi Adobe Launch, elenca il nome della proprietà Launch.
 
-Ricorda di includere tutte le proprietà digitali, anche se non dispongono di tag con Adobe Analytics. Questo ti aiuterà a comprendere il tuo panorama digitale e come gli utenti interagiscono con tutte le tue proprietà.
+Ricorda di includere tutte le proprietà digitali, anche se non utilizzano i tag di Adobe Analytics. Questo ti aiuterà a comprendere il tuo panorama digitale e come gli utenti interagiscono con tutte le tue proprietà.
 
-Si consiglia di mantenere questo documento il più semplice possibile e non annotarlo con troppe informazioni in modo che rimanga facile da interpretare da diverse parti dell&#39;organizzazione. I team di Analytics spesso capiscono meglio il panorama digitale rispetto a qualsiasi altro team, pertanto questo documento viene spesso utilizzato da altri team e dirigenti per fornire una panoramica completa.
+È consigliabile mantenere questo documento il più semplice possibile, senza appesantirlo con troppe informazioni, in modo che possa essere consultato facilmente da diversi team dell’organizzazione. In genere i team di Analytics comprendono meglio il panorama digitale rispetto ad altri team, e questo documento viene spesso utilizzato da altri team e dirigenti per ottenere una panoramica completa.
 
 >[!TIP]
 >
->Crea una dimensione nome/proprietà del sito in Adobe Analytics. Avere una dimensione dedicata (in genere un eVar) in Adobe Analytics che identifica il nome del sito/dell’app consentirà la segmentazione, la risoluzione dei problemi, la creazione di suite di rapporti virtuali, ecc. I vantaggi sono infiniti, soprattutto quando si combinano più siti in una singola suite di rapporti (globale). La chiave consiste nell’assicurarsi che i team di sviluppo impostino sempre questo valore nella dimensione delle proprietà, inclusi tutti i caricamenti di pagina (s.t call/trackState) e tutti gli eventi personalizzati (s.tl call/trackAction). Le regole di elaborazione possono essere uno strumento utile per aiutarti a impostare correttamente e in modo coerente questi valori.
+>Crea una dimensione per il nome del sito o la proprietà in Adobe Analytics. Se in Adobe Analytics è presente una dimensione dedicata (in genere un eVar) che identifica il nome del sito o dell’app, sarà possibile eseguire segmentazioni, risolvere problemi, creare di suite di rapporti virtuali, ecc. I vantaggi sono infiniti, soprattutto quando si combinano più siti in una singola suite di rapporti globale. La chiave consiste nell’assicurarsi che i team di sviluppo impostino sempre questo valore nella dimensione delle proprietà, inclusi tutti i caricamenti di pagina (s.t calls/trackState) e tutti gli eventi personalizzati (s.tl calls/trackAction). Le regole di elaborazione possono essere utili per impostare questi valori in modo corretto e coerente.
 
-[Guarda questo video di Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target=&quot;_blank&quot;} per ulteriori informazioni sulla compilazione del playbook di implementazione.
+Per ulteriori informazioni sulla compilazione del playbook di implementazione, [guarda questo video di Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=it){target=&quot;_blank&quot;}.
 
 ## Autori
 
-Questo documento è stato scritto congiuntamente da:
+Questo documento è stato scritto da:
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-Christel Guidon, Digital Analytics Platform Manager presso NortonLifeLock Adobe Analytics Champion
+Christel Guidon, Digital Analytics Platform Manager presso NortonLifeLock 
+Adobe Analytics Champion
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
-Rachel Fenwick, Consulente senior all&#39;Adobe
+Rachel Fenwick, Senior Consultant presso Adobe
