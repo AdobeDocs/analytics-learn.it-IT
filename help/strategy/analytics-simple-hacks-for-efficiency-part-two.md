@@ -1,99 +1,99 @@
 ---
-title: Semplici hacks per una maggiore efficienza e self-service - parte due
-description: Scopri le principali sfide che i team di Analytics devono affrontare oggi e le nostre raccomandazioni per superarle utilizzando strategie interne allo strumento.
+title: Semplici trucchi per più efficienza e autonomia - Parte 2
+description: Scopri le principali sfide che i team di Analytics devono affrontare e i nostri consigli per superarle con strategie interne allo strumento.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '777'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# Adobe Analytics: Funzionalità semplici per una maggiore efficienza e self-service
+# Adobe Analytics: semplici trucchi per più efficienza e autonomia
 
-**Parte 2: Strategie in-tool**
+**Parte 2: strategie interne allo strumento**
 
-Questo articolo descrive le principali sfide che i team di analytics devono affrontare oggi e le nostre raccomandazioni per superarle utilizzando strategie interne allo strumento. Vai [qui](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md) per la prima parte.
+Questo articolo descrive le principali sfide che i team di analytics devono affrontare e i nostri consigli per superarle utilizzando strategie interne allo strumento. La Parte 1 è disponibile [qui](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md).
 
-Per ulteriori informazioni sulle soluzioni efficaci al di fuori della piattaforma Adobe Analytics, fai clic su [qui](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
+Per ulteriori informazioni su soluzioni efficaci per incrementare l’efficienza al di fuori della piattaforma Adobe Analytics, fai clic [qui](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
-## Tasti per l&#39;efficienza: Strategie in-tool
+## Aspetti chiave per l’efficienza: strategie interne allo strumento
 
-Un self-service efficace è spesso un esercizio per eliminare le barriere percepite e aumentare la fiducia. Ecco alcuni consigli:
+Un approccio self-service efficace è spesso utile per eliminare le barriere percepite dagli utenti e aumentare la fiducia. Di seguito sono riportati alcuni consigli:
 
-## Sfrutta tutte le caratteristiche
+## Sfruttare tutte le funzionalità
 
 1. Modelli standard:
 
-   * Sono preconfigurati e coprono casi d’uso comuni, che ne fanno un salva-tempo se l’utente cerca un accesso rapido ai KPI comuni.
-   * Sono raggruppati in base alla verticale a cui appartengono e sono compilati con dimensioni, segmenti, metriche e visualizzazioni diversi.
+   * Sono preconfigurati e coprono casi d’uso frequenti; fanno risparmiare tempo all’utente che vuole poter accedere rapidamente ai KPI più comuni.
+   * Sono raggruppati in base al settore verticale a cui appartengono e sono compilati con dimensioni, segmenti, metriche e visualizzazioni diversi.
 
 1. Modelli personalizzati:
 
    * Qualsiasi progetto può essere salvato come modello personalizzato (deve essere un amministratore o disporre di autorizzazioni d’uso appropriate).
-   * Questa è una grande opzione se ti trovi a creare ripetutamente lo stesso tipo di rapporto con modifiche minori.
+   * Questa è un’ottima opzione se ti ritrovi a creare ripetutamente lo stesso tipo di rapporto con modifiche minori.
 
-1. Puntare il pulsante destro del mouse.
+1. Pulsante destro del mouse
 
-   * Sono disponibili diverse opzioni di clic con il pulsante destro del mouse in [!UICONTROL Workspace] per risparmiare tempo.
+   * In [!UICONTROL Workspace] è possibile accedere rapidamente a diverse opzioni facendo clic con il pulsante destro del mouse.
 
-1. Filtri a discesa.
+1. Filtri a discesa
 
-1. Tasti di scelta rapida.
+1. Tasti di scelta rapida
 
-## Ottimizzare la prestazione di Workspace
+## Ottimizzare le prestazioni di Workspace
 
-La [!UICONTROL Analysis Workspace] la pagina della guida sulle prestazioni mostra i fattori di rete, browser e progetto che influiscono sulle prestazioni del progetto. Favorire l&#39;adozione creando dashboard più veloci. È inoltre possibile accedere ai suggerimenti per l&#39;ottimizzazione nel [!UICONTROL Workspace] menu sotto **[!UICONTROL Help]** > **[!UICONTROL Performance]**.
+La pagina della guida sulle prestazioni di [!UICONTROL Analysis Workspace] mostra i fattori di rete, browser e progetto che influiscono sulle prestazioni del progetto. Per incentivare l’adozione della soluzione, crea delle dashboard più veloci. Vengono anche forniti collegamenti verso suggerimenti per l’ottimizzazione, ed è accessibile nel menu [!UICONTROL Workspace] da **[!UICONTROL Help]** > **[!UICONTROL Performance]**.
 
-## Collegamento al pannello intra/inter Workspace
+## Collegamento tra pannelli Workspace
 
-Usa il collegamento del pannello per migliorare [!UICONTROL Workspace] prestazioni. Utilizza pannelli compressi per suddividere rapporti di grandi dimensioni senza gravare sugli utenti quando devono comprendere e scambiare tra più progetti Workspace.
+Usa il collegamento dei pannelli per migliorare le prestazioni di [!UICONTROL Workspace]. Utilizzando i pannelli compressi puoi suddividere i rapporti di grandi dimensioni e gli utenti non dovranno destreggiarsi tra più progetti Workspace.
 
-## Creare un archivio informazioni
+## Creare un archivio di tipo knowledge base
 
-* Imposta l’area di lavoro predefinita di tutti su una libreria sempreverde di risorse di autoabilitazione.
-* Cura ottimi collegamenti da Adobe Experience League.
-* Condividi i video sulla versione dal canale YouTube di Adobe Analytics.
-* Condividi un orario orario dell&#39;ufficio.
-* Collegamento alle informazioni [!DNL Analytics] e correzioni di bug.
+* Imposta l’area di lavoro predefinita di Workspace per tutti su una libreria sempre utile di risorse di autoconsultazione.
+* Seleziona i collegamenti più rilvanti da Adobe Experience League.
+* Condividi i video sulle versioni dal canale YouTube di Adobe Analytics.
+* Condividi un calendario di sessioni di approfondimento.
+* Inserisci collegamenti per informazioni sulla versione di [!DNL Analytics] e correzioni di bug.
 
-## Area di lavoro delle esercitazioni di formazione
+## Tutorial di formazione su Workspace
 
-La [!UICONTROL Analysis Workspace] l’esercitazione guida gli utenti attraverso la terminologia comune e i passaggi per la creazione del loro primo progetto di analisi in [!UICONTROL Workspace]. Questo modello è disponibile come modello standard nel [!UICONTROL New Project] e ti consente di creare esercitazioni personalizzate, adattandole ai casi d’uso unici della tua organizzazione e alla struttura dei dati (eVar, eventi personalizzati, ecc.). Si tratta di una forma di abilitazione scalabile e automatizzata.
+Il tutorial di formazione su [!UICONTROL Analysis Workspace] illustra i termini più utilizzati e i passaggi da seguire per creare il primo progetto di analisi in [!UICONTROL Workspace]. Questo modello è disponibile come modello standard nella finestra modale [!UICONTROL New Project] e consente di creare tutorial personalizzati, adattandoli alla struttura dei dati (eVar, eventi personalizzati, ecc.) e ai casi d’uso specifici della tua organizzazione. Si tratta di una forma di abilitazione ampliabile e automatizzata.
 
-## [!UICONTROL Quick insights] pannello
+## Pannello [!UICONTROL Quick insights]
 
-[[!UICONTROL Quick insights]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=en) offre informazioni utili che consentono agli utenti non analisti e ai nuovi utenti di Analysis Workspace di capire come rispondere alle domande di business in modo rapido e semplice. È anche un ottimo strumento per gli utenti avanzati che desiderano rispondere a una domanda semplice in modo rapido e semplice senza dover creare personalmente una tabella.
+[[!UICONTROL Quick insights]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=it) offre informazioni utili che consentono agli utenti non analisti e ai nuovi utenti di Analysis Workspace di capire come rispondere alle domande di business in modo rapido e semplice. È anche un ottimo strumento per gli utenti avanzati che desiderano rispondere rapidamente e facilmente a una semplice domanda senza dover creare personalmente una tabella.
 
-## Sfruttamento [!UICONTROL Descriptions] sulle variabili
+## Sfruttare [!UICONTROL Descriptions] nelle variabili
 
-Utilizza la [!UICONTROL Description] in variabili per comunicare con gli utenti e aiutarli a estrarre i dati come previsto. Il contesto è disponibile in Analysis Workspace senza dover passare da un documento all’altro o eseguire il ping del team di base per ricevere assistenza.
+Utilizza il campo [!UICONTROL Description] nelle variabili per comunicare con gli utenti e aiutarli a estrarre i dati come previsto. Il contesto è disponibile direttamente in Analysis Workspace, senza dover passare da un documento all’altro o richiedere assistenza al team di base.
 
-## Miglioramento dei modelli con le annotazioni
+## Migliorare i modelli con le annotazioni
 
-Promuovere l&#39;adozione di modelli e migliorare l&#39;autosufficienza con i modelli che utilizzano [!UICONTROL Annotations]. Migliora l’utilizzo delle annotazioni per migliorare l’aspetto narrativo della condivisione dell’analisi.
+Promuovi l’adozione dei modelli e migliora l’autonomia degli utenti nell’utilizzo dei modelli, tramite [!UICONTROL Annotations]. Incoraggia l’utilizzo delle annotazioni per migliorare l’aspetto narrativo della condivisione delle analisi.
 
-## Utilizzo della cura
+## Selezione e cura dei componenti
 
 La cura ti consente di limitare i componenti (dimensioni, metriche, segmenti, intervalli di date) prima di condividere un progetto. Quando un destinatario apre il progetto, vedrà un set limitato di componenti che hai curato per lui. La cura è un passaggio facoltativo ma consigliato prima di condividere un progetto.
 
-Durante la cura [!UICONTROL Virtual Report Suites], puoi creare etichette di dimensioni, metriche e segmenti intuitive. Crea etichette personalizzate e di facile utilizzo per sottoinsiemi di utenti. Tenere presente che le etichette non modificano il record principale (nome).
+Durante la cura di [!UICONTROL Virtual Report Suites], puoi creare etichette intuitive per le dimensioni, le metriche e i segmenti. Crea etichette personalizzate e di facile utilizzo per gruppi di utenti. Tieni presente che le etichette non modificano il record principale (nome).
 
-## Creare aree di lavoro di riferimento della soluzione
+## Creare aree di lavoro di riferimento per la soluzione
 
-Utilizza le annotazioni per creare riferimenti alla documentazione della soluzione interna al prodotto. L&#39;utilizzo di aree di lavoro interne al prodotto, oltre ai modelli, può contribuire a centralizzare le conoscenze e fornire un contesto prezioso. Utilizza il collegamento tra aree di lavoro e intra-workspace per creare risorse facili da scalare e navigare facilmente.
+Utilizza le annotazioni per creare riferimenti alla documentazione della soluzione accessibili direttamente nel prodotto. L’utilizzo di aree di lavoro interne al prodotto, oltre ai modelli, può contribuire a centralizzare le conoscenze e fornire un contesto importante. Utilizza collegamenti interni o verso altre aree di lavoro per fornire risorse facili da trovare e da ampliare.
 
 ## Vantaggi delle dashboard di Adobe Analytics
 
-| Democratizzazione dei dati | Tempi di azione più rapidi | Approfondimenti concisi | Facilità d&#39;uso |
+| Democratizzazione dei dati | Interventi più tempestivi | Informazioni concise | Facilità d’uso |
 | --- | --- | --- | --- |
-| Gli utenti aziendali non analisti possono facilmente self-service | Prendere decisioni informate sui dati nei momenti più importanti | Accedi a informazioni rilevanti e approfondisci in base alle esigenze in tempo reale | Esperienza senza attriti tramite interfaccia mobile intuitiva |
+| Dati facilmente fruibili in autonomia anche da parte di utenti aziendali non analisti | Capacità di prendere decisioni basate sui dati nei momenti più importanti | Accesso a informazioni rilevanti e possibilità di analizzarle in profondità in base alle esigenze, ovunque | Esperienza senza attriti tramite l’interfaccia mobile intuitiva |
 
 ## API di reporting di Adobe 2.0
 
-Sfrutta l’API di reporting per spostare i rapporti standard da [!UICONTROL Workspace] a report e dashboard pianificati. Inoltre, sfrutta [!UICONTROL Analysis Workspace] per generare richieste API.
+Sfrutta l’API di reporting per passare dai rapporti standard da [!UICONTROL Workspace] a dashboard e rapporti pianificati. Inoltre, sfrutta [!UICONTROL Analysis Workspace] per generare richieste API.
 
-Speriamo che tu abbia trovato questo articolo sulle strategie in-tool preziose. Per ulteriori informazioni sulle soluzioni efficaci per una maggiore efficienza al di fuori della piattaforma Adobe Analytics, fai clic su [qui](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
+Ci auguriamo che tu abbia trovato utile questo articolo sulle strategie in-tool. Per ulteriori informazioni su soluzioni efficaci per incrementare l’efficienza al di fuori della piattaforma Adobe Analytics, fai clic [qui](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
-Per saperne di più sulla strategia e la leadership del pensiero, consulta [Successo del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub
+Per saperne di più su strategia e leadership di pensiero, visita l’hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=it).
