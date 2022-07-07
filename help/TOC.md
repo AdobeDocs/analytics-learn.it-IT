@@ -4,9 +4,9 @@ user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2432'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 97%
       + [Summit 2019 Super Session: viaggi e ospitalità](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 Super Session: vendite al dettaglio](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 Super Session: high tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Strategia e leadership del pensiero{#strategy}
-      + [Parte 1 - Semplici hacking per una maggiore efficienza](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
-      + [Parte 2 - Semplici hacking per una maggiore efficienza](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
-      + [Masterizzazione delle informazioni sui clienti con Virtual Analyst e Segment IQ in Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
+   + Strategia e leadership di pensiero {#strategy}
+      + [Parte 1 - Semplici trucchi per più efficienza](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [Parte 2 - Semplici trucchi per più efficienza](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [Padroneggiare le informazioni sui clienti con Virtual Analyst e Segment IQ in Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
    + Transizione da altre piattaforme {#transitioning-from-other-platforms}
       + [Transizione da Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Nozioni di base su Analytics {#analytics-basics}
@@ -235,14 +235,14 @@ ht-degree: 97%
       + [Traduzione del linguaggio tecnico di Adobe Analytics per utenti non tecnici](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Collaborazione cross-functional](administration/key-admin-skills/working-cross-functionally.md)
       + [Stai facendo le domande giuste?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
-   + Suggerimenti per gli amministratori e best practice {#admin-tips}
-      + [Scarica il playbook di implementazione](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
-      + [Creare convenzioni di denominazione standardizzate](administration/admin-tips/create-standardized-naming-conventions.md)
+   + Suggerimenti e best practice per gli amministratori {#admin-tips}
+      + [Scarica il playbook per l’implementazione](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [Standardizzare le convenzioni di denominazione](administration/admin-tips/create-standardized-naming-conventions.md)
       + [Creare modelli di codice standardizzati](administration/admin-tips/create-standardized-code-templates.md)
-      + [Creazione di video e formazione di base](administration/admin-tips/create-basic-videos-and-training.md)
+      + [Creare video e formazione di base](administration/admin-tips/create-basic-videos-and-training.md)
       + [Creare un sito Adobe Analytics interno](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Utilizzare una suite di rapporti globale](administration/admin-tips/use-a-global-report-suite.md)
-      + [Crea un progetto di notizie e annunci](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [Creare un progetto di notizie e annunci](administration/admin-tips/create-a-news-and-announcements-project.md)
    + Impostazioni aziendali {#company-settings}
       + [Applicare restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visualizzare le funzioni disponibili per l’account](administration/company-settings/view-your-accounts-available-features.md)
