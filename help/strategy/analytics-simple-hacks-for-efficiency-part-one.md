@@ -1,89 +1,89 @@
 ---
-title: Semplici hacks per una maggiore efficienza e self-service - parte 1
-description: Scopri le principali sfide che i team di analytics devono affrontare oggi e i nostri consigli per superarle utilizzando strategie al di fuori dell’interfaccia utente di Adobe Analytics.
+title: Semplici trucchi per più efficienza e autonomia - Parte 1
+description: Scopri le principali sfide che i team di Analytics devono affrontare e i nostri consigli per superarle mediante strategie al di fuori dell’interfaccia utente di Adobe Analytics.
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '712'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Adobe Analytics: Funzionalità semplici per una maggiore efficienza e self-service
+# Adobe Analytics: semplici trucchi per più efficienza e autonomia
 
-**Parte 1: Fuori dall’interfaccia utente**
+**Parte 1: fuori dall’interfaccia utente**
 
-Questo articolo descrive le principali sfide che i team di analytics devono affrontare oggi e i nostri consigli per superarle utilizzando strategie al di fuori dell’interfaccia di Adobe Analytics.
+Questo articolo descrive le principali sfide che i team di Analytics devono affrontare e i nostri consigli per superarle mediante strategie al di fuori dell’interfaccia di Adobe Analytics.
 
 ## Sfide chiave per i team di Analytics
 
-Molti team di Analytics si trovano con una distribuzione del lavoro non equilibrata. Invece di un mix di analisi all&#39;80% e implementazione al 20%, numerose organizzazioni si trovano al contrario. Essi vedono la maggior parte dei loro sforzi spesi per l&#39;impostazione, il reporting e il supporto, invece di produrre analisi che guidano informazioni di alto valore.
+Molti team di Analytics si trovano con una distribuzione del lavoro non equilibrata. Invece di un mix di 80% analisi e 20% implementazione, molte organizzazioni si trovano nella situazione opposta. La maggior parte del lavoro è dedicato all’impostazione, al reporting e al supporto, invece di produrre analisi che consentano di ottenere informazioni di alto valore.
 
-I team di Analytics stanno trovando la loro produttività ed efficienza prosciugata per vari motivi. Tra queste, le implementazioni in continua evoluzione, che cercano di mantenere la fiducia organizzativa nei dati e riducono il fatturato degli analisti. La riduzione del fatturato evita il lungo processo di formazione dei nuovi membri del team su strumenti di implementazione personalizzati non familiari.
+I team di Analytics subiscono un calo di produttività ed efficienza per vari motivi. Tra questi: implementazioni in continua evoluzione; la necessità di assicurare fiducia nei dati a livello aziendale; e riduzione dell’avvicendamento degli analisti. Riducendo l’avvicendamento del personale si evita di dover fornire ai nuovi membri del gruppo la formazione necessaria su strumenti con cui non hanno dimestichezza e che richiedono un’implementazione personalizzata.
 
 Altre sfide chiave affrontate dagli analisti:
 
-* **Concorrenza:** Le aziende retail online e multicanale crescono più competitive.
-* **Aspettative dei clienti:** Le esperienze dei clienti e le strategie di marketing diventano più complesse.
-* **Valore dati:** Il valore di dati e informazioni accurati per favorire un vantaggio competitivo diventa sempre più importante.
-* **Aspettative delle parti interessate:** Partner commerciali, parti interessate e dirigenti richiedono sempre più dati prima dell&#39;approvazione.
-* **Gestione dei progetti:** Il team di analytics soddisfa le richieste per implementare la raccolta dati per un flusso infinito di nuove funzioni, producendo allo stesso tempo report accurati, aggiungendo nuovi analisti e scoprendo le nuove informazioni successive.
+* **Concorrenza:** le aziende retail online e multicanale diventano sempre più competitive.
+* **Aspettative dei clienti:** le esperienze dei clienti e le strategie di marketing diventano più complesse.
+* **Valore dei dati:** informazioni e dati accurati su cui basare un vantaggio competitivo assumono un ruolo sempre più importante.
+* **Aspettative delle parti interessate:** partner commerciali, parti interessate e dirigenti richiedono sempre più dati prima dell’approvazione.
+* **Gestione dei progetti:** il team di analisi è sommerso di richieste per l’implementazione della raccolta dati per un flusso infinito di nuove funzioni; e allo stesso tempo è necessario produrre rapporti accurati, aggiungere al team nuovi analisti e scoprire nuovi insight.
 
-## Tasti per l&#39;efficienza: Fuori dall’interfaccia utente
+## Chiavi per l’efficienza: fuori dall’interfaccia utente
 
-1. Mantieni il tuo [Riferimento per la progettazione della soluzione](/help/implementation/implementation-basics/creating-and-maintaining-an-sdr.md) (DSP) aggiornato:
+1. Mantieni il documento [Solution Design Reference](/help/implementation/implementation-basics/creating-and-maintaining-an-sdr.md) (SDR) aggiornato:
 
-   * Il DSP è la principale fonte di verità per la definizione e l’uso previsto di tutte le variabili all’interno dell’implementazione di Analytics.
-   * Il DSP è il riferimento principale con cui gli utenti devono avere familiarità per trarre valore dall’interfaccia utente di Adobe Analytics.
-   * Mantenere l’aggiornamento e le versioni (è possibile utilizzare un formato data semplice) è importante.
+   * Il documento SDR è la principale fonte di verità per la definizione e l’uso previsto di tutte le variabili per la propria implementazione di Analytics.
+   * Il documento SDR rappresenta la documentazione principale a cui gli utenti faranno riferimento per trarre valore dall’interfaccia utente di Adobe Analytics.
+   * È importante mantenerlo aggiornato e gestirne le versioni (anche tramite un semplice formato di date).
 
-1. Documentazione sulla raccolta dei dati e governance - specifiche tecniche:
+1. Documentazione su raccolta dati e governance - Specifiche tecniche:
 
-   Le specifiche tecniche dispongono di un pubblico più limitato rispetto al DSP, ma sono importanti, se non di più, per un’implementazione completamente funzionale. Una buona specifica tecnica dovrebbe essere costituita da tutte le risorse di sviluppo, controllo qualità e gestione dei tag necessarie per implementare la soluzione. Assicurati di conservare tutti i documenti necessari per disporre di architetture di implementazione univoche.
+   Le specifiche tecniche sono destinate a un pubblico più limitato rispetto al documento SDR, ma sono altrettanto importanti, se non di più, per un’implementazione completamente funzionale. Le specifiche tecniche devono comprendere tutte le risorse di sviluppo, controllo qualità e gestione dei tag necessarie per implementare la soluzione. Assicurati di includere e mantenere aggiornati tutti i documenti necessari per tutte le singole architetture di implementazione.
 
    **Specifiche tecniche**
 
-   _Caso d’uso:_ Istruzioni che descrivono come creare script per la raccolta di dati
+   _Caso d’uso:_ istruzioni che descrivono come creare script per la raccolta dati
 
-   _Utenti principali:_ Sviluppatori
+   _Utenti principali:_ sviluppatori
 
    _Altre note:_
 
-   * Documento altamente tecnico creato appositamente per gli ambienti di distribuzione
-   * Utile sia per l&#39;implementazione iniziale che per la successiva manutenzione/riferimento
-   * Organizzato per tipo di soluzione (ad esempio, tracciamento campagna, metadati pagina e così via).
-   * Il documento primario deve essere aggiornato e mantenuto in quanto vengono apportate modifiche al DSP
+   * Documento altamente tecnico creato appositamente per gli ambienti di implementazione
+   * Utile sia per l’implementazione iniziale che per la successiva manutenzione e come riferimento
+   * Organizzato per tipo di soluzione (ad esempio, tracciamento delle campagne, metadati delle pagine, ecc.).
+   * Il documento primario deve essere aggiornato e mantenuto man mano che vengono apportate modifiche all’SDR
    * Archivio centrale
-   * Numeri di versione sincronizzati per SDR e Tech Spec
+   * Numeri di versione sincronizzati per SDR e specifiche tecniche
 
-1. Comunicare e documentare le finalità di progettazione della soluzione al momento del lancio:
+1. Comunica e documenta le finalità di progettazione della soluzione al momento del lancio:
 
-   * Comunicare con l&#39;utente in mente
-   * Quando avvii o aumenti la raccolta di dati, crea riepiloghi semplici da condividere con le parti interessate
-   * Rafforzare l&#39;uso corretto della variabile fuori dal cancello
-   * Invia un messaggio e-mail di annuncio di riepilogo alle principali parti interessate e analisti
-   * Crea una libreria che può essere utilizzata per supportare le ore di ufficio, le sessioni di abilitazione del team o per l’onboarding specifico per il team
+   * Comunica tenendo conto delle esigenze dell’utente.
+   * Quando avvii o ottimizzi la raccolta dati, crea semplici riepiloghi da condividere con le parti interessate.
+   * Sottolinea l’importanza di un uso corretto delle variabili.
+   * Invia un’e-mail di riepilogo per l’annuncio del lancio agli analisti e alle parti interessate principali.
+   * Crea una libreria da utilizzare a supporto di sessioni di approfondimento e di abilitazione del team o per l’onboarding di specifici team.
 
-1. Documentazione sulla raccolta dei dati, governance e igiene dei dati - AHD:
+1. Documentazione su raccolta dati, governance e igiene dei dati - AHD:
 
-   Il dashboard di Analytics Health (AHD) si tuffa profondamente in un _singolo_ suite di rapporti e fornisce una visualizzazione dei dati raccolti in ogni componente (eVar, prop ed evento). Questo può aiutare a capire se i dati hanno smesso di raccogliere in un componente in modo da poter intervenire per risolvere il problema. Puoi eseguire questo dashboard in qualsiasi momento in futuro per qualsiasi suite di rapporti.
+   Analytics Health Dashboard (AHD) esamina una _singola_ suite di rapporti e fornisce informazioni sui dati raccolti in ogni componente (eVar, prop ed evento). Può aiutare a capire se i dati non vengono più raccolti in un componente, in modo da poter intervenire per risolvere il problema. Puoi eseguire questa dashboard in qualsiasi momento in futuro per qualsiasi suite di rapporti.
 
-   Dashboard di stato di Analytics (AHD):
+   Analytics Health Dashboard (AHD):
 
-   _Caso d’uso:_ Snapshot di ogni metrica e dimensione acquisito da una singola suite di rapporti
+   _Caso d’uso:_ istantanea di ogni metrica e dimensione acquisita da una singola suite di rapporti
 
-   _Utenti principali:_ PMI e/o sviluppo principali di Analytics
+   _Utenti principali:_ sviluppatori e/o esperti di analisi con ruolo Lead
 
    _Altre note:_
-   * Fornito tramite Excel utilizzando un’integrazione personalizzata dell’API di reporting di Adobe
-   * Gli utenti devono avere accesso API ai servizi web di Analytics
-   * Sono disponibili opzioni per la semiautomazione
+   * Fornito tramite Excel con integrazione personalizzata dell’API di reporting di Adobe
+   * Gli utenti devono avere accesso tramite API ai servizi web di Analytics.
+   * Sono disponibili opzioni per la semi-automazione.
 
-1. Vincere con l&#39;espansione del mondo degli esperti in materia (PMI):
+1. Crea un maggior numero di esperti in materia:
 
-   * Creare PMI all&#39;interno delle varie squadre dell&#39;organizzazione
-   * Costruire la loro presenza aiutando a socializzare rilasci e vittorie
-   * Utilizzare gli orari regolari dell&#39;ufficio per aiutare i formatori e ridurre le domande ad hoc
+   * Crea esperti in materia nei vari team dell’organizzazione.
+   * Rafforzane la presenza aiutandoli a rendere noti rilasci e successi.
+   * Organizza sessioni regolari di approfondimento per la formazione dei formatori e per ridurre il numero di richieste di assistenza.
 
-Per saperne di più sulla strategia e la leadership del pensiero, consulta [Successo del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub
+Per saperne di più su strategia e leadership di pensiero, visita l’hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=it).
