@@ -1,6 +1,6 @@
 ---
-title: Creare un rapporto di visualizzazione dell’abbandono
-description: Scopri i casi di utilizzo dei rapporti di abbandono e come configurarlo in Analysis Workspace. Scopri come aggiungere diversi tipi di punti di contatto e come creare e utilizzare i segmenti in questo componente.
+title: Creare una visualizzazione dell’abbandono
+description: Le visualizzazioni Abbandono in Analysis Workspace vengono utilizzate per scoprire dove i clienti passano attraverso o esauriscono i flussi chiave delle tue proprietà digitali. Scopri come aggiungere diversi tipi di punti di contatto e come creare e utilizzare i segmenti in questo componente.
 feature: Visualizations
 role: User
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: feature video
 thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: 1b141ab4e15a6db80a6de3cc80bef22dc3499302
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 21%
+source-wordcount: '110'
+ht-degree: 18%
 
 ---
 
-# Creare un rapporto di visualizzazione dell’abbandono
+# Creare una visualizzazione dell’abbandono
 
-Scopri i casi di utilizzo dei rapporti di abbandono e come configurarlo in [!DNL Analysis Workspace]. Scopri come aggiungere diversi tipi di punti di contatto e come creare e utilizzare i segmenti in questo componente.
+Visualizzazioni di abbandono in [!DNL Analysis Workspace] vengono utilizzati per esplorare in che modo i clienti abbandonano o abbandonano i flussi chiave delle proprietà digitali. Scopri come aggiungere diversi tipi di punti di contatto e come creare e utilizzare i segmenti in questo componente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 

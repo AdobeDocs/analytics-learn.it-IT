@@ -3,10 +3,10 @@ title: Padroneggiare le informazioni sui clienti con Virtual Analyst e Segment I
 description: Scopri l’importanza di utilizzare l’intelligenza artificiale e l’apprendimento automatico (IA/ML). Scopri i vantaggi e le storie di successo reali di clienti globali che utilizzano Virtual Analyst and Segment IQ per rilevare anomalie, evitare scostamenti e massimizzare il ROI.
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '1100'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -123,4 +123,4 @@ Rimani sempre aggiornato sulle anomalie presenti nei tuoi dati, sia in ufficio c
 
 Per maggiori informazioni, guarda il nostro [webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
 
-Per saperne di più su strategia e leadership di pensiero, visita l’hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=it).
+Per saperne di più su strategia e leadership di pensiero, visita l’hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
