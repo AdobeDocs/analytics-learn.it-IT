@@ -1,6 +1,6 @@
 ---
-title: Creare una visualizzazione dell’abbandono
-description: Le visualizzazioni Abbandono in Analysis Workspace vengono utilizzate per scoprire dove i clienti passano attraverso o esauriscono i flussi chiave delle tue proprietà digitali. Scopri come aggiungere diversi tipi di punti di contatto e come creare e utilizzare i segmenti in questo componente.
+title: Creare una visualizzazione del fallout
+description: Le visualizzazioni del fallout in Analysis Workspace vengono utilizzate vengono utilizzate per scoprire in che modo i clienti abbandonano o esauriscono i flussi chiave delle proprietà digitali. Scopri come aggiungere diversi tipi di punti di contatto e come creare e utilizzare i segmenti in questo componente.
 feature: Visualizations
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
-# Creare una visualizzazione dell’abbandono
+# Creare una visualizzazione del fallout
 
-Visualizzazioni di abbandono in [!DNL Analysis Workspace] vengono utilizzati per esplorare in che modo i clienti abbandonano o abbandonano i flussi chiave delle proprietà digitali. Scopri come aggiungere diversi tipi di punti di contatto e come creare e utilizzare i segmenti in questo componente.
+Le visualizzazioni di fallout in [!DNL Analysis Workspace] vengono utilizzate per scoprire in che modo i clienti abbandonano o esauriscono i flussi chiave delle proprietà digitali. Scopri come aggiungere diversi tipi di punti di contatto e come creare e utilizzare i segmenti in questo componente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
