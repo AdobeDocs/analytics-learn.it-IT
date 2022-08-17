@@ -4,9 +4,9 @@ description: Scopri le principali sfide che i team di Analytics devono affrontar
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '712'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -86,4 +86,4 @@ Altre sfide chiave affrontate dagli analisti:
    * Rafforzane la presenza aiutandoli a rendere noti rilasci e successi.
    * Organizza sessioni regolari di approfondimento per la formazione dei formatori e per ridurre il numero di richieste di assistenza.
 
-Per saperne di più su strategia e leadership di pensiero, visita l’hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Per saperne di più su strategia e leadership di pensiero, visita l’hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=it).
