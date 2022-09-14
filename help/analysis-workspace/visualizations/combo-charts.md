@@ -1,15 +1,15 @@
 ---
 title: Grafici combinati in Analysis Workspace
-description: Scopri la visualizzazione del grafico combinato in Analysis Workspace. La visualizzazione grafico combinato consente di creare rapidamente una visualizzazione di confronto senza dover prima creare una tabella. Puoi visualizzare facilmente le tendenze nei tuoi dati in una combinazione riga/barra. (Deve essere compreso tra 60 e 160 caratteri, ma è di 258 caratteri)
+description: Scopri la visualizzazione del grafico combinato in Analysis Workspace. La visualizzazione grafico combinato consente di creare rapidamente una visualizzazione di confronto senza dover prima creare una tabella. Puoi visualizzare facilmente le tendenze nei tuoi dati in una combinazione riga/barra.
 feature: Visualizations
 role: User
 level: Beginner
 kt: 11111
-thumbnail: 3409159.jpeg
-source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
+thumbnail: 3409159.jpg
+source-git-commit: 7bfb42fa1896b31ec291fd1cddc02da73da3af8c
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 12%
+source-wordcount: '109'
+ht-degree: 6%
 
 ---
 
