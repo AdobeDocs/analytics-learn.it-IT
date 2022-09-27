@@ -2,19 +2,15 @@
 title: Analisi cross-selling in Analysis Workspace
 description: Il rapporto di cross-selling in Reports & Analytics visualizza la relazione tra i prodotti nella stessa stringa di prodotto, per aiutarti a capire quali prodotti vengono acquistati insieme. Questo video illustra come creare il rapporto di cross-selling in Analysis Workspace ed estenderlo ulteriormente ad altre dimensioni o classificazione multivalore.
 feature: Freeform Tables
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 25864.jpg
 kt: 2367
 role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '110'
-ht-degree: 100%
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 85%
 
 ---
 
@@ -23,3 +19,7 @@ ht-degree: 100%
 Il rapporto [!UICONTROL Cross Sell] in [!DNL Reports & Analytics] visualizza la relazione tra i prodotti nella stessa stringa di prodotto, per aiutarti a capire quali prodotti vengono acquistati insieme. Questo video illustra come creare il rapporto di [!UICONTROL Cross Sell] in Analysis Workspace ed estenderlo ulteriormente ad altre dimensioni o classificazioni multivalore.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12)
+
+>[!INFO]
+>
+> Questo video fa parte di un corso: [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)disponibile gratuitamente all&#39;Experience League!

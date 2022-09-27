@@ -2,19 +2,15 @@
 title: Pannello Quick Insights in Analysis Workspace
 description: Quick Insights offre informazioni utili che consentono agli utenti non analisti e ai nuovi utenti di Analysis Workspace di capire come rispondere alle domande di business in modo rapido e semplice.
 feature: Panels
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 37248.jpg
 kt: 5838
 role: User
 level: Beginner
 exl-id: af6da0a2-9273-480c-a915-bd5bab7d5c5d
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '66'
-ht-degree: 100%
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 78%
 
 ---
 
@@ -25,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso: [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)disponibile gratuitamente all&#39;Experience League!
