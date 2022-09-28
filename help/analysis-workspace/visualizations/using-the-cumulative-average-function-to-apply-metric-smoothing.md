@@ -7,10 +7,10 @@ kt: 2854
 role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 83%
+source-wordcount: '117'
+ht-degree: 82%
 
 ---
 
@@ -22,4 +22,4 @@ Più è lungo il periodo di tempo preso in considerazione per le tendenze di una
 
 >[!INFO]
 >
-> Questo video fa parte di un corso: [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte di un corso: [Utilizzo delle visualizzazioni per raccontare le tue storie di dati](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=it)disponibile gratuitamente all&#39;Experience League!

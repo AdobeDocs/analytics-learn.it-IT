@@ -4,14 +4,13 @@ description: Con questa visualizzazione, puoi vedere la relazione tra più metri
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334459.jpg
 kt: 8188
 exl-id: 6c9aa05b-ada3-489c-832f-bf9438dd3572
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
-source-wordcount: '87'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 82%
 
 ---
 
@@ -22,3 +21,7 @@ Con questa visualizzazione, puoi vedere la relazione tra più metriche per le di
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso: [Utilizzo delle visualizzazioni per raccontare le tue storie di dati](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=it)disponibile gratuitamente all&#39;Experience League!

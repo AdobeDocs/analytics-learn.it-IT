@@ -2,19 +2,15 @@
 title: Aggiunta di linee di tendenza alle visualizzazioni Linee
 description: Nelle impostazioni delle visualizzazioni puoi aggiungere una linea di tendenza per regressione o media mobile alla serie di linee, per meglio evidenziare un pattern nei dati. Le opzioni disponibili sono Lineare, Logaritmica, Esponenziale, Potenza, Quadratica e Media mobile.
 feature: Visualizations
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
 role: User
 level: Beginner
 exl-id: cef228e1-945f-44e2-80cd-d22842fd05a4
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '142'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 88%
 
 ---
 
@@ -27,3 +23,7 @@ In [!UICONTROL Visualization Settings] puoi aggiungere una linea di tendenza per
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=it#analysis-workspace).
 
 Se desideri esportare medie mobili o aggiungere più medie a una tabella contemporaneamente, puoi invece creare metriche calcolate. Per ulteriori informazioni, guarda [questo video](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html?lang=it#analysis-workspace).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso: [Utilizzo delle visualizzazioni per raccontare le tue storie di dati](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=it)disponibile gratuitamente all&#39;Experience League!

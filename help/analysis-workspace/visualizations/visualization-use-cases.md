@@ -4,14 +4,13 @@ description: Vuoi sapere quali sono i prodotti più venduti? Scopri alcuni dei c
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334096.jpg
 kt: 8062
 exl-id: b1fcbd2f-d03e-4cc1-80ba-f76fe66551e5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 79%
 
 ---
 
@@ -22,3 +21,7 @@ Vuoi sapere quali sono i prodotti più venduti? Scopri alcuni dei casi d’uso p
 >[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso: [Utilizzo delle visualizzazioni per raccontare le tue storie di dati](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=it)disponibile gratuitamente all&#39;Experience League!
