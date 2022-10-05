@@ -7,10 +7,10 @@ kt: 2349
 role: User
 level: Beginner
 exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
-source-git-commit: e04bfe38ba95485180e1f5e2587d6e26518c339b
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 82%
 
 ---
 
@@ -21,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/activity-map.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Configurazione e amministrazione delle suite di rapporti in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=it)disponibile gratuitamente all&#39;Experience League!

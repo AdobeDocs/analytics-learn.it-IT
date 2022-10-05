@@ -10,10 +10,10 @@ kt: 3589
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 86%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Quando implementi Adobe Analytics sul sito, Adobe consiglia di convalidare le operazioni eseguite durante il processo. [!DNL Experience Cloud debugger] ti consente di eseguire questa operazione. Questo video mostra come convalidare la [!UICONTROL rule] di caricamento della pagina globale con [!DNL debugger].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12)
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)disponibile gratuitamente all&#39;Experience League!

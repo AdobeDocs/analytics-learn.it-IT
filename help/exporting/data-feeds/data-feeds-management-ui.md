@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 25452.jpg
 kt: 2353
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
-workflow-type: ht
-source-wordcount: '109'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 81%
 
 ---
 
@@ -22,3 +22,7 @@ Adobe Analytics [!UICONTROL Data feed] consente di esportare i dati clickstream 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=it#).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Esportazione e democratizzazione dei dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)disponibile gratuitamente all&#39;Experience League!

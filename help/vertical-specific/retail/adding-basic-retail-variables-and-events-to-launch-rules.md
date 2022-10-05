@@ -10,10 +10,10 @@ kt: 3592
 role: Developer, Data Engineer
 level: Beginner
 exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 83%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Questo video mostra come utilizzare una speciale [!UICONTROL extension] di stringa di prodotto in [!DNL Experience Platform Launch] per monitorare variabili ed eventi di base per la vendita al dettaglio, come la visualizzazione del prodotto, l’aggiunta al carrello, un checkout e così via.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12)
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)disponibile gratuitamente all&#39;Experience League!

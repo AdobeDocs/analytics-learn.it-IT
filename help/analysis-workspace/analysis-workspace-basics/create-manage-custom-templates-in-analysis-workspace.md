@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
-workflow-type: ht
-source-wordcount: '138'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 85%
 
 ---
 
@@ -24,3 +24,7 @@ Questo video illustra come creare modelli personalizzati in Analysis Workspace, 
 Gli [!UICONTROL Adobe Standard Templates] sono utilissimi, ma a volte può servire un proprio modello personalizzato. Ora puoi creare qualsiasi progetto con il tuo modello personalizzato. È ancora più semplice aiutare i nuovi utenti a familiarizzare rapidamente con la soluzione, a trovare i propri dashboard o progetti preferiti, o a condividere un dashboard con altri team.
 
 Per ulteriori informazioni sui modelli standard e personalizzati, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Esportazione e democratizzazione dei dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)disponibile gratuitamente all&#39;Experience League!

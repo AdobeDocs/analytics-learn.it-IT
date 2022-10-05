@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 25445.jpg
 kt: 2344
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 78%
 
 ---
 
@@ -22,3 +22,7 @@ Questo video mostra come utilizzare [!UICONTROL Report Builder] per aggiungere s
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Esportazione e democratizzazione dei dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)disponibile gratuitamente all&#39;Experience League!

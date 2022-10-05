@@ -10,10 +10,10 @@ kt: 3568
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8ea4295b-c374-4f89-b0aa-2fd09376c689
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 84%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Può capitare a tutti di aver bisogno di assistenza mentre si lavora in Adobe Analytics. Questo video mostra alcune delle ottime risorse che sono a portata di mano quando ci si imbatte in un intoppo e si ha bisogno di un po’ di aiuto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12)
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)disponibile gratuitamente all&#39;Experience League!

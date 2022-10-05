@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 341021.jpg
 kt: 2294
 exl-id: 892b7f9d-9351-4c68-a54f-85803a67c072
-source-git-commit: 1b756640f4cfc9e2421d6c50d6db861bcf790bc8
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '146'
+ht-degree: 83%
 
 ---
 
@@ -23,3 +23,7 @@ Dopo aver creato un progetto in Analysis Workspace, puoi [!UICONTROL curate] (se
 >[!VIDEO](https://video.tv.adobe.com/v/341021/?quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Esportazione e democratizzazione dei dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)disponibile gratuitamente all&#39;Experience League!

@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 4c6120752763383727ddec5e9bbc8e391bfec4d9
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '118'
+ht-degree: 79%
 
 ---
 
@@ -24,3 +24,7 @@ Ora è possibile modificare le [!UICONTROL metrics] in più richieste di dati di
 Questa funzione si aggiunge alle funzionalità esistenti per la modifica di [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity] e [!UICONTROL segments] in più richieste. La modifica in blocco di più richieste può essere effettuata dal menu di scelta rapida o con “[!UICONTROL Edit Multiple]” nella finestra Gestisci.
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Esportazione e democratizzazione dei dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)disponibile gratuitamente all&#39;Experience League!

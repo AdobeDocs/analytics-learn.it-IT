@@ -2,7 +2,6 @@
 title: Utilizzo del pannello Attribution IQ in Analysis Workspace
 description: Questo video mostra il Pannello Attribution IQ, un ottimo punto di partenza per la creazione del progetto di attribuzione Analysis Workspace.
 feature: Attribution
-topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
@@ -12,10 +11,10 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 82%
 
 ---
 
@@ -26,3 +25,7 @@ Questo video mostra [!DNL Attribution IQ] [!UICONTROL Panel], un ottimo punto di
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
 
 Il [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace è un modo per confrontare rapidamente uno qualsiasi dei dieci [!DNL attribution models]in modo visivo. Scopri in che modo ogni modello influisce su qualsiasi dimensione utilizzando [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] e anche un [!DNL Flow Diagram]. Il [!DNL Attribution] [!UICONTROL Panel] è un ottimo punto di partenza per un’analisi di attribuzione più sofisticata.
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Attribuzione di valore ai punti di contatto digitali nel Percorso cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it)disponibile gratuitamente all&#39;Experience League!

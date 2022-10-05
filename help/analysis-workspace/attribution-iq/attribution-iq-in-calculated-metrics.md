@@ -9,10 +9,10 @@ team: Technical Marketing
 thumbnail: 23140.jpg
 kt: 1668
 exl-id: 47016dae-2694-4bbe-a23f-ebff9799c239,1789789c-19aa-4e77-999f-15fa11b7f858
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '120'
+ht-degree: 81%
 
 ---
 
@@ -27,3 +27,7 @@ Le metriche calcolate ora supportano uno qualsiasi dei dieci modelli di attribuz
 ## Risorse aggiuntive {#additional-resources}
 
 Per ulteriori informazioni sulle [!DNL Attribution IQ], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Attribuzione di valore ai punti di contatto digitali nel Percorso cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it)disponibile gratuitamente all&#39;Experience League!

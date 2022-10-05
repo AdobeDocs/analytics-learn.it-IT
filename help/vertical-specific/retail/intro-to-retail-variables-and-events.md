@@ -10,10 +10,10 @@ kt: 3579
 role: User
 level: Beginner
 exl-id: 3cf9d641-bb99-40b3-a76b-d9ea62ee7548
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '104'
+ht-degree: 84%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Se hai un sito di vendita al dettaglio, ci sono alcune variabili ed eventi che sono stati creati solo per te (perché sei speciale) Questo video ti offrirà una breve introduzione per comprendere le variabili e gli eventi specifici dedicati alla vendita al dettaglio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12)
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)disponibile gratuitamente all&#39;Experience League!

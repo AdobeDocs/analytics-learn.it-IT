@@ -1,8 +1,7 @@
 ---
 title: Impostazioni della tabella coorte
-description: 'Diverse impostazioni della tabella coorte consentono di personalizzare la visualizzazione del livello di fidelizzazione o abbandono. Guarda questo video che le descrive. '
+description: Diverse impostazioni della tabella coorte consentono di personalizzare la visualizzazione del livello di fidelizzazione o abbandono. Guarda questo video che le descrive.
 feature: Visualizations
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: ht
-source-wordcount: '109'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '135'
+ht-degree: 83%
 
 ---
 
@@ -33,3 +32,7 @@ Le personalizzazioni di [!UICONTROL Cohort Table] includono la possibilità di
 La riga con la media è particolarmente utile nella visualizzazione complessiva del livello di [!UICONTROL retention] o [!UICONTROL churn], anziché per singole righe di [!UICONTROL cohort].
 
 Per ulteriori informazioni sull’analisi per [!UICONTROL cohort], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Attribuzione di valore ai punti di contatto digitali nel Percorso cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it)disponibile gratuitamente all&#39;Experience League!

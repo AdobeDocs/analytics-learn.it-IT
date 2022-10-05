@@ -11,10 +11,10 @@ kt: 6278
 role: User
 level: Beginner
 exl-id: fe7d41f1-a6ec-4601-9266-b4c3aa6a6963
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '121'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 83%
 
 ---
 
@@ -25,3 +25,7 @@ L’opzione Scarica elementi come CSV consente di scaricare fino a 50.000 elemen
 >[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione di](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Esportazione e democratizzazione dei dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)disponibile gratuitamente all&#39;Experience League!

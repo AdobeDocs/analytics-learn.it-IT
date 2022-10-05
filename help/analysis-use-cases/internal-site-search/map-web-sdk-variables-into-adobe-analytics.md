@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '133'
-ht-degree: 100%
+source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
+workflow-type: tm+mt
+source-wordcount: '172'
+ht-degree: 80%
 
 ---
 
@@ -26,3 +26,7 @@ Scopri come mappare le variabili di analisi dall’SDK per web ad Adobe Analytic
 Per un elenco delle variabili mappate automaticamente SDK Web ad Adobe Analytics, consulta questa [documentazione](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html?lang=it)
 
 **NOTA:** quando si impostano le Regole di elaborazione, è possibile che la variabile “a.x.[schema]” non venga visualizzata automaticamente nella finestra a discesa. Se non c’è, non preoccuparti. Digitalo in base al formato e aggiungilo come variabile contextData. Dopo aver aggiunto uno o due, potresti riscontrare che altri sono caricati lentamente.
+
+>[!INFO]
+>
+> Questo video fa parte di più corsi, [Configurazione e amministrazione delle suite di rapporti in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=it) e [Implementazione e misurazione della ricerca nel sito interno](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search)disponibile gratuitamente all&#39;Experience League!

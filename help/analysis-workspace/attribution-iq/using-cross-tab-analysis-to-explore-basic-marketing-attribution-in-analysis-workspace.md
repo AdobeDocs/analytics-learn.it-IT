@@ -2,7 +2,6 @@
 title: Utilizzo di analisi incrociate per esplorare le attribuzioni marketing di base in Analysis Workspace
 description: Esistono diversi modi per dare una spinta ulteriore alla metodologia di attribuzione con Adobe Analytics. In questo video, viene evidenziato come ottenere informazioni più approfondite dal rapporto Marketing Channels (Canali di marketing) mediante le analisi incrociate in Workspace.
 feature: Marketing Channels
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '286'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '312'
+ht-degree: 92%
 
 ---
 
@@ -38,5 +37,8 @@ Esistono diversi modi per dare una spinta ulteriore alla metodologia di attribuz
 * 3:20 - Le dimensioni tra le schede sono automaticamente dinamiche quando vengono rilasciate, il che significa che i loro valori possono cambiare nel tempo. Per questa analisi, è meglio riportare le colonne statiche. Ulteriori informazioni su Dynamic Columns al minuto 6:33 del video: [Impostazioni per riga e colonna nelle tabelle a forma libera](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30 - Le impostazioni delle colonne possono essere aggiornate in blocco ora, anziché 1 per 1. Per saperne di più, visita il minuto 8:45 del video: [Impostazioni per riga e colonna nelle tabelle a forma libera](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
-
 Per ulteriori informazioni su questo argomento, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte di un corso [Attribuzione di valore ai punti di contatto digitali nel Percorso cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it)disponibile gratuitamente all&#39;Experience League!
