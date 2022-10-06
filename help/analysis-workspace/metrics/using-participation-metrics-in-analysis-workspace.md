@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Per ulteriori informazioni, consulta la [documentazione](https://experienceleagu
 
 >[!INFO]
 >
-> Questo video fa parte di un corso: [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponibile gratuitamente su Experience League.
