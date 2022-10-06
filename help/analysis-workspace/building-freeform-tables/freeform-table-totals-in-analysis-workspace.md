@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 22c1f256-041a-49e1-b8e8-47cfd4fb801d
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ In questo video scoprirai alcuni aggiornamenti apportati ai totali della [!UICON
 
 >[!INFO]
 >
-> Questo video fa parte di un corso: [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponibile gratuitamente su Experience League.
