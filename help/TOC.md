@@ -3,10 +3,10 @@ user-guide-title: Tutorial di Adobe Analytics
 user-guide-description: Una raccolta di video e tutorial per Adobe Analytics.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
-workflow-type: ht
-source-wordcount: '2418'
-ht-degree: 100%
+source-git-commit: 7785ccc22eb4f22f14928f62ac8cae4cb27a4d71
+workflow-type: tm+mt
+source-wordcount: '2426'
+ht-degree: 99%
 
 ---
 
@@ -135,6 +135,7 @@ ht-degree: 100%
       + [Aggiunta di linee di tendenza alle visualizzazioni a linee](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualizzazione mappa](analysis-workspace/visualizations/map-visualization.md)
       + [Visualizzazioni Numero riepilogo e Modifica riepilogo](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [Visualizzazione di riepilogo delle metriche chiave](analysis-workspace/visualizations/key-metric-summary.md)
       + [Visualizzazione testo](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Visualizzazione con grafico a dispersione](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Visualizzazione con mappa ad albero](analysis-workspace/visualizations/treemap-visualization.md)
@@ -354,6 +355,7 @@ ht-degree: 100%
       + [Visualizzazioni per scorecard per dispositivi mobili](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Applicare intervalli date personalizzati](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Esperienza in-app con i dashboard di Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
+      + [Creare visualizzazioni di dettaglio personalizzate](additional-tools/analytics-dashboards/create-custom-detail-views.md)
 + Esportazione {#exporting}
    + Dall’interfaccia {#from-the-ui}
       + [Esportare in formato CSV da Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
