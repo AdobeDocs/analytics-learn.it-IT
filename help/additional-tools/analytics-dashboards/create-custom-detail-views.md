@@ -9,8 +9,8 @@ kt: 11271
 thumbnail: 3410002.jpg
 source-git-commit: ef4186a07d4e835a97300e62890ccc1106a82d93
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 8%
+source-wordcount: '110'
+ht-degree: 7%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 8%
 
 Questo video illustra come personalizzare le visualizzazioni dei dettagli, compreso il testo per le dashboard di Adobe Analytics. Questo ti consente di perfezionare ulteriormente i dati mostrati e la storia che desideri raccontare alle parti interessate attraverso i progetti delle scorecard per dispositivi mobili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/Cannot trova MPC Link/?quality=12&amp;learn=on)
