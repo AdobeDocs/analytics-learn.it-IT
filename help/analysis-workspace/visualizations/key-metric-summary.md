@@ -1,24 +1,24 @@
 ---
 title: Visualizzazione di riepilogo delle metriche chiave
-description: Scopri la visualizzazione con grafici combinati in Analysis Workspace. La visualizzazione di riepilogo delle metriche chiave ti permette di vedere come una metrica importante tende in un singolo arco di tempo. Consente inoltre di confrontare le prestazioni delle metriche in due intervalli di tempo. (Può contenere tra 60 e 160 caratteri, ma è di 244 caratteri)
+description: Scopri in che modo la visualizzazione di riepilogo delle metriche chiave ti permette di vedere come una metrica importante tende in un singolo arco di tempo.
 feature: Visualizations
 role: User
 level: Beginner
 kt: 11270
 thumbnail: 3410003.jpeg
 last-substantial-update: 2022-10-11T00:00:00Z
-source-git-commit: 08d9f0a196306c44f3397fb5e1d396483222f8c1
+source-git-commit: 7e543468111051b51e9dffcf0d4438c2d058b51d
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 58%
+source-wordcount: '79'
+ht-degree: 34%
 
 ---
 
 
 # Visualizzazione di riepilogo delle metriche chiave
 
-Scopri la visualizzazione con grafici combinati in Analysis Workspace. La visualizzazione di riepilogo delle metriche chiave ti permette di vedere come una metrica importante tende in un singolo arco di tempo. Consente inoltre di confrontare le prestazioni delle metriche in due intervalli di tempo.
+Scopri la visualizzazione di riepilogo delle metriche chiave in Analysis Workspace, che ti permette di vedere come una metrica importante tende in un singolo arco di tempo. Consente inoltre di confrontare le prestazioni delle metriche in due intervalli di tempo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/keymetric.html?lang=it)
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=it)
