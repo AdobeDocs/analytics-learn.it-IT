@@ -9,9 +9,9 @@ thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ Per un elenco delle variabili mappate automaticamente SDK Web ad Adobe Analytics
 
 >[!INFO]
 >
-> Questo video fa parte di più corsi, [Configurazione e amministrazione delle suite di rapporti in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=it) e [Implementazione e misurazione della ricerca nel sito interno](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte dei corsi [Configurazione e amministrazione delle suite di rapporti in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=it) e [Implementazione e misurazione della ricerca interna del sito](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search?lang=it), disponibile gratuitamente in Experience League.
