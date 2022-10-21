@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 057b7a82-882d-4cee-beb0-2dfc1e6c94b4
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Prima di utilizzare Experience Platform Launch per implementare [!DNL Analytics]
 
 >[!INFO]
 >
-> Questo video fa parte di un corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=it), disponibile gratuitamente in Experience League.
