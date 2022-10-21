@@ -11,9 +11,9 @@ role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '312'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -41,4 +41,4 @@ Per ulteriori informazioni su questo argomento, consulta la [documentazione](htt
 
 >[!INFO]
 >
-> Questo video fa parte di un corso [Attribuzione di valore ai punti di contatto digitali nel Percorso cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Attribuzione del valore ai punti di contatto digitali lungo il percorso del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it), disponibile gratuitamente in Experience League.
