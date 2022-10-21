@@ -1,6 +1,6 @@
 ---
 title: Video e tutorial di Analytics
-description: Sfrutta al massimo Adobe Analytics. Segui questi tutorial per scoprire le funzionalità di Analytics e sfruttare i vantaggi per la tua azienda. Questo contenuto è adatto ad amministratori, analisti di dati, addetti al marketing, sviluppatori e architetti.
+description: Sfrutta al massimo Adobe Analytics. Utilizza questi tutorial per scoprire le funzioni di Analytics e sfruttare i vantaggi per la tua azienda. Questo contenuto è adatto ad amministratori, analisti di dati, addetti al marketing, sviluppatori e architetti.
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -11,7 +11,7 @@ exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 80%
+ht-degree: 99%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 80%
 
 # Tutorial di Analytics
 
-Sfrutta al massimo [!DNL Adobe Analytics]. Segui questi tutorial per scoprire le funzionalità di Analytics e sfruttare i vantaggi per la tua azienda. Questo contenuto è adatto ad amministratori, analisti di dati, addetti al marketing, sviluppatori e architetti.
+Sfrutta al massimo [!DNL Adobe Analytics]. Utilizza questi tutorial per scoprire le funzioni di Analytics e sfruttare i vantaggi per la tua azienda. Questo contenuto è adatto ad amministratori, analisti di dati, addetti al marketing, sviluppatori e architetti.
 
 Per iniziare,
 
@@ -38,7 +38,7 @@ Nella sezione relativa ai corsi sono messe a disposizione esperienze di apprendi
    *Scopri come scaricare l’applicazione scorecard per dispositivi mobili e visualizzare le scorecard per dispositivi mobili create in [!DNL Analysis Workspace].*
 
 * **[Annotazioni nell’area di lavoro (video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Le annotazioni in [!DNL Analysis Workspace] consentono di comunicare in modo efficace dettagli sui dati contestuali a beneficio degli utenti in tutta l’organizzazione. Annota un intervallo di date o date con problemi di dati noti, festività pubbliche, avvii di campagne e così via. Questo comunica agli utenti perché visualizzano irregolarità in grafici a linee, tabelle e altro ancora.*
+   *Le annotazioni in [!DNL Analysis Workspace] consentono di comunicare in modo efficace dettagli sui dati contestuali a beneficio degli utenti in tutta l’organizzazione. Annotare una data o un intervallo di date relative a problemi noti, festività, avvii di campagne e così via. In questo modo gli utenti vengono informati sul perché visualizzano irregolarità in grafici a linee, tabelle e altro ancora.*
 
 </div>
 
