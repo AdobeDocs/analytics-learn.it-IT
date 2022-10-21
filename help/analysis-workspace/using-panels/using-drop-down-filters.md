@@ -2,18 +2,14 @@
 title: Utilizzo dei filtri a discesa in Analysis Workspace
 description: Questo video illustra come utilizzare i filtri a discesa in Analysis Workspace per modificare dinamicamente il contenuto di un pannello.
 feature: Panels
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 23877.jpg
 kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '177'
+source-wordcount: '203'
 ht-degree: 100%
 
 ---
@@ -29,3 +25,7 @@ La zona di rilascio dei pannelli ora dispone di funzionalità di filtro a disces
 I menu a discesa sono un modo utile per consolidare anche progetti e pannelli. Ad esempio, se disponi di diverse versioni di un progetto che forniscono rapporti specifici per diversi paesi, ora puoi comprimerli in un singolo progetto e aggiungere un elenco a discesa per diversi paesi.
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte del corso [Applicazione di filtri ai dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it), disponibile gratuitamente in Experience League.
