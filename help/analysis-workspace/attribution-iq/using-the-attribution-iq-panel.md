@@ -12,9 +12,9 @@ role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Il [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace è un modo per
 
 >[!INFO]
 >
-> Questo video fa parte di un corso [Attribuzione di valore ai punti di contatto digitali nel Percorso cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Attribuzione di valore ai punti di contatto digitali nei percorsi del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it), disponibile gratuitamente in Experience League.
