@@ -7,9 +7,9 @@ thumbnail: 25401.jpg
 role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '90'
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
@@ -20,4 +20,8 @@ Quando crei segmenti, i contenitori hit, visita e visitatore controllano la quan
 
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=it).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=it).
+
+>[!INFO]
+>
+> Questo video fa parte del corso [Filtrare i dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it), disponibile gratuitamente in Experience League.
