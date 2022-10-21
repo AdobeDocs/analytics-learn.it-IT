@@ -1,6 +1,6 @@
 ---
 title: Best practice di implementazione per le applicazioni a pagina singola (SPA)
-description: Scopri alcune best practice per l’implementazione di Adobe Analytics nelle applicazioni a pagina singola (SPA). Ciò include l’utilizzo dei tag di Experience Platform, il metodo di implementazione consigliato.
+description: Scopri alcune best practice per l’implementazione di Adobe Analytics nelle applicazioni a pagina singola (SPA). Ciò include l’utilizzo dei Tag per Experience Platform, il metodo di implementazione consigliato.
 feature: Implementation Basics
 topics: spa
 activity: implement
@@ -12,9 +12,9 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1288'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
@@ -24,20 +24,20 @@ Scopri alcune best practice per l’implementazione di [!DNL Adobe Analytics] su
 
 NOTE INIZIALI:
 
-* Il contenuto seguente fa riferimento all&#39;uso di [!DNL Experience Platform Tags] per implementare Adobe Analytics sul tuo sito. Queste considerazioni si applicano se [!DNL Experience Platform Tags] non viene utilizzato, pertanto devi adattarli al metodo di implementazione.
-* Ci sono differenze in SPA, quindi, è necessario regolare il vostro approccio di conseguenza per soddisfare al meglio le vostre esigenze.
+* Il seguente contenuto fa riferimento all&#39;utilizzo di [!DNL Experience Platform Tags] per implementare Adobe Analytics sul tuo sito. Queste considerazioni si applicano se non si utilizza [!DNL Experience Platform Tags], pertanto devi adattarle al tuo metodo di implementazione.
+* Nelle applicazioni a pagina singola ci sono alcune differenze, quindi è necessario adattare il tuo approccio di conseguenza per soddisfare al meglio le tue esigenze.
 
 ## Diagramma semplice dell’uso delle applicazioni a pagina singola in [!DNL Experience Platform Tags] {#simple-diagram-of-working-with-spas-in-tags}
 
-![SPA per l’analisi nei tag](assets/spa_for_analyticsinlaunch.png)
+![applicazioni a pagina singola per analytics nei tag](assets/spa_for_analyticsinlaunch.png)
 
-**NOTA:** Questo è un diagramma semplificato del modo in cui SPA pagine vengono gestite in un’implementazione Adobe Analytics utilizzando [!DNL Experience Platform Tags]. Le sezioni seguenti identificano i passaggi e i problemi da considerare.
+**NOTA:** si tratta di un diagramma semplificato del modo in cui le pagine di applicazioni a pagina singola vengono gestite in un’implementazione di Adobe Analytics utilizzando [!DNL Experience Platform Tags]. Le sezioni seguenti identificano i passaggi e i problemi da considerare.
 
-## Imposta il livello dati {#set-the-data-layer}
+## Impostare il livello dati {#set-the-data-layer}
 
-Quando viene caricato un nuovo contenuto o quando si verifica un&#39;azione su una pagina SPA, *aggiorna prima il livello dati*. Questo deve accadere **prima** un evento personalizzato che attiva l&#39;esecuzione di una regola in [!DNL Experience Platform Tags]. In questo modo i valori corretti dal livello dati vengono inviati a Tags e quindi Adobe Analytics.
+Quando viene caricato un nuovo contenuto o quando si verifica un&#39;azione sulla pagina di un’applicazione a pagina singola, *prima aggiorna il livello dati*. Ciò deve accadere **prima** che un evento personalizzato che attiva una regola venga eseguito in [!DNL Experience Platform Tags]. In questo modo i valori corretti dal livello dati vengono inviati ai Tag e poi ad Adobe Analytics.
 
-Di seguito è riportato un livello di dati di esempio. Uno qualsiasi di questi elementi può variare in base alla visualizzazione iniziale o alla successiva modifica della visualizzazione, in base a un&#39;azione eseguita sulla pagina di SPA. Ad esempio, in caso di modifica della visualizzazione a maggioranza o a pieno titolo, è necessario trasmettere un valore univoco &quot;[!DNL pageName]&quot; per differenziare le visualizzazioni nel reporting di Adobe Analytics.
+Di seguito è riportato un esempio di livello di dati. Uno qualsiasi di questi elementi può variare in base alla visualizzazione iniziale o alla successiva modifica della visualizzazione, in base a un&#39;azione eseguita sulla tua pagina dell’applicazione a pagina singola. Ad esempio, in caso di modifica totale o parziale della la visualizzazione, viene comunemente richiesto di trasmettere un valore univoco “[!DNL pageName]” per differenziare le visualizzazioni nel reporting di Adobe Analytics.
 
 ```JavaScript
 <script>
@@ -73,44 +73,44 @@ Di seguito è riportato un livello di dati di esempio. Uno qualsiasi di questi e
     </script>
 ```
 
-## Imposta eventi personalizzati e ascolta questi eventi in [!DNL Experience Platform Tags] {#setting-custom-events-and-listening-in-tags}
+## Impostare eventi personalizzati e ascoltarli su [!DNL Experience Platform Tags] {#setting-custom-events-and-listening-in-tags}
 
-Quando viene caricato un nuovo contenuto o si verifica un’azione nella pagina di SPA, è necessario informare i Tag di Experience Platform per eseguire una regola che invia i dati a [!DNL Analytics]. Ci sono un paio di approcci per questo: [!UICONTROL Direct Call rules] o Eventi personalizzati.
+Quando viene caricato un nuovo contenuto o si verifica un’azione nella pagina di un’applicazione a pagina singola, è necessario informare i Tag di Experience Platform per eseguire una regola che invia i dati a [!DNL Analytics]. Esistono due approcci per farlo: tramite [!UICONTROL Direct Call rules] o Eventi personalizzati.
 
-* [!UICONTROL Direct Call rules]: Imposta un [!UICONTROL direct call rule] che viene eseguito quando viene chiamato direttamente dalla pagina. Se il caricamento o l’azione della pagina è semplice o univoco e può eseguire ogni volta un set specifico di istruzioni (ad esempio, imposta [!DNL eVar4] a X e attivare [!DNL event2] ogni volta), allora questo approccio è adatto. Fai riferimento a [!DNL Experience Platform Tags] documentazione per maggiori dettagli sulla creazione [!UICONTROL direct call rules].
-* Eventi personalizzati: Se devi allegare dinamicamente un payload con valori univoci per gli eventi che si verificano sulle pagine SPA, utilizza eventi JavaScript personalizzati e ascoltali in [!DNL Experience Platform Tags]. Utilizza il payload per impostare gli elementi dati e le variabili Analytics in Tag. Questo metodo è considerato la best practice, in quanto questa necessità è generalmente prevalente per SPA. Gli esempi seguenti utilizzano il metodo degli eventi personalizzati.
+* [!UICONTROL Direct Call rules]: imposta una [!UICONTROL direct call rule] che viene eseguita quando viene chiamata direttamente dalla pagina. Se il caricamento o l’azione della pagina è semplice o univoco e può eseguire ogni volta un set di istruzioni (ad esempio, imposta [!DNL eVar4] su X e attiva [!DNL event2] ogni volta), allora questo approccio è adatto. Fai riferimento alla documentazione di [!DNL Experience Platform Tags] per maggiori dettagli sulla creazione di [!UICONTROL direct call rules].
+* Eventi personalizzati: se devi allegare dinamicamente un payload con valori univoci per gli eventi che si verificano sulle pagine di applicazioni a pagina singola, utilizza eventi JavaScript personalizzati e ascoltali su [!DNL Experience Platform Tags]. Utilizzare il payload per impostare gli elementi dati e le variabili Analytics nei Tag. Questo metodo è considerato la best practice, in quanto questa necessità è generalmente prevalente per le applicazioni a pagina singola. Gli esempi seguenti utilizzano il metodo con eventi personalizzati.
 
-**Esempi:** [In questo](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/spa-editor/spa-editor-framework-feature-video-use.html) documentazione, sono presenti collegamenti a siti di SPA di esempio che implementano [!DNL Analytics] e altre soluzioni di Experience Cloud. In questi esempi vengono utilizzati i seguenti eventi personalizzati:
+**Esempi:** [in questo](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/spa-editor/spa-editor-framework-feature-video-use.html?lang=it) documento della Guida trovi i link ai siti basati su applicazioni a pagina singola di esempio in cui è implementato [!DNL Analytics] e altre soluzioni di Experience Cloud. In questi esempi vengono utilizzati i seguenti eventi personalizzati:
 
-* **[!DNL Event-view-start]**: Esegui all&#39;inizio della visualizzazione o dello stato che viene caricato.
-* **[!DNL Event-view-end]**: Esegui quando si verifica una modifica di visualizzazione/stato e tutti i componenti SPA sulla pagina finiscono il caricamento. Questo è l’evento che in genere invia dati ad Adobe Analytics.
-* **[!DNL Event-action-trigger]**: Esegui quando si verifica un evento sulla pagina, tranne il caricamento visualizzazione/stato. Esempi di questo includono un evento clic o una modifica del contenuto più piccola senza una modifica della visualizzazione.
+* **[!DNL Event-view-start]**: eseguito all&#39;inizio della visualizzazione o dello stato che viene caricato.
+* **[!DNL Event-view-end]**: eseguito quando si è verificata una modifica della visualizzazione o dello stato ed è stato completato il caricamento di tutti i componenti dell’applicazione a pagina singola. Questo è l’evento che in genere invia i dati ad Adobe Analytics.
+* **[!DNL Event-action-trigger]**: eseguito quando si verifica un evento sulla pagina, ad eccezione del caricamento di una visualizzazione o di uno stato. Potrebbe trattarsi di un evento clic o di una modifica minore del contenuto, che non comporta una modifica della visualizzazione.
 
-Per ulteriori informazioni su come e quando si attivano questi eventi, consulta le pagine e i documenti citati in precedenza. Non è necessario utilizzare gli stessi nomi evento nell’implementazione. Il caso d’uso funzionale del metodo utilizzato è essenziale per comprendere come best practice consigliate per ciascuno di essi. Il video seguente illustra un esempio di pagina SPA e di codice di esempio in [!DNL Experience Platform Tags] che ascolta gli eventi personalizzati.
+Per ulteriori informazioni su come e quando si attivano questi eventi, consulta le pagine e i documenti menzionati in precedenza. Non è necessario utilizzare gli stessi nomi di evento nell’implementazione. È essenziale comprendere il caso d’uso funzionale del metodo utilizzato come best practice consigliata per ciascuno di essi. Il seguente video mostra un esempio di pagina di un’applicazione a pagina singola e un codice di esempio in [!DNL Experience Platform Tags] per l’ascolto degli eventi personalizzati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
 
-## Esegui s.t() o s.tl() nel [!DNL Experience Platform Tags] {#running-s-t-or-s-tl-in-the-launch-rule}
+## Esecuzione di s.t() o s.tl() in [!DNL Experience Platform Tags] {#running-s-t-or-s-tl-in-the-launch-rule}
 
-Un concetto importante da comprendere [!DNL Analytics] quando si lavora con un SPA è la differenza tra `s.t()` e `s.tl()`. Il codice attiva uno o più di questi metodi in [!DNL Experience Platform Tags] per inviare dati in [!DNL Analytics].
+Un concetto importante da capire per [!DNL Analytics] quando si lavora con un’applicazione a pagina singola è la differenza tra `s.t()` e `s.tl()`. Il tuo codice attiva uno o più di questi metodi su [!DNL Experience Platform Tags] per inviare dati in [!DNL Analytics].
 
-* **s.t()** - La &quot;t&quot; sta per &quot;track&quot; e rappresenta una visualizzazione di pagina. Se la visualizzazione cambia abbastanza  *considerare* è una nuova &quot;pagina&quot;, usa questa chiamata. Imposta un valore univoco su [!DNL s.pageName] variabile e utilizzo `s.t()` per inviare i dati in [!DNL Analytics].
+* **s.t()**: la “t” sta per “tracciamento” e rappresenta una visualizzazione pagina. Se la visualizzazione cambia abbastanza da *considerarla* una nuova “pagina”, utilizza questa chiamata. Imposta un valore univoco sulla variabile [!DNL s.pageName] e utilizza `s.t()` per inviare i dati in [!DNL Analytics].
 
-* **s.tl()** - &quot;tl&quot; sta per &quot;track link&quot;, e questo rappresenta un clic di collegamento o una piccola modifica del contenuto. Se la modifica della visualizzazione è minima, utilizza `s.tl()` per trasmettere un valore univoco sull&#39;interazione a [!DNL Analytics]. Questa variabile passata non è [!DNL s.pageName], poiché questa viene ignorata in Analytics quando `s.tl()` vengono ricevute le chiamate .
+* **s.tl()**: “tl“ sta per “collegamento traccia” e rappresenta un clic di collegamento o una piccola modifica del contenuto. Se la modifica della visualizzazione è minima, utilizza `s.tl()` per trasmettere un valore univoco sull’interazione a [!DNL Analytics]. Questa variabile passata non è [!DNL s.pageName], poiché viene ignorata in Analytics quando vengono ricevute le chiamate `s.tl()`.
 
-**SUGGERIMENTO:** Come linea guida generale, se lo schermo cambia di oltre il 50%, utilizza la `s.t()` chiamata alla visualizzazione della pagina. In caso contrario, utilizza `s.tl()`. Tuttavia, usa il tuo giudizio quando consideri le azioni che costituiscono una nuova &quot;pagina&quot; e come dovrebbero essere presentate nei rapporti di Adobe Analytics.
+**SUGGERIMENTO:** come linea guida generale, se la schermata cambia di oltre il 50%, è necessario utilizzare la chiamata alla visualizzazione della pagina di `s.t()`. In caso contrario, utilizza `s.tl()`. Tuttavia, effettua una valutazione quando consideri le azioni che costituiscono una nuova “pagina” e come dovrebbero essere presentate nei rapporti di Adobe Analytics.
 
-Il video seguente mostra dove e come attivare `s.t()` o `s.tl()` in Tag.
+Il video seguente mostra dove e come attivare `s.t()` o `s.tl()` nei Tag.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
 
 ## Cancella variabili {#clear-variables}
 
-Invia i dati giusti a [!DNL Analytics] al momento giusto. In un ambiente SPA, un valore memorizzato in un [!DNL Analytics] persiste e restituisce in [!DNL Analytics], potenzialmente quando non lo desideri più. Esiste una funzione nel [!DNL Analytics] [!DNL Tags] per cancellare le variabili in modo che la chiamata successiva non invii erroneamente i dati in [!DNL Analytics].
+Invia i dati corretti a [!DNL Analytics] al momento giusto. In un ambiente di applicazioni a pagina singola, un valore archiviato in una variabile di [!DNL Analytics] persiste e viene inviato nuovamente in [!DNL Analytics], anche se magari non serve più. Nell’estensione [!DNL Tags] di [!DNL Analytics] esiste una funzione per cancellare le variabili in modo che la chiamata successiva non invii erroneamente i dati in [!DNL Analytics].
 
-Il diagramma precedente mostra le variabili eliminate *dopo* invii dati. In realtà, questo può accadere prima O dopo la chiamata, tuttavia, essere coerente nel [!DNL Experience Platform Tags] regole per un&#39;implementazione più pulita. Se cancelli le variabili *prima* esegui `s.t()`, imposta le nuove variabili immediatamente dopo la chiamata , quindi procedi all’invio dei nuovi dati in [!DNL Analytics].
+Il diagramma precedente mostra le variabili eliminate *dopo* l’invio dei dati. In realtà, questo può accadere prima O dopo la chiamata, tuttavia, cerca di essere coerente nelle regole [!DNL Experience Platform Tags] per un’implementazione più pulita. Se cancelli le variabili *prima* di eseguire `s.t()`, imposta le nuove variabili immediatamente dopo la chiamata, quindi procedi all’invio dei nuovi dati in [!DNL Analytics].
 
-**NOTA:** La cancellazione delle variabili non è sempre necessaria quando si esegue `s.tl()`. Questa chiamata richiede l&#39;utilizzo del [!DNL linkTrackVars] variabile da istruire [!DNL Analytics] le variabili da impostare. Questo accade automaticamente [!DNL Experience Platform Tags] attraverso la configurazione. Impedisce l’impostazione di variabili erranti a differenza del comportamento con `s.t()` effettua chiamate in un ambiente SPA. Per garantire un’implementazione più pulita e affidabile, è probabile che sia più facile utilizzare la funzione clear variables per entrambe le chiamate in un ambiente SPA.
+**NOTA:** la cancellazione delle variabili non è sempre necessaria quando si esegue `s.tl()`. Questa chiamata richiede l’utilizzo della variabile [!DNL linkTrackVars] per istruire [!DNL Analytics] su quali variabili impostare. Questo in [!DNL Experience Platform Tags] avviene automaticamente attraverso la configurazione. Impedisce l’impostazione di variabili erranti a differenza del comportamento con le chiamate `s.t()` in un ambiente di applicazioni a pagina singola. Per garantire un’implementazione più pulita e affidabile, è probabile che in un ambiente di applicazioni a pagina singola sia più facile utilizzare la funzione per cancellare le variabili in entrambe le chiamate.
 
 Il video seguente mostra dove e come cancellare le variabili in [!DNL Tags].
 
@@ -118,27 +118,27 @@ Il video seguente mostra dove e come cancellare le variabili in [!DNL Tags].
 
 ## Considerazioni aggiuntive {#additional-considerations}
 
-### Finestre Codice personalizzato in [!DNL Experience Platform Tags] {#custom-code-windows-in-tags}
+### Finestre per codice personalizzato in [!DNL Experience Platform Tags] {#custom-code-windows-in-tags}
 
-In [!DNL Tags] [!DNL Analytics] estensione, esistono due posizioni in cui può essere inserito il codice personalizzato: &quot;[!UICONTROL library management]&quot; e &quot;[!UICONTROL Configure tracker using custom code]&quot; sezioni.
+Nell’estensione [!DNL Analytics] di [!DNL Tags], puoi inserire codice personalizzato in due luoghi: nella sezione “[!UICONTROL library management]” e nella sezione “[!UICONTROL Configure tracker using custom code]”.
 
-![Finestre del codice personalizzato di Analytics dei tag](assets/launch_analyticscustomcodewindows.png)
+![Finestre per codice personalizzato di Analytics per Tag](assets/launch_analyticscustomcodewindows.png)
 
-Una di queste posizioni esegue il codice in essa contenuto una volta per il caricamento iniziale della pagina SPA. Se il codice deve essere eseguito su una visualizzazione o su una modifica dell’azione, implementalo nel **[!UICONTROL rule]** (ad esempio, il &quot;caricamento della pagina: event-view-end&quot; rule), per garantire che il codice venga eseguito ogni volta che il [!UICONTROL rule] corre. Quando si crea un&#39;azione in [!UICONTROL rule], set *Estensione = Core* e *Tipo di azione = Codice personalizzato*.
+Una di queste posizioni esegue il codice che contiene una sola volta per il caricamento iniziale della pagina di applicazioni a pagina singola. Se il codice deve essere eseguito su una visualizzazione o su una modifica dell’azione, implementalo nella giusta **[!UICONTROL rule]** (ad esempio, la regola “caricamento della pagina: event-view-end”), per garantire che il codice venga eseguito ogni volta che si esegue la [!UICONTROL rule]. Quando crei tale azione nella [!UICONTROL rule], imposta *Extension = Core* e *Action Type = Custom Code*.
 
-### SPA &quot;ibridi&quot; e siti tradizionali {#hybrid-spa-and-traditional-sites}
+### Siti ibridi regolari e con applicazione a pagina singola {#hybrid-spa-and-traditional-sites}
 
-Alcuni siti sono composti da una combinazione di pagine tradizionali e SPA. In questo caso, utilizza una strategia che funzioni per entrambi i tipi di pagina. Durante la configurazione degli eventi personalizzati sul sito e l&#39;attivazione delle regole in [!DNL Experience Platform Tags], assicurati che i doppi hit non vengano inviati in [!DNL Analytics] in base ai cambiamenti di hash e così via. In questo caso, elimina una delle visualizzazioni di pagina per evitare la trasmissione di dati duplicati in Adobe Analytics.
+Alcuni siti sono composti da una combinazione di pagine regolari e pagine da applicazioni a pagina singola. In questa istanza, è necessario utilizzare una strategia che funzioni per entrambi i tipi di pagina. Quando configuri gli eventi personalizzati sul sito e attivi le regole in [!DNL Experience Platform Tags], assicurati che i doppi hit non vengano inviati in [!DNL Analytics] in base a modifiche di hash e così via. In questo caso, è necessario eliminare una delle visualizzazioni di pagina affinché non trametta dati duplicati ad Adobe Analytics.
 
-Se decidi di separare la funzionalità in un’unica [!UICONTROL rules] per un maggiore controllo, ricorda di documentare che hai fatto questo. Se ne cambia uno [!UICONTROL rule], effettuare la stessa modifica all&#39;altro [!UICONTROL rule].
+Se decidi di separare la funzionalità in un’unica [!UICONTROL rules] per un maggiore controllo, ricorda di documentarne l&#39;esecuzione. Se modifichi una [!UICONTROL rule], effettua la stessa modifica nell’altra [!UICONTROL rule].
 
-### Integrazione con [!DNL Target] utilizzo di A4T {#integration-with-target-using-a4t}
+### Integrazione con [!DNL Target] utilizzando A4T {#integration-with-target-using-a4t}
 
-Durante l&#39;integrazione con [!DNL Target] utilizzando A4T, verifica che il [!DNL Target] e [!DNL Analytics] le richieste inviate sulla stessa visualizzazione o azione passano lo stesso valore del parametro SDID. In questo modo i dati verranno sincronizzati correttamente nel backend.
+Durante l’integrazione con [!DNL Target] utilizzando A4T, verifica che le richieste [!DNL Target] e [!DNL Analytics] inviate sulla stessa visualizzazione o azione trasmettano lo stesso valore del parametro SDID. In questo modo i dati verranno sincronizzati correttamente nel backend.
 
-Per visualizzare questi risultati, utilizza uno strumento di debug o di monitoraggio dei pacchetti. Adobe fornisce un debugger Experience Platform a questo scopo. È un’estensione Chrome che può essere [scaricato qui](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob?hl=en). [!DNL Target] deve essere eseguito per primo sulla pagina. Questo può essere verificato anche nel debugger.
+Per visualizzare gli hit, utilizza uno strumento di debug o di monitoraggio dei pacchetti. A questo scopo, Adobe fornisce Experience Platform Debugger. Si tratta di un’estensione di Chrome che può essere [scaricata qui](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob?hl=it). [!DNL Target] deve essere eseguito per primo sulla pagina. Questo può essere verificato anche nel debugger.
 
 ## Risorse aggiuntive {#additional-resources}
 
 * [Discussione su applicazioni a pagina singola nei forum Adobe](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-platform-launch/best-practices-for-single-page-apps/m-p/267940)
-* [Architettura di riferimento per mostrare come implementare applicazioni a pagina singola in Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/spa-editor/spa-editor-framework-feature-video-use.html)
+* [Architettura di riferimento per mostrare come implementare applicazioni a pagina singola in Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/spa-editor/spa-editor-framework-feature-video-use.html?lang=it)
