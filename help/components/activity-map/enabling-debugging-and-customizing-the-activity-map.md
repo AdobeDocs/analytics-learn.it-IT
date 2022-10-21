@@ -9,9 +9,9 @@ role: User
 level: Beginner
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Scopri come abilitare, eseguire il debug e personalizzare il modo in cui [!UICON
 
 >[!INFO]
 >
-> Questo video fa parte di un corso [Configurazione e amministrazione delle suite di rapporti in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=it)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Configurazione e amministrazione delle suite di rapporti in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=it), disponibile gratuitamente in Experience League.
