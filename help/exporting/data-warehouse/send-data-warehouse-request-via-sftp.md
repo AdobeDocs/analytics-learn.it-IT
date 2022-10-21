@@ -10,9 +10,9 @@ thumbnail: 335751.jpg
 kt: KT-8467
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Data warehouse rimanda alla copia dei dati di Analytics per l’archiviazione e 
 
 >[!INFO]
 >
-> Questo video fa parte di un corso [Esportazione e democratizzazione dei dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Esportare e democratizzare i dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.administration&amp;lang=it ), disponibile gratuitamente in Experience League.
