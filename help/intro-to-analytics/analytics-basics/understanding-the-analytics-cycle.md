@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: e106c36b-f636-4194-af4f-8c260f91fc93
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Segui questo video semplice ma importante per scoprire i passaggi necessari per 
 
 >[!INFO]
 >
-> Questo video fa parte di un corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponibile gratuitamente in Experience League.
