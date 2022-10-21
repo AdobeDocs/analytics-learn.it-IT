@@ -10,9 +10,9 @@ thumbnail: 340789.jpg
 kt: 9623
 exl-id: 986707b8-3af4-4157-9afb-4ff95cb8705a
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -30,4 +30,4 @@ Per ulteriori informazioni, consulta la [documentazione](https://experienceleagu
 
 >[!INFO]
 >
-> Questo video fa parte di un corso [Configurazione e amministrazione delle suite di rapporti in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=it)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Configurazione e amministrazione delle suite di rapporti in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=it), disponibile gratuitamente in Experience League.
