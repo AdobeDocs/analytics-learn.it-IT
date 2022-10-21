@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -28,6 +28,6 @@ Questa potente funzionalità offre maggiore flessibilità nella definizione dei 
 
 >[!INFO]
 >
-> Questo video fa parte di un corso [Attribuzione di valore ai punti di contatto digitali nel Percorso cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Attribuzione di valore ai punti di contatto digitali nei percorsi del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it), disponibile gratuitamente in Experience League.
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=it).
