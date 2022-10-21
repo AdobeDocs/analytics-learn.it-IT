@@ -10,9 +10,9 @@ thumbnail: 335748.jpg
 kt: KT-8465
 exl-id: 7cf7ea59-4516-486d-99f5-79cb55b23a3c
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ L’interfaccia utente del feed dati in Adobe Analytics semplifica notevolmente 
 
 >[!INFO]
 >
-> Questo video fa parte di un corso [Esportazione e democratizzazione dei dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Esportare e democratizzare i dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.administration&amp;lang=it ), disponibile gratuitamente in Experience League.
