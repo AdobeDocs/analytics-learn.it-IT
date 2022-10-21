@@ -9,9 +9,9 @@ thumbnail: 335749.jpg
 kt: 8466
 exl-id: ce096b45-a7bf-4ebd-96e9-b2e10c2c175b
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Gli ID IMS collegati errati o mancanti in Adobe Analytics possono causare proble
 
 >[!INFO]
 >
-> Questo video fa parte di un corso [Configurazione e amministrazione delle suite di rapporti in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=it)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Configurazione e amministrazione delle suite di rapporti in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=it), disponibile gratuitamente in Experience League.
