@@ -8,9 +8,9 @@ kt: 2115
 thumbnail: 23991.jpg
 exl-id: cb10bbb0-fb2c-4849-a4bb-a4d1c3f87254
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Non sappiamo bene come chiamarlo, ma è molto interessante. Quando crei un grafi
 
 >[!INFO]
 >
-> Questo video fa parte di un corso: [Utilizzo delle visualizzazioni per raccontare le tue storie di dati](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=it)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Utilizzo delle visualizzazioni per presentare il significato dei dati](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=it), disponibile gratuitamente in Experience League.
