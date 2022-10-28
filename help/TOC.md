@@ -15,7 +15,7 @@ ht-degree: 99%
 
 + [Tutorial di Analytics](overview.md)
 + Introduzione ad Analytics {#intro-to-analytics}
-   + [Cos’è analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
+   + [Cos’è Analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
    + Che vantaggi mi offre Adobe Analytics? {#what-can-aa-do-for-me}
       + [Come Adobe Analysis Workspace può cambiare il tuo business](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [Dai dati alla Customer Intelligence](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
@@ -356,7 +356,7 @@ ht-degree: 99%
       + [Visualizzazioni per scorecard per dispositivi mobili](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Applicare intervalli date personalizzati](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Esperienza in-app con i dashboard di Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
-      + [Creare visualizzazioni di dettaglio personalizzate](additional-tools/analytics-dashboards/create-custom-detail-views.md)
+      + [Creare visualizzazioni dettaglio personalizzate](additional-tools/analytics-dashboards/create-custom-detail-views.md)
 + Esportazione {#exporting}
    + Dall’interfaccia {#from-the-ui}
       + [Esportare in formato CSV da Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
