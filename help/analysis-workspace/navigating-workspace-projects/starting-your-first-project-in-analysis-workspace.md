@@ -1,29 +1,26 @@
 ---
-title: Avvio del primo progetto in Analysis Workspace
-description: Questo video spiega come creare un progetto in Analysis Workspace utilizzando modelli predefiniti e personalizzati, e come copiare elementi da un progetto a un altro.
+title: Creare progetti utilizzando i modelli
+description: Scopri come creare progetti Analysis Workspace utilizzando i modelli
 feature: Projects
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 4102
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 30368.jpg
+team: Technical Marketing
+kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
+workflow-type: tm+mt
+source-wordcount: '71'
+ht-degree: 32%
 
 ---
 
-# Avvio del primo progetto in Analysis Workspace
+# Creare progetti utilizzando i modelli
 
-Questo video spiega come creare un progetto in Analysis Workspace utilizzando modelli predefiniti e personalizzati, e come copiare elementi da un progetto a un altro.
+Scopri come creare progetti Analysis Workspace utilizzando i modelli. Questa è una tecnica che consente di risparmiare tempo rispetto alla creazione manuale dei progetti e può aiutare i nuovi utenti ad avvicinarsi rapidamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
-
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=it).
 
 >[!INFO]
 >

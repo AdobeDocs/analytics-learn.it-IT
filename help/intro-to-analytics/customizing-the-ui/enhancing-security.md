@@ -1,24 +1,23 @@
 ---
-title: Miglioramento della sicurezza in Adobe Analytics
-description: Adobe Analytics soddisfa gli standard di sicurezza più recenti. Questo video spiega come estendere ulteriormente tale protezione con elementi come password complesse e restrizioni di accesso IP.
+title: Maggiore sicurezza
+description: Scopri le impostazioni di Security Manager in Impostazioni società per controllare l’accesso ad Adobe Analytics.
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2366
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25458.jpg
+team: Technical Marketing
+kt: 2366
 exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '73'
-ht-degree: 100%
+source-git-commit: 846450b63ef18cb275a8a08ec3324223044fdaac
+workflow-type: tm+mt
+source-wordcount: '47'
+ht-degree: 0%
 
 ---
 
-# Miglioramento della sicurezza in Adobe Analytics {#enhancing-security-in-adobe-analytics}
+# Maggiore sicurezza {#enhance-security}
 
-Adobe Analytics soddisfa gli standard di sicurezza più recenti. Questo video spiega come estendere ulteriormente tale protezione con elementi come password complesse e restrizioni di accesso IP.
+Scopri le impostazioni di Security Manager in Impostazioni società per controllare l’accesso ad Adobe Analytics. Ciò include password complesse, funzionalità di scadenza e ripristino della password e restrizioni del dominio e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)
