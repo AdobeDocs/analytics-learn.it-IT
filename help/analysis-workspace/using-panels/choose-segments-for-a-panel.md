@@ -6,10 +6,10 @@ kt: 11550
 role: User
 level: Beginner
 thumbnail: 3412023.jpg
-source-git-commit: b5a7cc88fff9e6502a7158fe51d1f68bc4612c01
+source-git-commit: c2f8a60d6508557dd04ac835f096209a0b945cf4
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 0%
+source-wordcount: '64'
+ht-degree: 40%
 
 ---
 
@@ -17,4 +17,8 @@ ht-degree: 0%
 
 Scopri alcuni suggerimenti e strategie per applicare segmenti a un pannello in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/24032/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412023/?quality=12&learn=on)
+
+>[!INFO]
+>
+> Questo video fa parte del corso [Applicazione di filtri ai dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it), disponibile gratuitamente in Experience League.
