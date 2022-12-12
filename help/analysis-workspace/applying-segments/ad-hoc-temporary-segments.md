@@ -1,24 +1,19 @@
 ---
-title: Segmenti ad hoc (temporanei) in Analysis Workspace
+title: Applicare segmenti ad hoc in Analysis Workspace
 description: Hai mai desiderato poter creare rapidamente un segmento semplice per rispondere a una domanda specifica, per poi eliminarlo in modo che non occupi spazio nell’elenco di segmenti salvati? Adesso è possibile.
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
-author: Doug Moore
-team: Technical Marketing
 kt: 2010
 role: User
 level: Beginner
 exl-id: 22c449af-0660-4166-841a-9c1e77924350
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+source-git-commit: aa420d23462e422eba96e875f725770ba2bb6e69
+workflow-type: tm+mt
+source-wordcount: '123'
+ht-degree: 79%
 
 ---
 
-# Segmenti ad hoc (temporanei) in Analysis Workspace {#ad-hoc-temporary-segments-in-analysis-workspace}
+# Applicare segmenti ad hoc in Analysis Workspace {#ad-hoc-temporary-segments-in-analysis-workspace}
 
 Hai mai desiderato poter creare rapidamente un segmento semplice per rispondere a una domanda specifica, per poi eliminarlo in modo che non occupi spazio nell’elenco di segmenti salvati? Adesso è possibile.
 
@@ -26,4 +21,4 @@ Hai mai desiderato poter creare rapidamente un segmento semplice per rispondere 
 
 I segmenti ad hoc funzionano all’interno del progetto in cui vengono creati, ma non vengono salvati in modo permanente a meno che tu non scelga di salvarli.
 
-Per ulteriori informazioni su questa funzione, consulta la relativa [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=it).
+Per ulteriori informazioni su questa funzione, consulta la relativa [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/ad-hoc-segments.html?lang=en).
