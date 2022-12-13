@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Adobe Analytics
 user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come sfruttare al massimo i tuoi dati.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
+source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
 workflow-type: tm+mt
-source-wordcount: '2372'
-ht-degree: 93%
+source-wordcount: '2363'
+ht-degree: 94%
 
 ---
 
@@ -78,11 +78,7 @@ ht-degree: 93%
       + [Fare clic con il pulsante destro del mouse per migliorare l’efficienza di Workspace](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Scelte rapide da tastiera](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Annotazioni](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
-      + [Barra dei menu](analysis-workspace/navigating-workspace-projects/menu-bar.md)
-      + [Gestione dei progetti](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [Annullamento delle azioni](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
       + [Densità di visualizzazione](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [Miglioramenti dello stato zero](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
       + [Utilizzare i filtri](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + Utilizzo dei pannelli {#using-panels}
       + [Utilizzo di tabelle, visualizzazioni e pannelli in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)

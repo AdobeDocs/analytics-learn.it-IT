@@ -1,26 +1,21 @@
 ---
-title: Scelte rapide da tastiera in Analysis Workspace
-description: 'Questo video illustra alcune scelte rapide da tastiera disponibili in Analysis Workspace che consentono di spostarsi in modo più rapido ed efficiente. '
+title: Usa scelte rapide da tastiera
+description: Scopri come utilizzare le scelte rapide da tastiera in Analysis Workspace
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2031
 role: User
 level: Beginner
+kt: 2031
+thumbnail: 23984.jpg
 exl-id: f344469b-b925-4978-918f-5204f6f10094
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '70'
-ht-degree: 100%
+source-git-commit: 618deaa6e64f66b48d8acebe1610a19603504923
+workflow-type: tm+mt
+source-wordcount: '37'
+ht-degree: 0%
 
 ---
 
-# Scelte rapide da tastiera in Analysis Workspace {#keyboard-shortcuts-in-analysis-workspace}
+# Usa scelte rapide da tastiera {#use-keyboard-shortcuts}
 
-Questo video illustra alcune scelte rapide da tastiera disponibili in Analysis Workspace che consentono di spostarsi in modo più rapido ed efficiente.
+Scopri come utilizzare le scelte rapide da tastiera in Analysis Workspace. Si tratta di tecniche che consentono di risparmiare tempo per eseguire varie attività in un progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12)
-
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html?lang=it).
+>[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)
