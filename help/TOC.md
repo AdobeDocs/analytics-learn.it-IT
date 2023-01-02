@@ -4,9 +4,9 @@ user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2363'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -44,10 +44,10 @@ ht-degree: 94%
       + [Introduzione alle variabili di conversione (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=it)
       + [Introduzione agli eventi di conversione](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=it)
    + Personalizzazione dell’interfaccia utente {#customizing-the-ui}
-      + [Personalizzare le preferenze utente di Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
-      + [Aggiungi descrizioni di dimensioni e metriche](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
+      + [Personalizzare le preferenze dell’utente di Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [Aggiungere descrizioni di dimensioni e metriche](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Personalizzazione del menu in Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [Maggiore sicurezza](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [Migliorare la sicurezza](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Impostazione di un progetto Analysis Workspace come pagina di destinazione](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Assistenza {#getting-help}
       + [Suggerimenti in Analysis Workspace](intro-to-analytics/getting-help/in-product-tips.md)
@@ -55,16 +55,16 @@ ht-degree: 94%
       + [Come trovare assistenza in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Concetti di base di Analysis Workspace {#analysis-workspace-basics}
-      + [Introduzione rapida di Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Introduzione rapida ad Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Panoramica di Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [Navigazione nella nuova pagina di destinazione](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Navigazione della nuova pagina di destinazione](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Aggiornamenti nella pagina di destinazione di Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Creazione di un progetto Workspace da zero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Creare e gestire modelli personalizzati in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [Informazioni su come i dati entrano nel progetto Analysis Workspace](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+      + [Flusso dei dati nel progetto Analysis Workspace](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Metriche fondamentali in Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Gestione dei componenti in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
-      + [Selezione di una suite di rapporti in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+      + [Selezionare una suite di rapporti in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Visualizzare le metriche delle prestazioni di Analysis Workspace](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + Suggerimenti {#tips-and-tricks}
       + [7 suggerimenti utili per Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
@@ -72,9 +72,9 @@ ht-degree: 94%
       + [Suggerimenti dei clienti per continuare il percorso di apprendimento di Adobe Analytics](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navigazione nei progetti Workspace {#navigating-workspace-projects}
       + [Creare progetti utilizzando i modelli](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Modello di esercitazione](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Modello per tutorial](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Copiare e inserire pannelli e visualizzazioni](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
-      + [Creazione di un sommario](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
+      + [Creare un sommario](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Fare clic con il pulsante destro del mouse per migliorare l’efficienza di Workspace](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Scelte rapide da tastiera](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Annotazioni](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
@@ -147,11 +147,11 @@ ht-degree: 94%
       + [Utilizzare insieme fallout e flusso](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ: Cross-Device Analytics](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + Applicazione dei segmenti {#applying-segments}
-      + [Applicazione di segmenti al progetto Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
-      + [Applicare segmenti ad hoc](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [Utilizzare modelli di Attribution IQ diversi con i segmenti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=it)
-      + [Scegliere i segmenti per un pannello](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
-      + [Utilizzare i segmenti come Dimension in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+      + [Applicare i segmenti a un progetto Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
+      + [Applicare segmenti ad-hoc](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+      + [Utilizzare diversi modelli di Attribution IQ con i segmenti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=it)
+      + [Scegliere i segmenti per un pannello](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=it)
+      + [Utilizzare i segmenti come dimensioni in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Utilizzare i segmenti per limitare i dati in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Segmenti rapidi in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + Metriche {#metrics}
