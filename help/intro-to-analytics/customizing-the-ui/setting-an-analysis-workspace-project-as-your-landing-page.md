@@ -1,6 +1,6 @@
 ---
-title: Imposta un progetto Analysis Workspace come pagina di destinazione
-description: Scopri un modo efficace per coinvolgere facilmente i nuovi utenti nei dati dei progetti di analisi di workspace
+title: Impostare un progetto Analysis Workspace come pagina di destinazione
+description: Scopri un modo efficace per coinvolgere facilmente i nuovi utenti nei dati dei progetti di analisi Workspace
 feature: Workspace Basics
 role: User
 level: Beginner
@@ -10,14 +10,14 @@ thumbnail: 25459.jpg
 kt: 2364
 exl-id: 1222621b-52db-41b6-8a74-8ab8a8ddd51a
 source-git-commit: 9253a35bcb67c9e69b042e47475d915d7e45ef3e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Imposta un progetto Analysis Workspace come pagina di destinazione {#set-an-analysis-workspace-project-as-your-landing-page}
+# Impostare un progetto Analysis Workspace come pagina di destinazione {#set-an-analysis-workspace-project-as-your-landing-page}
 
-Scopri un modo efficace per coinvolgere facilmente i nuovi utenti nei dati dei progetti di analisi di workspace.
+Scopri un modo efficace per coinvolgere facilmente i nuovi utenti nei dati dei progetti di analisi Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12)
