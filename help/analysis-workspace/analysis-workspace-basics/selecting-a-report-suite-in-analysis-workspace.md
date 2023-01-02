@@ -1,5 +1,5 @@
 ---
-title: Selezione di una suite di rapporti in Analysis Workspace
+title: Selezionare una suite di rapporti in Analysis Workspace
 description: Scopri alcuni suggerimenti per la selezione di una suite di rapporti in Analysis Workspace.
 feature: Workspace Basics
 kt: 2026
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: a46c4392-739f-4366-b5ea-504519ce1a0f
 source-git-commit: de2adda096458119c3de42e85de4d49898576113
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Selezione di una suite di rapporti in Analysis Workspace {#selecting-a-report-suite-in-adobe-analytics}
+# Selezionare una suite di rapporti in Analysis Workspace {#selecting-a-report-suite-in-adobe-analytics}
 
 Scopri alcuni suggerimenti per la selezione di una suite di rapporti in Analysis Workspace.
 
