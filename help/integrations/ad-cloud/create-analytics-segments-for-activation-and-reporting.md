@@ -1,7 +1,7 @@
 ---
 title: Creare segmenti di Analytics per attivazione e reporting
-description: Utilizzo di dimensioni Advertising Cloud per creare segmenti per reportistica e analisi più precise.
-feature: Advertising Cloud Integration
+description: Utilizzo di dimensioni Advertising per creare segmenti per reportistica e analisi più precise.
+feature: Advertising Integration
 topics: null
 activity: use
 doc-type: feature video
@@ -12,15 +12,15 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: 0df46be9-bae9-4792-912a-7c95a7fce4ee
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '38'
+source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+workflow-type: tm+mt
+source-wordcount: '36'
 ht-degree: 100%
 
 ---
 
 # Creare segmenti di Analytics per attivazione e reporting
 
-Utilizzo di dimensioni Advertising Cloud per creare segmenti per reportistica e analisi più precise.
+Utilizzo di dimensioni Advertising per creare segmenti per reportistica e analisi più precise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)

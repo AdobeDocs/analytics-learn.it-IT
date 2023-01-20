@@ -1,7 +1,7 @@
 ---
 title: Configurazione di Advertising Analytics in Adobe Analytics
-description: 'Questo video offre una panoramica generale della configurazione delle suite di rapporti per l’utilizzo di Advertising Analytics, e dell’impostazione di un account di ricerca a pagamento e dei dettagli di reporting per Advertising Analytics. '
-feature: Advertising Cloud Integration
+description: Questo video offre una panoramica generale della configurazione delle suite di rapporti per l’utilizzo di Advertising Analytics, e dell’impostazione di un account di ricerca a pagamento e dei dettagli di reporting per Advertising Analytics.
+feature: Advertising Integration
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,8 +11,8 @@ topic: Integrations
 role: Admin
 level: Intermediate
 exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 
