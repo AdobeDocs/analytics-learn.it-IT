@@ -1,25 +1,25 @@
 ---
-title: Creazione automatica di tabelle a forma libera in Analysis Workspace
+title: Trascinamento semplice su progetti vuoti
 description: Puoi rilasciare i componenti direttamente in un progetto o pannello vuoto oppure in una tabella a forma libera vuota per creare automaticamente una tabella a forma libera in un formato consigliato.
 feature: Freeform Tables
 thumbnail: 40855.jpg
-kt: 6308
+kt: 11754
 role: User
 level: Beginner
 exl-id: 576fc9f8-1418-4ffa-83fa-010cc11f2ace
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 83%
 
 ---
 
-# Creazione automatica di tabelle a forma libera in Analysis Workspace
+# Trascinamento semplice su progetti vuoti
 
 Puoi rilasciare i componenti direttamente in un progetto o pannello vuoto oppure in una tabella a forma libera vuota per creare automaticamente una tabella a forma libera in un formato consigliato.
 
->[!VIDEO](https://video.tv.adobe.com/v/40855/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413478/?quality=12&learn=on)
 
 >[!INFO]
 >
-> Questo video fa parte di un corso: [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte di un corso: [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=it)disponibile gratuitamente all&#39;Experience League!
