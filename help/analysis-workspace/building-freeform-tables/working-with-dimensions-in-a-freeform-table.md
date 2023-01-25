@@ -1,5 +1,5 @@
 ---
-title: Utilizzo delle dimensioni nelle tabelle a forma libera
+title: Operazioni con i Dimension in una tabella a forma libera
 description: Scopri come utilizzare le dimensioni nelle tabelle a forma libera, ad esempio come aggiungerle, ordinarle, filtrarle, suddividerle per altre dimensioni e così via.
 feature: Dimensions
 thumbnail: 40179.jpg
@@ -7,14 +7,14 @@ kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
+source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
-# Utilizzo delle dimensioni nelle tabelle a forma libera
+# Operazioni con i Dimension in una tabella a forma libera
 
 Scopri come utilizzare le dimensioni nelle tabelle a forma libera, ad esempio come aggiungerle, ordinarle, filtrarle, suddividerle per altre dimensioni e così via.
 
@@ -35,4 +35,4 @@ Argomenti trattati nel video, inclusi i tempi:
 
 >[!INFO]
 >
-> Questo video fa parte del corso [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponibile gratuitamente su Experience League.
+> Questo video fa parte del corso [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=it), disponibile gratuitamente su Experience League.
