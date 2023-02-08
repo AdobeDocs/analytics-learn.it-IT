@@ -7,8 +7,8 @@ level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Il documento Solution Design Reference (SDR) è il blueprint per i requisiti aziendali e per la progettazione della raccolta dati per Analytics sulle proprietà digitali. Scopri come creare e gestire questo documento come fonte di verità per la soluzione Analysis.
 
->[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
 [Scarica](assets/aa-implementation-playbook.xlsx) un modello Excel di esempio per documentare i requisiti e la progettazione della raccolta dati per le proprietà digitali.
 
