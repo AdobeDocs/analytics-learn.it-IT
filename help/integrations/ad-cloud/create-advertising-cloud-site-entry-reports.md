@@ -1,6 +1,6 @@
 ---
-title: Creare rapporti sulle voci del sito in Advertising Cloud
-description: Crea un rapporto di partecipazione al sito Advertising Cloud per monitorare il giorno della settimana, l’ora del giorno, il browser e l’influenza geografica.
+title: Creare rapporti sulle visite al sito con Advertising Cloud
+description: Crea un rapporto sulle visite al sito con Advertising Cloud per monitorare l’influenza che hanno il giorno della settimana, l’ora del giorno, il browser e l’area geografica.
 feature: Advertising Integration
 topic: Integrations
 role: User
@@ -9,14 +9,14 @@ thumbnail: 35120.jpg
 kt: 5477
 exl-id: 3762dde6-b090-42e3-b6c5-002a022d13ee
 source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '50'
+ht-degree: 100%
 
 ---
 
-# Creare rapporti sulle voci del sito in Advertising Cloud
+# Creare rapporti sulle visite al sito con Advertising Cloud
 
-Crea un rapporto di partecipazione al sito Advertising Cloud per monitorare il giorno della settimana, l’ora del giorno, il browser e l’influenza geografica.
+Crea un rapporto sulle visite al sito con Advertising Cloud per monitorare l’influenza che hanno il giorno della settimana, l’ora del giorno, il browser e l’area geografica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35120/?quality=12&learn=on)
