@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
 workflow-type: tm+mt
 source-wordcount: '2344'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -85,7 +85,7 @@ ht-degree: 93%
       + [Pannello Quick Insights in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Utilizzo del pannello Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=it)
       + [Pannello Visualizzatori simultanei di elementi multimediali in Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
-      + [Pannello Tempo di riproduzione dei contenuti multimediali](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=it)
+      + [Pannello Tempo trascorso su contenuti multimediali](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=it)
       + [Utilizzo dei filtri a discesa](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Utilizzo dei pannelli per organizzare i progetti Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Scegliere i segmenti per un pannello](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
@@ -94,16 +94,16 @@ ht-degree: 93%
    + Creazione di tabelle a forma libera {#building-freeform-tables}
       + [Comprendere i dati: tabelle a forma libera](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Utilizzare la barra a sinistra per creare tabelle a forma libera](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [Trascinamento semplice su progetti vuoti](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
-      + [Operazioni con le dimensioni in una tabella a forma libera](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [Operazioni con le metriche in una tabella a forma libera](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Impostazioni di riga e colonna nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-      + [Totali delle tabelle a forma libera](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
+      + [Trascinamento facile della selezione in progetti vuoti](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [Utilizzare le dimensioni nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [Utilizzare le metriche nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Impostazioni per riga e colonna nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [Totali nelle tabelle a forma libera](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [Utilizzare il generatore di tabelle a forma libera](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [Fare clic con il pulsante destro del mouse per migliorare l&#39;efficienza dell&#39;area di lavoro](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
-      + [Riordina righe statiche](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [Utilizzare le Attribution IQ nelle tabelle a forma libera](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=it)
-      + [Analisi di cross-selling](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
+      + [Fare clic con il pulsante destro del mouse per migliorare l’efficienza di Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=it)
+      + [Riordinare righe statiche](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
+      + [Utilizzare Attribution IQ nelle tabelle a forma libera](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=it)
+      + [Analisi del cross-selling](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Filtri per tabelle a forma libera](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Suddividere le dimensioni in base al tempo](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualizzazioni {#visualizations}
@@ -263,7 +263,7 @@ ht-degree: 93%
 + Implementazione {#implementation}
    + Nozioni di base sull’implementazione {#implementation-basics}
       + [Implementazione iniziale](implementation/implementation-basics/first-time-implementation.md)
-      + [Creazione di suite di rapporti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=it)
+      + [Comprensione e creazione di suite di rapporti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=it)
       + [Mappare le variabili contextData in Prop ed eVar con regole di elaborazione](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Come identificare il server di tracciamento di Analytics e le suite di rapporti](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Creazione di un documento sui requisiti aziendali (BRD)](implementation/implementation-basics/creating-a-business-requirements-document.md)
@@ -407,7 +407,7 @@ ht-degree: 93%
       + [Summit 2019 Super Session: vendite al dettaglio](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=it)
 + Media Analytics {#media-analytics}
    + Misurazione di Media Analytics {#measuring-media-analytics}
-      + [Tempo trascorso su contenuti multimediali](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
+      + [Pannello Tempo trascorso su contenuti multimediali](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Utilizzo del modello per consumo audio in Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Analytics per app mobili {#mobile-app-analytics}
    + Implementazione {#implementation}
