@@ -1,24 +1,24 @@
 ---
 title: Editor Rich Text in Analysis Workspace
-description: 'Descrizione di alcune nuove funzioni che consentono ad analisti e addetti al marketing di applicare modifiche alle visualizzazioni di testo (o alle descrizioni) in Analysis Workspace: grassetto, corsivo, intestazioni, collegamenti ipertestuali e altro ancora.'
+description: 'Scopri le funzioni che consentono ad analisti e addetti al marketing di applicare modifiche alle visualizzazioni di testo (o alle descrizioni) in Analysis Workspace: grassetto, corsivo, intestazioni, collegamenti e altro ancora.'
 feature: Visualizations
 thumbnail: 23726.jpg
 kt: 1907
 role: User
 level: Beginner
 exl-id: c208b21b-857b-4b01-aae5-b1be9f8105ea
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: ht
-source-wordcount: '91'
-ht-degree: 100%
+source-git-commit: fc1de005c13705a41a229403bfc0444f1538ec51
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 28%
 
 ---
 
-# Editor Rich Text in Analysis Workspace {#rich-text-editor-in-analysis-workspace}
+# Editor Rich Text in Analysis Workspace
 
-Descrizione di alcune nuove funzioni che consentono ad analisti ed esperti di marketing di applicare le modifiche a [!UICONTROL text] [!UICONTROL visualizations] (o descrizioni) in Analysis Workspace: grassetto, corsivo, intestazioni, collegamenti ipertestuali e altro ancora.
+Scopri le funzioni che consentono ad analisti e addetti al marketing di applicare le modifiche alle visualizzazioni di testo (o alle descrizioni) in Analysis Workspace: grassetto, corsivo, intestazioni, collegamenti e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
 >[!INFO]
 >
