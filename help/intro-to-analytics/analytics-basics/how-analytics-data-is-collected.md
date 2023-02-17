@@ -1,5 +1,5 @@
 ---
-title: Modalità di raccolta dei dati analitici
+title: Raccolta dei dati in Analytics
 description: Come vengono trasmessi i dati dalla pagina ai rapporti in Adobe Analytics? Questo video mostra come.
 feature: Analytics Basics
 kt: 3565
@@ -7,13 +7,13 @@ role: User
 level: Beginner
 exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
 source-git-commit: 53db4c11ce54076099f1d38e2005103a2fe82d72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# Modalità di raccolta dei dati analitici
+# Raccolta dei dati in Analytics
 
 Come vengono trasmessi i dati dalla pagina ai rapporti in Adobe Analytics? Questo video mostra come.
 
@@ -21,4 +21,4 @@ Come vengono trasmessi i dati dalla pagina ai rapporti in Adobe Analytics? Quest
 
 >[!INFO]
 >
-> Questo video fa parte del corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponibile gratuitamente in Experience League.
+> Questo video fa parte del corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=it), disponibile gratuitamente in Experience League.
