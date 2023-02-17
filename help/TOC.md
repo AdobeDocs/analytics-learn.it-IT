@@ -4,9 +4,9 @@ user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2344'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -113,32 +113,32 @@ ht-degree: 96%
       + [Selezione dei dati da visualizzare](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Come inserire dati nelle visualizzazioni](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Utilizzo dei menu a discesa dei componenti in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Visualizzazioni con area e area sovrapposte](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [Visualizzazioni con barre e barre sovrapposte](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
-      + [Visualizzazione grafico bullet](analysis-workspace/visualizations/bullet-graph-visualization.md)
-      + [Visualizzazione ad anello](analysis-workspace/visualizations/using-the-donut-visualization.md)
-      + [Visualizzazione Istogramma](analysis-workspace/visualizations/histogram-visualization.md)
-      + [Visualizzazione a linee](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Visualizzazioni a superfici e superfici sovrapposte](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [Visualizzazioni a barre e barre sovrapposte](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [Visualizzazione con grafico bullet](analysis-workspace/visualizations/bullet-graph-visualization.md)
+      + [Visualizzazione Anello](analysis-workspace/visualizations/using-the-donut-visualization.md)
+      + [Visualizzazione con istogramma](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Visualizzazione Linee](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Grafici combinati](analysis-workspace/visualizations/combo-charts.md)
-      + [Aggiunta di linee di tendenza alle visualizzazioni delle linee](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [Aggiunta di linee di tendenza alle visualizzazioni Linee](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualizzazione mappa](analysis-workspace/visualizations/map-visualization.md)
-      + [Visualizzazioni con numero di riepilogo e modifiche di riepilogo](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [Visualizzazioni con numero e variazione di riepilogo](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [Visualizzazione di riepilogo delle metriche chiave](analysis-workspace/visualizations/key-metric-summary.md)
-      + [Visualizzazione testo](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [Visualizzazione di testo](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Visualizzazione con grafico a dispersione](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Visualizzazione con mappa ad albero](analysis-workspace/visualizations/treemap-visualization.md)
-      + [Visualizzazione diagramma di Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [Utilizzo della funzione media cumulativa per applicare l’uniformità delle metriche](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [Visualizzazione con diagramma di Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
+      + [Utilizzo della funzione Media cumulativa per applicare l’arrotondamento delle metriche](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Layout flessibili](analysis-workspace/visualizations/flexible-layouts.md)
-      + [Modifica di scala/asse nelle visualizzazioni](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
-      + [Collegamento in diretta del grafico a Dimension](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [Icona Granularità](analysis-workspace/visualizations/granularity-toggle.md)
+      + [Modifica della scala/asse nelle visualizzazioni](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
+      + [Collegamento in tempo reale tra dimensione e grafico](analysis-workspace/visualizations/dimension-graph-live-linking.md)
+      + [Selettore di granularità](analysis-workspace/visualizations/granularity-toggle.md)
       + [Link interni in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Ridisposizione e ridimensionamento delle visualizzazioni](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Personalizzare le legende delle visualizzazioni](analysis-workspace/visualizations/customize-visualization-legends.md)
-      + [Visualizzazioni con sovrapposizione 100%](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [Impostazioni delle origini dati per tabella e visualizzazione](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
-      + [Creare una mappa di calore con separazione temporale](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
+      + [Visualizzazioni sovrapposte al 100%](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
+      + [Impostazioni delle origini dati per tabelle e visualizzazioni](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
+      + [Creare una mappa di calore suddivisa in base al tempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Analisi dei percorsi dei clienti {#analyzing-customer-journeys}
       + [Creare una visualizzazione del fallout](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Creare una visualizzazione di flusso](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
