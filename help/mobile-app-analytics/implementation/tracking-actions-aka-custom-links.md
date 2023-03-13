@@ -1,6 +1,6 @@
 ---
 title: Azioni di tracciamento (o collegamenti personalizzati) in un’app mobile con l’SDK di Experience Platform
-description: 'Le azioni sono eventi che si verificano nell’app mobile. In questo video, scopri come utilizzare l’API trackAction per tracciare e misurare un’azione. '
+description: Le azioni sono eventi che si verificano nell’app mobile. In questo video, scopri come utilizzare l’API trackAction per tracciare e misurare un’azione.
 feature: Mobile SDK
 topics: null
 activity: implement
@@ -12,7 +12,7 @@ role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 100%
 

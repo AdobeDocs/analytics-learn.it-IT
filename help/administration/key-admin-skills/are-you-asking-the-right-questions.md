@@ -9,9 +9,9 @@ thumbnail: 342361.jpg
 kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
 source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
-workflow-type: ht
-source-wordcount: '1082'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1080'
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ Invia un elenco di domande alle tue parti interessate da rivedere prima della ri
 
 Le domande variano in base alle capacità tecniche o analitiche, alla struttura aziendale o alla complessità dell’argomento relativo alla raccolta dei dati. Spesso è utile iniziare a un livello elevato, con domande sull’intera organizzazione, quindi discutere il ruolo delle parti interessate a sostegno di tali obiettivi organizzativi e così via in livelli di dettaglio crescenti. Puoi quindi assicurarti che i punti di dati granulari discussi supportino efficacemente gli obiettivi generali dell’organizzazione. Ciò permette anche di pensare in modo creativo e suggerire nuove idee per i dati che supportano i loro obiettivi.
 
-[Consulta questo modello](assets/stakeholder-questionnaire.pdf) {target=&quot;_blank&quot;} contenente diverse domande di esempio per le interviste alle parti interessate. Riutilizzale o modificale per preparare le domande pertinenti per le tue discussioni.
+[Esplora questo modello](assets/stakeholder-questionnaire.pdf){target="_blank"} contenente diverse domande di esempio per le interviste alle parti interessate. Riutilizzale o modificale per preparare le domande pertinenti per le tue discussioni.
 
 ### 2. Richiedere rapporti di esempio
 

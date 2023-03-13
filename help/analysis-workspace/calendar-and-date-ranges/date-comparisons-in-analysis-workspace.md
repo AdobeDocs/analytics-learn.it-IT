@@ -8,7 +8,7 @@ role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
 source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
 
@@ -31,4 +31,4 @@ Per ulteriori informazioni su questa funzione, consulta la [documentazione](http
 > * [Tabelle a forma libera, il fondamento dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
 > * [Filtrare i dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it)
 >
-> Entrambi sono disponibili gratuitamente su Experience League.
+> Entrambi sono disponibili gratuitamente in Experience League.

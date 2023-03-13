@@ -4,7 +4,7 @@ user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 source-git-commit: 525d6e2c4828f9fda07cf389b5e8e58331e494de
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '2349'
 ht-degree: 100%
 

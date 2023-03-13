@@ -8,7 +8,7 @@ role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
 source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ Per ulteriori informazioni, consulta la [documentazione](https://experienceleagu
 
 >[!INFO]
 >
-> Questo video fa parte del corso [Filtrare i dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it), disponibile gratuitamente in Experience League.
+> Questo video fa parte del corso [Applicazione di filtri ai dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it), disponibile gratuitamente in Experience League.

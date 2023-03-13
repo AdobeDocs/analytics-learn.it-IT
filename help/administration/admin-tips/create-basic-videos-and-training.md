@@ -10,9 +10,9 @@ thumbnail: 10533.jpg
 kt: 10533
 exl-id: 60307702-9348-48b5-8364-49e90946d793
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '345'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '330'
+ht-degree: 88%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 100%
 * 5 suggerimenti principali in Adobe Analytics (ad esempio, come creare menu a discesa)
 * Come utilizzare Attribution IQ
 
-Potrai quindi indirizzare facilmente gli utenti a questi video anziché scrivere lunghe e-mail o organizzare un’altra sessione di formazione. Per ulteriori suggerimenti e trucchi per la formazione degli utenti, consulta l’[articolo dell’Adobe Champion Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=it){target=&quot;_blank&quot;} su come semplificare la formazione degli utenti e ridurre il tempo da dedicarvi.
+Potrai quindi indirizzare facilmente gli utenti a questi video anziché scrivere lunghe e-mail o organizzare un’altra sessione di formazione. Per ulteriori suggerimenti sulla formazione degli utenti, vedi [L&#39;Adobe del campione Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=it){target="_blank"} tutto ciò riguarda la semplificazione e la riduzione del tempo dedicato alla formazione degli utenti.
 
-Inoltre, esistono veramente tantissimi [video tutorial](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=it){target=&quot;_blank&quot;} e [corsi gratuiti](https://experienceleague.adobe.com/?lang=it#dashboard/learning){target=&quot;_blank&quot;} su Adobe Experience League. Se hai bisogno di un video specifico per i dati e i KPI della tua azienda, puoi certamente registrare dei video ad hoc. Ma se esiste già un video di istruzioni a uso genrale appropriato, non c’è motivo di reinventare la ruota.
+Inoltre, c&#39;è una pletora (sì, una pletora) di [esercitazioni video](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=it){target="_blank"} on Adobe Experience League, as well as [free courses](https://experienceleague.adobe.com/?lang=it#dashboard/learning){target="_blank"}. Se hai bisogno di un video specifico per i dati e i KPI della tua azienda, puoi certamente registrare dei video ad hoc. Ma se esiste già un video di istruzioni a uso genrale appropriato, non c’è motivo di reinventare la ruota.
 
 ## Autori
 

@@ -10,9 +10,9 @@ thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '1805'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1803'
+ht-degree: 99%
 
 ---
 
@@ -101,7 +101,7 @@ Ricorda di includere tutte le proprietà digitali, anche se non utilizzano i tag
 >
 >Crea una dimensione per il nome del sito o la proprietà in Adobe Analytics. Se in Adobe Analytics è presente una dimensione dedicata (in genere un eVar) che identifica il nome del sito o dell’app, sarà possibile eseguire segmentazioni, risolvere problemi, creare di suite di rapporti virtuali, ecc. I vantaggi sono infiniti, soprattutto quando si combinano più siti in una singola suite di rapporti globale. La chiave consiste nell’assicurarsi che i team di sviluppo impostino sempre questo valore nella dimensione delle proprietà, inclusi tutti i caricamenti di pagina (s.t calls/trackState) e tutti gli eventi personalizzati (s.tl calls/trackAction). Le regole di elaborazione possono essere utili per impostare questi valori in modo corretto e coerente.
 
-Per ulteriori informazioni sulla compilazione del playbook di implementazione, [guarda questo video di Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=it){target=&quot;_blank&quot;}.
+[Guarda questo video di Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=it){target="_blank"} per ulteriori informazioni sulla compilazione del playbook di implementazione.
 
 ## Autori
 

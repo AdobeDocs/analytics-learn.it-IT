@@ -1,6 +1,6 @@
 ---
 title: Modello per tutorial di formazione in Analysis Workspace
-description: 'Il tutorial di formazione in Analysis Workspace illustra la terminologia comune e i passaggi da seguire per creare il primo progetto di analisi in Workspace. '
+description: Il tutorial di formazione in Analysis Workspace illustra la terminologia comune e i passaggi da seguire per creare il primo progetto di analisi in Workspace.
 feature: Panels
 topics: null
 activity: use
@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: 52f800b6-f184-4a82-8729-e6edd478331c
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 

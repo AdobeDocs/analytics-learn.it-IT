@@ -4,7 +4,7 @@ description: Scopri le principali sfide che i team di Analytics devono affrontar
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 100%
 
