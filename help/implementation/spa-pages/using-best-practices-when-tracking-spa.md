@@ -11,8 +11,8 @@ topic: SPA
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '1288'
 ht-degree: 100%
 
@@ -88,7 +88,7 @@ Quando viene caricato un nuovo contenuto o si verifica un’azione nella pagina 
 
 Per ulteriori informazioni su come e quando si attivano questi eventi, consulta le pagine e i documenti menzionati in precedenza. Non è necessario utilizzare gli stessi nomi di evento nell’implementazione. È essenziale comprendere il caso d’uso funzionale del metodo utilizzato come best practice consigliata per ciascuno di essi. Il seguente video mostra un esempio di pagina di un’applicazione a pagina singola e un codice di esempio in [!DNL Experience Platform Tags] per l’ascolto degli eventi personalizzati.
 
->[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12&learn=on)
 
 ## Esecuzione di s.t() o s.tl() in [!DNL Experience Platform Tags] {#running-s-t-or-s-tl-in-the-launch-rule}
 
@@ -102,7 +102,7 @@ Un concetto importante da capire per [!DNL Analytics] quando si lavora con un’
 
 Il video seguente mostra dove e come attivare `s.t()` o `s.tl()` nei Tag.
 
->[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12&learn=on)
 
 ## Cancella variabili {#clear-variables}
 
@@ -114,7 +114,7 @@ Il diagramma precedente mostra le variabili eliminate *dopo* l’invio dei dati.
 
 Il video seguente mostra dove e come cancellare le variabili in [!DNL Tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12&learn=on)
 
 ## Considerazioni aggiuntive {#additional-considerations}
 
