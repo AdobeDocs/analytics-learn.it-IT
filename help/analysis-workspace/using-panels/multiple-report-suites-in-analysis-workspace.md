@@ -10,8 +10,8 @@ kt: 4820
 role: User
 level: Beginner
 exl-id: ae9e55c0-a9ab-4b71-8a00-67a2c31a7676
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Più [!UICONTROL report suites] possono essere analizzate in un unico progetto [!DNL Workspace] selezionando [!UICONTROL report suites] a livello di pannello. Questo consente di eseguire analisi in pannelli affiancati tra diversi set di dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12&learn=on)
 
 >[!TIP]
 >
