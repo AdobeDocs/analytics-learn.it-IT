@@ -10,8 +10,8 @@ kt: 2345
 role: User
 level: Intermediate
 exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '258'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL Report Builder] è qualcosa che tutti conosciamo e apprezziamo. E se ti dicessi che puoi usare quello che sai su [!UICONTROL Report Builder] per migliorare ulteriormente le tue competenze Adobe Analytics? Questo video illustra come eseguire le richieste di debug di [!UICONTROL Report Builder] e utilizzarle per imparare a creare query API personalizzate in [!DNL Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12&learn=on)
 
 **AGGIORNAMENTO**: [!UICONTROL Report Builder] è stato leggermente aggiornato nella modalità di richiesta di dati. Puoi comunque utilizzare l’approccio di questo video, ma le informazioni visualizzate nel debugger saranno leggermente diverse.
 
