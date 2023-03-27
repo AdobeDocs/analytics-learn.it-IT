@@ -7,8 +7,8 @@ kt: 1770
 role: User
 level: Beginner
 exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '127'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Un selettore di [!UICONTROL granularity] è stato aggiunto alle impostazioni di [!UICONTROL visualization] delle tendenze per consentire di regolare molto facilmente la [!UICONTROL granularity] dei dati, da pochi minuti a un anno. L’impostazione consente di regolare sia il grafico che la tabella sorgente, evitando di dover eseguire i passaggi necessari per visualizzare e manipolare la tabella.
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 >[!INFO]
 >
