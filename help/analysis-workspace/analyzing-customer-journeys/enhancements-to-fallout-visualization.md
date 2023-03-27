@@ -11,8 +11,8 @@ kt: 2276
 role: User
 level: Beginner
 exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Questo video mostra gli aggiornamenti a [!DNL Fallout Visualization] che sono stati fortemente richiesti dai clienti, tra cui passaggi diretti o finali, ridenominazione dei punti di contatto, confronto di segmenti illimitati e tendenza nel tempo delle percentuali di conversione dei punti di contatto.
 
->[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
 
 >[!INFO]
 >
