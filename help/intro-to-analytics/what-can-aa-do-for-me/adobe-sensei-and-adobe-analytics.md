@@ -10,8 +10,8 @@ kt: 4383
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4dda7501-43ae-4cc7-8b7e-c1f2bcd2950a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!DNL Adobe Sensei] rende Adobe Analytics più intelligente e aiuta gli esperti di marketing a scoprire informazioni significative sui loro clienti. Questo video contiene una spiegazione aggiuntiva delle funzioni chiave di Adobe Analytics basate su [!DNL Adobe Sensei], tra cui [!UICONTROL Anomaly Detection], [!UICONTROL Contribution Analysis], [!UICONTROL Intelligent Alerts], Clustering, [!UICONTROL Segment IQ] e Modellazione propensione.
 
->[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12&learn=on)
 
 Maggiori informazioni su [!DNL Adobe Sensei] sono disponibili [QUI](https://www.adobe.com/it/sensei.html).
