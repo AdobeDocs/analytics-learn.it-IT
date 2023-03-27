@@ -8,8 +8,8 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '118'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Ora è possibile modificare le [!UICONTROL metrics] in più richieste di dati di [!UICONTROL Report Builder] contemporaneamente, con opzioni di aggiunta, sostituzione e rimozione.
 
->[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
 Questa funzione si aggiunge alle funzionalità esistenti per la modifica di [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity] e [!UICONTROL segments] in più richieste. La modifica in blocco di più richieste può essere effettuata dal menu di scelta rapida o con “[!UICONTROL Edit Multiple]” nella finestra Gestisci.
 
