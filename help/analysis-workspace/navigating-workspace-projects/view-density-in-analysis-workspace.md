@@ -10,8 +10,8 @@ kt: 2492
 role: User
 level: Beginner
 exl-id: 378426ce-fc29-4912-9289-e763b941877a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '67'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 L’impostazione [!UICONTROL View Density] in [!UICONTROL Project] > [!UICONTROL Project Info & Settings] consente di controllare la spaziatura verticale applicata alla barra sinistra e alle tabelle ([!UICONTROL Freeform] e [!UICONTROL Cohort]). Puoi scegliere tra Espansa (impostazione predefinita), Comoda o Compatta.
 
->[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12&learn=on)
