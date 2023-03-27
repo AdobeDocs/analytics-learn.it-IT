@@ -7,8 +7,8 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '140'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 In questo video verrà illustrato come sfruttare due funzioni di confronto delle date in [!UICONTROL freeform tables]: “[!UICONTROL add time period column]” e “[!UICONTROL compare time periods]”.
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
 
 I confronti tra date sono un modo semplice per aggiungere spessore alle tabelle Analysis Workspace che utilizzi e ti aiutano a mettere facilmente in prospettiva i dati correnti in base alle prestazioni storiche.
 
