@@ -7,8 +7,8 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '203'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Questo video illustra come utilizzare i filtri a discesa in Analysis Workspace per modificare dinamicamente il contenuto di un pannello.
 
->[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12&learn=on)
 
 La zona di rilascio dei pannelli ora dispone di funzionalità di filtro a discesa. I filtri a discesa consentono ad analisti e utenti finali di interagire con i dati tramite filtri controllati. Puoi creare un filtro a discesa da qualsiasi tipo di componente, quindi passare da un elemento all’altro nell’elenco a discesa per filtrare il contenuto del pannello. È inoltre possibile aggiungere più menu a discesa a un singolo pannello per aggiungere ulteriori controlli.
 
