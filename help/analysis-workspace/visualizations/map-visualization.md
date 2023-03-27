@@ -7,8 +7,8 @@ kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '150'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Questo video mostra come utilizzare la visualizzazione mappa in Analysis Workspace. La visualizzazione Mappa consente di evidenziare i dati [!UICONTROL mobile lat/long] o web (indirizzo IP) rispetto a una mappa dinamica, ed è utile per comprendere le attività dei clienti nel contesto della loro posizione.
 
->[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
 
 Per ulteriori informazioni su questa visualizzazione, consulta [la documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=it).
 
