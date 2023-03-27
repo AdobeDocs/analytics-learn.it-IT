@@ -7,8 +7,8 @@ kt: 1908
 role: User
 level: Beginner
 exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 I link interni consentono agli analisti di creare progetti in Analysis Workspace per indirizzare i lettori del progetto a pannelli e [!UICONTROL visualizations] specifici all’interno del progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 I link interni possono essere utilizzati anche per creare sommari e presentare il significato dei dati in modo più efficace. Il collegamento tra progetti è ora possibile grazie alla nuova funzionalità di collegamento ipertestuale.
 
