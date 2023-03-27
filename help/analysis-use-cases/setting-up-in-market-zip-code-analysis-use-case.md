@@ -13,8 +13,8 @@ kt: 2846
 role: User
 level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '147'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 In questo caso d’uso, configureremo il sistema per inserire codici postali, classificarli come in-market o out-of-market, e quindi utilizzeremo questi dati in Analysis Workspace in modo da poter vedere l’efficacia delle nostre campagne di marketing mirate per il geotargeting.
 
->[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 Per ulteriori informazioni sugli aspetti di questo caso d’uso, consulta i seguenti argomenti della documentazione:
 
