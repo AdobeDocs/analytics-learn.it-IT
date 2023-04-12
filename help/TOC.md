@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Adobe Analytics
 user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come sfruttare al massimo i tuoi dati.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: 01a70b931120a5ea8cd82ffd1c91369e3fa041cd
+source-git-commit: d9688dbc8d4958e76aa5fd6d976a8fd28bfe63ba
 workflow-type: tm+mt
-source-wordcount: '2354'
-ht-degree: 100%
+source-wordcount: '2361'
+ht-degree: 99%
 
 ---
 
@@ -67,6 +67,7 @@ ht-degree: 100%
       + [Visualizzare le metriche delle prestazioni di Analysis Workspace](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + Suggerimenti {#tips-and-tricks}
       + [7 suggerimenti utili per Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
+      + [Suggerimenti e trucchi per flussi di lavoro più efficienti con il pulsante destro del mouse](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Suggerimenti per aumentare la produttività in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Suggerimenti dei clienti per continuare il percorso di apprendimento di Adobe Analytics](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navigazione nei progetti Workspace {#navigating-workspace-projects}
