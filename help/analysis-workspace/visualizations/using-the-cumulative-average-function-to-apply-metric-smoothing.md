@@ -7,7 +7,7 @@ kt: 2854
 role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Più è lungo il periodo di tempo preso in considerazione per le tendenze di una [!UICONTROL metric], più è difficile individuare le direzioni della [!UICONTROL metric]. Per risolvere questo problema, la [!UICONTROL function] [!UICONTROL Cumulative Average] in [!UICONTROL Calculated Metrics] consente di applicare l’arrotondamento alle [!UICONTROL metrics] in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)
 
 >[!INFO]
 >
