@@ -7,7 +7,7 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 I nuovi operatori di [!UICONTROL Distinct Count] nel [!UICONTROL Segment builder] consentono di segmentare in base al numero di elementi univoci all’interno di qualsiasi [!UICONTROL dimension]. Consentono di filtrare le visite in cui sono state visualizzate più di 5 pagine o gli hit in cui sono stati acquistati più di 5 prodotti, ad esempio all’interno di un singolo ordine.
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
 
 Questa funzione è a dir poco interessante. :)
 
