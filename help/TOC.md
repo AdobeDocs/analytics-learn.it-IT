@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Adobe Analytics
 user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come sfruttare al massimo i tuoi dati.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: d9688dbc8d4958e76aa5fd6d976a8fd28bfe63ba
+source-git-commit: bb9b02a58b9c39e57021433869388b652627e550
 workflow-type: tm+mt
-source-wordcount: '2361'
+source-wordcount: '2369'
 ht-degree: 99%
 
 ---
@@ -309,6 +309,7 @@ ht-degree: 99%
       + [Utilizzo dei segmenti in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=it)
       + [Uso dei segmenti come dimensioni in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=it)
       + [Utilizzo di segmenti per limitare i dati in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=it)
+      + [Differenze tra il Generatore di segmenti e i segmenti rapidi](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Segmentazione sequenziale](components/segmentation/sequential-segmentation.md)
       + [Sequenze prima/dopo nella segmentazione sequenziale](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Segmentazione per conteggi di dimensioni distinti](components/segmentation/segmentation-on-distinct-dimension-counts.md)
