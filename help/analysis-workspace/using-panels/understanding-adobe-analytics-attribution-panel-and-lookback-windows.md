@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: d7b1fac5c98080f9ca786ea21a3700d2937c7ebc
+source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
 workflow-type: tm+mt
 source-wordcount: '1883'
 ht-degree: 2%
@@ -92,7 +92,7 @@ Se avete visto TUTTI i film Back to the Future, sapete che Marty McFly è tornat
 
 1. Un po&#39; prima **1:30** su **26 ottobre 1985**, Marty McFly torna indietro nel tempo a **5 novembre 1955**, dove prima corre sopra un pino in un DeLorean che viaggia nel tempo.  Nel corso della settimana successiva e mezzo, interagisce con più persone, inclusi i suoi genitori, influenzando in ultima analisi il futuro influenzando suo padre per opporsi ad un bullo di nome Biff, in modo che suo padre possa realizzare il suo potenziale per diventare un autore di fantascienza di successo.
 1. Più tardi la stessa mattina **26 ottobre 1985** Il dottor Emmett Brown arriva sul vialetto di Marty McFly per informare lui e la sua ragazza che qualcosa è andato terribilmente storto con i loro figli e devono correre in futuro per risolvere i loro problemi.  Mentre partono, la loro partenza è testimoniata da Biff, che trova strano vedere un DeLorean volante.  Più tardi, in futuro, come Biff di nuovo testimoni un DeLorean volante e anche più tardi cattura la vista di &quot;due versioni&quot; di Marty, inizia a mettere insieme le cose.   Quando sente Doc Brown e Marty discutere come la &quot;macchina del tempo&quot; non dovrebbe mai essere utilizzata per un guadagno personale e solo per la ricerca (perché Marty aveva pensato di prendere un almanacco sportivo indietro al passato per fare alcune scommesse personali), Biff ruba la macchina del tempo mentre i due sono distratti a consegnare l&#39;almanacco sportivo al suo più giovane sé in passato.
-1. Dopo il loro viaggio verso il futuro, Doc Brown e Marty ritornano a un **26 ottobre 1985** non riconoscono, e deducono che le linee temporali sono state alterate da un malvagio Biff.  Rendendosi conto che devono correggere quello che è successo, Doc e Marty decidono di tornare a **12 novembre 1955**, la notte fatale in cui tutto è stato cambiato da Marty quando ha visitato per la prima volta **1955**.  Doc e Marty in ultima analisi salvano la giornata rubando l&#39;almanacco sportivo che Old Biff dal futuro aveva consegnato a Young Biff in **1955** Ma non senza un altro colpo di scena è davvero necessario guardare la trilogia completa dei film per godere veramente e capire.
+1. Dopo il loro viaggio verso il futuro, Doc Brown e Marty ritornano a un **26 ottobre 1985** non riconoscono, e deducono che la timeline è stata alterata da un malvagio Biff.  Rendendosi conto che devono correggere quello che è successo, Doc e Marty decidono di tornare a **12 novembre 1955**, la notte fatale in cui tutto è stato cambiato da Marty quando ha visitato per la prima volta **1955**.  Doc e Marty in ultima analisi salvano la giornata rubando l&#39;almanacco sportivo che Old Biff dal futuro aveva consegnato a Young Biff in **1955** Ma non senza un altro colpo di scena è davvero necessario guardare la trilogia completa dei film per godere veramente e capire.
 
 A seconda della nostra **Modello di attribuzione** e **Finestra di lookback**, possiamo concludere con alcuni scenari interessanti:
 
@@ -109,7 +109,7 @@ Cosa significa tutto questo per noi analisti?
 
 La **Pannello Attribution** e **Finestra di lookback** ci dà la possibilità di guardare oltre i semplici dati a livello di superficie e di immergerci nel percorso dei clienti. Capendo quali punti di contatto hanno avuto il maggiore impatto sulle conversioni, possiamo prendere decisioni informate sulle nostre strategie di marketing e allocare le risorse in modo più efficace.
 
-Ricorda, dopo aver **Modelli di attribuzione** e **Windows di lookback** selezionata, puoi comunque manipolare ulteriormente i dati filtrandoli con un segmento o qualsiasi altro componente desiderato.  Inoltre, dopo il rendering del pannello, hai tutte le funzionalità di un **Area di lavoro**, che significa che il tuo permesso ufficiale di guidare 88 mph!
+Ricorda, dopo aver **Modelli di attribuzione** e **Windows di lookback** selezionata, puoi comunque manipolare ulteriormente i dati filtrandoli con un segmento o qualsiasi altro componente desiderato.  Inoltre, dopo il rendering del pannello, hai tutte le funzionalità di un **Area di lavoro**, il che significa che sei autorizzato ufficialmente a guidare 88 mph!
 
 ## Infine mettere in pratica
 
@@ -117,7 +117,7 @@ Ora che i concetti sono incompleti, immagina di lanciare una campagna di marketi
 
 Ora che avete visto cosa può fare, non lasciatevi intimidire dalle caratteristiche apparentemente complesse del **Pannello Attribution**.  **Faccia** .  **Abbracciare** .  **Comprendere** .  Soprattutto, usalo a tuo vantaggio. La **Pannello Attribution** e **Finestra di lookback** sono le chiavi per comprendere meglio i tuoi clienti e il loro percorso con il tuo marchio.
 
-Ora, possiamo viaggiare &quot;indietro nel tempo&quot; con fiducia e usare la potenza della nostra fidata macchina del tempo (aka,  **Adobe Analytics**) prendere decisioni basate sui dati; e, cosa più importante, ricordate, &quot;Dove stiamo andando, non abbiamo bisogno di strade!&quot; (Solo un condensatore di flusso e un occhio attento per l&#39;attribuzione!).
+Ora, possiamo viaggiare &quot;indietro nel tempo&quot; con fiducia e usare la potenza della nostra fidata macchina del tempo (aka,  **Adobe Analytics**) prendere decisioni basate sui dati; e, cosa più importante, ricordate, &quot;Dove stiamo andando, non abbiamo bisogno di strade!&quot; (Solo un condensatore fluido e un occhio attento per l&#39;attribuzione!)
 
 ![Ritorno al futuro](assets/back-to-the-future3.png)
 
