@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
+source-git-commit: 48dbac6921a69dbdba1e98bf412ff55ceb27baf5
 workflow-type: tm+mt
-source-wordcount: '1883'
+source-wordcount: '1881'
 ht-degree: 2%
 
 ---
@@ -72,7 +72,7 @@ In poche parole, se 10 persone premono un pulsante per attraversare una porta, i
 * **Ultimo contatto**: Anche esattamente come suona.   Questo modello dà il 100% di credito all&#39;ultima persona che ha camminato nella porta.  Questo modello viene spesso utilizzato per analizzare elementi come campagne Search (Ricerca) e a breve termine del ciclo di marketing.
 * **Lineare**: Questo dà pari merito a ogni singola persona che ha camminato attraverso la porta.  Esatto - Prendi un DeLorean, prendi un DeLorean, e prendi un DeLorean.  TUTTI SI DIVENTANO DELOREANI!!!
 * **A forma di U**: Questo dà il 40% del credito al primo nella porta, distribuisce il 20% del credito a tutti nel mezzo e poi dà il 40% all&#39;ultimo attraverso.  Pensate a una situazione in cui volete riconoscere le conversioni a maggioranza sia sul fronte che sul retro, ma anche volete spruzzare una piccola quantità di credito in alcune delle interazioni che contribuiscono nel mezzo.
-* **Decadimento nel tempo**: Mi mancherei se non avessi condiviso questo con te prima di inviarti alla documentazione ufficiale per rivedere i modelli rimanenti.  Come il plutonio di Doc Brown, questo modello ha letteralmente una mezza vita che è in declino esponenziale!  In questo caso, il parametro predefinito per la mezza durata del modello è 7 giorni.  Il modo in cui funziona consiste nell’applicare peso a ciascun canale di marketing, in base al tempo che trascorre dopo il punto di contatto iniziale e quando il cliente si converte.
+* **Decadimento nel tempo**: Mi mancherei se non condividessi questo con voi prima di inviarvi la documentazione ufficiale per rivedere i modelli rimanenti.  Come il plutonio di Doc Brown, questo modello ha letteralmente una mezza vita che è in declino esponenziale!  In questo caso, il parametro predefinito per la mezza durata del modello è 7 giorni.  Il modo in cui funziona consiste nell’applicare peso a ciascun canale di marketing, in base al tempo che trascorre dopo il punto di contatto iniziale e quando il cliente si converte.
 
 Per ulteriori informazioni su questo e sugli altri **Modelli di attribuzione**, [fai clic qui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=it).
 
@@ -82,7 +82,7 @@ Già, eccoci qui - riportaci indietro nel tempo!!  Perché ecco dove inizia il d
 
 Adobe definisce **Windows di lookback** come &quot;la quantità di tempo che una conversione deve recuperare per includere i punti di contatto. I modelli di attribuzione che attribuiscono maggiore credito alle prime interazioni visualizzano differenze più importanti quando si visualizzano diversi intervalli di lookback.&quot;
 
-* **Intervallo di lookback su visita**: Considera fino all’inizio di una visita quando si è verificata una conversione
+* **Intervallo di lookback su visita**: Considera fino all’inizio di una visita quando si è verificata una conversione.
 * **Intervallo di lookback su visitatore**: Esamina tutte le visite precedenti al 1° del mese dell’intervallo di date corrente.
 * **Intervallo di lookback personalizzato**: Consente di espandere la finestra Attribuzione oltre l’intervallo di date del rapporto fino a un massimo di **90 giorni**.
 
