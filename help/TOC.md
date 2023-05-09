@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
 workflow-type: tm+mt
 source-wordcount: '2391'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -313,7 +313,7 @@ ht-degree: 98%
       + [Utilizzo dei segmenti in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=it)
       + [Uso dei segmenti come dimensioni in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=it)
       + [Utilizzo di segmenti per limitare i dati in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=it)
-      + [Differenze tra il Generatore di segmenti e i segmenti rapidi](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
+      + [Differenze tra il generatore di segmenti e i segmenti rapidi](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Segmentazione sequenziale](components/segmentation/sequential-segmentation.md)
       + [Sequenze prima/dopo nella segmentazione sequenziale](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Segmentazione per conteggi di dimensioni distinti](components/segmentation/segmentation-on-distinct-dimension-counts.md)
