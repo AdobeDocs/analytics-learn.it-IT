@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
-source-git-commit: 5988e9d68f0c2200168da56373259bdf9f4f901b
+source-git-commit: 1b82bc495f72b099c44a1118145a63c255dcc62a
 workflow-type: tm+mt
 source-wordcount: '1110'
 ht-degree: 14%
@@ -34,7 +34,7 @@ Prestazioni digitali attuali
 1. Le prime visite vengono convertite a un tasso leggermente superiore rispetto alle visite di ritorno per entrambe, 11,6% rispetto all’11,4%.
 1. Rispetto al 2021, i tassi di conversione sono scesi in entrambi i segmenti.
 
-![Tabella delle visite](assets/visits-table.png)
+![Tabella delle visite](assets/cohort1.png)
 
 ## Parte 2: Analisi per coorte - Visite Commestibili Accordi Globali
 
@@ -70,14 +70,14 @@ Come impostare la tabella coorte
 1) I mesi con il maggior volume includono febbraio e maggio
 1) Ci sono circa 1.000 visitatori che ritornano al sito ogni mese
 
-![Tabella di conservazione 2022](assets/2022-retention-table.png)
+![Tabella di conservazione 2022](assets/cohort2.png)
 
 **Nel 2021:**
 
 1) I mesi con i tassi di ritenzione più elevati +1 mese includono aprile, gennaio e marzo
 1) I mesi con il maggior volume includono febbraio e maggio
 
-![Tabella Retention 2021](assets/2021-retention-table.png)
+![Tabella Retention 2021](assets/cohort3.png)
 
 **Azioni:**
 
@@ -128,7 +128,7 @@ Quale sarebbe l&#39;impatto se potessimo fare in modo che più utenti accedano? 
 
 Esperienza utente del sito per consentire agli utenti di creare un account durante l&#39;estrazione
 
-![Tabella coorte 4](assets/cohort-table-4.png)
+![Tabella coorte 4](assets/cohort4.png)
 
 ## Parte 4: Coorte Dimension personalizzato
 
@@ -156,7 +156,7 @@ La tabella per coorti per Dimension personalizzati evidenzia i prodotti che gene
 1) Prodotto 2
 1) Prodotto 3: offre spesso prestazioni superiori con un tasso di fidelizzazione più elevato rispetto alla conservazione media.
 
-![Tabella coorte 5](assets/cohort-table-5.png)
+![Tabella coorte 5](assets/cohort5.png)
 
 ## Conclusione
 
