@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-15T00:00:00Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
-source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
+source-git-commit: fff44440dc527ccfed920954301faaf01d27736c
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 1%
@@ -32,16 +32,13 @@ Esaminando il grafico, potresti notare alcuni aspetti:
 
 1. Questo perché il vostro carburante è sceso allo 0% e avete dovuto aspettare l&#39;assistenza stradale per passare attraverso il traffico Portland e riempire il vostro serbatoio di gas
 
-Un viaggio del genere sarebbe ovviamente miserabile, imprevedibile e pericoloso.
-Non c&#39;è modo di guidare. È necessario disporre di informazioni continue sulla velocità, la distanza percorsa e i livelli di carburante per effettuare regolazioni continue nel modo in cui si guida. Senza dubbio, una persona ragionevole strapperebbe il cartone dal cruscotto e controllerebbe regolarmente, che raderebbe ore fuori dalla lunghezza del viaggio, quasi eliminerebbe il rischio di esaurire il gas, e vi manterrebbe in movimento alla velocità giusta per evitare un biglietto in eccesso di velocità.
+Un viaggio del genere sarebbe ovviamente miserabile, imprevedibile e pericoloso. Non c&#39;è modo di guidare. È necessario disporre di informazioni continue sulla velocità, la distanza percorsa e i livelli di carburante per effettuare regolazioni continue nel modo in cui si guida. Senza dubbio, una persona ragionevole strapperebbe il cartone dal cruscotto e controllerebbe regolarmente, che raderebbe ore fuori dalla lunghezza del viaggio, quasi eliminerebbe il rischio di esaurire il gas, e vi manterrebbe in movimento alla velocità giusta per evitare un biglietto in eccesso di velocità.
 
 Allora perché così tanti dirigenti accettano questo come un modo ragionevole di eseguire i loro siti e le loro app?
 
-Molti dirigenti non hanno accesso a informazioni rilevanti e continuative necessarie per agire in modo tempestivo. Al contrario, ricevono un deck una volta al mese con statistiche esportate da Adobe Analytics in Excel, registrate e poi inserite in un PowerPoint. Se un punto di flessione si verifica all&#39;inizio del mese, non lo sapranno fino all&#39;inizio del mese successivo, ben dopo che possono fare domande o intraprendere azioni.
-Anche gli avvisi personalizzati sono una grande opzione, ma tutti sappiamo come si presenta una casella in entrata e-mail di un exec.
+Molti dirigenti non hanno accesso a informazioni rilevanti e continuative necessarie per agire in modo tempestivo. Al contrario, ricevono un deck una volta al mese con statistiche esportate da Adobe Analytics in Excel, registrate e poi inserite in un PowerPoint. Se un punto di flessione si verifica all&#39;inizio del mese, non lo sapranno fino all&#39;inizio del mese successivo, ben dopo che possono fare domande o intraprendere azioni. Anche gli avvisi personalizzati sono una grande opzione, ma tutti sappiamo come si presenta una casella in entrata e-mail di un exec.
 
-Ma i dirigenti sono anche molto occupati. Immaginate di fare lo stesso viaggio, ma invece del quadro comandi pulito che avete nella vostra auto, avete avuto non solo il livello di carburante, odometro, e taedometro, ma anche altre due dozzine di metri che vi danno dati incredibilmente granulari su tutto, dai livelli di liquido tergicristallo a una durata stimata dei filtri dell&#39;olio.
-Sarebbe troppo, troppo specifico, troppo specializzato.
+Ma i dirigenti sono anche molto occupati. Immaginate di fare lo stesso viaggio, ma invece del quadro comandi pulito che avete nella vostra auto, avete avuto non solo il livello di carburante, odometro, e taedometro, ma anche altre due dozzine di metri che vi danno dati incredibilmente granulari su tutto, dai livelli di liquido tergicristallo a una durata stimata dei filtri dell&#39;olio. Sarebbe troppo, troppo specifico, troppo specializzato.
 
 Volete che i dirigenti abbiano abbastanza dati per sapere quando la loro attenzione è necessaria immediatamente, non tanto che alzano le mani in frustrazione. Se un proprietario di prodotto o un responsabile marketing desidera ricevere un messaggio relativo a un’anomalia, questo viene visualizzato.
 
@@ -59,8 +56,7 @@ Aggiungi un paio di elenchi a discesa per qualsiasi cosa sia importante per la t
 
 Sono entrambi abbastanza importanti nel complesso, ma come sempre, assicurati che ciò che scegli sia rilevante per il tuo sito o la tua app.
 
-Infine, in basso, aggiungete un po&#39; di dettagli. Trovo che le prestazioni della pagina siano spesso popolari tra i dirigenti, ma la chiave è che si trovano sotto la piega.
-Possono cercarlo se lo vogliono, ma in caso contrario, hanno i dati di cui hanno bisogno per porre domande immediatamente:
+Infine, in basso, aggiungete un po&#39; di dettagli. Trovo che le prestazioni della pagina siano spesso popolari tra i dirigenti, ma la chiave è che si trovano sotto la piega. Possono cercarlo se lo vogliono, ma in caso contrario, hanno i dati di cui hanno bisogno per porre domande immediatamente:
 
 ![Dashboard grande.png](assets/large-dashboard.png)
 
