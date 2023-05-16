@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Adobe Analytics
 user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come sfruttare al massimo i tuoi dati.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
+source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 99%
+source-wordcount: '2397'
+ht-degree: 98%
 
 ---
 
@@ -231,6 +231,7 @@ ht-degree: 99%
       + [Creare un sito Adobe Analytics interno](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Utilizzare una suite di rapporti globale](administration/admin-tips/use-a-global-report-suite.md)
       + [Creare un progetto di notizie e annunci](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [Possibilità di utilizzare con successo dashboard di riepilogo esecutivi](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Impostazioni aziendali {#company-settings}
       + [Applicare restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visualizzare le funzioni disponibili per l’account](administration/company-settings/view-your-accounts-available-features.md)
