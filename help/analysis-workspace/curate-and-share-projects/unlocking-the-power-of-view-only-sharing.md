@@ -1,6 +1,6 @@
 ---
-title: Sblocco della potenza della condivisione di sola visualizzazione in Analysis Workspace
-description: Scopri come la condivisione di progetti Analysis Workspace come "solo visualizzazione" può creare rapporti dashboard pronti per l’esecuzione con un’interfaccia utente pulita e opzioni di filtro predefinite, nonché come la "scorecard mobile" può semplificare la condivisione di KPI di esperienza digitale con i dirigenti in movimento.
+title: Sblocco della potenza della condivisione in sola lettura in Analysis Workspace
+description: Scopri come la condivisione di progetti Analysis Workspace in modalità di "sola lettura" può creare rapporti dashboard pronti per gli utenti esecutivi con un’interfaccia utente pulita e opzioni di filtro predefinite, nonché come la "scorecard mobile" può semplificare la condivisione di KPI di esperienza digitale con i dirigenti in movimento.
 feature: Curate and Share
 role: User
 level: Experienced
@@ -8,38 +8,38 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13179
 thumbnail: KT-13179.jpeg
-source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
+source-git-commit: 2159759181206c4980ad82c58f1e1a8636143e34
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
 
-# Sblocco della potenza della condivisione di sola visualizzazione in Analysis Workspace
+# Sblocco della potenza della condivisione in sola lettura in Analysis Workspace
 
-Scopri come condividere progetti Analysis Workspace di Adobe come &quot;solo visualizzazione&quot; può creare rapporti dashboard pronti per l’esecuzione con un’interfaccia utente pulita e opzioni di filtro predefinite, nonché come la &quot;scorecard mobile&quot; può semplificare la condivisione di KPI di esperienza digitale con dirigenti in movimento.
+Scopri come la condivisione di progetti Analysis Workspace di Adobe in modalità di &quot;sola lettura&quot; può creare rapporti dashboard pronti per gli utenti esecutivi con un’interfaccia utente pulita e opzioni di filtro predefinite, nonché come la &quot;scorecard mobile&quot; può semplificare la condivisione di KPI di esperienza digitale con i dirigenti in movimento.
 
-La condivisione di progetti Adobe Analytics Workspace con i colleghi è un utilizzo essenziale di Analytics per prendere decisioni aziendali migliori. Possiamo condividere progetti con altri utenti per i diritti di accesso &quot;edit&quot;, &quot;duplicate&quot; e &quot;view&quot;. Nella maggior parte dei casi, probabilmente condividiamo progetti con diritti di accesso di modifica o duplicazione in modo da poter aggiornare in modo collaborativo il progetto oppure altri utenti possono duplicarlo come proprio per ulteriori aggiornamenti. Tuttavia, a volte la visualizzazione della condivisione è un’opzione sorprendentemente buona oltre al controllo degli accessi, come suggerito dal nome del diritto di accesso.
+La condivisione di progetti Adobe Analytics Workspace con i colleghi è un utilizzo essenziale di Analytics per prendere decisioni aziendali migliori. Possiamo condividere i progetti con altri utenti per i diritti di accesso &quot;Modifica originale&quot;, &quot;Modifica copia&quot; e &quot;Sola lettura&quot;. Nella maggior parte dei casi, condividiamo i progetti con i diritti di accesso per la modifica dell’originale o la copia, in modo da poter aggiornare il progetto in modo collaborativo, oppure altri utenti possono duplicare il progetto come proprio per ulteriori aggiornamenti. Tuttavia, a volte la condivisione in sola lettura è un’opzione di condivisione sorprendentemente buona che va oltre il controllo degli accessi, come suggerito dal nome del diritto di accesso.
 
-## Perché visualizzare solo
+## Perché sola lettura
 
-Quando un progetto viene condiviso solo come visualizzazione, tutte le funzioni e le funzioni di modifica sono completamente disattivate e i destinatari possono solo modificare il menu a discesa per applicare un filtro al pannello in modo predefinito. Confronta con la condivisione duplicata, in cui i destinatari possono &quot;salvare con nome&quot; il progetto per renderlo proprio, tutte le funzioni di modifica sono disponibili ma solo la funzione &quot;salva&quot; è disabilitata. Disattivando tutte le funzioni e le funzioni di modifica, la barra a sinistra per i pannelli, le visualizzazioni, i componenti e le palette non funziona, lasciando spazio a schermo intero per i contenuti del progetto e uno spazio maggiore per tabelle e grafici di aspetto semplicemente migliore.
+Quando un progetto viene condiviso in sola lettura, tutte le funzioni e le caratteristiche di modifica vengono completamente disabilitate e i destinatari possono modificare il menu a discesa solo per applicare un filtro al pannello in modo predefinito. Confronta con &quot;modifica copia&quot; condivisione, in cui i destinatari possono &quot;salvare con nome&quot; il progetto per renderlo proprio, tutte le funzioni di modifica sono disponibili ma solo la funzione &quot;salva&quot; è disabilitata. Disattivando tutte le funzioni e le funzioni di modifica, la barra a sinistra del pannello, della visualizzazione o del componente e delle palette non è più visibile, offrendo così la pagina a schermo intero per i contenuti del progetto e maggiore spazio per tabelle e grafici di aspetto migliore.
 
-Inoltre, poiché tutti i componenti sono visibili solo se sono presenti segmenti e metriche calcolate utilizzati nel progetto, possiamo assicurarci che i destinatari, anche se sono amministratori, non possano modificare la definizione in modo da non disturbare accidentalmente il progetto o qualsiasi altro riferimento agli stessi segmenti o metriche calcolate.
+Inoltre, poiché tutti i componenti sono di sola lettura se nel progetto sono utilizzati segmenti e metriche calcolate, possiamo fare in modo che i destinatari, anche se sono amministratori, non possano modificare la definizione in modo da non compromettere accidentalmente il progetto o altri riferimenti agli stessi segmenti o metriche calcolate.
 
-In questo modo la visualizzazione solo del progetto diventa un rapporto dashboard pronto per l’esecuzione con un’interfaccia utente semplice e pulita e opzioni di filtro predefinite. Se utilizzato con un collegamento di pannello/visualizzazione, può anche fornire una funzione di &quot;drill-down&quot; come soluzione BI completa.
+Questo consente al progetto di sola lettura di diventare un report dashboard pronto per l’ufficio esecutivo con un’interfaccia utente semplice e pulita e opzioni di filtro predefinite. Se utilizzato con un collegamento a un pannello o a una visualizzazione, può anche fornire una funzione di &quot;drill-down&quot; come soluzione di business intelligence completa.
 
-Il progetto Visualizza solo è utile anche per la condivisione di dati con utenti che hanno poca esperienza con Adobe Analytics, ad esempio colleghi di marketing dei prodotti che guidano le campagne di lancio dei prodotti, e per fornire loro un dashboard della campagna con raggruppamenti predefiniti di canale di conversione e marketing.
+Il progetto di sola lettura è utile anche per condividere i dati con utenti che hanno poca esperienza con Adobe Analytics, come i colleghi di marketing dei prodotti che guidano campagne di lancio del prodotto e che forniscono loro un dashboard della campagna con raggruppamenti predefiniti per la conversione e il canale di marketing.
 
-## Un altro modo - La scorecard mobile
+## Un altro modo - La scorecard per dispositivi mobili
 
-Oltre alla condivisione di progetti per sola visualizzazione, la dashboard di Analytics è un altro approccio alla condivisione di dashboard pronte per i dirigenti con esperienza predefinita. Si tratta della &quot;scorecard mobile&quot; durante la creazione di un nuovo progetto in Analysis Workspace e il progetto risultante sarà disponibile nell’app mobile &quot;Adobe Analytics&quot;. Questo ci consente di condividere KPI (Key Performance Indicator) di esperienza digitale con i dirigenti in un’app mobile semplice e facile da usare, accessibile ovunque e in qualsiasi momento.
+A parte la condivisione di progetti in sola lettura, Analytics Dashboard è un altro approccio per condividere dashboard pronte per l’uso con un’esperienza predefinita. È la &quot;scorecard mobile&quot; quando crei un nuovo progetto in Analysis Workspace e il progetto risultante sarà disponibile nell’app mobile &quot;Adobe Analytics&quot;. Questo ci consente di condividere i KPI (Key Performance Indicator) per l’esperienza digitale con i dirigenti all’interno di un’app mobile semplice e intuitiva, accessibile ovunque e in qualsiasi momento.
 
-Un buon dashboard esecutivo dovrebbe essere semplice e sui punti chiave. Aggiungendo solo KPI alla prima schermata di un dashboard di Analytics, con un drill-down opzionale di un livello per suddividere un KPI per una dimensione da un set predefinito di scelte. Il dashboard di Analytics ci permette di raccontare una storia che vogliamo che i dirigenti siano coinvolti.
+Un buon dashboard esecutivo dovrebbe essere semplice e sui punti chiave. Aggiungendo solo i KPI alla prima schermata di un dashboard di Analytics, con un drill-down facoltativo a un livello per suddividere un KPI per una dimensione da un set di scelte predefinito. La dashboard di Analytics ci consente di raccontare una storia che vogliamo ai dirigenti.
 
-Anche se i tuoi capi non utilizzano direttamente il dashboard di Analytics, fai in modo che questi KPI siano pronti nel dashboard di Analytics e ottieni la risposta nel modo giusto quando ti viene chiesto, ti basta sembrare fresco e ben preparato.
-Quando si adotta Adobe Analytics all’interno di un’organizzazione, è probabile che si desideri abilitare tutti gli utenti con le funzionalità complete per creare/modificare progetti Workspace per l’analisi. Tuttavia, ci sono utenti con competenze e punti di interesse diversi, alcuni di essi devono utilizzare solo i dati in alcuni progetti Workspace predefiniti e non dovranno effettuare ulteriori analisi con poca esperienza in Adobe Analytics. La dashboard visualizza solo progetto o analisi fornisce un’interfaccia semplice con esperienze predefinite per l’accesso ai dati.
+Anche se i tuoi capi non utilizzano direttamente la dashboard di Analytics, tieni questi KPI pronti nella dashboard di Analytics e ottieni la risposta giusta nel modo giusto quando ti viene chiesto, sembri tranquillo e ben preparato.
+Quando si adotta Adobe Analytics all’interno di un’organizzazione, è probabile che si desideri consentire a tutti gli utenti con tutte le funzionalità di creare/modificare progetti Workspace per l’analisi. Tuttavia, esistono utenti con competenze e obiettivi diversi; alcuni di loro devono utilizzare i dati solo in alcuni progetti Workspace predefiniti e non eseguiranno ulteriori analisi con poca esperienza in Adobe Analytics. Il progetto di sola lettura o la dashboard di analisi forniscono una semplice interfaccia con esperienze predefinite per l’accesso ai dati.
 
 ## Autore
 
@@ -47,6 +47,6 @@ Questo documento è stato scritto da:
 
 ![Leo Lau](assets/leo_headshot.png)
 
-**Leo Lau**, Director, MarTech Lead Asia
+**Leo Lau**, Director, Lead Asia MarTech
 
 Adobe Analytics Champion
