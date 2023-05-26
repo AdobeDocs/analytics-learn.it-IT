@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Adobe Analytics
 user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come sfruttare al massimo i tuoi dati.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
+source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
 workflow-type: tm+mt
-source-wordcount: '2434'
+source-wordcount: '2435'
 ht-degree: 97%
 
 ---
@@ -58,6 +58,7 @@ ht-degree: 97%
       + [Introduzione rapida ad Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Panoramica di Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Passare alla nuova pagina di destinazione](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Iniziare l’analisi con un rapporto predefinito](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
       + [Creazione di un progetto Workspace da zero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Creare e gestire modelli personalizzati in Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Flusso dei dati nel progetto Analysis Workspace](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -156,14 +157,14 @@ ht-degree: 97%
       + [Utilizzare i segmenti come dimensioni in Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Utilizzare i segmenti per limitare i dati in Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Segmenti rapidi in Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
-      + [Creazione di segmenti di Percorso dei clienti](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [Creazione di segmenti di Percorso di clienti](analysis-workspace/applying-segments/building-customer-journey-segments.md)
    + Metriche {#metrics}
       + [Informazioni sulle metriche di base del visitatore](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Aggiungere dimensioni e metriche al progetto in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=it)
       + [Introduzione agli eventi di conversione](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Utilizzo delle metriche nelle tabelle a forma libera](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=it)
       + [Utilizzo delle metriche di partecipazione in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
-      + [Addio Excel, salve metriche calcolate](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+      + [Addio Excel, salve le metriche calcolate](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensioni {#dimensions}
       + [Aggiungere dimensioni e metriche al progetto in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Introduzione alle variabili di traffico (Prop)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -186,7 +187,7 @@ ht-degree: 97%
       + [Progetti pianificati e scaricabili](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Condivisione di progetti in Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
       + [Progetti di sola visualizzazione in Analysis Workspace](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [Sblocco della potenza della condivisione solo visualizzazione](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [Sblocco della condivisione di sola visualizzazione](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Utilizzo di analisi tra schede diverse per esplorare le attribuzioni marketing di base](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Aggiunta di confronti affiancati di modelli Attribution IQ](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
@@ -233,7 +234,6 @@ ht-degree: 97%
       + [Creare un sito Adobe Analytics interno](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Utilizzare una suite di rapporti globale](administration/admin-tips/use-a-global-report-suite.md)
       + [Creare un progetto di notizie e annunci](administration/admin-tips/create-a-news-and-announcements-project.md)
-      + [Possibilità di utilizzare con successo dashboard di riepilogo esecutivi](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Impostazioni aziendali {#company-settings}
       + [Applicare restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visualizzare le funzioni disponibili per l’account](administration/company-settings/view-your-accounts-available-features.md)
@@ -323,7 +323,7 @@ ht-degree: 97%
       + [Modelli di dimensione nella segmentazione](components/segmentation/dimension-models-in-segmentation.md)
       + [Operatore “Equals any of” nella segmentazione](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Webinar Analytics Insider: strategie di segmentazione del cliente](components/segmentation/customer-segmentation-strategies.md)
-      + [Ora attendi un segmento... Utilizzo della segmentazione per scoprire nuove informazioni](components/segmentation/segmentation-to-discover-new-insights.md)
+      + [Ora attendi un segmento. Utilizzo della segmentazione per scoprire nuove informazioni](components/segmentation/segmentation-to-discover-new-insights.md)
    + Metriche calcolate {#calculated-metrics}
       + [Funzione per conteggio distinto approssimativo nelle metriche calcolate](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ nelle metriche calcolate](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=it)
@@ -334,7 +334,7 @@ ht-degree: 97%
       + [Metriche calcolate: selettore delle metriche](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Metriche calcolate rapide in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Utilizzo delle dimensioni nelle metriche calcolate](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [Effettua l’analisi dei dati a un livello successivo con Metriche calcolate](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [Portare l’analisi dei dati a un livello successivo con le metriche calcolate](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classificazioni {#classifications}
       + [Panoramica delle classificazioni](components/classifications/overview-of-classifications.md)
       + [Utilizzo del Generatore di regole di classificazione](components/classifications/using-the-classification-rule-builder.md)
