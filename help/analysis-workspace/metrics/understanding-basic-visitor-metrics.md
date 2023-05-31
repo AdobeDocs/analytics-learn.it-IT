@@ -6,9 +6,9 @@ kt: 3575
 role: User
 level: Beginner
 exl-id: efc12fc6-c031-4c50-832a-786c84e76151
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 [!UICONTROL Page Views], [!UICONTROL Visits] e [!UICONTROL Visitors]. Questo breve video ti fornirà alcune informazioni di base su come comprendere queste graffette per comprendere il traffico del sito web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
-
->[!INFO]
->
-> Questo video fa parte dei corsi: [Guida introduttiva di Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=it) e [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponibili gratuitamente su Experience League.

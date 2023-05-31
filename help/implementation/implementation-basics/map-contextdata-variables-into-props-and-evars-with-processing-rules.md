@@ -7,9 +7,9 @@ role: User
 level: Intermediate
 thumbnail: 26124.jpg
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ Quando si utilizzano le variabili [!DNL contextData] nell’implementazione di A
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte del corso [Configurazione e amministrazione delle suite di rapporti in Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=it), disponibile gratuitamente in Experience League.

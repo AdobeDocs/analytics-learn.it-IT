@@ -7,9 +7,9 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '177'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ La zona di rilascio dei pannelli ora dispone di funzionalità di filtro a disces
 I menu a discesa sono un modo utile per consolidare anche progetti e pannelli. Ad esempio, se disponi di diverse versioni di un progetto che forniscono rapporti specifici per diversi paesi, ora puoi comprimerli in un singolo progetto e aggiungere un elenco a discesa per diversi paesi.
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte del corso [Filtrare i dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it), disponibile gratuitamente in Experience League.

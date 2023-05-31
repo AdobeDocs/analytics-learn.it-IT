@@ -10,9 +10,9 @@ kt: 2481
 role: User
 level: Intermediate
 exl-id: 3439b31c-dd4a-4a21-857a-1884463003cf
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '75'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,3 @@ L’impostazione Rolling Calculation (Calcolo continuo) nelle [!UICONTROL Cohort
 >[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte del corso [Attribuzione di valore ai punti di contatto digitali nei percorsi del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it), disponibile gratuitamente in Experience League!

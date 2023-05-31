@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
@@ -25,6 +25,3 @@ Analysis Workspace viene fornito con diversi modelli predefiniti che consentono 
 
 Per ulteriori informazioni sui modelli standard e personalizzati, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=it).
 
->[!INFO]
->
-> Questo video fa parte del corso [Esportare e democratizzare i dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=it), disponibile gratuitamente in Experience League.

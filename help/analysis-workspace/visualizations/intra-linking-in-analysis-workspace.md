@@ -7,9 +7,9 @@ kt: 1908
 role: User
 level: Beginner
 exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ I link interni consentono agli analisti di creare progetti in Analysis Workspace
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 I link interni possono essere utilizzati anche per creare sommari e presentare il significato dei dati in modo più efficace. Il collegamento tra progetti è ora possibile grazie alla nuova funzionalità di collegamento ipertestuale.
-
->[!INFO]
->
-> Questo video fa parte del corso [Utilizzo delle visualizzazioni per presentare il significato dei dati](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=it), disponibile gratuitamente in Experience League.

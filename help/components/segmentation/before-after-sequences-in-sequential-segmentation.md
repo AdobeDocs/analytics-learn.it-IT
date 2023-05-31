@@ -7,9 +7,9 @@ thumbnail: 25400.jpg
 role: User
 level: Beginner
 exl-id: 2f305779-9a19-4603-8be7-3a5e3bf634ab
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ Questo video illustra come [!UICONTROL segment] in Adobe Analytics in modo da ot
 >[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12&learn=on)
 
 Per ulteriori informazioni su questo argomento, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte del corso [Filtrare i dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it), disponibile gratuitamente in Experience League.

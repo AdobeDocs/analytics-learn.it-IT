@@ -6,9 +6,9 @@ kt: 3595
 role: Developer, Data Engineer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 Dopo aver completato l’implementazione sul server di sviluppo, ti consigliamo di spostarla in un ambiente di staging per il test e successivamente nell’ambiente di produzione. Questo video mostra il processo in modo dettagliato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
-
->[!INFO]
->
-> Questo video fa parte del corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponibile gratuitamente in Experience League.

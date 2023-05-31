@@ -7,9 +7,9 @@ kt: 5939
 role: User
 level: Beginner
 exl-id: 4f0ce6d2-4ce4-4aa7-907d-efcaab958674
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Scopri tutte le possibilità offerte dal clic con il pulsante destro del mouse in Analysis Workspace e come sfruttarle al meglio. Da [!UICONTROL Freeform Tables] a [!UICONTROL Fallout Visualizations], il clic con il pulsante destro del mouse ti permette di lavorare meglio e in modo più efficiente in [!DNL Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
-
->[!INFO]
->
-> Questo video fa parte del corso [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponibile gratuitamente su Experience League.

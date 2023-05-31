@@ -10,9 +10,9 @@ kt: 2480
 role: User
 level: Intermediate
 exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,3 @@ nelle [!UICONTROL Cohort Tables], l’impostazione [!UICONTROL Latency Table] co
 >[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte del corso [Attribuzione di valore ai punti di contatto digitali nei percorsi del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it), disponibile gratuitamente in Experience League!

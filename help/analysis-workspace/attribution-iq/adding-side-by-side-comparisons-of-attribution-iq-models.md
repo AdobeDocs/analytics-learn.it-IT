@@ -11,9 +11,9 @@ kt: 1705
 role: User
 level: Intermediate
 exl-id: 3c259132-250a-4579-a4d8-344e0b0055f1
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ ht-degree: 100%
 In questo video, scopri come confrontare rapidamente [!DNL Attribution IQ models], inclusa una colonna creata automaticamente che mostra la differenza percentuale tra i numeri dei due modelli.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12&learn=on)
-
->[!INFO]
->
-> Questo video fa parte del corso [Attribuzione del valore ai punti di contatto digitali lungo il percorso del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it), disponibile gratuitamente in Experience League.

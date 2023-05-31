@@ -7,9 +7,9 @@ kt: 4111
 role: User
 level: Beginner
 exl-id: af24fd66-a4a9-439a-b722-226f4def861a
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '329'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,3 @@ Suggerimenti degli utenti esperti di Adobe Analytics
 | Cliente:<br>Sam Liss | Analytics Engineer presso Equinox |
 |------------|------------|
 | ![Sam Liss](assets/samliss.jpg) | **Suggerimenti per passare ad Adobe Analytics da un altro prodotto di analisi** <br> “Se usavi già un’altra piattaforma di analisi, stai per entrare in un mondo di governance più personalizzabile, maggiore sicurezza e innumerevoli integrazioni di marketing e piattaforme di dati... Ti spiegherò le differenze tra le visualizzazioni [!UICONTROL Freeform Table] e [!UICONTROL Flow] e le funzioni che già conosci da altre piattaforme di analisi.”<br><br>[Leggi i suggerimenti di Sam](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/An-Analyst-s-Quick-Start-Guide-Switching-to-Adobe/td-p/354312) |
-
->[!INFO]
->
-> Questo video fa parte del corso [Guida introduttiva ad Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=it), disponibile gratuitamente in Experience League.

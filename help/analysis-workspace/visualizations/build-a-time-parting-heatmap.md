@@ -7,9 +7,9 @@ kt: 2813
 role: User
 level: Beginner
 exl-id: 1bf591a4-fdce-4053-80d4-a9cd87e04ec6
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '49'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Scopri come portare l’analisi suddivisa in base al tempo al livello successivo creando una [!UICONTROL visualization] a mappa di calore dei comportamenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)
-
->[!INFO]
->
-> Questo video fa parte del corso [Utilizzo delle visualizzazioni per presentare il significato dei dati](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=it), disponibile gratuitamente in Experience League.

@@ -7,9 +7,9 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
@@ -23,12 +23,3 @@ In questo video verrà illustrato come sfruttare due funzioni di confronto delle
 I confronti tra date sono un modo semplice per aggiungere spessore alle tabelle Analysis Workspace che utilizzi e ti aiutano a mettere facilmente in prospettiva i dati correnti in base alle prestazioni storiche.
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte di due corsi:
->
-> * [Tabelle a forma libera, il fondamento dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-> * [Filtrare i dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it)
->
-> Entrambi sono disponibili gratuitamente in Experience League.

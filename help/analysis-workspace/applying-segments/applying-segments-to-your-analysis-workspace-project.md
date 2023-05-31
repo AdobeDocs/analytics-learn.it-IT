@@ -7,9 +7,9 @@ kt: 4107
 role: User
 level: Beginner
 exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
@@ -21,12 +21,3 @@ In questo video, scopri come limitare i dati nelle tabelle e nelle visualizzazio
 >[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte di due corsi:
-> * [Guida introduttiva di Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=it)
-> * [Applicazione di filtri ai dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it)
->
-> Entrambi sono disponibili gratuitamente in Experience League.
-

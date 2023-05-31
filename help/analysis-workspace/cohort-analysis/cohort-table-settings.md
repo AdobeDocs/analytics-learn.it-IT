@@ -10,9 +10,9 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '109'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,3 @@ Le personalizzazioni di [!UICONTROL Cohort Table] includono la possibilità di
 La riga con la media è particolarmente utile nella visualizzazione complessiva del livello di [!UICONTROL retention] o [!UICONTROL churn], anziché per singole righe di [!UICONTROL cohort].
 
 Per ulteriori informazioni sull’analisi per [!UICONTROL cohort], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte del corso [Attribuzione di valore ai punti di contatto digitali nei percorsi del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it), disponibile gratuitamente in Experience League.

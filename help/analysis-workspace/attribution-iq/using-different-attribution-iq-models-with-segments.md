@@ -7,9 +7,9 @@ kt: 1707
 role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -21,8 +21,3 @@ Questo video illustra come utilizzare [!DNL Attribution IQ] [!UICONTROL models] 
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12&learn=on)
 
 Quando esegui l’analisi sul sito, spesso utilizzi i segmenti per concentrarti su un gruppo specifico di visitatori, visite o hit. A questo punto, devi aggiungere un passaggio per considerare quale modello di attribuzione funziona meglio insieme al segmento, alle metriche e al rapporto complessivo.
-
->[!INFO]
->
-> Questo video fa parte del corso [Filtrare i dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it), disponibile gratuitamente in Experience League.
-

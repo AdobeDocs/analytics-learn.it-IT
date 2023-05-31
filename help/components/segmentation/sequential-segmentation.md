@@ -7,9 +7,9 @@ thumbnail: 25405.jpg
 role: User
 level: Beginner
 exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '152'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ Questo video spiega come creare un segmento in Analysis Workspace da sequenze di
 >[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12&learn=on)
 
 Per ulteriori informazioni su questo argomento, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte del corso [Filtrare i dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it), disponibile gratuitamente in Experience League.

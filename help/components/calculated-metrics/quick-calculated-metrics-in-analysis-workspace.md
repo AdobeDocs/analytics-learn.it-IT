@@ -7,9 +7,9 @@ kt: 1666
 role: User
 level: Beginner
 exl-id: 461dc5f8-b52e-47ce-b2c4-afe4426dab16
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Ora puoi creare [!UICONTROL calculated metrics] al volo in Analysis Workspace.  Per calcolare rapidamente una variazione percentuale o una divisione con alcune [!UICONTROL metrics] nella [!UICONTROL freeform table], seleziona le [!UICONTROL metrics] nell’intestazione, fai clic con il pulsante destro del mouse e scegli l’operatore che desideri. La nuova [!UICONTROL calculated metric] apparirà a destra.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
-
->[!INFO]
->
-> Questo video fa parte del corso [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponibile gratuitamente su Experience League.

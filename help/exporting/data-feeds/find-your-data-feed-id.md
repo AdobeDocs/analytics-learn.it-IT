@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 335747.jpg
 kt: KT-8464
 exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 100%
 A volte, può essere necessario contattare Adobe in caso di consegna non riuscita del feed dati o di richiesta di un nuovo invio di un file del feed dati. Se il cliente fornisce l’ID del feed dati, il team di assistenza clienti è facilitato nella gestione di tali richieste.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)
-
->[!INFO]
->
-> Questo video fa parte del corso [Esportare e democratizzare i dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.administration&amp;lang=it ), disponibile gratuitamente in Experience League.

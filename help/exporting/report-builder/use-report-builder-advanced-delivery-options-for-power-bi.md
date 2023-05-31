@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 342377.jpg
 kt: 9874
 exl-id: b1b8d519-c035-498b-ac40-a939a019a616
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ Questo video spiega come impostare una pianificazione avanzata per inviare una c
 >[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte del corso [Esportare e democratizzare i dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.administration&amp;lang=it ), disponibile gratuitamente in Experience League.

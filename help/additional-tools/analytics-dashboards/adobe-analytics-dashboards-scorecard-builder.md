@@ -1,6 +1,6 @@
 ---
 title: Generatore di scorecard per le dashboard di Adobe Analytics
-description: In questo video, scopri come creare e condividere in Analysis Workspace “scorecard” da visualizzare nelle dashboard di Adobe Analytics (app per dispositivi mobili).
+description: In questo video, scopri come creare e condividere in Analysis Workspace "scorecard" da visualizzare nelle dashboard di Adobe Analytics (app mobile).
 feature: Analytics Dashboards
 role: User
 level: Beginner
@@ -8,21 +8,17 @@ doc-type: feature video
 thumbnail: 34544.jpg
 kt: 5286
 exl-id: 05bc39ad-b45c-4393-8cfb-47b215228377
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 37%
 
 ---
 
 # Generatore di scorecard per le dashboard di Adobe Analytics
 
-In questo video, scopri come creare e condividere in Analysis Workspace “scorecard” da visualizzare nelle dashboard di Adobe Analytics (app per dispositivi mobili).
+In questo video, scopri come creare e condividere in Analysis Workspace &quot;scorecard&quot; da visualizzare nelle dashboard di Adobe Analytics (app mobile).
 
 >[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte del corso [Esportare e democratizzare i dati di Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.administration&amp;lang=it ), disponibile gratuitamente in Experience League.

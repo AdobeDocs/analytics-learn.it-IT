@@ -6,9 +6,9 @@ kt: 3591
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 Questo video illustra come utilizzare [!DNL Experience Platform Launch] per tenere traccia degli eventi di conversione (eventi di successo AKA) sul sito. Questo accade nel caso di utilizzo del monitoraggio di un processo di applicazione su un sito di esempio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
-
->[!INFO]
->
-> Questo video fa parte del corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponibile gratuitamente in Experience League.

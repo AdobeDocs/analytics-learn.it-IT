@@ -7,9 +7,9 @@ kt: 2367
 role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Questo video illustra come creare il rapporto di cross-selling in Analysis Workspace ed estenderlo ulteriormente ad altre dimensioni o classificazioni multivalore.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
-
->[!INFO]
->
-> Questo video fa parte del corso [Tabelle a forma libera, base dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=it), disponibile gratuitamente su Experience League.

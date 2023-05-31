@@ -11,9 +11,9 @@ kt: 5553
 role: User
 level: Intermediate
 exl-id: eea84902-834c-4826-91cd-5d258fcb4f0e
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ Le finestre di look-back personalizzate consentono di espandere la finestra di a
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=it#lookback-windows)
-
->[!INFO]
->
-> Questo video fa parte del corso [Attribuzione di valore ai punti di contatto digitali nei percorsi del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it), disponibile gratuitamente in Experience League.

@@ -10,9 +10,9 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '286'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,3 @@ Esistono diversi modi per dare una spinta ulteriore alla metodologia di attribuz
 * 4:30 - Le impostazioni delle colonne possono essere aggiornate in blocco ora, anziché 1 per 1. Per saperne di più, visita il minuto 8:45 del video: [Impostazioni per riga e colonna nelle tabelle a forma libera](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 Per ulteriori informazioni su questo argomento, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte del corso [Attribuzione del valore ai punti di contatto digitali lungo il percorso del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it), disponibile gratuitamente in Experience League.

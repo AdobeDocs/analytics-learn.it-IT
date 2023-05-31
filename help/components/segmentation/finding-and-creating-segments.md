@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: 334092.jpg
 kt: 8058
 exl-id: ea359d50-b24b-406d-bf0e-0277351a0be9
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ Scopri come creare e trovare segmenti nell’analisi tra i vari strumenti di Ana
 >[!VIDEO](https://video.tv.adobe.com/v/334092/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-workflow.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte del corso [Applicazione di filtri ai dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it), disponibile gratuitamente in Experience League.

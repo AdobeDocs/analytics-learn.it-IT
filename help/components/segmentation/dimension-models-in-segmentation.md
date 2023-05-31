@@ -7,9 +7,9 @@ kt: 4846
 role: User
 level: Beginner
 exl-id: d42f74a9-aa77-4f47-a1a2-f14bd6061996
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 I modelli di [!UICONTROL Dimension] sono disponibili dall’icona ingranaggio per ogni [!UICONTROL dimension] di segmentazione. Questi modelli sono particolarmente utili per la segmentazione sequenziale e ti consentono di segmentare i valori persistenti di una [!UICONTROL dimension] (impostazione predefinita), istanze o istanze non ripetute di una [!UICONTROL dimension].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12&learn=on)
-
->[!INFO]
->
-> Questo video fa parte del corso [Filtrare i dati con segmentazione personalizzata e date](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=it), disponibile gratuitamente in Experience League.

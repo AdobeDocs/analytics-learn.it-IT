@@ -6,9 +6,9 @@ kt: 3577
 role: User
 level: Beginner
 exl-id: 4f7bedec-efca-46e8-981a-18118982012f
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '65'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 Questo video offre un’introduzione alle variabili di conversione, note anche come “[!DNL eVars]”. Scopri anche la differenza tra le variabili di traffico e di conversione e come si relazionano agli [!DNL events] di conversione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
-
->[!INFO]
->
-> Questo video fa parte del corso [Implementazione guidata di Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponibile gratuitamente in Experience League.

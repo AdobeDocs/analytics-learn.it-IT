@@ -12,9 +12,9 @@ kt: 2281
 role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,3 @@ Questo video mostra come attivare e disattivare il troncamento delle etichette n
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=it).
-
->[!INFO]
->
-> Questo video fa parte del corso [Attribuzione di valore ai punti di contatto digitali nei percorsi del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=it), disponibile gratuitamente in Experience League.
