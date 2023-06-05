@@ -3,9 +3,9 @@ title: Semplici trucchi per più efficienza e autonomia - Parte 2
 description: Scopri le principali sfide che i team di Analytics devono affrontare e i nostri consigli per superarle con strategie interne allo strumento.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '705'
 ht-degree: 100%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 100%
 **Parte 2: strategie interne allo strumento**
 
 Questo articolo descrive le principali sfide che i team di analytics devono affrontare e i nostri consigli per superarle utilizzando strategie interne allo strumento. La Parte 1 è disponibile [qui](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md).
-
-Per ulteriori informazioni su soluzioni efficaci per incrementare l’efficienza al di fuori della piattaforma Adobe Analytics, fai clic [qui](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
 ## Aspetti chiave per l’efficienza: strategie interne allo strumento
 
@@ -93,7 +91,5 @@ Utilizza le annotazioni per creare riferimenti alla documentazione della soluzio
 ## API di reporting di Adobe 2.0
 
 Sfrutta l’API di reporting per passare dai rapporti standard da [!UICONTROL Workspace] a dashboard e rapporti pianificati. Inoltre, sfrutta [!UICONTROL Analysis Workspace] per generare richieste API.
-
-Ci auguriamo che tu abbia trovato utile questo articolo sulle strategie in-tool. Per ulteriori informazioni su soluzioni efficaci per incrementare l’efficienza al di fuori della piattaforma Adobe Analytics, fai clic [qui](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
 Per saperne di più su strategia e leadership di pensiero, visita l’hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=it).

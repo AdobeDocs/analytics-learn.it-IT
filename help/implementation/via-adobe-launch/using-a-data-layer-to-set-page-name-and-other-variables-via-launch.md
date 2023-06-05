@@ -7,10 +7,10 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 100%
+source-wordcount: '301'
+ht-degree: 96%
 
 ---
 
@@ -22,7 +22,7 @@ L’utilizzo di un livello di dati per [!DNL Analytics] e altre soluzioni Experi
 
 Un _livello di dati_ è un framework di oggetti JavaScript che gli sviluppatori aggiungono alle pagine web digitali. Le soluzioni Analytics utilizzano il livello di dati per compilare i rapporti. I sistemi di gestione dei tag, tra cui [!DNL Experience Platform Tags], sono gli intermediari che leggono il livello di dati, associano i valori alle variabili e inviano i dati alle soluzioni di esperienze digitali.
 
-Per ulteriori informazioni sui livelli di dati, consulta la [documentazione di Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=it) e il blog [Livelli di dati: da termine trendy a best practice](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice).
+Rivedi informazioni aggiuntive sui livelli dati in [Documentazione di Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=it).
 
 ## Livelli di dati, [!DNL Experience Platform Tags] e Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 
