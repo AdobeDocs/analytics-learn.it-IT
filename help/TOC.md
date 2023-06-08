@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Adobe Analytics
 user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come sfruttare al massimo i tuoi dati.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: 0e99202f5861310370cba2753339e8a9a45d6804
+source-git-commit: e4975a7fad9eb42ab4d2bbad99efb73cabea564e
 workflow-type: tm+mt
-source-wordcount: '2438'
+source-wordcount: '2445'
 ht-degree: 96%
 
 ---
@@ -65,11 +65,13 @@ ht-degree: 96%
       + [Gestione dei componenti in Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Selezionare una suite di rapporti in Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Visualizzare le metriche delle prestazioni di Analysis Workspace](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
+      + [Creare rapporti bot](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + Suggerimenti {#tips-and-tricks}
       + [7 suggerimenti utili per Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Suggerimenti e trucchi per flussi di lavoro più efficienti con il clic destro del mouse](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Suggerimenti per aumentare la produttività in Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Suggerimenti dei clienti per continuare il percorso di apprendimento di Adobe Analytics](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
+      + [Creare filtri dinamici a discesa](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + Navigazione nei progetti Workspace {#navigating-workspace-projects}
       + [Dizionario dati in Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [Creare progetti utilizzando i modelli](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
