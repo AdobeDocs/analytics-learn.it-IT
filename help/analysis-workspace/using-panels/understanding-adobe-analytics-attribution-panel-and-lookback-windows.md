@@ -8,10 +8,10 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: ae6fb85c3903986940463a4133f7b46f5efb64e1
+source-git-commit: 486a708f735eeb87240c37306350ac0f69ffca84
 workflow-type: tm+mt
-source-wordcount: '1662'
-ht-degree: 2%
+source-wordcount: '1682'
+ht-degree: 3%
 
 ---
 
@@ -46,7 +46,9 @@ In entrata **attribuzione**, è sufficiente considerare il modo in cui gli event
 Secondo [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *attribuzione* consente agli analisti di personalizzare come *Dimension* gli oggetti ricevono credito per *eventi di successo*.
 
 
-**⛔** DETOUR: Solo una breve nota per richiamarlo **modelli di attribuzione** sono così frequentemente associati a **canali di marketing** che io intenzionalmente *barrato* CANALE nell&#39;immagine qui sopra per illustrare come è possibile eseguire **attribuzione** analisi rispetto alla maggior parte degli altri ***dimensione***.
+>[!WARNING]
+>
+>**⛔** DETOUR: Solo una breve nota per richiamarlo **modelli di attribuzione** sono così frequentemente associati a **canali di marketing** che io intenzionalmente *barrato* ❷CHANNEL nell&#39;immagine qui sopra per illustrare come è possibile eseguire **attribuzione** analisi rispetto alla maggior parte degli altri ***dimensione***.
 
 
 Di fatto, raramente un dato percorso di clienti è realmente lineare e anche meno spesso prevedibile.  Inoltre, ogni cliente procederà secondo il proprio ritmo; spesso, può tornare indietro, fermarsi, uscire o impegnarsi in altri comportamenti non lineari. Queste azioni organiche rendono difficile o praticamente impossibile conoscere l’impatto delle attività di marketing in tutto il percorso di clienti. Inoltre, ostacola gli sforzi volti a collegare più canali di dati tra loro.
@@ -55,25 +57,27 @@ Esatto.  Lasciate alle porte le vostre analogie &quot;domino&quot; e aprite le v
 
 ## **Modelli di attribuzione**
 
-Quando si utilizza **pannello attribuzione**, possiamo iniziare a osservare diverse cose.  Ad esempio, **modelli di attribuzione** dimostraci in che modo *conversioni* (ad esempio, ***metriche di successo***) può essere distribuito tra *hit* in un dato gruppo.
+Quando si utilizza **pannello attribuzione**, possiamo iniziare a osservare diverse cose.  Ad esempio, **modelli di attribuzione** dimostraci in che modo *conversioni* (ad esempio, ❶ **metriche di successo**) può essere distribuito tra *hit* in un dato gruppo.
 
 In breve, se **10 persone** premere a **PULSANTE ROSSO GRANDE** per varcare una porta, il nostro **modelli di attribuzione** ci dirà quali di queste **10 persone** vogliamo assegnare il &quot;credito&quot; - o meglio ancora, come *molto* &quot;merito&quot; che vogliamo assegnare loro - per aver premuto detto pulsante.
 
 ![Pulsante](assets/button.png)
 
-Tenendo presente questo aspetto, ecco alcuni esempi di come **modelli di attribuzione** potrebbero influire su **10 persone**:
+Tenendo presente questo aspetto, ecco alcuni esempi di come la ❷ **modelli di attribuzione** potrebbero influire su **10 persone**:
 
 - **Primo contatto**: questo modello funziona esattamente come se suonasse dando **100% di credito** al *primo* persona che ha varcato la porta.  È più probabile che gli addetti al marketing utilizzino questo approccio per tattiche come ***social media*** o ***visualizzare***; tuttavia, è anche un&#39;ottima tattica da utilizzare spesso per l&#39;efficacia delle raccomandazioni sui prodotti in loco.
 - **Ultimo contatto**: questa tattica funziona esattamente come sembra, ma offre **100% di credito** all&#39;ULTIMA persona che ha varcato la porta.  Questo modello viene generalmente utilizzato per analizzare elementi come ***ricerca naturale (organica)*** e altro *a breve termine* campagne del ciclo di marketing.
 - **Lineare**: questo modello distribuisce lo stesso credito a OGNI SINGOLA PERSONA che ha camminato attraverso la porta.
 
-Tuttavia, si consiglia cautela in questo caso, perché è possibile diffondere i risultati molto rapidamente quando si applica questa tattica, considerando il tempo di esecuzione e l’ampiezza del pubblico che raggiunge.
+  >[!CAUTION]
+  >
+  >Tuttavia, si consiglia cautela in questo caso, perché è possibile diffondere i risultati molto rapidamente quando si applica questa tattica, considerando il tempo di esecuzione e l’ampiezza del pubblico che raggiunge.
 
 - **A forma di U**: questo approccio assegna **40%** del credito al *prima persona* nella porta, si allarga **20%** del credito in *tutti nel mezzo*, e quindi dà **40%** al **ultimo/a** attraverso. Questo modello viene utilizzato il più delle volte in situazioni in cui **lungo ciclo di conversione/vendita** contenente *diversi punti di contatto* lungo la strada.  In questo caso, l’obiettivo è principalmente quello di evidenziare ***primo*** e ***ultimo*** tattiche di marketing che hanno contribuito alla conversione del cliente.
 - **J**-**A forma di** e **J inversa**:
    - Pensa a **A forma di U**, ma questo modello assegna **60%** accreditare al *ultima persona* passeggiando attraverso la porta, **20%** al *primo*, e quindi *divisioni* il rimanente **20%** in orizzontale *tutti gli altri* al centro.  **J inversa** fa esattamente l&#39;opposto.
 
-L&#39;obiettivo è quello di mettere la maggior parte della vostra enfasi, o al *inizio* o *fine* della tua campagna; tuttavia, desideri comunque assegnare un certo importo di credito all’elemento contribuente all’estremità opposta, riconoscendo i &quot;ragazzi piccoli&quot; lungo il percorso.
+     L&#39;obiettivo è quello di mettere la maggior parte della vostra enfasi, o al *inizio* o *fine* della tua campagna; tuttavia, desideri comunque assegnare un certo importo di credito all’elemento contribuente all’estremità opposta, riconoscendo i &quot;ragazzi piccoli&quot; lungo il percorso.
 
 - **Decadimento nel tempo**: Ora, sarei un rimprovero se non condividessi questo. Questo modello ha letteralmente un&#39;emivita che decade esponenzialmente - nel tempo!  In questo caso, il *predefinito* Il parametro per l&#39;emivita di questo modello è **7 giorni**.  Il modo in cui funziona è applicare *peso* a ciascuno **canale di marketing**, *in base al tempo* che passa dopo il *punto di contatto iniziale* e quando il cliente effettua la conversione.
 
@@ -108,12 +112,23 @@ Cosa significa tutto questo per noi analisti?
 
 Il **pannello attribuzione** e **intervallo di lookback** consentici di guardare oltre i dati mondani a livello di superficie e di approfondire il percorso dei clienti. Capendo quali punti di contatto hanno avuto il maggiore impatto su *conversioni* In questo modo possiamo prendere decisioni informate sulle nostre strategie di marketing e allocare le risorse in modo più efficace.
 
-Ricorda, dopo aver ricevuto **modelli di attribuzione** e **intervalli di lookback** selezionato, puoi comunque manipolare ulteriormente i dati filtrandoli con un  **segmento,** o qualsiasi altro componente desiderato a questo punto.  Inoltre, dopo il rendering del pannello, avrai a disposizione tutte le funzionalità di un’area di lavoro tradizionale.
+Ricorda, dopo aver ricevuto **modelli di attribuzione** e **intervalli di lookback** selezionato, puoi comunque manipolare ulteriormente i dati filtrandoli con un ❺ **segmento,** o qualsiasi altro componente desiderato a questo punto.  Inoltre, dopo il rendering del pannello, avrai a disposizione tutte le funzionalità di un’area di lavoro tradizionale.
 
 ## **Infine, la sua applicazione pratica**
 
 Ora che hai i concetti, immagina di condurre una campagna di marketing e di cercare di determinare quale canale è il *più efficace* per favorire le conversioni. Con l&#39;aiuto del **pannello attribuzione**, non solo è possibile visualizzare **ultimo contatto**, ma anche **primo contatto**, **stesso contatto**, e qualsiasi altro **modello** scegliere quale **canali** sono *più efficace* nel guidare il *conversioni*. Quindi, queste informazioni possono essere utilizzate per *ottimizzare* campagne e migliorare le prestazioni complessive semplicemente tornando indietro nel tempo con **intervallo di lookback** a tua scelta!
 
-Ora che hai visto cosa può fare, non farti ingannare o intimidire dalle caratteristiche apparentemente complesse del pannello attribuzione.  **Affrontalo**.  *Abbraccia* ...  Comprendetelo*.* MA SOPRATTUTTO - *Usatela a vostro vantaggio.* Il **pannello attribuzione** e **intervallo di lookback** sono le chiavi per comprendere meglio i tuoi clienti e il loro percorso con il tuo marchio.
+Ora che hai visto cosa può fare, non farti ingannare o intimidire dalle caratteristiche apparentemente complesse del pannello attribuzione.  **Affrontalo**.  *Abbraccia* ...  **Comprendere** ...
+MA SOPRATTUTTO - *Usatela a vostro vantaggio.* Il **pannello attribuzione** e **intervallo di lookback** sono le chiavi per comprendere meglio i tuoi clienti e il loro percorso con il tuo marchio.
 
-Ora possiamo viaggiare &quot;.[indietro nel tempo](https://youtu.be/gVryJmZNFdU)&quot; con fiducia e utilizzare la potenza della nostra affidabile macchina del tempo (alias ***Adobe Analytics***) per prendere decisioni basate sui dati.
+Ora possiamo viaggiare &quot;.[indietro nel tempo](https://youtu.be/gVryJmZNFdU)&quot; con fiducia e utilizzare la potenza della nostra fidata macchina del tempo (alias ***Adobe Analytics***) per prendere decisioni basate sui dati.
+
+## Autore
+
+Questo documento è stato scritto da:
+
+![Jeff Bloomer](assets/jeff-headshot.png)
+
+**Jeff Bloomer**, Manager, Digital Analytics presso Kroger Personal Finance
+
+Adobe Analytics Champion
