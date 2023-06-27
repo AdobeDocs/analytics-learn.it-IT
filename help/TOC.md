@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Adobe Analytics
 user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come sfruttare al massimo i tuoi dati.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
+source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
 workflow-type: tm+mt
-source-wordcount: '2451'
+source-wordcount: '2446'
 ht-degree: 97%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 97%
       + [Annotazioni](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Densità di visualizzazione](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Utilizzare i filtri](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+   + Rapporti in tempo reale {#real-time-reports}
+      + [Generazione rapporti in tempo reale](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Utilizzo dei pannelli {#using-panels}
       + [Utilizzo di tabelle, visualizzazioni e pannelli in Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Pannello Quick Insights in Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -217,8 +219,6 @@ ht-degree: 97%
       + [Riduzione dei tassi di errore e miglioramento dei tassi di successo nell’app vocale](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Comprendere il comportamento degli utenti di assistenti vocali](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [Comprendere il percorso vocale dell’utente](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Reports and Analytics {#reports-and-analytics}
-   + [Generazione rapporti in tempo reale in Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Amministrazione {#administration}
    + Competenze chiave dell’amministratore {#key-admin-skills}
       + [Creazione di una community autonoma](administration/key-admin-skills/empowered-community.md)
