@@ -1,24 +1,22 @@
 ---
-title: 'Metriche calcolate: generatore metriche'
-description: Panoramica del Generatore di metriche in Adobe Analytics
+title: Panoramica del generatore di metriche calcolate
+description: Panoramica del generatore di metriche in Analysis Workspace
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2318
 role: User
 level: Beginner
 exl-id: fcfffd68-4394-48db-b38e-3a4ea7d0f854
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 100%
+source-wordcount: '39'
+ht-degree: 38%
 
 ---
 
-# [!UICONTROL Calculated metrics]: Generatore di metriche {#calculated-metrics-metric-builder}
+# Panoramica del generatore di metriche calcolate {#calculated-metrics-metric-builder}
 
-Panoramica del Generatore di metriche in Adobe Analytics
+Panoramica del generatore di metriche in Analysis Workspace
 
 >[!VIDEO](https://video.tv.adobe.com/v/25411/?quality=12&learn=on)
+
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=it)
