@@ -1,9 +1,12 @@
 ---
 title: Padroneggiare le informazioni sui clienti con Virtual Analyst e Segment IQ
 description: Scopri l’importanza di utilizzare l’intelligenza artificiale e l’apprendimento automatico (IA/ML). Scopri i vantaggi e le storie di successo reali di clienti globali che utilizzano Virtual Analyst and Segment IQ per rilevare anomalie, evitare scostamenti e massimizzare il ROI.
+feature: AI Tools
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '1100'
 ht-degree: 100%
