@@ -1,28 +1,24 @@
 ---
-title: Utilizzo delle dimensioni nelle metriche calcolate
-description: Le dimensioni sono ora disponibili nel generatore di metriche calcolate. Possono essere aggiunte immediatamente a qualsiasi formula per metriche calcolate per creare al volo un segmento interno.
+title: Utilizzare le dimensioni nelle metriche calcolate
+description: I Dimension sono disponibili nel generatore di metriche calcolate e possono essere aggiunti a qualsiasi formula per limitare la nuova metrica a una dimensione o a un valore di dimensione.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1904
 role: User
 level: Beginner
 exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 19%
 
 ---
 
-# Utilizzo di [!UICONTROL Dimensions] in [!UICONTROL Calculated Metrics] {#using-dimensions-in-calculated-metrics}
+# Utilizzare le dimensioni nelle metriche calcolate {#using-dimensions-in-calculated-metrics}
 
-[!UICONTROL Dimensions] sono ora disponibili in [!UICONTROL Calculated Metric Builder]. Possono essere aggiunte a qualsiasi [!UICONTROL formula] per [!UICONTROL calculated metric] per creare al volo un segmento interno.
+I Dimension sono disponibili nel generatore di metriche calcolate e possono essere aggiunti a qualsiasi formula per limitare la nuova metrica a una dimensione o a un valore di dimensione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
-Questa funzione semplifica il flusso di lavoro per la creazione e l’utilizzo di [!UICONTROL segments] nelle [!UICONTROL calculated metrics].
+Questa funzione semplifica il flusso di lavoro per la creazione e l’utilizzo di segmenti nelle metriche calcolate.
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=it).

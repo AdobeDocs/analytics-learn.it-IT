@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Adobe Analytics
 user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come sfruttare al massimo i tuoi dati.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
-workflow-type: ht
+source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
+workflow-type: tm+mt
 source-wordcount: '2448'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -334,12 +334,12 @@ ht-degree: 100%
       + [Metriche calcolate: metriche senza implementazione](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Metriche calcolate: metriche segmentate](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
       + [Metriche calcolate: funzioni](components/calculated-metrics/calculated-metrics-functions.md)
-      + [Funzione per conteggio distinto approssimativo nelle metriche calcolate](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Funzione &quot;Approximate count distinct&quot; nelle metriche calcolate](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Metriche calcolate rapide in Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Gestire le metriche calcolate](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [Attribution IQ nelle metriche calcolate](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=it)
-      + [Utilizzo delle dimensioni nelle metriche calcolate](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [Porta l’analisi dei dati a un livello successivo con le Metriche calcolate](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [Utilizzare le dimensioni nelle metriche calcolate](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+      + [Portare l’analisi dei dati a un livello successivo con le metriche calcolate](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classificazioni {#classifications}
       + [Panoramica delle classificazioni](components/classifications/overview-of-classifications.md)
       + [Utilizzo del Generatore di regole di classificazione](components/classifications/using-the-classification-rule-builder.md)
