@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 486a708f735eeb87240c37306350ac0f69ffca84
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
 workflow-type: tm+mt
-source-wordcount: '1682'
+source-wordcount: '1681'
 ht-degree: 3%
 
 ---
@@ -48,7 +48,7 @@ Secondo [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using
 
 >[!WARNING]
 >
->**⛔** DETOUR: Solo una breve nota per richiamarlo **modelli di attribuzione** sono così frequentemente associati a **canali di marketing** che io intenzionalmente *barrato* ❷CHANNEL nell&#39;immagine qui sopra per illustrare come è possibile eseguire **attribuzione** analisi rispetto alla maggior parte degli altri ***dimensione***.
+>Solo una breve nota per richiamarlo **modelli di attribuzione** sono così frequentemente associati a **canali di marketing** che io intenzionalmente *barrato* ❷ CHANNEL nell’immagine qui sopra per illustrare come è possibile eseguire **attribuzione** analisi rispetto alla maggior parte degli altri ***dimensione***.
 
 
 Di fatto, raramente un dato percorso di clienti è realmente lineare e anche meno spesso prevedibile.  Inoltre, ogni cliente procederà secondo il proprio ritmo; spesso, può tornare indietro, fermarsi, uscire o impegnarsi in altri comportamenti non lineari. Queste azioni organiche rendono difficile o praticamente impossibile conoscere l’impatto delle attività di marketing in tutto il percorso di clienti. Inoltre, ostacola gli sforzi volti a collegare più canali di dati tra loro.
@@ -63,7 +63,7 @@ In breve, se **10 persone** premere a **PULSANTE ROSSO GRANDE** per varcare una 
 
 ![Pulsante](assets/button.png)
 
-Tenendo presente questo aspetto, ecco alcuni esempi di come la ❷ **modelli di attribuzione** potrebbero influire su **10 persone**:
+Tenendo presente questo aspetto, ecco alcuni esempi di come la ❸ **modelli di attribuzione** potrebbero influire su **10 persone**:
 
 - **Primo contatto**: questo modello funziona esattamente come se suonasse dando **100% di credito** al *primo* persona che ha varcato la porta.  È più probabile che gli addetti al marketing utilizzino questo approccio per tattiche come ***social media*** o ***visualizzare***; tuttavia, è anche un&#39;ottima tattica da utilizzare spesso per l&#39;efficacia delle raccomandazioni sui prodotti in loco.
 - **Ultimo contatto**: questa tattica funziona esattamente come sembra, ma offre **100% di credito** all&#39;ULTIMA persona che ha varcato la porta.  Questo modello viene generalmente utilizzato per analizzare elementi come ***ricerca naturale (organica)*** e altro *a breve termine* campagne del ciclo di marketing.
@@ -93,7 +93,7 @@ Per rendere questo ancora più interessante, parliamo di tornare indietro l&#39;
 
 Ora è il momento di iniziare a portare la tua mente al livello successivo.  In questo ambito aggiungiamo letteralmente l’elemento del viaggio nel tempo alla nostra analisi, e di nuovo iniziamo con le nozioni di base.
 
-***Adobe*** definisce **intervalli di lookback** come &quot;la quantità di tempo che una conversione deve recuperare per includere i punti di contatto. I modelli di attribuzione che attribuiscono maggiore credito alle prime interazioni visualizzano differenze più importanti quando si visualizzano diversi intervalli di lookback.&quot;
+***Adobe*** definisce ❹ **intervalli di lookback** come &quot;la quantità di tempo che una conversione deve recuperare per includere i punti di contatto. I modelli di attribuzione che attribuiscono maggiore credito alle prime interazioni visualizzano differenze più importanti quando si visualizzano diversi intervalli di lookback.&quot;
 
 
 In altre parole, **intervalli di lookback** determinare il periodo di tempo durante il quale *conversioni* vengono considerati e forniscono *contesto* all’analisi di attribuzione. ***Adobe Analytics*** offre tre tipi di **intervalli di lookback**:
