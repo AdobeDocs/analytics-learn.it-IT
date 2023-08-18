@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+source-git-commit: 4ee8c50c4dc8c7e1e0901e97eb768093b3e2b19b
 workflow-type: tm+mt
 source-wordcount: '1150'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Lasciate che vi mostri i tre dashboard operativi che ho creato per la mia aziend
 1. Registro Bug, funzioni e versioni principali
 
 
-## 1 - Dashboard domande frequenti*
+## 1 - Dashboard delle domande frequenti
 
 Stanchi dell&#39;infinito circolo di risposte ripetute? Stop! Risparmia tempo creando una dashboard di domande frequenti. Gli utenti possono consultarlo prima di chiedere, oppure puoi collegarlo rapidamente alle tue risposte.
 
