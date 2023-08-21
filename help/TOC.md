@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Adobe Analytics
 user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come sfruttare al massimo i tuoi dati.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: a59a2e6f6a08e9dab5c519488e84d916d289c869
+source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
 workflow-type: tm+mt
-source-wordcount: '2465'
+source-wordcount: '2457'
 ht-degree: 98%
 
 ---
@@ -143,9 +143,7 @@ ht-degree: 98%
       + [Modifica della scala/asse nelle visualizzazioni](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [Collegamento in tempo reale tra dimensione e grafico](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [Impostare la granularità per le visualizzazioni](analysis-workspace/visualizations/granularity-toggle.md)
-      + [Link interni in Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Collegamento interno o esterno al progetto](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
-      + [Ridisposizione e ridimensionamento delle visualizzazioni](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Personalizzare le legende delle visualizzazioni](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [Visualizzazioni sovrapposte al 100%](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Impostazioni delle origini dati per tabelle e visualizzazioni](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
