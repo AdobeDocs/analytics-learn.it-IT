@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
 workflow-type: tm+mt
 source-wordcount: '2457'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -126,7 +126,7 @@ ht-degree: 98%
       + [Visualizzazione con grafico bullet](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualizzazione Anello](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Visualizzazione con istogramma](analysis-workspace/visualizations/histogram-visualization.md)
-      + [Sblocco di approfondimenti con istogrammi](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+      + [Sbloccare gli approfondimenti con istogrammi](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [Visualizzazione Linee](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Grafici combinati](analysis-workspace/visualizations/combo-charts.md)
       + [Aggiunta di linee di tendenza alle visualizzazioni Linee](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -138,7 +138,7 @@ ht-degree: 98%
       + [Visualizzazione con grafico a dispersione](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Visualizzazione con mappa ad albero](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualizzazione con diagramma di Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [Utilizzare la funzione media cumulativa per applicare l’arrotondamento delle metriche](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [Utilizzare la funzione Media cumulativa per applicare l’arrotondamento delle metriche](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Layout flessibili](analysis-workspace/visualizations/flexible-layouts.md)
       + [Modifica della scala/asse nelle visualizzazioni](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [Collegamento in tempo reale tra dimensione e grafico](analysis-workspace/visualizations/dimension-graph-live-linking.md)
@@ -239,7 +239,7 @@ ht-degree: 98%
       + [Utilizzare una suite di rapporti globale](administration/admin-tips/use-a-global-report-suite.md)
       + [Creare un progetto di notizie e annunci](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Favorire il successo con dashboard di riepilogo esecutive](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-      + [Creare dashboard operativi](administration/admin-tips/create-operational-dashboards.md)
+      + [Creare dashboard operative](administration/admin-tips/create-operational-dashboards.md)
    + Impostazioni aziendali {#company-settings}
       + [Applicare restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visualizzare le funzioni disponibili per l’account](administration/company-settings/view-your-accounts-available-features.md)
