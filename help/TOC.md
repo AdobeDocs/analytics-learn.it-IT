@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Adobe Analytics
 user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come sfruttare al massimo i tuoi dati.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
-source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
+source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
 workflow-type: tm+mt
-source-wordcount: '2457'
+source-wordcount: '2450'
 ht-degree: 99%
 
 ---
@@ -114,10 +114,8 @@ ht-degree: 99%
       + [Filtri per tabelle a forma libera](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Suddividere le dimensioni in base al tempo](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualizzazioni {#visualizations}
-      + [Visualizzazione dati in Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
-      + [Tipi di visualizzazione](analysis-workspace/visualizations/visualization-types.md)
+      + [Tipi di visualizzazione e panoramica](analysis-workspace/visualizations/visualization-types.md)
       + [Casi d’uso per le visualizzazioni](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [Selezione dei dati da visualizzare](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Playbook di visualizzazione dati](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [Come inserire dati nelle visualizzazioni](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Utilizzo dei menu a discesa dei componenti in Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
