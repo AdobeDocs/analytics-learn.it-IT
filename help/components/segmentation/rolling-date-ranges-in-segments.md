@@ -1,25 +1,20 @@
 ---
 title: Intervalli di date continui nei segmenti
-description: 'Adobe Analytics ti consente di rispondere a domande come: qual è stata la mia media mobile dei ricavi su 60 giorni? oppure: quanti visitatori hanno visualizzato il contenuto nella mia app più di 5 volte nell’ultima settimana? includendo intervalli di date continui nei segmenti. Questo video ti mostra come fare.'
+description: In questo video, scopri come utilizzare gli intervalli di date continui nei segmenti, consentendoti di creare segmenti come "persone che hanno acquistato nell’ultima settimana" o "persone che hanno visitato il mio sito negli ultimi 60 giorni".
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2304
 role: User
 level: Beginner
 exl-id: d90b0284-caef-4271-9f2a-d3cb1fd57e2b
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 8ab9f8cb1ebef6a0f281a63a2a2946475cb9f3b4
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 8%
 
 ---
 
-# [!UICONTROL Date Ranges] continui in [!UICONTROL Segments] {#rolling-date-ranges-in-segments}
+# Intervalli di date continui nei segmenti {#rolling-date-ranges-in-segments}
 
-Adobe Analytics ti consente di rispondere a domande come “Qual è stata la mia media mobile dei ricavi su 60 giorni?” oppure “Quanti visitatori hanno visualizzato il contenuto nella mia app più di 5 volte nell’ultima settimana?” comprendendo [!UICONTROL date ranges] continui in [!UICONTROL segments]. Questo video ti mostra come fare.
+In questo video, scopri come utilizzare gli intervalli di date continui nei segmenti, consentendoti di creare segmenti come &quot;persone che hanno acquistato nell’ultima settimana&quot; o &quot;persone che hanno visitato il mio sito negli ultimi 60 giorni&quot;. Per la documentazione dettagliata che mostra come creare intervalli di date continui utilizzabili nei segmenti, visita [Creare intervalli di date personalizzati](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=it).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)
-
