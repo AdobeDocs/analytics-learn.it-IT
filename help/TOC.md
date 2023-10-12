@@ -4,10 +4,10 @@ user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
-workflow-type: ht
-source-wordcount: '2435'
-ht-degree: 100%
+source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
+workflow-type: tm+mt
+source-wordcount: '2436'
+ht-degree: 98%
 
 ---
 
@@ -277,8 +277,8 @@ ht-degree: 100%
 + Implementazione {#implementation}
    + Nozioni di base sull’implementazione {#implementation-basics}
       + [Comprensione e creazione di suite di rapporti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=it)
-      + [Mappare le variabili contextData in Prop ed eVar con regole di elaborazione](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [Come identificare il server di tracciamento di Analytics e le suite di rapporti](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [Mappare le variabili contextData in prop ed eVar con regole di elaborazione](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
+      + [Come identificare il server di tracciamento di Analytics e l’ID della suite di rapporti](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Creazione di un documento sui requisiti aziendali (BRD)](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Creazione e manutenzione di un documento SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Tramite Experience Platform Launch {#via-adobe-launch}
