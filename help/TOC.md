@@ -5,9 +5,9 @@ breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2429'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -345,7 +345,7 @@ ht-degree: 99%
       + [Panoramica delle suite di rapporti virtuali](components/virtual-report-suites/virtual-report-suites.md)
       + [Cura dei componenti](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [Personalizzazione delle visite nelle suite di rapporti virtuali](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-      + [Inizia una nuova visita in base a qualsiasi evento](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+      + [Avviare una nuova visita in base a un evento](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Panoramica di Activity Map](components/activity-map/activity-map-overview.md)
       + [Abilitazione, debug e personalizzazione di Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
