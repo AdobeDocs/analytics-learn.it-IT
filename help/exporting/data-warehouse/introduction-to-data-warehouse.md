@@ -1,22 +1,21 @@
 ---
-title: Introduzione a data warehouse
-description: Lo strumento per richieste data warehouse disponibile in Adobe Analytics consente di accedere alle query sui dati non elaborati. Data warehouse può elaborare un numero illimitato di righe in una singola richiesta per distinti rapporti pianificati e scaricati. Questo video offre un’introduzione allo strumento e descrive come creare un rapporto di Data Warehouse.
+title: Introduzione all’esportazione di data warehouse
+description: Scopri come sfruttare appieno l’interfaccia utente di Data Warehouse Reporting e gli account e le posizioni di esportazione. Questo video illustra il flusso di lavoro di base per la consegna di un rapporto sia per e-mail che per Amazon S3.
 feature: Data Warehouse
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 0%
 
 ---
 
-# Introduzione a [!UICONTROL data warehouse] {#introduction-to-data-warehouse}
+# Introduzione all’esportazione di data warehouse
 
-Lo strumento per richieste [!UICONTROL data warehouse] disponibile in Adobe Analytics consente di accedere alle query sui dati non elaborati. [!UICONTROL Data warehouse] può elaborare un numero illimitato di righe in un’unica richiesta per singoli rapporti pianificati e scaricati. Questo video offre un’introduzione allo strumento e descrive come creare un rapporto di [!UICONTROL data warehouse].
+Scopri come sfruttare appieno l’interfaccia utente di Data Warehouse Reporting e gli account e le posizioni di esportazione. Questo video illustra il flusso di lavoro di base per la consegna di un rapporto sia per e-mail che per Amazon S3. Per la documentazione dettagliata, consulta [Data Warehouse panoramica](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html) e i documenti circostanti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)
