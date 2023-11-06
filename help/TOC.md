@@ -5,9 +5,9 @@ breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2428'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -364,7 +364,7 @@ ht-degree: 99%
    + Data Warehouse {#data-warehouse}
       + [Esportazione data warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Inviare una richiesta al data warehouse tramite SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Inviare rapporti data warehouse nell’estrazione dati Tableau](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Inviare rapporti data warehouse in formato Tableau Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Feed dati {#data-feeds}
       + [Interfaccia per la gestione dei feed dei dati](exporting/data-feeds/data-feeds-management-ui.md)
       + [Scaricare la chiave di autenticazione del feed dati](exporting/data-feeds/download-the-data-feed-authentication-key.md)
