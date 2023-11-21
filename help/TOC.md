@@ -4,10 +4,10 @@ user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
-workflow-type: ht
-source-wordcount: '2428'
-ht-degree: 100%
+source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
+workflow-type: tm+mt
+source-wordcount: '2425'
+ht-degree: 99%
 
 ---
 
@@ -170,9 +170,9 @@ ht-degree: 100%
       + [Utilizzo delle metriche di partecipazione in Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Addio Excel, benvenute Metriche calcolate](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensioni {#dimensions}
-      + [Aggiungere dimensioni e metriche al progetto in Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Aggiungere dimensioni e metriche al progetto](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Introduzione alle variabili di traffico (Prop)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
-      + [Introduzione alle variabili di conversione (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
+      + [Introduzione alle variabili di conversione (eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [Utilizzo delle dimensioni nelle tabelle a forma libera](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=it)
    + Calendario e intervalli di date {#calendar-and-date-ranges}
       + [Utilizzo delle date in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
