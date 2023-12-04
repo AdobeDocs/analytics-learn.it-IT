@@ -1,32 +1,21 @@
 ---
-title: Configurazione delle impostazioni generali nell’estensione Launch Analytics
-description: Se inizi a usare Experience Platform Launch, e l’estensione Adobe Analytics, questo video ti può aiutare con la parte relativa alle impostazioni generali della configurazione, inclusa l’impostazione del server di tracciamento.
+title: Configurare le impostazioni generali per l’estensione Analytics in Experienci Platform Tags
+description: Scopri le opzioni di configurazione generali per l’estensione Analytics in Tag Adobe, inclusa l’impostazione del server di tracciamento.
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 0%
 
 ---
 
-# Configurazione [!UICONTROL General] Impostazioni in [!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-general-settings-in-the-launch-analytics-extension}
+# Configurare le impostazioni generali per l’estensione Analytics in Experienci Platform Tags {#configuring-general-settings-in-the-launch-analytics-extension}
 
-Se hai appena iniziato a utilizzare Experience Platform Launch, e Adobe Analytics [!UICONTROL Extension], questo video può essere utile per la sezione delle impostazioni [!UICONTROL General] della configurazione, inclusa l’impostazione del server di tracciamento.
+Scopri le opzioni di configurazione generali per l’estensione Analytics in Tag Adobe, inclusa l’impostazione del server di tracciamento. Per la documentazione dettagliata, consulta [Panoramica dell’estensione Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
 
-Per ulteriori informazioni sugli aspetti di questo caso d’uso, consulta i seguenti argomenti della documentazione:
-
-[CAP e codice postale](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=it)
-
-[Classificazioni](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=it)
-
-[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html?lang=it)
