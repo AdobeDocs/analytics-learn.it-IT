@@ -7,7 +7,7 @@ auto-video-transcripts: true
 source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
 workflow-type: tm+mt
 source-wordcount: '2260'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -281,10 +281,10 @@ ht-degree: 98%
       + [Come identificare il server di tracciamento di Analytics e l’ID della suite di rapporti](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Creazione di un documento sui requisiti aziendali (BRD)](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Creazione e manutenzione di un documento SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Utilizzo dei tag Experienci Platform {#via-adobe-launch}
+   + Utilizzo dei tag di Experience Platform {#via-adobe-launch}
       + [Implementazione delle soluzioni Experience Cloud nei siti web con Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=it)
       + [Configurazione di base dell’estensione Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Configurare la gestione della libreria per l’estensione Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [Configurazione della gestione della libreria per l’estensione Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Configurare le impostazioni generali per l’estensione Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Configurazione delle variabili globali nell’estensione Analytics di Launch](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Configurazione delle impostazioni dei cookie nell’estensione Analytics di Launch](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
