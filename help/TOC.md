@@ -4,9 +4,9 @@ user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
+source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
 workflow-type: tm+mt
-source-wordcount: '2260'
+source-wordcount: '2264'
 ht-degree: 99%
 
 ---
@@ -231,6 +231,7 @@ ht-degree: 99%
       + [Stai facendo le domande giuste?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Suggerimenti e best practice per gli amministratori {#admin-tips}
       + [Scarica il playbook per l’implementazione](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [Controllare il dizionario dati](administration/admin-tips/audit-your-data-dictionary.md)
       + [Standardizzare le convenzioni di denominazione](administration/admin-tips/create-standardized-naming-conventions.md)
       + [Creare modelli di codice standardizzati](administration/admin-tips/create-standardized-code-templates.md)
       + [Creare video e formazione di base](administration/admin-tips/create-basic-videos-and-training.md)
