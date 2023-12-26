@@ -5,9 +5,9 @@ breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2249'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -38,9 +38,9 @@ ht-degree: 98%
       + [Raccolta dei dati in Analytics](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Accedere ad Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Comprendere e creare suite di rapporti](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Comprendere le metriche di base del visitatore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=it)
-      + [Introduzione alle variabili di traffico (prop)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=it)
-      + [Introduzione alle variabili di conversione (eVar)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=it)
+      + [Informazioni sulle metriche di base del visitatore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=it)
+      + [Introduzione alle variabili di traffico (Prop)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=it)
+      + [Introduzione alle variabili di conversione (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=it)
       + [Introduzione agli eventi di conversione](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=it)
    + Personalizzazione dell’interfaccia utente {#customizing-the-ui}
       + [Personalizzare le preferenze dell’utente di Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
