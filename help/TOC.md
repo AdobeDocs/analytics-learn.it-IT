@@ -7,7 +7,7 @@ auto-video-transcripts: true
 source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
 source-wordcount: '2227'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -183,12 +183,12 @@ ht-degree: 98%
       + [Salvare, condividere e collaborare ai progetti](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Curare e condividere i progetti](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Collegamento diretto a un progetto](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Condividi con chiunque](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [Condividere con chiunque](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [Download di 50.000 elementi come CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Esporta in CSV e PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [Esportare in CSV e PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Condividere componenti incorporati](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Condividere progetti di sola lettura](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [Sblocca la potenza della condivisione in modalità solo visualizzazione](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [Sbloccare la potenza della condivisione di sola visualizzazione](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Utilizzo di analisi tra schede diverse per esplorare le attribuzioni marketing di base](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Aggiunta di confronti affiancati di modelli Attribution IQ](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
