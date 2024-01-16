@@ -4,10 +4,10 @@ user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
+source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
 workflow-type: tm+mt
-source-wordcount: '2227'
-ht-degree: 99%
+source-wordcount: '2192'
+ht-degree: 94%
 
 ---
 
@@ -278,26 +278,26 @@ ht-degree: 99%
       + [Come identificare il server di tracciamento di Analytics e l’ID della suite di rapporti](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Creazione di un documento sui requisiti aziendali (BRD)](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Creazione e manutenzione di un documento SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Utilizzo dei tag di Experience Platform {#via-adobe-launch}
-      + [Implementazione delle soluzioni Experience Cloud nei siti web con Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=it)
+   + Tag Experience Platform {#experience-platform-tags}
+      + [Implementare soluzioni Experience Cloud nei siti web utilizzando i tag](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=it)
       + [Configurazione di base dell’estensione Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Configurazione della gestione della libreria per l’estensione Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Configurazione delle impostazioni generali per l&#39;estensione Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Configurazione impostazioni delle variabili globali per l’estensione Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
-      + [Configurazione delle impostazioni dei cookie nell’estensione Analytics di Launch](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
-      + [Utilizzo del codice personalizzato durante la configurazione dell’estensione Launch Analytics](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [Utilizzo di un livello dati per impostare il nome della pagina e altre variabili tramite Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
-      + [Aggiunta di plug-in di implementazione in Launch](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
+      + [Configurare la gestione della libreria nell’estensione Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [Configurare le impostazioni generali nell’estensione Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [Configurare le impostazioni della variabile globale nell’estensione Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [Configurare le impostazioni dei cookie nell’estensione Analytics](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
+      + [Utilizzare il codice personalizzato nell’estensione Analytics](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
+      + [Utilizzare un livello di dati per impostare le variabili](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Aggiungere plug-in di implementazione](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [Utilizzare doPlugins nell’estensione Adobe Analytics](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
-      + [Configurazione del tracciamento facile dei collegamenti di download](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
+      + [Configurare il tracciamento facile dei collegamenti di download](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [Configurazione del tracciamento facile dei collegamenti di uscita](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
-      + [Preparazione di Experience Platform Launch per l’implementazione di Analytics](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
-      + [Creazione di elementi dati in Experience Platform Launch per l’implementazione di Analytics](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
-      + [Creazione di una regola di pagina globale in Experience Platform Launch](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
-      + [Convalida della regola di caricamento pagina globale in Experience Platform Launch](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
-      + [Creazione di regole di Experience Platform Launch per pagine speciali](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
-      + [Creazione di regole di Experience Platform Launch per eventi di successo](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
-      + [Pubblicazione di librerie Experience Platform Launch per staging e produzione](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
+      + [Preparare i tag per l’implementazione di Analytics](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
+      + [Creare elementi dati per l’implementazione di Analytics](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
+      + [Creare una regola di caricamento pagina globale](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
+      + [Convalidare la regola di caricamento pagina globale](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
+      + [Creare regole per pagine speciali](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
+      + [Creare regole per gli eventi di successo](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
+      + [Pubblicare librerie di tag in staging e produzione](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + Utilizzo di JavaScript {#using-javascript}
       + [Tracciamento dei collegamenti personalizzati senza un gestore di tag](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Aggiornamento di AppMeasurement quando non si utilizza Experience Platform Launch](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)

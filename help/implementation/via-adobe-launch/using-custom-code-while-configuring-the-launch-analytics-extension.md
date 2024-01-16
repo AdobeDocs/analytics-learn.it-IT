@@ -1,24 +1,25 @@
 ---
-title: Utilizzo del codice personalizzato durante la configurazione dell’estensione Analytics di Launch
-description: Se stai iniziando a usare Experience Platform Launch, e l’estensione Adobe Analytics, questo video può aiutarti a comprendere le opzioni della finestra del codice personalizzato, la tempistica dell’esecuzione del codice, ecc.
-feature: Launch Implementation
-topics: null
-activity: implement
+title: Utilizzare il codice personalizzato nell’estensione Adobe Analytics in [!DNL Tags]
+description: Scopri i casi d’uso e le considerazioni tecniche per l’utilizzo dell’editor di codice personalizzato durante la configurazione dell’estensione Adobe Analytics in [!DNL Tags].
+feature: Tags
+topics: Development
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
 role: Developer, Data Engineer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 1%
 
 ---
 
-# Utilizzo del codice personalizzato durante la configurazione dell’estensione [!DNL Analytics] di [!DNL Launch]  {#using-custom-code-while-configuring-the-launch-analytics-extension}
+# Utilizzare il codice personalizzato nell’estensione Adobe Analytics in [!DNL Tags]
 
-Se stai iniziando a usare Adobe Experience Platform Launch e Adobe Analytics [!UICONTROL Extension], questo video può aiutarti a comprendere le opzioni della finestra del codice personalizzato, i tempi di esecuzione del codice, ecc.
+Scopri i casi d’uso e le considerazioni tecniche per l’utilizzo dell’editor di codice personalizzato durante la configurazione dell’estensione Adobe Analytics in [!DNL Tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
+
+Rivedi [documentazione](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=it) per ulteriori informazioni su <i>funzione doPlugins</i> a cui si fa riferimento in questo video.
