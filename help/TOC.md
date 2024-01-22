@@ -5,9 +5,9 @@ breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2192'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -278,26 +278,26 @@ ht-degree: 94%
       + [Come identificare il server di tracciamento di Analytics e l’ID della suite di rapporti](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Creazione di un documento sui requisiti aziendali (BRD)](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Creazione e manutenzione di un documento SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Tag Experience Platform {#experience-platform-tags}
-      + [Implementare soluzioni Experience Cloud nei siti web utilizzando i tag](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=it)
+   + {#experience-platform-tags} di tag di Experience Platform
+      + [Implementa soluzioni Experience Cloud nei siti web utilizzando i tag](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=it)
       + [Configurazione di base dell’estensione Analytics](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
-      + [Configurare la gestione della libreria nell’estensione Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
-      + [Configurare le impostazioni generali nell’estensione Analytics](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
-      + [Configurare le impostazioni della variabile globale nell’estensione Analytics](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
+      + [Configura la gestione della libreria per l’estensione Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
+      + [Configura le impostazioni generali per l’estensione Analytics](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
+      + [Configurare le impostazioni delle variabili globali per l’estensione Analytics](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
       + [Configurare le impostazioni dei cookie nell’estensione Analytics](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Utilizzare il codice personalizzato nell’estensione Analytics](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [Utilizzare un livello di dati per impostare le variabili](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
-      + [Aggiungere plug-in di implementazione](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
+      + [Aggiungere i plug-in di implementazione](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
       + [Utilizzare doPlugins nell’estensione Adobe Analytics](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
-      + [Configurare il tracciamento facile dei collegamenti di download](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
-      + [Configurazione del tracciamento facile dei collegamenti di uscita](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [Configurare il tracciamento facile dei collegamenti per il download](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
+      + [Configurare il tracciamento facile dei collegamenti di uscita ](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Preparare i tag per l’implementazione di Analytics](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
-      + [Creare elementi dati per l’implementazione di Analytics](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
-      + [Creare una regola di caricamento pagina globale](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
-      + [Convalidare la regola di caricamento pagina globale](implementation/experience-platform-tags/validating-your-global-page-load-rule-in-tags.md)
+      + [Creare elementi di dati per l’implementazione di Analytics](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
+      + [Creare una regola di caricamento della pagina globale](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
+      + [Convalidare la regola di caricamento della pagina globale](implementation/experience-platform-tags/validating-your-global-page-load-rule-in-tags.md)
       + [Creare regole per pagine speciali](implementation/experience-platform-tags/creating-tags-rules-for-special-pages.md)
-      + [Creare regole per gli eventi di successo](implementation/experience-platform-tags/creating-tags-rules-for-success-events.md)
-      + [Pubblicare librerie di tag in staging e produzione](implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production.md)
+      + [Creare regole per eventi di successo](implementation/experience-platform-tags/creating-tags-rules-for-success-events.md)
+      + [Pubblicare librerie di tag per staging e produzione](implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production.md)
    + Utilizzo di JavaScript {#using-javascript}
       + [Tracciamento dei collegamenti personalizzati senza un gestore di tag](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Aggiornamento di AppMeasurement quando non si utilizza Experience Platform Launch](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
