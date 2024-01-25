@@ -1,6 +1,6 @@
 ---
-title: Configurare il tracciamento facile dei collegamenti di uscita in Experienci Platform [!DNL tags]
-description: Puoi iniziare a tracciare i collegamenti di uscita sul tuo sito (collegamenti che vanno a un altro sito) in pochi clic nell’estensione Adobe Analytics nell’Experience Platform [!DNL tags]. Questo video mostra come impostare tale tracciamento.
+title: Configurare il tracciamento facile dei collegamenti di uscita nei tag Experienci Platform
+description: Puoi iniziare a tracciare sul tuo sito i collegamenti di uscita (collegamenti che vanno a un altro sito) in pochi clic nell’estensione Adobe Analytics, ad Experience Platform i tag. Questo video mostra come impostare tale tracciamento.
 feature: Tags
 topics: Development
 activity: implement
@@ -10,20 +10,16 @@ kt: 2273
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 23%
+source-wordcount: '154'
+ht-degree: 24%
 
 ---
 
 # Configurare il tracciamento facile dei collegamenti di uscita in Experienci Platform [!DNL tags]
 
 Puoi iniziare a tracciare i collegamenti di uscita sul tuo sito (collegamenti che vanno a un altro sito) in pochi clic nell’estensione Adobe Analytics nell’Experience Platform [!DNL tags]. Questo video mostra come impostare tale tracciamento.
-
->[!NOTE]
->
-> Il lancio è ora **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
 

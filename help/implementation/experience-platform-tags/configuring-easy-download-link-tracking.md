@@ -1,6 +1,6 @@
 ---
-title: Configurare il tracciamento facile dei collegamenti di download in Experience Platform [!DNL tags]
-description: Puoi iniziare a tracciare i collegamenti di download sul tuo sito (collegamenti che scaricano file non del browser sul computer) in pochi clic nell’estensione Adobe Analytics nell’Experience Platform [!DNL tags].
+title: Configurare il tracciamento facile dei collegamenti di download nei tag di Experience Platform
+description: Puoi iniziare a tracciare i collegamenti di download sul tuo sito (collegamenti che scaricano file non del browser sul computer) in pochi clic nell’estensione Adobe Analytics di Experienci Platform tags.
 feature: Tags
 topics: Development
 activity: implement
@@ -10,9 +10,9 @@ kt: 1844
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,6 @@ ht-degree: 0%
 # Configurare il tracciamento facile dei collegamenti di download in Experience Platform [!DNL tags]
 
 Puoi iniziare a tracciare i collegamenti di download sul tuo sito (collegamenti che scaricano file non del browser sul computer) in pochi clic nell’estensione Adobe Analytics nell’Experience Platform [!DNL tags].
-
->[!NOTE]
->
-> Il lancio è ora **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
