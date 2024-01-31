@@ -1,6 +1,6 @@
 ---
-title: Pubblica Experience Platform [!DNL tags] librerie per staging e produzione
-description: Scopri come creare il tuo [!DNL tags] il codice di sviluppo in un ambiente di staging per i test. Una volta completato il test, generalo nell'ambiente di produzione. Questo video illustra questo processo.
+title: Pubblicare librerie di  [!DNL tags]  di Experience Platform per staging e produzione
+description: Scopri come creare il tuo codice di sviluppo di  [!DNL tags]  in un ambiente di staging per il test. Una volta completato il test, crealo nel tuo ambiente di produzione. Questo video dimostra questo processo.
 feature: Tags
 topics: Development
 kt: 3595
@@ -8,15 +8,15 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Pubblica Experience Platform [!DNL tags] librerie per staging e produzione
+# Pubblicare librerie di [!DNL tags] di Experience Platform per staging e produzione
 
-Scopri come creare il tuo [!DNL tags] il codice di sviluppo in un ambiente di staging per i test. Una volta completato il test, generalo nell&#39;ambiente di produzione. Questo video illustra questo processo.
+Scopri come costruire il tuo codice di sviluppo di [!DNL tags] in un ambiente di staging per il test. Una volta completato il test, crealo nel tuo ambiente di produzione. Questo video dimostra questo processo.
 
 >[!NOTE]
 >
