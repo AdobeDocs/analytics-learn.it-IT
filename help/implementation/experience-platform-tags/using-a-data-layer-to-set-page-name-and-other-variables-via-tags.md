@@ -1,6 +1,6 @@
 ---
-title: Utilizzare un livello di dati per impostare le variabili di Analytics in Experienci Platform [!DNL tags]
-description: Scopri come utilizzare un livello di dati per l’origine dei dati di Analytics e altre soluzioni di Experience Cloud.
+title: Utilizzare un livello di dati per impostare le variabili di Analytics in Experience Platform [!DNL tags]
+description: Scopri come utilizzare un livello di dati per impostare l’origine dei dati di Analytics e altre soluzioni Experience Cloud.
 feature: Tags
 topics: Development
 role: Developer, Data Engineer
@@ -11,11 +11,11 @@ exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
 source-git-commit: 7c9c1da81fac391f030c6a39a81d039a5b084f63
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 29%
+ht-degree: 59%
 
 ---
 
-# Utilizzare un livello di dati per impostare le variabili di Analytics in Experienci Platform [!DNL tags]
+# Utilizzare un livello di dati per impostare le variabili di Analytics in Experience Platform [!DNL tags]
 
 Scopri come estrarre i valori dal livello dati e utilizzarli in Experienci Platform [!DNL tags] per popolare le variabili in Adobe Analytics. Utilizzo di un livello dati per [!DNL Analytics] e altre soluzioni di Experience Cloud sono una best practice.
 
