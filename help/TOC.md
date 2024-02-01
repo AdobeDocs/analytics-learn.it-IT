@@ -4,9 +4,9 @@ user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
 workflow-type: tm+mt
-source-wordcount: '2192'
+source-wordcount: '2187'
 ht-degree: 99%
 
 ---
@@ -287,8 +287,7 @@ ht-degree: 99%
       + [Configurare le impostazioni dei cookie nell’estensione Analytics](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Utilizzare il codice personalizzato nell’estensione Analytics](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [Utilizzare un livello di dati per impostare le variabili](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
-      + [Aggiungere i plug-in di implementazione](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
-      + [Utilizzare doPlugins nell’estensione Adobe Analytics](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [Utilizzare doPlugins e i plug-in di implementazione](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
       + [Configurare il tracciamento facile dei collegamenti per il download](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
       + [Configurare il tracciamento facile dei collegamenti di uscita](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Preparare i tag per l’implementazione di Analytics](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
