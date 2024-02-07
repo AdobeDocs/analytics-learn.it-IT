@@ -8,13 +8,13 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
+source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
-source-wordcount: '1681'
-ht-degree: 3%
+source-wordcount: '1664'
+ht-degree: 1%
 
 ---
-
 
 # Informazioni sul pannello di attribuzione e sugli intervalli di lookback di Adobe Analytics
 
@@ -39,7 +39,7 @@ Ora che siamo tutti entusiasti dei viaggi nel tempo, facciamo un respiro profond
 
 ![Attribuzione](assets/attribution.png)
 
-*Figura 1 - Numeri visualizzati in linea con il testo riportato di seguito*
+*Figura 1 - I numeri visualizzati sono in linea con il testo riportato di seguito*
 
 In entrata **attribuzione**, è sufficiente considerare il modo in cui gli eventi/azioni possono essere causati da un individuo, da più individui o da uno qualsiasi dei diversi eventi nel tempo.
 
@@ -48,7 +48,7 @@ Secondo [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using
 
 >[!WARNING]
 >
->Solo una breve nota per richiamarlo **modelli di attribuzione** sono così frequentemente associati a **canali di marketing** che io intenzionalmente *barrato* ❷ CHANNEL nell’immagine qui sopra per illustrare come è possibile eseguire **attribuzione** analisi rispetto alla maggior parte degli altri ***dimensione***.
+>**Modelli di attribuzione** sono così frequentemente associati a **canali di marketing** che io intenzionalmente *barrato* ❷ CHANNEL nell’immagine qui sopra per illustrare come è possibile eseguire **attribuzione** analisi rispetto alla maggior parte degli altri ***dimensione***.
 
 
 Di fatto, raramente un dato percorso di clienti è realmente lineare e anche meno spesso prevedibile.  Inoltre, ogni cliente procederà secondo il proprio ritmo; spesso, può tornare indietro, fermarsi, uscire o impegnarsi in altri comportamenti non lineari. Queste azioni organiche rendono difficile o praticamente impossibile conoscere l’impatto delle attività di marketing in tutto il percorso di clienti. Inoltre, ostacola gli sforzi volti a collegare più canali di dati tra loro.
@@ -61,7 +61,7 @@ Quando si utilizza **pannello attribuzione**, possiamo iniziare a osservare dive
 
 In breve, se **10 persone** premere a **PULSANTE ROSSO GRANDE** per varcare una porta, il nostro **modelli di attribuzione** ci dirà quali di queste **10 persone** vogliamo assegnare il &quot;credito&quot; - o meglio ancora, come *molto* &quot;merito&quot; che vogliamo assegnare loro - per aver premuto detto pulsante.
 
-![Pulsante](assets/button.png)
+![Button](assets/button.png)
 
 Tenendo presente questo aspetto, ecco alcuni esempi di come la ❸ **modelli di attribuzione** potrebbero influire su **10 persone**:
 
@@ -85,7 +85,7 @@ Tenendo presente questo aspetto, ecco alcuni esempi di come la ❸ **modelli di 
 
 - **Personalizzato**: scegli chi avrà il merito.  È la tua campagna!
 
-Per ulteriori informazioni su questi e altri modelli di attribuzione, [fai clic qui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=it)
+Per ulteriori informazioni su questi e altri modelli di attribuzione, [fai clic qui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Per rendere questo ancora più interessante, parliamo di tornare indietro l&#39;orologio!
 
@@ -93,7 +93,7 @@ Per rendere questo ancora più interessante, parliamo di tornare indietro l&#39;
 
 Ora è il momento di iniziare a portare la tua mente al livello successivo.  In questo ambito aggiungiamo letteralmente l’elemento del viaggio nel tempo alla nostra analisi, e di nuovo iniziamo con le nozioni di base.
 
-***Adobe*** definisce ❹ **intervalli di lookback** come &quot;la quantità di tempo che una conversione deve recuperare per includere i punti di contatto. I modelli di attribuzione che attribuiscono maggiore credito alle prime interazioni visualizzano differenze più importanti quando si visualizzano diversi intervalli di lookback.&quot;
+***Adobe*** definisce ❹ **intervalli di lookback** come &quot;la quantità di tempo che una conversione deve recuperare per includere i punti di contatto. I modelli di attribuzione che attribuiscono maggiore credito alle prime interazioni visualizzano differenze più grandi quando si visualizzano diversi intervalli di lookback.&quot;
 
 
 In altre parole, **intervalli di lookback** determinare il periodo di tempo durante il quale *conversioni* vengono considerati e forniscono *contesto* all’analisi di attribuzione. ***Adobe Analytics*** offre tre tipi di **intervalli di lookback**:

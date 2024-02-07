@@ -8,10 +8,10 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: b7902626-fbce-4333-909f-60878cd3ac99
-source-git-commit: 32af3db3bd0abe57504708318d9b641324569c65
+source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
 source-wordcount: '460'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -29,11 +29,12 @@ Per iniziare, definisci la situazione attuale e stabilisci quale sia il problema
 
 Dopo aver impostato la situazione, utilizza i dati per rivelare l’origine del problema o dell’opportunità. A tale scopo, non presentare un’analisi approfondita: piuttosto, concentrati su quei risultati e quelle variabili che meglio illustrano la situazione attuale.  Illustra la relazione tra le variabili indipendenti e dipendenti mediante l’uso di elementi visivi d’impatto e allo stesso tempo semplici, affinché il tuo pubblico possa comprenderli facilmente.
 
-**Suggerimento per Adobe Workspace:** crea visualizzazioni semplici e di facile lettura, in linea con il tipo di dati che vuoi condividere:
+**Suggerimento per Adobe Workspace:**
+Crea visualizzazioni semplici e di facile lettura, in linea con il tipo di dati che stai condividendo:
 
 * Utilizza i grafici a barre per dati binari o relativi a categorie.
 * Utilizza i grafici a linee (o a bolle, realizzati al di fuori della soluzione Adobe) per dati numerici.
-* Utilizza i grafici a dispersione per dimostrare relazioni statistiche.
+* Utilizzare i grafici a dispersione per dimostrare le relazioni statistiche
 
 ## Offrire una soluzione
 
