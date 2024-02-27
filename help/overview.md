@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: d4d87789018acdd5c587b5f78e3249e0fd694bfb
+workflow-type: ht
+source-wordcount: '244'
+ht-degree: 100%
 
 ---
 
@@ -30,17 +30,6 @@ Per iniziare,
 
 Nella sezione relativa ai corsi sono messe a disposizione esperienze di apprendimento curate in base al ruolo e al livello di competenza. Accedi con il tuo Adobe ID e vai a **Scopri > Corsi consigliati** nella barra di navigazione in alto.
 
-<div id="whats-new-section">
-
-## Novità
-
-* **[App scorecard per dispositivi mobili Adobe Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
-   *Scopri come scaricare l’applicazione scorecard per dispositivi mobili e visualizzare le scorecard per dispositivi mobili create in [!DNL Analysis Workspace].*
-
-* **[Annotazioni nell’area di lavoro (video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Le annotazioni in [!DNL Analysis Workspace] consentono di comunicare in modo efficace dettagli sui dati contestuali a beneficio degli utenti in tutta l’organizzazione. Annotare una data o un intervallo di date relative a problemi noti, festività, avvii di campagne e così via. In questo modo gli utenti vengono informati sul perché visualizzano irregolarità in grafici a linee, tabelle e altro ancora.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
