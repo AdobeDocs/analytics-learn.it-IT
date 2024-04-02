@@ -1,24 +1,20 @@
 ---
-title: Invio di una richiesta di assistenza direttamente dal prodotto
-description: Ora puoi inviare un ticket di supporto all’Assistenza clienti direttamente nell’interfaccia utente, semplificando il processo di risoluzione.
+title: Invio di una richiesta di assistenza direttamente del prodotto
+description: Scopri come inviare un ticket di supporto all’Assistenza clienti a Adobe direttamente dal prodotto, semplificando la procedura di risoluzione.
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1664
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User
 level: Beginner
 exl-id: af75cd36-75ff-4892-b8ec-dd5704dabfe3
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 5860c0948e61fde32bf6d814f701410df330a9e4
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 100%
+source-wordcount: '50'
+ht-degree: 8%
 
 ---
 
 # Invio di una richiesta di assistenza direttamente dal prodotto {#in-product-support-ticket-submission}
 
-È ora possibile inviare una richiesta di assistenza all’[!DNL Customer Care] direttamente nell&#39;interfaccia utente, semplificando il processo di risoluzione.
+Scopri come inviare un ticket di supporto a [!DNL Customer Care] ad Adobe direttamente nel prodotto, semplificando la procedura di risoluzione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
