@@ -7,7 +7,7 @@ auto-video-transcripts: true
 source-git-commit: d8f5a896b89273eb073d12ddc8c39db186e43794
 workflow-type: tm+mt
 source-wordcount: '2176'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -47,9 +47,9 @@ ht-degree: 99%
       + [Aggiungere descrizioni di dimensioni e metriche](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Migliorare la sicurezza](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Impostazione di un progetto Analysis Workspace come pagina di destinazione](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-   + Assistenza {#getting-help}
+   + Come trovare ssistenza {#getting-help}
       + [Come trovare assistenza in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
-      + [Invio di una richiesta di assistenza direttamente del prodotto](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
+      + [Invio di una richiesta di assistenza all’interno del prodotto](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
    + Concetti di base di Analysis Workspace {#analysis-workspace-basics}
       + [Introduzione rapida ad Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
