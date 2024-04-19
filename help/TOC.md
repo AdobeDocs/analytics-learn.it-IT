@@ -5,9 +5,9 @@ breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2176'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ ht-degree: 99%
    + Navigazione nei progetti Workspace {#navigating-workspace-projects}
       + [Dizionario dati in Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [Avvio del primo progetto](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Modello per tutorial](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Modello per tutorial di formazione](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Usare le cartelle in Analysis Workspace](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [Copiare e inserire pannelli e visualizzazioni](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Creare un sommario](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
