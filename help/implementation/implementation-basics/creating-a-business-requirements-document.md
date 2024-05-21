@@ -7,10 +7,10 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 100%
+source-wordcount: '117'
+ht-degree: 70%
 
 ---
 
@@ -20,6 +20,6 @@ Scopri come definire i dati comportamentali che desideri acquisire e analizzare 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
-[Scarica](assets/aa-implementation-playbook.xlsx) un modello Excel di esempio per documentare i requisiti e la progettazione della raccolta dati per le proprietà digitali.
+[Scarica](assets/aa_en_BRD_SDR_template.xlsx) un modello Excel di esempio per documentare i requisiti, l’utilizzo e l’assegnazione delle variabili, i segmenti e la progettazione della raccolta dati per le proprietà digitali.
 
-[Scarica](assets/geometrixx-clothiers-brd-sdr.xlsx) il documento Excel presentato in questo video e/o guarda il [video sul documento Solution Design Reference (SDR)](creating-and-maintaining-an-sdr.md).
+Guarda il video correlato per scoprire come creare una [documento di riferimento per la progettazione della soluzione](creating-and-maintaining-an-sdr.md).
