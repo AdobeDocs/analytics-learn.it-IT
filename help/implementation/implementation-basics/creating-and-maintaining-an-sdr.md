@@ -1,6 +1,6 @@
 ---
-title: Creazione e manutenzione di un documento Solution Design Reference (SDR)
-description: Il documento Solution Design Reference (SDR) è il blueprint per i requisiti aziendali, le assegnazioni di variabili, le definizioni dei segmenti e la progettazione della raccolta dati per Analytics sulle proprietà digitali.
+title: Creare e mantenere un documento Solution Design Reference (SDR)
+description: Il documento Solution Design Reference (SDR) è il blueprint per i requisiti aziendali, le assegnazioni delle variabili, le definizioni dei segmenti e la progettazione della raccolta dati per Analytics sulle proprietà digitali.
 feature: Implementation Basics
 role: Developer, Data Engineer
 level: Beginner
@@ -8,9 +8,9 @@ kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
 source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 48%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Il documento Solution Design Reference (SDR) è il blueprint per i requisiti azi
 
 [Scarica](assets/aa_en_BRD_SDR_template.xlsx) un modello Excel di esempio per documentare i requisiti, l’utilizzo e l’assegnazione delle variabili, i segmenti e la progettazione della raccolta dati per le proprietà digitali.
 
-Guarda il video correlato per scoprire come creare una [video documento sui requisiti aziendali](creating-a-business-requirements-document.md).
+Guarda il video correlato per scoprire come creare un [video documento sui requisiti aziendali](creating-a-business-requirements-document.md).
