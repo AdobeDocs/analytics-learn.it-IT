@@ -4,9 +4,9 @@ user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
 workflow-type: ht
-source-wordcount: '2179'
+source-wordcount: '2160'
 ht-degree: 100%
 
 ---
@@ -299,10 +299,6 @@ ht-degree: 100%
    + Utilizzo di JavaScript {#using-javascript}
       + [Tracciamento dei collegamenti personalizzati senza un gestore di tag](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Aggiornamento di AppMeasurement quando non si utilizza Experience Platform Launch](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-   + Convalida e risoluzione dei problemi {#validating-and-troubleshooting}
-      + [Verifica delle implementazioni con Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
-   + Pagine di applicazioni a pagina singola {#spa-pages}
-      + [Best practice per il tracciamento delle applicazioni a pagina singola](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Componenti {#components}
    + Segmentazione {#segmentation}
       + [Panoramica del generatore di segmenti](components/segmentation/segment-builder-overview.md)
