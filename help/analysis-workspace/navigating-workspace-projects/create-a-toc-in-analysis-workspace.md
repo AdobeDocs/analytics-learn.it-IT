@@ -1,24 +1,23 @@
 ---
 title: Creare un sommario in Analysis Workspace
-description: Scopri come creare un progetto di sommario in Workspace e impostarlo come pagina di destinazione degli utenti in modo che possano trovare rapidamente i dati e gli approfondimenti di cui hanno bisogno in Adobe Analytics.
+description: Scopri il sommario in Analysis Workspace, che fornisce collegamenti che consentono agli utenti di passare rapidamente a pannelli e visualizzazioni all’interno del progetto.
 feature: Panels
-topics: null
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2812
 role: User
 level: Beginner
+last-substantial-update: 2024-06-21T00:00:00Z
 exl-id: b2315794-8910-4b7f-920f-7f1c3da29ace
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: f3357dcef123114c89ce5ea2409d8a67b0ae537f
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 21%
 
 ---
 
 # Creare un sommario in Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
 
-Scopri come creare un progetto di sommario in Workspace e impostarlo come pagina di destinazione degli utenti in modo che possano trovare rapidamente i dati e gli approfondimenti di cui hanno bisogno in Adobe Analytics.
+Scopri il sommario in Analysis Workspace, che fornisce collegamenti che consentono agli utenti di passare rapidamente a pannelli e visualizzazioni all’interno del progetto. Per la documentazione dettagliata, visita [Sommario del progetto](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)
