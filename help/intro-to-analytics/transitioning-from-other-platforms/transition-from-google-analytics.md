@@ -9,7 +9,7 @@ thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '3380'
+source-wordcount: '3413'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Dovremmo anche fare un rapido confronto terminologico:
 | **Descrizione** | **Adobe Analytics** | **Google Analytics** |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------|
 | È stata visualizzata una metrica evento che rappresenta una pagina (o una schermata di un’app) | Visualizzazioni di pagina | Pageview |
-| Una metrica che rappresenta un gruppo di interazioni, nel sito web o nell’app, che si verificano nello stesso intervallo di tempo | Visita | Sessione |
+| Una metrica che rappresenta un gruppo di interazioni, nel sito web o nell’app, che si verificano nello stesso arco temporale | Visita | Sessione |
 | Una metrica che definisce un dispositivo identificato (in base a più criteri, inclusi cookie e altri pattern di comportamento per unire le informazioni utente) | Visitatore univoco | Utente |
 
 ## 2. Interfacce
@@ -177,7 +177,7 @@ I rapporti relativi a origini del traffico, campagne e canali di marketing sono 
 
 I rapporti Mantenimento visitatori e Profilo visitatore sono simili ai rapporti Pubblico in Google Analytics. Il mantenimento è più incentrato sulla frequenza di ritorno, mentre il profilo del visitatore si concentra maggiormente sulla geografia e sulla tecnologia degli utenti.
 
-I rapporti Conversione personalizzata e Traffico personalizzato sono entrambi rapporti di dimensione personalizzati. Le conversioni sono eVar (variabili di conversione). Puoi impostare una scadenza personalizzata in base al valore come hit, visita, mese e anno. Questo valore permane per un utente per l’intervallo di tempo configurato, a meno che non venga sovrascritto. Le variabili di traffico sono proprietà. È anche possibile impostarle per i rapporti sui percorsi o come voci di elenco, che suddivideranno più valori in base a un delimitatore scelto.
+I rapporti Conversione personalizzata e Traffico personalizzato sono entrambi rapporti di dimensione personalizzati. Le conversioni sono eVar (variabili di conversione). Puoi impostare una scadenza personalizzata in base al valore come hit, visita, mese e anno. Questo valore permane per un utente per l’arco temporale configurato, a meno che non venga sovrascritto. Le variabili di traffico sono proprietà. È anche possibile impostarle per i rapporti sui percorsi o come voci di elenco, che suddivideranno più valori in base a un delimitatore scelto.
 
 I supporti sono per Video o File audio in cui hai impostato un tracciamento speciale dei contenuti multimediali.
 
@@ -187,7 +187,7 @@ La sezione Segnalibri è simile ai Rapporti personalizzati, dove i rapporti util
 
 Dashboard era un prodotto precedente che consentiva alle persone di combinare mini-rapporti di dati in un’unica visualizzazione. Tuttavia, la funzionalità di Workspace (sezione 2.1.2.1) è molto più semplice da utilizzare, in quanto esiste solo come punto di accesso ai rapporti precedenti che devono essere ricostruiti prima che questa funzione venga disattivata.
 
-I target consentono alle persone di creare un rapporto basato su un target entro un determinato intervallo temporale. I team monitorano le campagne per vedere se possono raggiungere i loro target di traffico.
+I target consentono alle persone di creare un rapporto basato su un target entro un determinato arco temporale. I team monitorano le campagne per vedere se possono raggiungere i loro target di traffico.
 
 Tutti i rapporti in quest’area consentono più colonne di metrica e raggruppamenti di dimensioni. Tuttavia la semplicità delle visualizzazioni e una parte della logica che sta dietro agli elementi che potrebbero essere correlati a volte possono essere frustranti.
 

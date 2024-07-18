@@ -1,6 +1,6 @@
 ---
 title: Avvio del primo progetto in Analysis Workspace
-description: Scopri come creare nuovi progetti Analysis Workspace da zero o utilizzando i modelli.
+description: Scopri come creare nuovi progetti da zero o utilizzando i modelli in Analysis Workspace.
 feature: Projects
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
 source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 20%
 
 ---
 

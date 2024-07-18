@@ -10,13 +10,13 @@ last-substantial-update: 2023-10-06T00:00:00Z
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
 source-git-commit: 2d94ca8a247adfccb2db127eb6a9f444f54cbf6e
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 57%
+source-wordcount: '127'
+ht-degree: 43%
 
 ---
 
 # Utilizzo dell’operatore &quot;è uguale a&quot; nella segmentazione
 
-Gli operatori di segmento &quot;è uguale a&quot; e &quot;è diverso da&quot; possono essere utilizzati per filtrare un elenco di elementi specifici, invece di utilizzare più istruzioni OR o &quot;contiene uno di&quot;. L’utilizzo di questi operatori invece “contiene uno di” aiuterà a migliorare anche la velocità delle query. Per la documentazione dettagliata, visita [Operatori di confronto per i segmenti](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=it){target="_blank"}.
+Gli operatori di segmento &quot;è uguale a&quot; e &quot;è diverso da&quot; possono essere utilizzati per filtrare un elenco di elementi specifici, invece di utilizzare più istruzioni OR o &quot;contiene uno di&quot;. L’utilizzo di questi operatori invece di &quot;contiene uno di&quot; contribuirà a migliorare anche la velocità della query. Per la documentazione dettagliata, visita [Operatori di confronto per i segmenti](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=it){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)

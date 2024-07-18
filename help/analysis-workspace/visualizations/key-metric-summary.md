@@ -10,14 +10,14 @@ last-substantial-update: 2022-10-11T00:00:00Z
 exl-id: 46afd613-2b89-445a-8d21-626a8f5e8741
 source-git-commit: 00abc8f2470e2199fdbee4e34f2cb8949a8918b1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
 
 # Visualizzazione di riepilogo delle metriche chiave
 
-Scopri la visualizzazione di riepilogo delle metriche chiave in Analysis Workspace che consente di vedere come si presenta una metrica importante in un singolo arco temporale. Consente inoltre di confrontare le prestazioni delle metriche in due intervalli di tempo.
+Scopri la visualizzazione di riepilogo delle metriche chiave in Analysis Workspace che consente di vedere come si presenta una metrica importante in un singolo arco temporale. Consente inoltre di confrontare le prestazioni delle metriche in due archi temporali.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
 

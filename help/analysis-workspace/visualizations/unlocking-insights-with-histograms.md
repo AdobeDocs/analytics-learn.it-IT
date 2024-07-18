@@ -8,19 +8,19 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 8712b293-4d31-4a2b-ada3-59c20094b1d3
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1089'
-ht-degree: 2%
+source-wordcount: '1098'
+ht-degree: 1%
 
 ---
 
-
 # Sblocco di informazioni con istogrammi: oltre le medie in Analytics
 
-_Scopri l’impatto degli istogrammi nell’analisi per informazioni che vanno oltre le medie. Gli istogrammi rivelano pattern di dati nel comportamento del cliente, nel coinvolgimento dei visitatori, nelle prestazioni tecniche e negli errori di modulo, consentendo di ottenere informazioni più approfondite e decisioni informate in Adobe Workspace._
+_Scopri l&#39;impatto degli istogrammi nelle analisi per informazioni che vanno oltre le medie. Gli istogrammi rivelano pattern di dati nel comportamento del cliente, nel coinvolgimento dei visitatori, nelle prestazioni tecniche e negli errori di modulo, consentendo approfondimenti più approfonditi e decisioni informate in Adobe Workspace._
 
-Saltiamo subito dentro. Dovresti usare [istogrammi](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=it). Vi spiegherò perché, ma voglio rispondere alla vostra prima domanda: Cosa diavolo è un istogramma? Capisco. Nella maggior parte dei casi, quando vedete un mucchio di barre salire, potreste pensare che sia un grafico a barre. Sì, gli istogrammi sembrano simili, ma vi assicuro che sono diversi. Un grafico a barre confronta gli elementi, mentre un istogramma mostra la frequenza con cui si è verificata una variabile. Dai un’occhiata. Ecco un grafico a barre:
+Saltiamo subito dentro. Dovresti usare [istogrammi](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=it). Vi spiegherò perché, ma voglio rispondere alla vostra prima domanda: Cosa diavolo è un istogramma? Capisco. Nella maggior parte dei casi, quando vedete un mucchio di barre salire, potreste pensare che sia un grafico a barre. Sì, gli istogrammi sembrano simili, ma vi assicuro che sono diversi. Un grafico a barre confronta gli elementi, mentre un istogramma mostra la frequenza con cui si è verificata una variabile. Dai un&#39;occhiata. Ecco un grafico a barre:
 
 ![Grafico a barre 1](assets/bar-chart-1.png)
 

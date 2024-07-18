@@ -9,14 +9,14 @@ level: Beginner
 exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
 source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 31%
+source-wordcount: '61'
+ht-degree: 21%
 
 ---
 
 # [!UICONTROL Histogram] [!UICONTROL visualization] in Analysis Workspace {#histogram-visualization-in-analysis-workspace}
 
-[!UICONTROL Histograms] consente di visualizzare la distribuzione di una metrica tra visitatori, visite e hit, per trovare segmenti di valore elevato e basso.
+[!UICONTROL Histograms] ti consente di visualizzare la distribuzione di una metrica tra visitatori, visite e hit, per trovare segmenti di valore elevato e basso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
 

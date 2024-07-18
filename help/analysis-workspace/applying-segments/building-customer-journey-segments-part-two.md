@@ -7,13 +7,13 @@ level: Experienced
 last-substantial-update: 2023-07-21T00:00:00Z
 jira: KT-13476
 thumbnail: KT-13476.jpeg
-source-git-commit: bc3bf5b22e3cf5a9d77e3fe8aa2d86c65a7eaefb
+exl-id: 2db73010-5cd0-4454-a4ba-fc1667a50cba
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1981'
+source-wordcount: '1997'
 ht-degree: 0%
 
 ---
-
 
 # Creazione di segmenti di percorso di clienti - parte due
 
@@ -91,7 +91,7 @@ Aggiungi un contenitore Escludi al segmento unito dalla condizione &quot;And&quo
 
 Come best practice, accertati di etichettare i contenitori. Sarai lieto di averlo fatto, soprattutto quando le nostre definizioni dei segmenti diventano più complesse.
 
-Ora che abbiamo creato il segmento Intento di acquisto, possiamo utilizzare l’area di lavoro Qualità dati intento di visita per vedere che il segmento Intento di acquisto si esclude a vicenda con il segmento Uno e Fine.
+Ora che abbiamo creato il segmento Intento di acquisto, possiamo utilizzare il Workspace di qualità dei dati dell’intento di visita per vedere che il segmento Intento di acquisto si esclude a vicenda con il segmento Uno e Fine.
 
 ![Immagine 5](assets/Image-5.png)
 
@@ -131,7 +131,7 @@ Quindi aggiungi contenitori di esclusione per le tue Meraviglie di un hit e visi
 
 ![Immagine 7](assets/Image-7.png)
 
-Ancora una volta, osserva l’area di lavoro per la qualità dei dati per l’intento di visita per assicurarti che i segmenti si escludano a vicenda. I nostri segmenti di Intento di visita stanno prendendo forma correttamente!
+Ancora una volta, osserva il Workspace Visit Intent Data Quality per assicurarti che i segmenti si escludano a vicenda. I nostri segmenti di Intento di visita stanno prendendo forma correttamente!
 
 ![Immagine 8](assets/Image-8.png)
 
@@ -141,7 +141,7 @@ A questo punto, abbiamo configurato tre dei cinque segmenti Intento di visita. V
 
 Questo documento è stato scritto da:
 
-![Aaron Fossum](assets/aaron-headshot.png)
+![Fossum di Aaron](assets/aaron-headshot.png)
 
 **Aaron Fossum**, Director, analisi digitale
 

@@ -12,7 +12,7 @@ kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
 source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
-source-wordcount: '1556'
+source-wordcount: '1522'
 ht-degree: 100%
 
 ---
@@ -29,25 +29,25 @@ Puoi creare una community autonoma all’interno della tua organizzazione. Ecco 
 
 * Creare un processo di onboarding degli utenti:
 
-   Quali sono i requisiti e i processi relativi all’accesso ad Adobe Analytics per la tua azienda? Se non hai ancora definito i requisiti e un processo di onboarding per nuovi utenti, la creazione dell’infrastruttura ti fornirà la scalabilità necessaria.
+  Quali sono i requisiti e i processi relativi all’accesso ad Adobe Analytics per la tua azienda? Se non hai ancora definito i requisiti e un processo di onboarding per nuovi utenti, la creazione dell’infrastruttura ti fornirà la scalabilità necessaria.
 
 * Implementare una corretta procedura di gestione degli utenti e accesso:
 
-   L’accesso degli utenti a suite di rapporti, metriche, dimensioni, strumenti, rapporti e componenti è fondamentale per Adobe Analytics e costituisce una parte chiave del [processo di gestione dei gruppi di utenti](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=it). Il corretto accesso agli strumenti consente agli utenti di utilizzare in autonomia gli strumenti self-service di Analysis Workspace e Reports &amp; Analytics.
+  L’accesso degli utenti a suite di rapporti, metriche, dimensioni, strumenti, rapporti e componenti è fondamentale per Adobe Analytics e costituisce una parte chiave del [processo di gestione dei gruppi di utenti](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=it). Il corretto accesso agli strumenti consente agli utenti di utilizzare in autonomia gli strumenti self-service di Analysis Workspace e Reports &amp; Analytics.
 
 * Comprendere l’implementazione:
 
-   Come best practice, gli utenti devono avere una conoscenza di base dei requisiti di business supportati dalla propria implementazione. Questi sono solitamente descritti in un [documento sui requisiti di business](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=it) (BRD, business requirements document) e un [documento di riferimento sulla progettazione della soluzione](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=it) (DSP, solution design reference document). È necessario includere ciò che è stato implementato, nonché la definizione di requisiti di business, rapporti, eVar, eventi e così via, per categoria.
+  Come best practice, gli utenti devono avere una conoscenza di base dei requisiti di business supportati dalla propria implementazione. Questi sono solitamente descritti in un [documento sui requisiti di business](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=it) (BRD, business requirements document) e un [documento di riferimento sulla progettazione della soluzione](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=it) (DSP, solution design reference document). È necessario includere ciò che è stato implementato, nonché la definizione di requisiti di business, rapporti, eVar, eventi e così via, per categoria.
 
 * Utilizzare i modelli di rapporti:
 
-   I modelli di rapporti e i progetti di Adobe Analytics sono risorse chiave, destinate agli utenti, relative all’implementazione, ai casi di utilizzo per i diversi rapporti e alle best practice da seguire. Tali risorse devono contemplare le domande di business più comuni e spiegare come utilizzare lo strumento per rispondere al meglio a tali domande.
+  I modelli di rapporti e i progetti di Adobe Analytics sono risorse chiave, destinate agli utenti, relative all’implementazione, ai casi di utilizzo per i diversi rapporti e alle best practice da seguire. Tali risorse devono contemplare le domande di business più comuni e spiegare come utilizzare lo strumento per rispondere al meglio a tali domande.
 
 ## 2. Pianificare chi dovrà gestire la community e chi dovrà essere coinvolto
 
 * Decidere chi gestirà la community:
 
-   Una community autonoma inizia con un’infrastruttura basata sull’amministrazione e con l’implementazione dei requisiti di business. Pertanto, i team che gestiscono l’amministrazione e l’abilitazione di Adobe Analytics di un’azienda hanno in genere un ruolo chiave nella gestione di un gruppo di utenti o di una community interna.
+  Una community autonoma inizia con un’infrastruttura basata sull’amministrazione e con l’implementazione dei requisiti di business. Pertanto, i team che gestiscono l’amministrazione e l’abilitazione di Adobe Analytics di un’azienda hanno in genere un ruolo chiave nella gestione di un gruppo di utenti o di una community interna.
 
 * Definire i soggetti coinvolti, i ruoli e le responsabilità:
 
@@ -65,7 +65,7 @@ Puoi creare una community autonoma all’interno della tua organizzazione. Ecco 
 
 * [Creare uno statuto di progetto](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (download del modello):
 
-   Spesso uno statuto di progetto è molto utile per allineare l’azienda all’opportunità di disporre di una community autonoma interna. Rispondi alle seguenti domande per comprendere ciò di cui hai bisogno per definire tale statuto:
+  Spesso uno statuto di progetto è molto utile per allineare l’azienda all’opportunità di disporre di una community autonoma interna. Rispondi alle seguenti domande per comprendere ciò di cui hai bisogno per definire tale statuto:
 
    * Quale problema intendi risolvere? Qual è l’obiettivo della community, e cosa dovrebbe essere incluso o escluso?
    * “Cosa ci guadagno?” Quali sono i benefici o i costi potenziali? Come misurare il successo e quali sono i rischi?

@@ -9,8 +9,8 @@ level: Beginner
 exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 25%
+source-wordcount: '209'
+ht-degree: 22%
 
 ---
 
@@ -51,7 +51,7 @@ Di seguito sono riportate alcune categorie di visualizzazioni e di visualizzazio
 * Tabella a forma libera
 * Riepilogo delle metriche chiave
 * Numero di riepilogo
-* Variazione di riepilogo
+* Modifica riepilogo
 
 </td>
 </tr>

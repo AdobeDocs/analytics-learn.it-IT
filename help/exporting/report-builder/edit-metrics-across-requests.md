@@ -10,8 +10,8 @@ kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 82%
+source-wordcount: '85'
+ht-degree: 81%
 
 ---
 
@@ -21,6 +21,6 @@ Ora è possibile modificare le [!UICONTROL metrics] in più richieste di dati di
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
-Questa funzione si aggiunge alle funzionalità esistenti per la modifica di [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity] e [!UICONTROL segments] in più richieste. La modifica in blocco di più richieste può essere effettuata dal menu di scelta rapida o da &quot;[!UICONTROL Edit Multiple]&quot; nella finestra Gestisci.
+Questa funzione si aggiunge alle funzionalità esistenti per la modifica di [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity] e [!UICONTROL segments] in più richieste. La modifica in blocco delle richieste può essere eseguita dal menu di scelta rapida o da &quot;[!UICONTROL Edit Multiple]&quot; nella finestra Gestisci.
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=it).

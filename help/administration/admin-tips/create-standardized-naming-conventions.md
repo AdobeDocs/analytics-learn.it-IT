@@ -22,9 +22,9 @@ ht-degree: 80%
 
 **PERCHÉ:** le convenzioni di denominazione sono un ottimo modo per mantenere tutto uniforme e rendere l’interfaccia facile da capire per i tuoi utenti. Se crei questi elementi fin dall’inizio e li applichi nella piattaforma e nel codice, in futuro sarà più semplice estenderli.
 
-**COME:** L’interfaccia e il documento sui tag devono corrispondere per &quot;Nome&quot; e &quot;Descrizione&quot;; così gli utenti non dovranno usare un documento Excel e potranno comprendere i dati direttamente nell’interfaccia. Si consiglia inoltre di usare sempre lettere minuscole, per coerenza.
+**COME:** L&#39;interfaccia e il documento sui tag devono corrispondere per &#39;Nome&#39; e &#39;Descrizione&#39;. In questo modo gli utenti non dovranno usare un documento Excel e potranno comprendere i dati direttamente nell&#39;interfaccia. Si consiglia inoltre di usare sempre lettere minuscole, per coerenza.
 
-È sempre meglio mantenere coerenza tra i nomi delle pagine (o tra i nomi delle schermate per le app) anche all’interno della piattaforma. Ad esempio, puoi impostare `property:section:sub section:sub sub section:unique page name` in una variabile/dimensione. Se tutti questi sono campi separati nel livello dati, puoi anche creare il nome della pagina direttamente nel file JS o in Launch. Se tutti questi elementi sono impostati nelle proprie dimensioni, sarà più facile suddividere proprietà o aree specifiche del sito o dell’app e sarà possibile comprendere meglio il traffico e i flussi.
+È sempre meglio mantenere coerenza tra i nomi delle pagine (o tra i nomi delle schermate per le app) anche all’interno della piattaforma. È ad esempio possibile impostare `property:section:sub section:sub sub section:unique page name` in una variabile/dimensione. Se tutti questi sono campi separati nel livello dati, puoi anche creare il nome della pagina direttamente nel file JS o in Launch. Se tutti questi elementi sono impostati nelle proprie dimensioni, sarà più facile suddividere proprietà o aree specifiche del sito o dell’app e sarà possibile comprendere meglio il traffico e i flussi.
 
 Qualsiasi cosa che consenta agli utenti di trovare e comprendere più facilmente i dati, compresi elementi semplici come le convenzioni di denominazione, aumenterà il tasso di utilizzo di Adobe Analytics e fornirà informazioni migliori per il business.
 

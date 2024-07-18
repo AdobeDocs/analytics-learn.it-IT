@@ -9,7 +9,7 @@ hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 79%
 
 ---
@@ -35,7 +35,7 @@ Iscriviti al corso: [https://edex.adobe.com/pd/course/adobe-analytics-for-teachi
 * Modulo sulla raccolta dei dati (1) il framework di implementazione, raccolta, reporting e convalida dei dati
 * Modulo sulla strategia e architettura dei dati (2) nozioni di base su variabili, strategie e architettura dei dati
 
-*Poi combinerai i DATI con INSIGHTS:*
+*Quindi combinerai questi DATI con INSIGHTS:*
 
 * Modulo sulle metriche e funzionalità standard di Adobe (3) come trovare e visualizzare metriche e rapporti sui KPI fondamentali per le analisi
 * Modulo sulle nozioni di base di Analysis Workspace (4) nozioni più approfondite sulle visualizzazioni di report di analisi

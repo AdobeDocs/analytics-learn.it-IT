@@ -17,12 +17,12 @@ ht-degree: 1%
 
 ---
 
-# Integrare [!DNL Adobe Analytics] con [!DNL Adobe Audience Manager] utilizzo dell’inoltro lato server
+# Integrare [!DNL Adobe Analytics] con [!DNL Adobe Audience Manager] utilizzando l&#39;inoltro lato server
 
-Scopri come inviare [!DNL Adobe Analytics] dati a [!DNL Adobe Audience Manager] utilizzo dell’inoltro lato server.
+Scopri come inviare dati [!DNL Adobe Analytics] a [!DNL Adobe Audience Manager] utilizzando l&#39;inoltro lato server.
 
 >[!NOTE]
 >
->&quot;[!UICONTROL Launch]&quot; è stato rinominato in &quot;[!UICONTROL tags]&quot; nell’interfaccia Experience Cloud. Seleziona [!UICONTROL Data Collection] dal [!UICONTROL application switcher] per aprire i tag ed eseguire i passaggi descritti in questo video.
+>&quot;[!UICONTROL Launch]&quot; è stato rinominato in &quot;[!UICONTROL tags]&quot; nell&#39;interfaccia Experience Cloud. Seleziona [!UICONTROL Data Collection] da [!UICONTROL application switcher] per aprire i tag ed eseguire i passaggi descritti in questo video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

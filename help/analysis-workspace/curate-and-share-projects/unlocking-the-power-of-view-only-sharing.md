@@ -8,19 +8,19 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13179
 thumbnail: KT-13179.jpeg
-source-git-commit: 2159759181206c4980ad82c58f1e1a8636143e34
+exl-id: 5396817e-582f-4389-be81-40b8ff8188b2
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-
 # Sblocco della potenza della condivisione in sola lettura in Analysis Workspace
 
 Scopri come la condivisione di progetti Analysis Workspace di Adobe in modalità di &quot;sola lettura&quot; può creare rapporti dashboard pronti per gli utenti esecutivi con un’interfaccia utente pulita e opzioni di filtro predefinite, nonché come la &quot;scorecard mobile&quot; può semplificare la condivisione di KPI di esperienza digitale con i dirigenti in movimento.
 
-La condivisione di progetti Adobe Analytics Workspace con i colleghi è un utilizzo essenziale di Analytics per prendere decisioni aziendali migliori. Possiamo condividere i progetti con altri utenti per i diritti di accesso &quot;Modifica originale&quot;, &quot;Modifica copia&quot; e &quot;Sola lettura&quot;. Nella maggior parte dei casi, condividiamo i progetti con i diritti di accesso per la modifica dell’originale o la copia, in modo da poter aggiornare il progetto in modo collaborativo, oppure altri utenti possono duplicare il progetto come proprio per ulteriori aggiornamenti. Tuttavia, a volte la condivisione in sola lettura è un’opzione di condivisione sorprendentemente buona che va oltre il controllo degli accessi, come suggerito dal nome del diritto di accesso.
+La condivisione di progetti Adobe Analytics Workspace con i colleghi è un utilizzo essenziale di Analytics per prendere decisioni aziendali migliori. Possiamo condividere i progetti con altri utenti per i diritti di accesso &quot;Modifica originale&quot;, &quot;Modifica copia&quot; e &quot;Sola lettura&quot;. Nella maggior parte dei casi, condividiamo i progetti con i diritti di accesso per la modifica dell’originale o la copia, in modo da poter aggiornare il progetto in modo collaborativo o consentire ad altri utenti di duplicare il progetto come proprio per ulteriori aggiornamenti. Tuttavia, a volte la condivisione in sola lettura è un’opzione di condivisione sorprendentemente buona che va oltre il controllo degli accessi, come suggerito dal nome del diritto di accesso.
 
 ## Perché sola lettura
 
@@ -30,7 +30,7 @@ Inoltre, poiché tutti i componenti sono di sola lettura se nel progetto sono ut
 
 Questo consente al progetto di sola lettura di diventare un report dashboard pronto per l’ufficio esecutivo con un’interfaccia utente semplice e pulita e opzioni di filtro predefinite. Se utilizzato con un collegamento a un pannello o a una visualizzazione, può anche fornire una funzione di &quot;drill-down&quot; come soluzione di business intelligence completa.
 
-Il progetto di sola lettura è utile anche per condividere i dati con utenti che hanno poca esperienza con Adobe Analytics, come i colleghi di marketing dei prodotti che guidano campagne di lancio del prodotto e che forniscono loro un dashboard della campagna con raggruppamenti predefiniti per la conversione e il canale di marketing.
+Il progetto di sola lettura è utile anche per condividere i dati con utenti che hanno poca esperienza con Adobe Analytics, come i colleghi di marketing dei prodotti che guidano campagne di lancio del prodotto e che forniscono loro un dashboard della campagna con raggruppamenti predefiniti dei canali di conversione e marketing.
 
 ## Un altro modo - La scorecard per dispositivi mobili
 

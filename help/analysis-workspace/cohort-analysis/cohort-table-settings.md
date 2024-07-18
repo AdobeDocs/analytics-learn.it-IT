@@ -29,6 +29,6 @@ Le personalizzazioni di [!UICONTROL Cohort Table] includono la possibilità di
 1. Arrotondare le percentuali al numero intero più vicino
 1. Mostrare/nascondere una riga con la percentuale media nella parte superiore della tabella.
 
-Le righe medie sono ideali per la visualizzazione [!UICONTROL retention] o [!UICONTROL churn] in generale, anziché singolarmente [!UICONTROL cohort] righe.
+Le righe medie sono ideali per la visualizzazione complessiva di [!UICONTROL retention] o [!UICONTROL churn], anziché per singole [!UICONTROL cohort] righe.
 
 Per ulteriori informazioni sull’analisi per [!UICONTROL cohort], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=it).

@@ -29,7 +29,7 @@ Per iniziare, definisci la situazione attuale e stabilisci quale sia il problema
 
 Dopo aver impostato la situazione, utilizza i dati per rivelare l’origine del problema o dell’opportunità. A tale scopo, non presentare un’analisi approfondita: piuttosto, concentrati su quei risultati e quelle variabili che meglio illustrano la situazione attuale.  Illustra la relazione tra le variabili indipendenti e dipendenti mediante l’uso di elementi visivi d’impatto e allo stesso tempo semplici, affinché il tuo pubblico possa comprenderli facilmente.
 
-**Suggerimento per Adobe Workspace:**
+**Suggerimento Workspace Adobe:**
 Crea visualizzazioni semplici e di facile lettura, in linea con il tipo di dati che stai condividendo:
 
 * Utilizza i grafici a barre per dati binari o relativi a categorie.

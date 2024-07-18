@@ -11,14 +11,14 @@ kt: 10534
 exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '300'
 ht-degree: 92%
 
 ---
 
 # Creare un sito Adobe Analytics interno (Confluence o altro)
 
-**COSA:** Se hai seguito il consiglio in [questo suggerimento](create-basic-videos-and-training.md){target="_blank"} per creare documenti di formazione, ovviamente non è possibile conservarli sul disco rigido. Crea una posizione centrale da cui possano essere condivisi e consultati da tutti gli utenti, un sito Adobe Analytics interno (Confluence o altro) in cui puoi pubblicare tutti questi documenti e mantenerne diverse versioni.
+**COSA:** Se hai seguito il consiglio in [questo suggerimento](create-basic-videos-and-training.md){target="_blank"} di creare documenti di formazione, ovviamente non puoi tenerli sul disco rigido. Crea una posizione centrale da cui possano essere condivisi e consultati da tutti gli utenti, un sito Adobe Analytics interno (Confluence o altro) in cui puoi pubblicare tutti questi documenti e mantenerne diverse versioni.
 
 **PERCHÉ:** impostando un singolo archivio condiviso, potrai indirizzarvi tutti i nuovi utenti e contare su un’unica fonte di verità in termini di versioni più recenti di tutti i tuoi documenti. Inoltre agevola la collaborazione e la gestione ottimale delle versioni.
 

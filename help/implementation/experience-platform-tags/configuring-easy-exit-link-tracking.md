@@ -1,6 +1,6 @@
 ---
-title: Configurare il tracciamento facile dei collegamenti di uscita nei tag di Experience Platform
-description: Scopri come tenere traccia dei collegamenti di uscita sul tuo sito (collegamenti per passare a un altro sito) in pochi clic nell’estensione Adobe Analytics, nei tag di Experience Platform.
+title: Configurazione del tracciamento facile dei collegamenti di uscita nei tag di Experience Platform
+description: Scopri come tracciare i collegamenti di uscita sul tuo sito (collegamenti che portano a un altro sito) in pochi clic nell’estensione Adobe Analytics nei tag di Experience Platform.
 feature: Tags
 topics: Development
 activity: implement
@@ -13,7 +13,7 @@ exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
 source-git-commit: 6dd1575364f3bb3cf81c3f5ffb642f3c1043eb8b
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 

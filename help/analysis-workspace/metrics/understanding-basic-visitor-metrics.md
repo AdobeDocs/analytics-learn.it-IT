@@ -15,12 +15,12 @@ ht-degree: 12%
 
 # Informazioni sulle metriche di base del visitatore
 
-Informazioni su [[!UICONTROL Page Views]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Visits]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=it), e [[!UICONTROL Visitors]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=it) in Adobe Analytics.
+Informazioni su [[!UICONTROL Page Views]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Visits]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=it) e [[!UICONTROL Visitors]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=it) in Adobe Analytics.
 
 * Ottieni le definizioni di queste metriche di visita di base e scopri le loro somiglianze e differenze.
 
 * Scopri i vari termini (sinonimi o parole chiave) associati alle metriche dei visitatori e al traffico del sito web.
 
-* Visualizza un esempio [!UICONTROL Workspace] progetto che mostra come queste metriche vengono visualizzate nell’interfaccia.
+* Visualizza un progetto [!UICONTROL Workspace] di esempio che mostra come queste metriche vengono visualizzate nell&#39;interfaccia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
