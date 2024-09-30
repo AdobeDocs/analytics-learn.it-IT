@@ -1,6 +1,6 @@
 ---
-title: Introduzione all’integrazione Analytics for Advertising Cloud DSP
-description: L’integrazione Analytics for Advertising Cloud DSP è un’integrazione nativa bidirezionale tra Adobe Analytics e Adobe Advertising Cloud.
+title: Introduzione ad Analytics per l’integrazione di Adobe Advertising DSP
+description: L’integrazione Adobe Advertising DSP è un’integrazione bidirezionale nativa tra Adobe Analytics e Adobe Advertising DSP.
 feature: Advertising Integration
 topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,15 +8,15 @@ level: Intermediate
 thumbnail: 27237.jpg
 kt: 2913
 exl-id: 66fb50e7-6500-4b16-beab-7ceac17f9245
-source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
+source-git-commit: 74592751cd79cf58694cf30c994dd214399f20aa
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 0%
 
 ---
 
-# Introduzione all’Integrazione [!DNL Analytics for Advertising] DSP {#introduction-to-the-analytics-for-advertising-cloud-dsp-integration}
+# Introduzione ad Analytics per l’integrazione di Adobe Advertising DSP
 
-L’integrazione [!DNL Analytics for Advertising Cloud] DSP è un’integrazione bidirezionale nativa tra Adobe Analytics e Adobe Advertising Cloud. Con questa integrazione, puoi acquisire in [!DNL Analytics] i `Viewthroughs` dalle ad impression di Advertising Cloud. [!DNL Analytics] collega i `Viewthroughs` a tutte le attività a valle del sito, come ad esempio un `Clickthrough`. [!DNL Analytics] restituisce le [!DNL metrics] ad [!DNL Advertising Cloud] e viene utilizzato in modelli di offerta algoritmici avanzati. Questo video illustra cosa è un `Viewthrough`, i vantaggi dell’integrazione e alcuni esempi di base dell’utilizzo delle nuove [!UICONTROL dimensions] e [!UICONTROL metrics] in [!UICONTROL Analysis Workspace].
+L&#39;integrazione DSP [!DNL Adobe Advertising] è un&#39;integrazione bidirezionale nativa tra Adobe Analytics e Adobe Advertising DSP. Questa integrazione acquisisce `Viewthroughs` dalle ad impression di Advertising in [!DNL Analytics]. [!DNL Analytics] connette `Viewthroughs` a tutte le attività del sito a valle, ad esempio `Clickthroughs`. [!DNL Analytics] restituisce [!DNL metrics] a [!DNL Advertising DSP] per alimentare modelli di offerte algoritmici avanzati. Questo video illustra la metrica `Viewthrough` e i vantaggi dell&#39;integrazione e fornisce esempi di base dell&#39;utilizzo di [!UICONTROL dimensions] e [!UICONTROL metrics] in [!UICONTROL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27237/?quality=12&learn=on)
