@@ -1,6 +1,6 @@
 ---
 title: Utilizzo delle date in Analysis Workspace
-description: "Questo video spiega tre diversi tipi di utilizzo delle date nelle analisi a forma libera: il calendario, gli elementi di intervallo di date e gli elementi di granularità. Purtroppo non spiega come utilizzare le date per abilitare i grafici a linee. "
+description: 'Questo video spiega tre diversi modi di lavorare con le date nelle analisi a forma libera: il calendario, gli elementi di intervallo di date e gli elementi di granularità. Purtroppo non spiega come utilizzare le date per abilitare i grafici a linee. '
 feature: Calendar
 topics: null
 activity: use
@@ -13,7 +13,7 @@ exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 100%
+ht-degree: 70%
 
 ---
 
