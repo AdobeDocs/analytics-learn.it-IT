@@ -4,7 +4,7 @@ user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
+source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
 workflow-type: tm+mt
 source-wordcount: '2164'
 ht-degree: 96%
@@ -383,7 +383,7 @@ ht-degree: 96%
    + Adobe Advertising DSP {#adobe-advertising-dsp}
       + [Configurazione di Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementazione dei modelli di tracciamento nei motori di ricerca](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Introduzione all’integrazione Adobe Advertising DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [Introduzione all’integrazione di Adobe Advertising DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
       + [Creare un’analisi per una campagna pre-lancio](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
       + [Rapporto sui canali di marketing Advertising DSP](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [Creare profili di percorso del sito in Analytics](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
