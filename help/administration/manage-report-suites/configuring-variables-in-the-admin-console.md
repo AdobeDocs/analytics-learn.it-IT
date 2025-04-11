@@ -1,5 +1,5 @@
 ---
-title: Configurare le variabili in Admin Console
+title: Configurare le variabili in Report Suite Manager
 description: Scopri come configurare variabili ed eventi in Report Suite Manager, assicurandoti che i nomi e i comportamenti giusti per i rapporti, le dimensioni e le metriche.
 feature: Report Suite Settings
 thumbnail: 28755.jpg
@@ -8,16 +8,16 @@ topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
-source-git-commit: 988fe05130035099008c58528f37512ad80c881e
+source-git-commit: 35642a97b2f59c92458504d81c9d6bf2e7dec446
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 61%
+source-wordcount: '55'
+ht-degree: 0%
 
 ---
 
-# Configura variabili in [!DNL Admin Console]
+# Configura variabili in [!DNL Report Suite Manager]
 
-Dopo aver definito le variabili e gli eventi da utilizzare nell’implementazione di [!DNL Analytics], dovrai inserirli e configurarli in [!DNL Admin Console], affinché i nomi e i comportamenti giusti vengano utilizzati in tutti i rapporti, le dimensioni e le metriche. Questo video ti mostra dove e come farlo.
+Scopri come configurare variabili ed eventi in Report Suite Manager, assicurandoti che i nomi e i comportamenti giusti per i rapporti, le dimensioni e le metriche.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
 

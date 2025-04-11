@@ -4,10 +4,10 @@ user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
+source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
 workflow-type: tm+mt
-source-wordcount: '2164'
-ht-degree: 96%
+source-wordcount: '2160'
+ht-degree: 92%
 
 ---
 
@@ -236,41 +236,41 @@ ht-degree: 96%
       + [Utilizzare una suite di rapporti globale](administration/admin-tips/use-a-global-report-suite.md)
       + [Creare un progetto di notizie e annunci](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Favorire il successo con dashboard di riepilogo esecutive](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-      + [Creare dashboard operative](administration/admin-tips/create-operational-dashboards.md)
+      + [Creare dashboard operativi](administration/admin-tips/create-operational-dashboards.md)
    + Impostazioni aziendali {#company-settings}
-      + [Applicare restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [Applica restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visualizzare le funzioni disponibili per l’account](administration/company-settings/view-your-accounts-available-features.md)
    + Gestione utente {#user-management}
       + [Aggiunta di un amministratore ad Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Creare profili di prodotto](administration/user-management/create-product-profiles.md)
       + [Limitare l’accesso alle suite di rapporti in Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Trasferire le risorse da utente a un altro](administration/user-management/transfer-user-assets-to-a-different-user.md)
-      + [Controllare l’ID IMS collegato per evitare problemi di accesso](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
+      + [Controlla l’ID IMS collegato per evitare problemi di accesso](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Gestire suite di rapporti {#manage-report-suites}
-      + [Come configurare le impostazioni generali dell’account](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [Configurare le impostazioni account generali](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personalizzare le impostazioni del calendario](administration/manage-report-suites/customize-calendar-settings.md)
-      + [Configurazione del rilevamento di ricerche a pagamento](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [Configurare il rilevamento di ricerche a pagamento](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Impostare i canali di marketing](administration/manage-report-suites/set-up-marketing-channels.md)
       + [Creare regole di elaborazione per il canale di marketing](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-      + [Manipolazione dei dati in entrata con le regole di elaborazione](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
-      + [Configurazione delle variabili di traffico (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [Manipolare i dati in arrivo con le regole di elaborazione](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [Configurare le variabili di traffico (prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurare le classificazioni del traffico](administration/manage-report-suites/configure-traffic-classifications.md)
       + [Configurare le variabili della gerarchia](administration/manage-report-suites/configure-hierarchy-variables.md)
-      + [Configurazione delle variabili in Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Configurare eventi e variabili](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Configurare le classificazioni di conversione](administration/manage-report-suites/configure-conversion-classifications.md)
-      + [Configurazione delle variabili elenco](administration/manage-report-suites/configuring-list-variables.md)
+      + [Configurare le variabili elenco](administration/manage-report-suites/configuring-list-variables.md)
       + [Configurare i metodi di ricerca](administration/manage-report-suites/configure-finding-methods.md)
-      + [Impostare filtri per URL interni](administration/manage-report-suites/set-internal-url-filters.md)
+      + [Impostare filtri URL interni](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configurazione delle impostazioni del CAP](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Abilitare l’impostazione per marca temporale opzionale](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Abilitare l’impostazione opzionale della marca temporale](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Configurare le regole bot in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Governance dei dati e RGPD {#data-governance-and-gdpr}
       + [Governance dei dati e RGPD in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
    + Gestione traffico {#traffic-management}
-      + [Utilizzo delle chiamate server](administration/traffic-management/server-call-usage.md)
+      + [Utilizzo chiamate al server](administration/traffic-management/server-call-usage.md)
       + [Gestire un picco di traffico imminente](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Registri{#logs}
-      + [Tracciamento dell’utilizzo tramite i registri per Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+      + [Tracciamento del registro di utilizzo per Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Panoramica dei registri di amministrazione di Analytics](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementazione {#implementation}
    + Nozioni di base sull’implementazione {#implementation-basics}
