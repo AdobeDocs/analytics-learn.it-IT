@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Questo video spiega come salvare ed esportare i progetti per se stessi, inviare progetti ad altri e invitare altri utenti a collaborare al progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35902/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=it).

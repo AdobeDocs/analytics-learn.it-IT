@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Per diventare un business fondato sulle esperienze, il data-driven marketing è fondamentale. Raggiungi un nuovo livello di maturità nelle attività di analisi, dai dati agli insight fino all’azione.
 
->[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39267/?quality=12&learn=on&captions=ita)
 
 Scopri come Adobe può aiutarti a conoscere il cliente da ogni punto di vista: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)

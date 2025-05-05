@@ -18,6 +18,6 @@ ht-degree: 100%
 
 [!DNL Time-parting] prende il timestamp degli hit raccolti e lo suddivide in dimensioni più significative, ad esempio per “Ora del giorno” o “Giorno della settimana”. Queste dimensioni sono integrate e pronte all’uso in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329410/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=it).

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come comprendere a fondo la qualità del coinvolgimento nella tua app vocale grazie a funzionalità quali frequenza di utilizzo, [!UICONTROL cohort], visite/utenti e durata delle sessioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328539/?quality=12&learn=on&captions=ita)

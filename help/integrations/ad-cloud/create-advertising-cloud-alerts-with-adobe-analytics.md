@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Scopri come sfruttare la potenza degli avvisi di Adobe Analytics per monitorare le campagne multimediali Advertising Cloud a pagamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/35118/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40446/?quality=12&learn=on&captions=ita)

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Quando decidi di tenere traccia della ricerca interna sul tuo sito, è importante decidere innanzitutto quali aspetti della ricerca monitorare e quali azioni possono essere intraprese dall’analisi dei risultati. Questo video illustra come documentare i requisiti di business.
 
->[!VIDEO](https://video.tv.adobe.com/v/333511/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413451/?quality=12&learn=on&captions=ita)

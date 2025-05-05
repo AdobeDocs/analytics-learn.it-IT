@@ -18,4 +18,4 @@ ht-degree: 100%
 
 A seconda del tipo di visualizzazione che aggiungi in Analysis Workspace, puoi inserirvi i dati in diversi modi. Questo video illustra tali metodi.
 
->[!VIDEO](https://video.tv.adobe.com/v/332507/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411539/?quality=12&learn=on&captions=ita)

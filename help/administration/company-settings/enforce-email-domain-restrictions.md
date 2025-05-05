@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Security Manager consente di controllare l’accesso ai dati di reporting. Le opzioni includono password complesse, scadenza password, restrizioni di accesso IP e restrizioni del dominio e-mail. Con l’applicazione di restrizioni al dominio e-mail, vengono filtrati gli indirizzi e i domini e-mail a cui Analytics invia segnalibri, rapporti scaricabili e avvisi. L’elenco dei filtri e-mail supporta fino a 100 voci e ogni voce può essere un indirizzo e-mail o un dominio e-mail completo.
 
->[!VIDEO](https://video.tv.adobe.com/v/335741/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418486/?quality=12&learn=on&captions=ita)

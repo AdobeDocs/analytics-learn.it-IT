@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Gli ID IMS collegati errati o mancanti in Adobe Analytics possono causare problemi di accesso per gli utenti. Gli utenti possono controllare direttamente l’ID IMS collegato e contattare l’assistenza clienti per eventuali problemi, evitando così di eseguire i passaggi più comuni per la risoluzione dei problemi.
 
->[!VIDEO](https://video.tv.adobe.com/v/335749/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418704/?quality=12&learn=on&captions=ita)

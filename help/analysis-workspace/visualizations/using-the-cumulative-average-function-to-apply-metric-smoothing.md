@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Più è lungo il periodo di tempo preso in considerazione per le tendenze di una metrica, più è difficile individuarne le direzioni. Per risolvere questo problema, la funzione Media cumulativa in Metriche calcolate consente di applicare l’arrotondamento alle metriche in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328252/?quality=12&learn=on&captions=ita)

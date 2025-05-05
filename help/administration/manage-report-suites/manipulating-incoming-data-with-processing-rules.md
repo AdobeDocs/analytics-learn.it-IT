@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Può essere molto utile intervenire sui dati inseriti nelle suite di rapporti, per aggiungerli o modificarli in base a quelli in arrivo. Questo video offre una panoramica delle regole di elaborazione in Adobe Analytics e ne illustra le modalità di utilizzo. Include anche alcuni suggerimenti, esempi e persino un’avvertenza.
 
->[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342191/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=it).

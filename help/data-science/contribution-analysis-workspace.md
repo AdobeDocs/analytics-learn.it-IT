@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Questo video illustra [!UICONTROL Contribution Analysis] e la sua capacità di utilizzare l’apprendimento automatico per spiegare in modo rapido e semplice i fattori che hanno contribuito a una tendenza nei tuoi dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327901/?quality=12&learn=on&captions=ita)
 
 [!UICONTROL Contribution Analysis] è disponibile in Analysis Workspace per i clienti di Adobe Analytics Premium.
 

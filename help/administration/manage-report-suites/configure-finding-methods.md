@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Questo video spiega come configurare le impostazioni che controllano il modo in cui l’attribuzione degli eventi di conversione viene gestita dai componenti e rapporti della funzione “Finding Methods” (Metodi di ricerca), per motori di ricerca, parole chiave cercate, ecc.
 
->[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412930/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html?lang=it).

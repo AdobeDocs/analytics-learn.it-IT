@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Le impostazioni dei livelli di accesso alle funzionalità nella sezione amministratore su Analytics consentono di visualizzare il livello di accesso ai pacchetti Adobe Analytics e alle funzionalità a cui la tua azienda ha diritto. Ciò include: Activity Map, Advertising Analytics, rilevamento delle anomalie in avvisi, ecc.
 
->[!VIDEO](https://video.tv.adobe.com/v/335742/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418476/?quality=12&learn=on&captions=ita)

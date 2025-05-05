@@ -18,6 +18,6 @@ ht-degree: 100%
 
 In questo video, scopri come limitare i dati nelle tabelle e nelle visualizzazioni applicando segmenti ai dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35903/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html?lang=it).

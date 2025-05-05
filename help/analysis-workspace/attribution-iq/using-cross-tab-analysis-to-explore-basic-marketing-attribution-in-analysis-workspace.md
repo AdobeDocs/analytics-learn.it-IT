@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Esistono diversi modi per dare una spinta ulteriore alla metodologia di attribuzione con Adobe Analytics. In questo video, viene evidenziato come ottenere informazioni più approfondite dal rapporto Marketing Channels (Canali di marketing) mediante le analisi incrociate in Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327756/?quality=12&learn=on&captions=ita)
 
 **AGGIORNAMENTO**: sono stati apportati diversi miglioramenti a [!DNL Workspace] da quando è stato pubblicato questo video. Stiamo lasciando il video in diretta perché da alcuni ottimi suggerimenti che dovresti comunque conoscere.
 

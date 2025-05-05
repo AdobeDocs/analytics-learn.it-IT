@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Questo video illustra come creare il rapporto di cross-selling in Analysis Workspace ed estenderlo ulteriormente ad altre dimensioni o classificazioni multivalore.
 
->[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327902/?quality=12&learn=on&captions=ita)

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Scopri come organizzare i progetti in cartelle e sottocartelle in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413167/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417499/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/workspace-folders/about-folders.html?lang=it).

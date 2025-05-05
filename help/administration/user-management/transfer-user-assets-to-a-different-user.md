@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Nella pagina per la gestione degli utenti puoi gestire utenti e gruppi e controllare l’accesso a rapporti, strumenti e suite di rapporti. Con la funzione di Adobe Analytics per la gestione degli utenti, puoi assegnare vari elementi dell’account utente (dashboard, eventi calendario, segnalibri, ecc.) da un account utente a un altro.
 
->[!VIDEO](https://video.tv.adobe.com/v/335745/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418514/?quality=12&learn=on&captions=ita)

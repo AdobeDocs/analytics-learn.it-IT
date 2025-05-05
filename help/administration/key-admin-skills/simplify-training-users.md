@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # Suggerimenti su come semplificare e ridurre il tempo dedicato alla formazione degli utenti
 
->[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341106/?quality=12&learn=on&captions=ita)
 
 Per costruire una cultura del processo decisionale basato sui dati è fondamentale assicurare che gli utenti aziendali all’interno della tua organizzazione abbiano una buona formazione su Adobe Analytics. Gli utenti in grado di trovare con facilità le informazioni all’interno di Adobe Analytics possono rispondere in autonomia a semplici domande aziendali, lasciando agli analisti più tempo per elaborare le risposte a questioni più complesse. La condivisione delle tue conoscenze contribuisce a promuovere la democrazia dei dati e consente agli utenti aziendali di essere più indipendenti nel prendere decisioni basate sulle prestazioni.
 

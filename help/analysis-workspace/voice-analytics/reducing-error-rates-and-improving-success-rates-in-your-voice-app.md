@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come trovare aree di miglioramento per la tua app vocale con funzioni quali [!UICONTROL churn], tassi di successo e di errore e intento di fallback.
 
->[!VIDEO](https://video.tv.adobe.com/v/27222/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328586/?quality=12&learn=on&captions=ita)

@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Come vengono trasmessi i dati dalla pagina ai rapporti in Adobe Analytics? Questo video mostra come.
 
->[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37381/?quality=12&learn=on&captions=ita)

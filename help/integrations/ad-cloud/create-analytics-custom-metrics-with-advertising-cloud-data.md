@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri utili metriche personalizzate da creare quando si utilizzano i dati di Advertising Cloud all’interno di Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/35119/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40452/?quality=12&learn=on&captions=ita)

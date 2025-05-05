@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Scopri come passare alla configurazione della sezione Rilevamento ricerca a pagamento nella Admin Console di Adobe Analytics, inclusi alcuni consigli.
 
->[!VIDEO](https://video.tv.adobe.com/v/339302/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343371/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=it#section_0C2CFA0AF77B47098BE37CB024665D0D).

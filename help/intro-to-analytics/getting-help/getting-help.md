@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Può capitare a tutti di aver bisogno di assistenza mentre si lavora in Adobe Analytics. Questo video mostra alcune delle ottime risorse che sono a portata di mano quando ci si imbatte in un intoppo e si ha bisogno di un po’ di aiuto.
 
->[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37378/?quality=12&learn=on&captions=ita)

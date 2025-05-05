@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come individuare i percorsi seguiti degli utenti fino alla conversione nelle app mobili utilizzando la funzione [!DNL Flow] e come fare un confronto con altre esperienze, come il web. Impara a definire e misurare la conversione in processi con più fasi, per il successo delle tue app mobili.
 
->[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36994/?quality=12&learn=on&captions=ita)

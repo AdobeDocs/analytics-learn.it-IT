@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Questo video illustra la configurazione delle classificazioni per le variabili di conversione, note come “eVar”. Questo vale anche per prodotti e variabili elenco.
 
->[!VIDEO](https://video.tv.adobe.com/v/340078/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342940/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-classifications.html?lang=it).

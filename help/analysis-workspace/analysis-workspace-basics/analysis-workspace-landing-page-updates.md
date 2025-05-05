@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri alcuni importanti miglioramenti e aggiunte alla nuova pagina di destinazione. Abbiamo preso in considerazione il tuo feedback di cliente, cercando di incorporare le funzionalità più importanti quali il ridimensionamento delle colonne, i nuovi tipi di colonna, i collegamenti ai rapporti in tempo reale e bot e molte altre ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/342476/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346470/?quality=12&learn=on&captions=ita)

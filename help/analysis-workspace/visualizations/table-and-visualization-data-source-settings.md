@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Questo video spiega come le tabelle e le visualizzazioni sono correlate tra loro tramite le impostazioni, e come configurarle per diversi casi di utilizzo di analisi.
 
->[!VIDEO](https://video.tv.adobe.com/v/336250/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418832/?quality=12&learn=on&captions=ita)

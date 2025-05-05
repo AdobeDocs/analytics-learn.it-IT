@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come personalizzare le visualizzazioni dettagli, compreso il testo per le dashboard di Adobe Analytics, per perfezionare la tua presentazione alle parti interessate tramite i progetti di scorecard per dispositivi mobili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413788/?quality=12&learn=on&captions=ita)

@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Ottieni una panoramica generale della configurazione delle [!UICONTROL report suites] per l’utilizzo di [!DNL Advertising Analytics], dell’impostazione di un account di ricerca a pagamento e dei dettagli di reporting per [!DNL Advertising Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41442/?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive {#additional-resources}
 

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Puoi iniziare a tracciare i collegamenti di download sul sito (collegamenti che non scaricano file del browser sul computer) in pochi clic nell’estensione [!DNL tags] di Adobe Analytics in Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429929/?quality=12&learn=on&captions=ita)
 
 Che si tratti di white paper, manuali, file audio o video o una serie di altre possibilità, è possibile che sul sito siano presenti collegamenti per scaricare file che non si aprono in un browser. In questi file, non è possibile avere un codice [!DNL Analytics] sulla pagina per il tracciamento. La configurazione illustrata nel video consente di tenere traccia del collegamento al file di download.

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come comprendere le diverse prestazioni e funzionalità dei vari dispositivi con assistenza vocale per dare priorità alla roadmap dei prodotti.
 
->[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328543/?quality=12&learn=on&captions=ita)

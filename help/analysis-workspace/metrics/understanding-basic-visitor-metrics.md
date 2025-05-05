@@ -23,4 +23,4 @@ Informazioni su [[!UICONTROL Page Views]](https://experienceleague.adobe.com/doc
 
 * Visualizza un progetto [!UICONTROL Workspace] di esempio che mostra come queste metriche vengono visualizzate nell&#39;interfaccia.
 
->[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37376/?quality=12&learn=on&captions=ita)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come utilizzare le scelte rapide da tastiera in Analysis Workspace. Si tratta di tecniche che consentono di risparmiare tempo per eseguire varie attività in un progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329397/?quality=12&learn=on&captions=ita)

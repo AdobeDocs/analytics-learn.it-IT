@@ -21,6 +21,6 @@ ht-degree: 100%
 
 nelle [!UICONTROL Cohort Tables], l’impostazione [!UICONTROL Latency Table] consente di analizzare il comportamento delle [!UICONTROL cohorts] prima e dopo l’evento di inclusione (non solo dopo, come nelle rappresentazioni di [!UICONTROL Cohort] standard). Questa impostazione è utile, ad esempio, per analizzare l’impatto di un nuovo prodotto o del lancio di una campagna.
 
->[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430197/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=it).

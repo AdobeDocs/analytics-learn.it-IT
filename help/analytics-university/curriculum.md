@@ -16,7 +16,7 @@ ht-degree: 79%
 
 # Corsi su Adobe Analytics per l’istruzione
 
->[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443865/?quality=12&learn=on&captions=ita)
 
 ## Contenuto del corso su Analytics
 

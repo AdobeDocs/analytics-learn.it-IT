@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Inizia a creare i tuoi progetti. Scopri come creare un progetto di Analytics Workspace da zero: come creare una tabella, allegare una visualizzazione e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/334076/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415639/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=it).

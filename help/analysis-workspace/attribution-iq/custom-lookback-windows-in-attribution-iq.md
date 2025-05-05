@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Le finestre di look-back personalizzate consentono di espandere la finestra di attribuzione oltre l’intervallo di reporting (fino a un massimo di 90 giorni) e si applicano a ogni conversione nello stesso intervallo. In genere, tenere conto delle interazioni avvenute nei mesi precedenti aumenta la precisione dell’attribuzione per gli eventi che si verificano all’inizio del periodo di reporting.
 
->[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40045/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=it#lookback-windows)

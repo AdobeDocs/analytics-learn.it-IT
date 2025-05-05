@@ -22,4 +22,4 @@ Questo video illustra come utilizzare una speciale estensione della stringa di p
 >
 > Il lancio è ora **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37370/?quality=12&learn=on&captions=ita)

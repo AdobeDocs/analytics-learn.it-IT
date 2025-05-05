@@ -17,4 +17,4 @@ ht-degree: 60%
 
 Scopri come inviare un ticket di supporto a [!DNL Customer Care] all&#39;Adobe direttamente nel prodotto, semplificando la procedura di risoluzione.
 
->[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430059/?quality=12&learn=on&captions=ita)

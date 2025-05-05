@@ -17,7 +17,7 @@ ht-degree: 99%
 
 # Stai facendo le domande giuste?
 
->[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346458/?quality=12&learn=on&captions=ita)
 
 _Tutti_. Questa è una delle risposte più comuni delle parti interessate alla domanda: _“Quali dati desideri monitorare?”_ Può essere più utile identificare e raccogliere i _punti di dati utilizzabili_ che registrare ogni elemento possibile. Per individuare in maniera efficiente i punti di dati, servono un piano di base e discussioni creative con le parti interessate.
 

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come portare l’analisi suddivisa in base al tempo al livello successivo creando una [!UICONTROL visualization] a mappa di calore dei comportamenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328243/?quality=12&learn=on&captions=ita)

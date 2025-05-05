@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe tenta di collaborare con i client per garantire il successo di un evento con traffico elevato. La pianificazione dei picchi di traffico è il punto di partenza del processo di collaborazione. La sezione di pianificazione di un picco consente di avvisare Adobe di picchi di traffico temporanei, in modo da allocare le risorse appropriate per gestirli.
 
->[!VIDEO](https://video.tv.adobe.com/v/335744/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418699/?quality=12&learn=on&captions=ita)

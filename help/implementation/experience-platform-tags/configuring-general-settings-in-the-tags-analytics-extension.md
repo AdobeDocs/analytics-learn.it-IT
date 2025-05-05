@@ -22,4 +22,4 @@ Scopri le opzioni generali di configurazione per l’estensione [!DNL tags] di A
 >
 > Ora il lancio è **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429922/?quality=12&learn=on&captions=ita)

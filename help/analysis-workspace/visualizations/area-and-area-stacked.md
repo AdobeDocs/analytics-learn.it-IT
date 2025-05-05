@@ -18,6 +18,6 @@ ht-degree: 100%
 
 In questo video, scopri come aggiungere visualizzazioni Superfici e Superfici sovrapposte al progetto in Analysis Workspace e alcuni suggerimenti per personalizzare le visualizzazioni in base alle tue esigenze.
 
->[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416615/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=it#)

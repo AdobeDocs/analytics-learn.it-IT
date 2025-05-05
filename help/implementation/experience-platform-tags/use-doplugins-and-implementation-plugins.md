@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Scopri i vantaggi dell’utilizzo della funzione doPlugins e aggiungi i plug-in di implementazione di Analytics per arricchire la raccolta dati. Questo video illustra dove trovare il codice e dove aggiungerlo nei [!DNL tags] di Experience Platform. Consulta la documentazione di [doPlugins](https://experienceleague.adobe.com/docs/analytics/implementation/vars/functions/doplugins.html?lang=it) e [Plug-in di implementazione di Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=it) per ulteriori dettagli.
 
->[!VIDEO](https://video.tv.adobe.com/v/28772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428859/?quality=12&learn=on&captions=ita)

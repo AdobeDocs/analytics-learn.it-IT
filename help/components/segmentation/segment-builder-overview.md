@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Vai a fondo nei tuoi dati con la segmentazione in Adobe Analytics. Questo video ti guida attraverso il generatore di segmenti e fornisce una panoramica di base.
 
->[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41651/?quality=12&learn=on&captions=ita)

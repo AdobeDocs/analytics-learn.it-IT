@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come comprendere il comportamento degli utenti e ottenere informazioni approfondite osservando [!UICONTROL metrics] chiave quali intenti principali, parametri e autenticazione utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328546/?quality=12&learn=on&captions=ita)

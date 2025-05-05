@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Scopri il funzionamento dei dati di immissione view-through e click-through di Advertising Cloud con i canali marketing di Adobe Analytics [!UICONTROL Marketing Channels].
 
->[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40428/?quality=12&learn=on&captions=ita)

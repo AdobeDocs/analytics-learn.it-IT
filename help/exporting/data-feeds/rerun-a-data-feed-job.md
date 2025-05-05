@@ -20,4 +20,4 @@ ht-degree: 100%
 
 L’interfaccia utente del feed dati in Adobe Analytics semplifica notevolmente la gestione del feed dati. Se disponi dell’accesso per gestire il feed dati, puoi eseguire nuovamente un processo di feed dati autonomamente utilizzando l’interfaccia utente del feed dati senza che sia necessario un nuovo invio dei file recenti del feed dati da parte del team di assistenza clienti.
 
->[!VIDEO](https://video.tv.adobe.com/v/335748/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418504/?quality=12&learn=on&captions=ita)

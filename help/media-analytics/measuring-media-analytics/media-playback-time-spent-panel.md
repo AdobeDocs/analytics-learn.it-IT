@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Il pannello Media Playback Time Spent (Tempo trascorso su contenuti multimediali) consente a chi pubblica contenuti multimediali di comprendere il proprio pubblico in base al tempo trascorso guardando un contenuto durante la giornata, per una specifica granularità. È anche possibile esaminare nel dettaglio un periodo della giornata o creare segmenti di tempo sequenziali per mostrare chiaramente le fasi di incremento e decremento delle visualizzazioni nei periodi prima e dopo quello in esame.
 
->[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446708/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html?lang=it).

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Quando crei segmenti, i contenitori hit, visita e visitatore controllano la quantità di dati che il segmento deve contenere. In questo video, scopri come utilizzare i contenitori e ascolta alcuni esempi per ciascuno.
 
->[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429107/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=it).

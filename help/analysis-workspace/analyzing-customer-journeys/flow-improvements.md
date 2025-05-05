@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Scopri alcuni dei grandi miglioramenti alla visualizzazione del flusso. I miglioramenti includono impostazioni avanzate preconfigurabili nonché la possibilità di configurare l’inizio o la fine del percorso che ti interessa, e di filtrare una colonna in modo da includere o escludere un elemento specifico.
 
->[!VIDEO](https://video.tv.adobe.com/v/344222/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410742/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/create-flow.html?lang=it).

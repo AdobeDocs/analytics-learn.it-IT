@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL HomeDepot.com], sito di eCommerce da 7 miliardi di dollari all’interno di un’azienda da 100 miliardi di dollari, punta sull’ottimizzazione della customer experience per battere la concorrenza. Scopri come [!DNL Home Depot] utilizza le soluzioni Adobe per creare brand loyalty e soddisfazione dei clienti con un’esperienza di acquisto personalizzata.
 
->[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39260/?quality=12&learn=on&captions=ita)

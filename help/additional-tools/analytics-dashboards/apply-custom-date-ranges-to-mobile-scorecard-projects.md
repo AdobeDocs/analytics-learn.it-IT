@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Questo video mostra come gestire le diverse opzioni per gli intervalli di date durante la configurazione dei progetti di analisi per dispositivi mobili, ad esempio come scegliere gli intervalli predefiniti da visualizzare e come crearne altri personalizzati.
 
->[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411533/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=it).

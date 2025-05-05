@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!DNL Adobe Labs] (anteprime di tecnologie) consente di avvicinarsi alle tecnologie emergenti, scoprire informazioni importanti e influenzare le priorità e lo sviluppo delle future funzioni di [!DNL Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36960/?quality=12&learn=on&captions=ita)
 
 Quando si utilizza un prototipo [!DNL Labs], è possibile valutare la funzionalità nel contesto dei propri dati e casi di utilizzo.
 

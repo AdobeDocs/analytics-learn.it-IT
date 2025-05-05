@@ -18,4 +18,4 @@ ht-degree: 1%
 
 Scopri come sfruttare appieno l’interfaccia utente di Data Warehouse Reporting e gli account e le posizioni di esportazione. Questo video illustra il flusso di lavoro di base per la consegna di un rapporto sia per e-mail che per Amazon S3. Per la documentazione dettagliata, vedi [Data Warehouse panoramica](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=it) e documenti circostanti.
 
->[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428484/?quality=12&learn=on&captions=ita)

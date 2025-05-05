@@ -22,7 +22,7 @@ ht-degree: 100%
 
 La funzione di analisi del [!DNL Fallout] (o abbandono) in Analysis Workspace consente di combinare dimensioni e metriche come punti di contatto in funnel e flussi di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329408/?quality=12&learn=on&captions=ita)
 
 Questa potente funzionalità offre maggiore flessibilità nella definizione dei passaggi utente da esaminare.
 

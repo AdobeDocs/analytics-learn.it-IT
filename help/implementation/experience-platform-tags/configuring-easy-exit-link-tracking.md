@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Puoi iniziare a tracciare i collegamenti di uscita sul tuo sito (collegamenti che vanno a un altro sito) in pochi clic nell’estensione [!DNL tags] di Adobe Analytics di Experience Platform. Questo video mostra come impostare tale tracciamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41088/?quality=12&learn=on&captions=ita)
 
 Sul tuo sito potrebbero essere presenti collegamenti ad altri siti di tua proprietà o di cui sei partner. È spesso utile sapere quante persone fanno clic su questi link per passare a tali siti dalle tue pagine. Usando questa configurazione spiegata in questo video, puoi configurare in modo rapido e semplice il tracciamento dei link di uscita e persino regolarlo in base alle tue esigenze.

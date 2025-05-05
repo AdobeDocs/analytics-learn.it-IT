@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Scopri la visualizzazione di riepilogo delle metriche chiave in Analysis Workspace che consente di vedere come si presenta una metrica importante in un singolo arco temporale. Consente inoltre di confrontare le prestazioni delle metriche in due archi temporali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413794/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=it)

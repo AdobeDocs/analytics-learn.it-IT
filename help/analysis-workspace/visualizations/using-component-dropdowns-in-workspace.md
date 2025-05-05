@@ -18,4 +18,4 @@ ht-degree: 100%
 
 I menu a discesa dei componenti consentono di scegliere da un elenco di componenti compatibili per generare l’analisi. Se non trovi ciò che ti serve, puoi anche creare nuovi componenti direttamente dal menu a discesa. Per consentire casi di utilizzo più avanzati, questi spazi funzionano anche come zone di rilascio.
 
->[!VIDEO](https://video.tv.adobe.com/v/332601/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411792/?quality=12&learn=on&captions=ita)

@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Scopri come aggiungere [!UICONTROL anomaly detection] [!UICONTROL metrics] alle richieste di dati nonché grafici creativi dei dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41444/?quality=12&learn=on&captions=ita)
 
 [!UICONTROL Anomaly detection] utilizza la modellazione statistica per trovare automaticamente tendenze impreviste nei dati.
 

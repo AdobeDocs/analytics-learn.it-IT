@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Descrizione di alcune nuove funzioni che consentono ad analisti e addetti al marketing di regolare le etichette nei grafici in base alle esigenze di [!UICONTROL visualization].
 
->[!VIDEO](https://video.tv.adobe.com/v/23728/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329411/?quality=12&learn=on&captions=ita)

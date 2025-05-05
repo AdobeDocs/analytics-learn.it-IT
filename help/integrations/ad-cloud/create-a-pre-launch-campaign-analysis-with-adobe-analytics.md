@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Scopri come utilizzare Adobe Analytics per impostare le basi del lancio di una campagna multimediale Advertising Cloud a pagamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/35114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40422/?quality=12&learn=on&captions=ita)

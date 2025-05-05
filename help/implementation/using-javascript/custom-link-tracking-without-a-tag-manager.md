@@ -32,7 +32,7 @@ Esistono due funzioni che inviano dati ad Adobe Analytics:
 >
 >Questo video spiega come scrivere il codice per un hit di collegamento personalizzato quando NON utilizzi un gestore di tag come Adobe [!DNL Experience Platform Launch]. Come best practice per l’implementazione, consigliamo di utilizzare [!DNL Experience Platform Launch]. Tuttavia, se nel codice vuoi usare `s.tl()`, ecco come farlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328135/?quality=12&learn=on&captions=ita)
 
 ## Codice di esempio {#sample-code}
 

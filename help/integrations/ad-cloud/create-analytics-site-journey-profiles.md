@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Scopri come utilizzare Adobe Analytics per creare solidi pool di retargeting dei siti per il remarketing Advertising.
 
->[!VIDEO](https://video.tv.adobe.com/v/35116/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40434/?quality=12&learn=on&captions=ita)

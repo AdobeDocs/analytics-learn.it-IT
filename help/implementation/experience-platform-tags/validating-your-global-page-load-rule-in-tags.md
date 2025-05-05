@@ -21,4 +21,4 @@ Quando implementi Adobe Analytics sul sito, devi convalidare il codice lungo il 
 >
 > Il lancio è adesso **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37356/?quality=12&learn=on&captions=ita)
