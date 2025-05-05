@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Tutorial collaborativi e materiali di abilitazione per Analytics
 
-[foo](bar)
+[foo] (bar)

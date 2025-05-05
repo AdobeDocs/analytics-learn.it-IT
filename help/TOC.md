@@ -279,7 +279,7 @@ ht-degree: 92%
       + [Come identificare il server di tracciamento di Analytics e l’ID della suite di rapporti](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Creazione di un documento sui requisiti aziendali (BRD)](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Creazione e manutenzione di un documento SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + {#experience-platform-tags} di tag di Experience Platform
+   + di tag di Experience Platform{#experience-platform-tags}
       + [Implementa soluzioni Experience Cloud nei siti web utilizzando i tag](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=it)
       + [Configurazione di base dell’estensione Analytics](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [Configura la gestione della libreria per l’estensione Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
