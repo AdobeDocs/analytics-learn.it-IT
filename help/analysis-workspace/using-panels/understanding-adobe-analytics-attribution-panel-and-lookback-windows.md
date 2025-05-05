@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Informazioni sul pannello di attribuzione e sugli intervalli di lookback di Adobe Analytics
 
-Quando ho pensato per la prima volta al [pannello di attribuzione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) e all&#39;**intervallo di lookback**, mi è stato subito ricordato il concetto di &#39;*viaggio nel tempo&#39;*; poi, ovviamente, mi è stato anche ricordato che la nostra tipica risposta a molti nuovi strumenti come questi è semplicemente di rimandare il tentativo di utilizzarli, perché sembrano così complicati.
+Quando ho pensato per la prima volta al [pannello di attribuzione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=it) e all&#39;**intervallo di lookback**, mi è stato subito ricordato il concetto di &#39;*viaggio nel tempo&#39;*; poi, ovviamente, mi è stato anche ricordato che la nostra tipica risposta a molti nuovi strumenti come questi è semplicemente di rimandare il tentativo di utilizzarli, perché sembrano così complicati.
 
 Voglio dire, onestamente, guardate tutte quelle opzioni, interruttori, pannelli, letture e manopole.  E seriamente, parliamo di quelle complicate luci lampeggianti, tubi, strumenti... ASPETTA!!  Non è il momento di distrarsi parlando di macchine del tempo, semplicemente non abbiamo il tempo... o no?
 
@@ -43,7 +43,7 @@ Ora che siamo tutti entusiasti del viaggio nel tempo, facciamo un respiro profon
 
 In **attribuzione**, considera semplicemente il modo in cui gli eventi/azioni possono essere causati da un singolo, da più singoli utenti o da uno qualsiasi dei diversi eventi nel tempo.
 
-In base all&#39;[Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), l&#39;*attribuzione* consente agli analisti di personalizzare il modo in cui *Dimension* elementi ricevono credito per *eventi di successo*.
+In base all&#39;[Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=it), l&#39;*attribuzione* consente agli analisti di personalizzare il modo in cui *Dimension* elementi ricevono credito per *eventi di successo*.
 
 
 >[!WARNING]
@@ -85,7 +85,7 @@ Tenendo presente questo aspetto, ecco alcuni esempi di come i **modelli di attri
 
 - **Personalizzato**: scegli chi riceverà il credito.  È la tua campagna!
 
-Per ulteriori informazioni su questi e altri modelli di attribuzione, [fai clic qui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
+Per ulteriori informazioni su questi e altri modelli di attribuzione, [fai clic qui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=it)
 
 Per rendere questo ancora più interessante, parliamo di tornare indietro l&#39;orologio!
 

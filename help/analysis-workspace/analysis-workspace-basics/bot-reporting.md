@@ -22,4 +22,4 @@ Scopri come creare rapporti sui dati dei bot in Analysis Workspace. I dati dei b
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=it).

@@ -23,4 +23,4 @@ Nell’Admin Console di Experience Cloud, puoi creare profili di prodotto di ana
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
 
-Per saperne di più, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/permissions/product-profile).
+Per saperne di più, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/admin/admin-console/permissions/product-profile).

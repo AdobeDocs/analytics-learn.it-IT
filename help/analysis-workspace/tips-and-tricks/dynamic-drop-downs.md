@@ -22,4 +22,4 @@ Scopri come creare filtri a discesa basati su un’intera dimensione. Gli elemen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html#dynamic-drop-down-filters).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=it#dynamic-drop-down-filters).

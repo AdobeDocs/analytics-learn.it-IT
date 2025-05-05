@@ -22,4 +22,4 @@ Scopri come abilitare, eseguire il debug e personalizzare il modo in cui [!UICON
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-Per ulteriori informazioni su come distribuire [!UICONTROL Activity Map], consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+Per ulteriori informazioni su come distribuire [!UICONTROL Activity Map], consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).

@@ -19,4 +19,4 @@ Scopri come aggiornare e ripianificare le cartelle di lavoro legacy di [!DNL Rep
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics/analyze/report-builder/home).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/analyze/report-builder/home).

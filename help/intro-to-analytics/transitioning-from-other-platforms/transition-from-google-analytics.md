@@ -267,7 +267,7 @@ Ti consigliamo comunque di utilizzare sia Adobe Analytics sia Google Analytics n
 
 Oltre a questa guida sono disponibili numerose risorse che possono contribuire a migliorare la tua strategia:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=it#home) - Contiene tutorial, video, documentazione e i forum della community
+* [Adobe Experience League](https://experienceleague.adobe.com/it?lang=it#home) - Contiene tutorial, video, documentazione e i forum della community
 * [Gruppi di utenti Adobe](https://analytics-augs.adobe.com/): un hub di eventi gestiti dalla community per consentire agli utenti di connettersi tra loro e migliorare le implementazioni.
 * [Canale YouTube del gruppo utenti di Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Non puoi partecipare a una sessione del gruppo utenti di Adobe Analytics? Guarda le sessioni precedenti da tutto il mondo e scopri come altri professionisti come te utilizzano questo strumento.
 * [Canale Slack di Measure Chat](https://www.measure.chat/) - Entra in contatto con gli utenti di Adobe Analytics in tutto il mondo e condividi esperienze nel settore, fai domande ad altri professionisti come te e partecipa a gruppi di interesse incentrati sulla misurazione.
