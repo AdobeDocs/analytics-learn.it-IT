@@ -22,4 +22,4 @@ Questo video illustra come sfruttare due funzionalità di confronto delle date i
 
 I confronti tra date sono un modo semplice per aggiungere profondità alle tabelle Analysis Workspace correnti e ti aiuteranno a mettere facilmente in prospettiva i dati correnti in base alle prestazioni storiche.
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison).
