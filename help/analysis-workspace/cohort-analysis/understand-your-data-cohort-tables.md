@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Scopri come analizzare una tabella coorte per comprendere meglio la fidelizzazione degli utenti nel tempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/334094/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415664/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=it).

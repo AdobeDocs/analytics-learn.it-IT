@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Questo video illustra come utilizzare le date, [!UICONTROL date ranges], e confronti tra date per personalizzare le tabelle e le visualizzazioni per l’arco temporale desiderato.
 
->[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35904/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=it).

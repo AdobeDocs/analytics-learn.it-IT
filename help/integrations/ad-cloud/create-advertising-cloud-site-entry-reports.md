@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Crea un rapporto sulle visite al sito con Advertising Cloud per monitorare l’influenza che hanno il giorno della settimana, l’ora del giorno, il browser e l’area geografica.
 
->[!VIDEO](https://video.tv.adobe.com/v/35120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40458/?quality=12&learn=on&captions=ita)

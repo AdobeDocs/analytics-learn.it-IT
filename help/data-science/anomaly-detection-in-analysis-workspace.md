@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Analysis Workspace rileva automaticamente le anomalie nei dati per qualsiasi serie temporale [!UICONTROL visualization] o tabella dati. Cattura “unknown unknowns” senza alcun sforzo aggiuntivo da parte tua.
 
->[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327894/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=it).
