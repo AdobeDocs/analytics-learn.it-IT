@@ -1,16 +1,16 @@
 ---
 title: Creazione di intervalli di date personalizzati in Analysis Workspace
 description: Durante la configurazione e la personalizzazione del progetto in Analysis Workspace, può essere necessario utilizzare un intervallo di date che va oltre quello predefinito nel prodotto. Questo video illustra come creare tre esempi di intervalli di date personalizzati.
-feature: Calendar
+feature: Date Ranges
 kt: 2113
 thumbnail: 23975.jpg
 role: User
 level: Beginner
 exl-id: ce01320f-24fa-4c9b-ad77-3f82c0829323
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Durante la configurazione e la personalizzazione del progetto in Analysis Workspace, può essere necessario utilizzare un intervallo di date che va oltre quello predefinito nel prodotto. Questo video illustra come creare tre esempi di intervalli di date personalizzati.
 
->[!VIDEO](https://video.tv.adobe.com/v/329392/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=it).

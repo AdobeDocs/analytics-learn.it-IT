@@ -1,7 +1,7 @@
 ---
 title: Utilizzare l’analisi di coorte per comprendere il comportamento cliente
 description: Per migliorare la customer experience e i ricavi, le aziende devono comprendere il comportamento dei clienti. L’analisi per coorte può aiutare a comprendere il coinvolgimento e la fidelizzazione, conducendo ad azioni come il miglioramento della creazione di account e la creazione di campagne per mesi di grandi volumi di dati.
-feature: Cohort Analysis
+feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
@@ -9,7 +9,7 @@ last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '1146'
 ht-degree: 12%
@@ -132,19 +132,19 @@ Esaminare l&#39;esperienza utente del sito per consentire agli utenti di creare 
 
 ![Tabella coorte 4](assets/cohort4.png)
 
-## Parte 4: Coorte con Dimension personalizzato
+## Parte 4: Coorte Dimension personalizzata
 
-Coorte con Dimension personalizzato: consente di creare coorti in base alla dimensione selezionata, anziché in base al tempo (impostazione predefinita). Molti clienti vogliono poter analizzare le coorti in base a fattori diversi dal tempo. Con la nuova funzione per coorti con dimensione personalizzata hai la flessibilità di creare le coorti in base alle dimensioni che rispondono alle tue esigenze. Puoi usare dimensioni quali canale di marketing, campagna, prodotto, pagina, regione, o qualsiasi altra dimensione in Adobe Analytics per mostrare in che modo la fidelizzazione cambia, in base a valori diversi di tali dimensioni. Le selezioni del menu 
+Coorte Dimension personalizzata: consente di creare coorti in base alla dimensione selezionata, anziché in base al tempo (impostazione predefinita). Molti clienti vogliono poter analizzare le coorti in base a fattori diversi dal tempo. Con la nuova funzione per coorti con dimensione personalizzata hai la flessibilità di creare le coorti in base alle dimensioni che rispondono alle tue esigenze. Puoi usare dimensioni quali canale di marketing, campagna, prodotto, pagina, regione, o qualsiasi altra dimensione in Adobe Analytics per mostrare in che modo la fidelizzazione cambia, in base a valori diversi di tali dimensioni. Le selezioni del menu 
 
-La definizione del segmento di coorte con Dimension personalizzato applica l’elemento dimensionale solo come parte del periodo di inclusione e non come parte della definizione di ritorno.
+La definizione personalizzata del segmento di coorte Dimension applica l’elemento dimensionale solo come parte del periodo di inclusione e non come parte della definizione di ritorno.
 
-Dopo aver scelto l’opzione Custom Dimension Cohort (Coorte con  personalizzato), puoi trascinare nella zona di rilascio la dimensione che ti interessa. Puoi quindi confrontare elementi con dimensione simile in uno stesso periodo di tempo. Ad esempio, puoi confrontare le prestazioni delle città una accanto all’altra
+Dopo aver scelto l’opzione Custom Dimension Cohort (Coorte con codice personalizzato), puoi trascinare nella zona di rilascio la dimensione che ti interessa. Puoi quindi confrontare elementi con dimensione simile in uno stesso periodo di tempo. Ad esempio, puoi confrontare le prestazioni delle città una accanto all’altra
 
 lato, prodotti, campagne, ecc. Ti restituirà i primi 14 elementi dimensionali. Per visualizzare solo specifici elementi per la dimensione scelta, puoi anche usare un filtro, passando il cursore a destra della dimensione che hai trascinato. Una coorte con dimensione personalizzata non può essere usata con la funzione Tabella di latenza.
 
 ### Quali prodotti sono alla base della fedeltà del sito?
 
-La tabella Coorti per Dimension personalizzata evidenzia i prodotti che generano tassi di fidelizzazione più elevati rispetto alla media.  Questa tabella ti aiuta a identificare i tuoi prodotti migliori per promuovere campagne di marketing interne ed esterne con prodotti con il massimo livello di attenzione.
+La tabella coorte personalizzata per Dimension evidenzia i prodotti che determinano tassi di fidelizzazione più elevati rispetto alla media.  Questa tabella ti aiuta a identificare i tuoi prodotti migliori per promuovere campagne di marketing interne ed esterne con prodotti con il massimo livello di attenzione.
 
 **A febbraio:** 3 prodotti si distinguono con tassi di fidelizzazione più elevati
 
@@ -162,7 +162,7 @@ La tabella Coorti per Dimension personalizzata evidenzia i prodotti che generano
 
 ## Conclusione
 
-L’analisi per coorte e la coorte con Dimension personalizzato sono strumenti potenti per comprendere il comportamento dei clienti e migliorare le prestazioni digitali. Analizzando i tassi di conservazione, i tassi di accesso e l’impatto di prodotti specifici, le aziende possono prendere decisioni basate sui dati per migliorare l’esperienza del cliente e favorire la crescita.
+L’analisi per coorte e la coorte con codice Dimension personalizzato sono strumenti potenti per comprendere il comportamento dei clienti e migliorare le prestazioni digitali. Analizzando i tassi di conservazione, i tassi di accesso e l’impatto di prodotti specifici, le aziende possono prendere decisioni basate sui dati per migliorare l’esperienza del cliente e favorire la crescita.
 
 ## Autore
 
@@ -170,6 +170,6 @@ Questo documento è stato scritto da:
 
 ![Jennifer Yacenda](assets/jennifer-yacenda.png)
 
-**Jennifer Yacenda**, Director senior al Marriott
+**Jennifer Yacenda**, Direttore principale di Marriott
 
 Adobe Analytics Champion
