@@ -4,10 +4,10 @@ user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
+source-git-commit: ff729de74f29a07316140459a52f589dac7db198
 workflow-type: tm+mt
-source-wordcount: '2160'
-ht-degree: 92%
+source-wordcount: '2167'
+ht-degree: 87%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 92%
 + [Tutorial di Analytics](overview.md)
 + Introduzione ad Analytics {#intro-to-analytics}
    + [Cos’è Analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
-   + Che vantaggi mi offre Adobe Analytics? {#what-can-aa-do-for-me}
+   + Quali vantaggi mi offre Adobe Analytics? {#what-can-aa-do-for-me}
       + [Come Adobe Analysis Workspace può cambiare il tuo business](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [Dai dati alla Customer Intelligence](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei e Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
@@ -47,11 +47,11 @@ ht-degree: 92%
       + [Aggiungere descrizioni di dimensioni e metriche](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Migliorare la sicurezza](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Impostazione di un progetto Analysis Workspace come pagina di destinazione](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-   + Come trovare ssistenza {#getting-help}
+   + Ottenimento della Guida {#getting-help}
       + [Come trovare assistenza in Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
       + [Invio di una richiesta di assistenza all’interno del prodotto](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
-   + Concetti di base di Analysis Workspace {#analysis-workspace-basics}
+   + Nozioni di base su Analysis Workspace {#analysis-workspace-basics}
       + [Introduzione rapida ad Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Panoramica di Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Passare alla nuova pagina di destinazione](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
@@ -146,7 +146,7 @@ ht-degree: 92%
       + [Visualizzazioni sovrapposte al 100%](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Impostazioni delle origini dati per tabelle e visualizzazioni](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Creare una mappa di calore suddivisa in base al tempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-   + Analisi dei percorsi dei clienti {#analyzing-customer-journeys}
+   + Analisi dei Percorsi dei clienti {#analyzing-customer-journeys}
       + [Creare una visualizzazione del fallout](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Creare una visualizzazione di flusso](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Utilizzare insieme fallout e flusso](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
@@ -209,7 +209,7 @@ ht-degree: 92%
       + [Analisi della latenza con tabelle coorte](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [Calcolare la fidelizzazione su base continua nelle tabelle coorte](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
       + [Utilizzare l’analisi di coorte per comprendere il comportamento cliente](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
-   + Analisi dei dati vocali {#voice-analytics}
+   + Analisi della voce {#voice-analytics}
       + [Come gestire e tenere traccia dei dati da app di assistenza vocale](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Comprendere le differenze tra i diversi dispositivi vocali](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
       + [Ricerca di opportunità per aumentare il coinvolgimento per le app vocali](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
@@ -237,7 +237,7 @@ ht-degree: 92%
       + [Creare un progetto di notizie e annunci](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Favorire il successo con dashboard di riepilogo esecutive](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
       + [Creare dashboard operativi](administration/admin-tips/create-operational-dashboards.md)
-   + Impostazioni aziendali {#company-settings}
+   + Impostazioni società {#company-settings}
       + [Applica restrizioni al dominio e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visualizzare le funzioni disponibili per l’account](administration/company-settings/view-your-accounts-available-features.md)
    + Gestione utente {#user-management}
@@ -246,7 +246,7 @@ ht-degree: 92%
       + [Limitare l’accesso alle suite di rapporti in Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Trasferire le risorse da utente a un altro](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Controlla l’ID IMS collegato per evitare problemi di accesso](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
-   + Gestire suite di rapporti {#manage-report-suites}
+   + Gestione suite di rapporti {#manage-report-suites}
       + [Configurare le impostazioni account generali](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personalizzare le impostazioni del calendario](administration/manage-report-suites/customize-calendar-settings.md)
       + [Configurare il rilevamento di ricerche a pagamento](administration/manage-report-suites/configure-paid-search-detection.md)
@@ -265,7 +265,7 @@ ht-degree: 92%
       + [Abilitare l’impostazione opzionale della marca temporale](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Configurare le regole bot in Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Governance dei dati e RGPD {#data-governance-and-gdpr}
-      + [Governance dei dati e RGPD in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
+      + [Governance dei dati e GDPR in Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
    + Gestione traffico {#traffic-management}
       + [Utilizzo chiamate al server](administration/traffic-management/server-call-usage.md)
       + [Gestire un picco di traffico imminente](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
@@ -279,14 +279,14 @@ ht-degree: 92%
       + [Come identificare il server di tracciamento di Analytics e l’ID della suite di rapporti](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Creazione di un documento sui requisiti aziendali (BRD)](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Creazione e manutenzione di un documento SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + di tag di Experience Platform{#experience-platform-tags}
+   + Tag Experience Platform {#experience-platform-tags}
       + [Implementa soluzioni Experience Cloud nei siti web utilizzando i tag](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=it)
       + [Configurazione di base dell’estensione Analytics](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [Configura la gestione della libreria per l’estensione Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Configura le impostazioni generali per l’estensione Analytics](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
       + [Configurare le impostazioni delle variabili globali per l’estensione Analytics](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
       + [Utilizzare il codice personalizzato nell’estensione Analytics](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
-      + [Utilizzare un livello di dati per impostare le variabili](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
+      + [Utilizzare un livello dati per impostare le variabili](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
       + [Utilizzare doPlugins e i plug-in di implementazione](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
       + [Configurare il tracciamento facile dei collegamenti per il download](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
       + [Configurare il tracciamento facile dei collegamenti di uscita](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
@@ -333,6 +333,8 @@ ht-degree: 92%
    + Classificazioni {#classifications}
       + [Panoramica delle classificazioni](components/classifications/overview-of-classifications.md)
       + [Utilizzo del Generatore di regole di classificazione](components/classifications/using-the-classification-rule-builder.md)
+      + [Introduzione ai set di classificazione](components/classifications/introduction-to-classification-sets.md)
+      + [Utilizzare i set di classificazione](components/classifications/use-classification-sets.md)
    + Suite di rapporti virtuali {#virtual-report-suites}
       + [Panoramica delle suite di rapporti virtuali](components/virtual-report-suites/virtual-report-suites.md)
       + [Cura dei componenti](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
@@ -404,7 +406,7 @@ ht-degree: 92%
    + [Analisi contributi in Analysis Workspace](data-science/contribution-analysis-workspace.md)
    + [Avvisi intelligenti](data-science/intelligent-alerts.md)
    + [Adobe Analytics e Adobe Sensei: democratizzare la scienza dei dati per TUTTI](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
-+ Settori verticali {#vertical-specific}
++ Specifico per verticale {#vertical-specific}
    + High tech {#high-tech}
       + [Summit 2019 Super Session: high tech](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=it)
    + Viaggi e ospitalità {#travel-and-hospitality}
@@ -427,7 +429,7 @@ ht-degree: 92%
       + [Implementazione nelle app iOS con Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=it)
       + [Implementazione nelle app iOS con Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=it)
       + [Implementazione nelle app Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=it)
-   + Misurazione dei dati analitici per dispositivi mobili {#measuring-mobile-analytics}
+   + Misurazione delle analisi per dispositivi mobili {#measuring-mobile-analytics}
       + [Guida introduttiva di Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Impatto dei punti di contatto nel percorso mobile](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analisi del comportamento degli utenti nei diversi canali](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
@@ -437,7 +439,7 @@ ht-degree: 92%
    + [Utilizzo di Report Builder per apprendere l’API di Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=it)
    + [Utilizzo di Postman per effettuare richieste API di Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Casi di utilizzo di analisi {#analysis-use-cases}
-   + Ricerca sito interna {#internal-site-search}
+   + Ricerca interna al sito {#internal-site-search}
       + [Definizione dei requisiti di business interni per la ricerca del sito](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
       + [Implementare le variabili di ricerca interna utilizzando AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
       + [Implementare le variabili di ricerca interna tramite Web SDK](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
