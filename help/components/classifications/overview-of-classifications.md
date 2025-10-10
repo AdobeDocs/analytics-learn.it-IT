@@ -21,6 +21,6 @@ ht-degree: 0%
 
 [!UICONTROL Classifications] sono un modo efficace per aggiungere metadati - attributi descrittivi - ai tuoi prodotti, campagne, pagine, clienti e altro ancora. Questi attributi possono aiutarti a comprendere meglio le tue attività di marketing ed esperienza consentendo di raggruppare elementi simili e suddividere i dati per immergerti in ciò che è e non funziona per te.
 
->[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327923/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=it).

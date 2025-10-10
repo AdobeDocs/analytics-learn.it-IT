@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Questo video mostra come confrontare flussi di lavoro chiave tra vari segmenti in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329880/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=it).

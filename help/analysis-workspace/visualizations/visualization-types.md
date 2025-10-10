@@ -18,7 +18,7 @@ ht-degree: 27%
 
 Scopri i diversi tipi di visualizzazioni che è possibile inserire nei progetti Analysis Workspace per raccontare la storia dei dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41721/?quality=12&learn=on&captions=ita)
 
 Di seguito sono riportate alcune categorie di visualizzazioni e di visualizzazioni suggerite da aggiungere al progetto, in base al tipo di analisi che desideri eseguire sui dati. Come dichiarato nel video, nessuna di queste è una regola difficile e veloce, ma solo alcuni suggerimenti per te mentre ti abitui alle diverse visualizzazioni:
 

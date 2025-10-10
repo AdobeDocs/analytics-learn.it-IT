@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Presenta il modello [!DNL Magento Marketing and Commerce] per [!UICONTROL Analysis Workspace]. Questo è destinato agli utenti di [!DNL Magento], ma può essere utilizzato da qualsiasi rivenditore online. Include insight predefiniti sulle attività di eCommerce che ti possono aiutare a migliorare le vendite.
 
->[!VIDEO](https://video.tv.adobe.com/v/28164/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328807/?quality=12&learn=on&captions=ita)

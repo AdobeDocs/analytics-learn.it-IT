@@ -17,4 +17,4 @@ ht-degree: 0%
 
 I pannelli sono una raccolta di visualizzazioni in Analysis Workspace. Scopri come utilizzare i pannelli per organizzare e confrontare i dati nei progetti.
 
->[!VIDEO](https://video.tv.adobe.com/v/23388/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329419/?quality=12&learn=on&captions=ita)

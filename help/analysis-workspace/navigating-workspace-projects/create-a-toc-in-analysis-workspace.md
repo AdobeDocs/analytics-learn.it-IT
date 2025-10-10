@@ -20,4 +20,4 @@ ht-degree: 21%
 
 Scopri il sommario in Analysis Workspace, che fornisce collegamenti che consentono agli utenti di passare rapidamente a pannelli e visualizzazioni all’interno del progetto. Per la documentazione dettagliata, visita [Sommario del progetto](https://experienceleague.adobe.com/it/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
->[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328248/?quality=12&learn=on&captions=ita)

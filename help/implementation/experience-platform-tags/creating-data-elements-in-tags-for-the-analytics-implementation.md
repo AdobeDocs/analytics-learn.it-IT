@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Questo video mostra come creare elementi dati per l’implementazione di Analytics nei [!DNL tags], in base alle variabili e agli eventi decisi e documentati in un documento Solution Design Reference (SDR).
 
->[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37359/?quality=12&learn=on&captions=ita)

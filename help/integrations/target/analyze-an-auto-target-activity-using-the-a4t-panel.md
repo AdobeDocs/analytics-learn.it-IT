@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Il pannello [!DNL Analytics for Target] (A4T) consente di analizzare le attività e le esperienze Adobe Target. Questo video illustra come utilizzare il pannello [!DNL Analytics for Target] per visualizzare i risultati di un test di Targeting automatico.
 
->[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412969/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni su Analytics for Target, consulta [questa pagina Spark](https://spark.adobe.com/page/Lo3Spm4oBOvwF/).

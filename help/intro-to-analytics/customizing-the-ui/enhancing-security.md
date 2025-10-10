@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri le impostazioni di Security Manager in Impostazioni aziendali per controllare l’accesso ad Adobe Analytics. Ciò include password complesse, funzionalità di scadenza e ripristino della password e restrizioni del dominio e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327906/?quality=12&learn=on&captions=ita)

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Se hai un sito di vendita al dettaglio, ci sono alcune variabili ed eventi che sono stati creati solo per te (perché sei speciale) Questo video ti offrirà una breve introduzione per comprendere le variabili e gli eventi specifici dedicati alla vendita al dettaglio.
 
->[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37372/?quality=12&learn=on&captions=ita)

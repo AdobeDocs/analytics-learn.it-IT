@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!DNL Attribution IQ] consente di modificare istantaneamente l’attribuzione [!UICONTROL model] a uno qualsiasi dei dieci modelli basati su regole in una colonna [!UICONTROL Freeform].
 
->[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41426/?quality=12&learn=on&captions=ita)
 
 Ogni attribuzione di [!UICONTROL model] supporta pienamente segmentazione e raggruppamenti e consente di effettuare confronti illimitati su qualsiasi dimensione (anche [!DNL props]).
 

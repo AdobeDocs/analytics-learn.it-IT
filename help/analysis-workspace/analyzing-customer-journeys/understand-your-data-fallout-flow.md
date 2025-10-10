@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Scopri come i nostri strumenti di percorso e funnel funzionano insieme per comprendere meglio le informazioni provenienti dai percorsi di utenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/334095/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415649/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la documentazione sulle visualizzazioni [Abbandono](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=it) e [Flusso](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=it).

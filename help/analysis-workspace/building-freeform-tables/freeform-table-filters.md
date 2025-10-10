@@ -18,7 +18,7 @@ ht-degree: 100%
 
 I filtri forniscono un maggiore controllo sulle righe di dati condivise in una [!DNL freeform table].
 
->[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329390/?quality=12&learn=on&captions=ita)
 
 In Analysis Workspace ora è possibile applicare i filtri con maggiore controllo, grazie a 11 criteri di filtro e operatori E/O.
 

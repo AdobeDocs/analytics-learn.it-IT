@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri i diversi modi in cui puoi utilizzare le metriche nelle tabelle a forma libera in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/40817/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328589/?quality=12&learn=on&captions=ita)

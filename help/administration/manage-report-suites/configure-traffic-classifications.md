@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Questo video illustra la configurazione delle classificazioni per le variabili traffico, note come “prop” o anche con il nome pagina, ecc.
 
->[!VIDEO](https://video.tv.adobe.com/v/340024/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342933/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=it).

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Questo video mostra come utilizzare [!UICONTROL Report Builder] per aggiungere segmenti a tutte le richieste contemporaneamente, risparmiando tempo e problemi.
 
->[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328285/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=it).

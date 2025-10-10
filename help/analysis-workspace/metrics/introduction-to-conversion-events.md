@@ -18,4 +18,4 @@ ht-degree: 12%
 
 Scopri le nozioni di base degli eventi di conversione, o eventi di successo, in [!DNL Adobe Analytics]. Misurano le conversioni nelle proprietà digitali e vengono utilizzati come metriche nei rapporti.
 
->[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37373/?quality=12&learn=on&captions=ita)

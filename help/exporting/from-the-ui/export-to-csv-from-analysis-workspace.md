@@ -19,4 +19,4 @@ ht-degree: 24%
 
 Scopri come esportare interi progetti o singole tabelle in CSV per l’analisi in Excel e altri strumenti di business intelligence.
 
->[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429874/?quality=12&learn=on&captions=ita)

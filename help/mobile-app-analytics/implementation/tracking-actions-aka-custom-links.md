@@ -22,7 +22,7 @@ ht-degree: 99%
 
 Le azioni sono eventi che si verificano nell’app mobile. In questo video, scopri come utilizzare l’API trackAction per tracciare e misurare un’azione.
 
->[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328305/?quality=12&learn=on&captions=ita)
 
 Con questa API puoi monitorare tutte le azioni nel sito (eccetto quelle di caricamento di schermate). Se una schermata viene visualizzata, puoi usare trackState, che attiva un hit di visualizzazione della pagina. Altrimenti, utilizza trackAction per inviare le variabili associate all’azione in corso.
 

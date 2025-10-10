@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come comprendere il percorso dei clienti nell’app vocale guardando il percorso [!UICONTROL flow] e [!UICONTROL fallout] per identificare le azioni più comuni, la sequenza di tali azioni e quando e dove gli utenti abbandonano il percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328549/?quality=12&learn=on&captions=ita)

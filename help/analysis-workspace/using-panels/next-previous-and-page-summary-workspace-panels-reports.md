@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Abbiamo aggiunto ad Analysis Workspace due nuovi tipi di pannello: Successivo/Precedente e Riepilogo pagina, oltre a elencarli come parte dei rapporti predefiniti. Questo consente di portare Workspace in condizione di parità con alcuni dei report più popolari di Reports e Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/342477/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346419/?quality=12&learn=on&captions=ita)

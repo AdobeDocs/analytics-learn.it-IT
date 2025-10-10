@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Questo video spiega come aggiungere e configurare la visualizzazione Anello nel progetto Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416625/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=it).

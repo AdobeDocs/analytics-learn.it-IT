@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri alcuni suggerimenti per la selezione di una suite di rapporti in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428540/?quality=12&learn=on&captions=ita)

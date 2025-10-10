@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In [!UICONTROL Visualization Settings] puoi aggiungere una linea di tendenza per regressione o media mobile alla serie di linee, per meglio evidenziare un pattern nei dati. Le opzioni disponibili sono Lineare, Logaritmica, Esponenziale, Potenza, Quadratica e Media mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/330176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342844/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=it#analysis-workspace).
 

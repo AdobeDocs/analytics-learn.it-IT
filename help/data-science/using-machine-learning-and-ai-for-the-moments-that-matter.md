@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Le informazioni sui clienti non sono mai state così promettenti. Ma mettere insieme i dati che possono essere utili agli utenti dei diversi reparti aziendali, e cogliere tempestivamente le tendenze rilevanti, è qualcosa che nemmeno un team esperto di data science può gestire da solo. Le funzionalità di Adobe Analytics basate sulla tecnologia Adobe Sensei di intelligenza artificiale e apprendimento automatico si occupano proprio di questo: utilizzare a tuo vantaggio i dati che stai già raccogliendo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328336/?quality=12&learn=on&captions=ita)

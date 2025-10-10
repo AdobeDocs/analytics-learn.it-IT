@@ -21,7 +21,7 @@ Scopri come estrarre i valori dal livello dati e come utilizzarli nei [!DNL tags
 
 Rivedi informazioni aggiuntive sui livelli dati nella documentazione di [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=it) e [Tag di Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=it).
 
->[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328583/?quality=12&learn=on&captions=ita)
 
 >[!NOTE]
 >

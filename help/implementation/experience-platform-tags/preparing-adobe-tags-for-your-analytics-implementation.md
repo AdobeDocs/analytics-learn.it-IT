@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Prima di implementare Analytics nei [!DNL tags], devi disporre di alcuni documenti di supporto e aver impostato alcuni elementi sia in Analytics che nei [!DNL tags]. Questo video tratta questi elementi.
 
->[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429972/?quality=12&learn=on&captions=ita)

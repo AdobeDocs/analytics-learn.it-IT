@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come produrre dati significativi nei progetti di scorecard per dispositivi mobili utilizzando l’app delle dashboard di Analytics. Presenta i dati e il loro significato effettivo includendo dati di supporto, contesto di business e metriche correlate, il tutto mantenendo sempre in primo piano le metriche chiave più importanti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416392/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420561/?quality=12&learn=on&captions=ita)

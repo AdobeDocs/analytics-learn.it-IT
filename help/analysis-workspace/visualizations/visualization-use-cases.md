@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Vuoi sapere quali sono i prodotti più venduti? Scopri alcuni dei casi d’uso principali per le visualizzazioni, ad esempio abbandono, flusso, coorte e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415654/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=it).

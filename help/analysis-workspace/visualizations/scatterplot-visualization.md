@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Con questa visualizzazione, puoi vedere la relazione tra più metriche per le dimensioni, tracciando gli elementi su un grafico X/Y. Scopri informazioni e dettagli utili che possono agevolare le decisioni di business.
 
->[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416861/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=it).

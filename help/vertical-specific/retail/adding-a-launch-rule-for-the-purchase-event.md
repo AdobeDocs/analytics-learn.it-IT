@@ -22,4 +22,4 @@ Questo video illustra come utilizzare la stringa di prodotto [!UICONTROL extensi
 >
 > Il lancio è ora **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37369/?quality=12&learn=on&captions=ita)

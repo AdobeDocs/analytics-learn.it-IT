@@ -17,4 +17,4 @@ ht-degree: 0%
 
 In questo video, ti guideremo attraverso l’accesso per poter usare le funzioni di amministrazione di [!DNL Analytics] ed eseguire l’analisi.
 
->[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37380/?quality=12&learn=on&captions=ita)

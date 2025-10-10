@@ -20,4 +20,4 @@ ht-degree: 0%
 
 L’opzioone Timestamps Optional (Marca temporale opzionale) consente di combinare dati con e senza marca temporale nella stessa suite di rapporti globale, inviare dati con marca temporale da un’app mobile a una suite di rapporti globale e aggiornare le app per utilizzare il tracciamento offline senza dover creare una nuova suite di rapporti.
 
->[!VIDEO](https://video.tv.adobe.com/v/335740/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418614/?quality=12&learn=on&captions=ita)

@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Questo video illustra come utilizzare i blocchi predefiniti del progetto Analysis Workspace, ovvero pannelli, tabelle e visualizzazioni. Questi elementi sono la tela su cui vengono dipinti i tuoi dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35906/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, visita la documentazione relativa ai [pannelli](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=it) e alle [visualizzazioni](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=it).

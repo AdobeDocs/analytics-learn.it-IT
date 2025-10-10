@@ -18,6 +18,6 @@ ht-degree: 0%
 
 I grafici [!UICONTROL Bullet] sono utili per mostrare l’avanzamento verso (o oltre) un obiettivo nell’analisi. Offrono un modo alternativo di visualizzare il successo dell’organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329424/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=it).

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 La creazione di un feed dati consente ad Adobe di sapere dove inviare i file di dati non elaborati e cosa si desidera includere in ciascun file. Il supporto SFTP per i feed dati è disponibile in Analytics. Richiede un host SFTP, un nome utente e il sito di destinazione per contenere una chiave pubblica RSA o DSA valida. Puoi scaricare la chiave pubblica adatta al momento della creazione del feed.
 
->[!VIDEO](https://video.tv.adobe.com/v/335739/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418492/?quality=12&learn=on&captions=ita)

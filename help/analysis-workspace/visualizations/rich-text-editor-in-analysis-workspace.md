@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri le funzioni che consentono ad analisti e addetti al marketing di applicare modifiche alle visualizzazioni di testo (o alle descrizioni) in Analysis Workspace: grassetto, corsivo, intestazioni, collegamenti ipertestuali e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329903/?quality=12&learn=on&captions=ita)

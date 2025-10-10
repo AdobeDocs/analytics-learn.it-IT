@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Questo video illustra come configurare le regole di elaborazione per i canali di marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344353/?quality=12&learn=on&captions=ita)
 
 >[!NOTE]
 >

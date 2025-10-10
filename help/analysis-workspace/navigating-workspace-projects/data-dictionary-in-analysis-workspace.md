@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Scopri il dizionario dati in Analysis Workspace, che consente sia gli utenti che gli amministratori di tenere traccia dei componenti nel proprio ambiente Analytics e di comprenderli meglio. Gli utenti possono visualizzare le descrizioni dei componenti, altri componenti associati o componenti approvati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422283/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/data-dictionary/data-dictionary-overview.html?lang=it).

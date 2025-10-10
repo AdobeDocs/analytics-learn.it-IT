@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Creazione di una community autonoma
 
->[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341114/?quality=12&learn=on&captions=ita)
 
 Una community autonoma possiede alcune caratteristiche fondamentali. Innanzitutto, è sostenuta dai propri amministratori di Adobe Analytics. Sa in che modo i requisiti di business sono supportati dall’implementazione della propria soluzione. Infine, ma non meno importante, dispone dei mezzi necessari per utilizzare con sicurezza l’analisi per prendere decisioni basate su dati. Sono molte le aziende che beneficiano della struttura fornita da un gruppo di utenti Adobe Analytics interno o da una community più tradizionale.
 

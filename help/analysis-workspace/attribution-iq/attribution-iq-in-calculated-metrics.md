@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Questo video illustra come utilizzare [!DNL Attribution IQ] in [!DNL Calculated Metrics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23140/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329418/?quality=12&learn=on&captions=ita)
 
 Le metriche calcolate ora supportano uno qualsiasi dei dieci modelli di attribuzione basati su regole. Le metriche calcolate consentono di confrontare i modelli di attribuzione (ad esempio, sottraendo [!UICONTROL First Touch] da [!UICONTROL Last Touch]) per vedere la differenza. Puoi anche creare modelli ibridi (ad esempio, 50% [!UICONTROL Time Decay] più 50% [!UICONTROL First Touch]), o applicare l’attribuzione alle metriche di conversione importanti, come ricavi per ordine o ordini per visita.
 

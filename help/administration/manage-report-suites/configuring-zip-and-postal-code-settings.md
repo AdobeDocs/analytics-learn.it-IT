@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Questo video spiega come configurare le impostazioni del codice postale o [!UICONTROL zip], in modo da poter eseguire analisi basate sui dati dell’area geografica.
 
->[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328244/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni sulle impostazioni del codice postale o [!UICONTROL zip code], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=it).

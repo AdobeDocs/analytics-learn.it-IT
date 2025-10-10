@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come utilizzare i filtri, denominati tag, in Analysis Workspace. Si tratta di tecniche che consentono di risparmiare tempo per creare il progetto in modo efficiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36969/?quality=12&learn=on&captions=ita)

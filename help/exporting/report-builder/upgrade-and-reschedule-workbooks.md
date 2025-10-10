@@ -18,6 +18,6 @@ ht-degree: 16%
 
 Scopri come aggiornare e ripianificare le cartelle di lavoro legacy di [!DNL Report Builder] alla versione più recente di Adobe Analytics Report Builder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446190/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/analyze/report-builder/home).

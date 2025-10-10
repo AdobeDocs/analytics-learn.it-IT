@@ -19,6 +19,6 @@ ht-degree: 29%
 
 In questo video, scopri come creare e condividere in Analysis Workspace &quot;scorecard&quot; da visualizzare nelle dashboard di Adobe Analytics (app mobile).
 
->[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38169/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=it).

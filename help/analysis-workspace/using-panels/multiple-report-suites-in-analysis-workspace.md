@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Più [!UICONTROL report suites] possono essere analizzate in un unico progetto [!DNL Workspace] selezionando [!UICONTROL report suites] a livello di pannello. Questo consente di eseguire analisi in pannelli affiancati tra diversi set di dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36964/?quality=12&learn=on&captions=ita)
 
 >[!TIP]
 >

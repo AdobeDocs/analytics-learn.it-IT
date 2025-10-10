@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Questo video spiega come impostare una pianificazione avanzata per inviare una cartella di lavoro Report Builder a Power BI.
 
->[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346446/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=it).

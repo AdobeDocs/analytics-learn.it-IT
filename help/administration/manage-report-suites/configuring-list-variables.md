@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Come si possono inserire contemporaneamente più valori in un eVar (variabile di conversione)? Con le variabili elenco! Questo video spiega come e perché configurare e utilizzare le variabili elenco in Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/339450/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342199/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html?lang=it).

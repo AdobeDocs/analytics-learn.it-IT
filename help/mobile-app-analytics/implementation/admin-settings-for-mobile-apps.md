@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Scopri come impostare in Adobe Analytics la generazione rapporti per app mobili, inclusi i componenti [!UICONTROL Lifecycle], [!UICONTROL Location Tracking] e [!UICONTROL Background Hit].
 
->[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327237/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=it).

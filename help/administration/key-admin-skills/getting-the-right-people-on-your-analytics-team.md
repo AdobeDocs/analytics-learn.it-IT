@@ -17,4 +17,4 @@ ht-degree: 0%
 
 È molto importante inserire nel team le persone giuste durante l’implementazione di Adobe Analytics e l’analisi dell’attività sul sito. Questo video ti fornirà un rapido resoconto dei diversi ruoli da includere nel team.
 
->[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37382/?quality=12&learn=on&captions=ita)

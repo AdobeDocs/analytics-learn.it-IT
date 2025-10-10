@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Non sappiamo bene come chiamarlo, ma è molto interessante. Quando crei un grafico a linee a partire da un valore di dimensione, puoi selezionare diversi valori di dimensione e modificare dinamicamente il grafico. Guarda il video per saperne di più.
 
->[!VIDEO](https://video.tv.adobe.com/v/23991/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329399/?quality=12&learn=on&captions=ita)

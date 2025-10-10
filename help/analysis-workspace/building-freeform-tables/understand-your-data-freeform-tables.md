@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Utilizza una tabella a forma libera (tabella pivot) per comprendere e interpretare i tuoi dati e ricavare utili informazioni approfondite.
 
->[!VIDEO](https://video.tv.adobe.com/v/334093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415658/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table.html?lang=it).

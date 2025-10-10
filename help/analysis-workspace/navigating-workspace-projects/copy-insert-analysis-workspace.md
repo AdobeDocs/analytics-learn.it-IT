@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come copiare e inserire pannelli e visualizzazioni in Analysis Workspace. Si tratta di tecniche che consentono di risparmiare tempo per perfezionare un progetto in coro o per iniziare a realizzarne uno nuovo.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41434/?quality=12&learn=on&captions=ita)

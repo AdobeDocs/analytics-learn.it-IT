@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Scopri in che modo gli utenti delle app mobili sono influenzati dai punti di contatto e quali canali fanno la differenza per la tua app mobile, utilizzando [!DNL Attribution IQ]. Scopri quali sono i canali che, insieme, favoriscono eventi di successo nella tua app mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/27827/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36995/?quality=12&learn=on&captions=ita)

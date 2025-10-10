@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Questo video mostra [!DNL Attribution IQ] [!UICONTROL Panel], un ottimo punto di partenza per la creazione del progetto di attribuzione Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41429/?quality=12&learn=on&captions=ita)
 
 Il [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace è un modo per confrontare rapidamente uno qualsiasi dei dieci [!DNL attribution models]in modo visivo. Scopri in che modo ogni modello influisce su qualsiasi dimensione utilizzando [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] e anche un [!DNL Flow Diagram]. Il [!DNL Attribution] [!UICONTROL Panel] è un ottimo punto di partenza per un’analisi di attribuzione più sofisticata.

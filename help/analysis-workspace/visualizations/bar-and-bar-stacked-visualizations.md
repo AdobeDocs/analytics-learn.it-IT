@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Questo video illustra come aggiungere e configurare le visualizzazioni Barre, Barre sovrapposte, Barre orizzontali e Barre orizzontali sovrapposte nel progetto in Analysis Workspace. Anche se considerate di base, queste visualizzazioni possono essere utili per raccontare le storie di dati e fornire informazioni approfondite agli analisti.
 
->[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416620/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bar.html?lang=it).

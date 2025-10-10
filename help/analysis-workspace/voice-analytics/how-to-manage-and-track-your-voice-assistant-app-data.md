@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come creare una dashboard personalizzata per gestire e tracciare le prestazioni dell’app di assistenza vocale in modo semplice, flessibile, intuitivo e visivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328552/?quality=12&learn=on&captions=ita)

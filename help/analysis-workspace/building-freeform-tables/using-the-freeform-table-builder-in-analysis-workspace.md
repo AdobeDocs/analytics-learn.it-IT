@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Il [!DNL Freeform table builder] consente di inserire tramite trascinamento un gran numero di dimensioni, raggruppamenti, metriche e segmenti per creare tabelle che rispondono a domande di business più complesse. I dati non vengono aggiornati in tempo reale, ma solo dopo che avrai fatto clic su “Genera”, risparmiando tempo poiché la tabella viene aggiornata una sola volta.
 
->[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35891/?quality=12&learn=on&captions=ita)
