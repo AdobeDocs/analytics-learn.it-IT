@@ -20,4 +20,4 @@ Comprendi i tipi di variabili di traffico e come vengono utilizzate in Adobe Ana
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=it).

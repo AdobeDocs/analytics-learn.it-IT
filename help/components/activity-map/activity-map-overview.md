@@ -21,4 +21,4 @@ Scopri Activity Map, uno strumento per aiutarti a visualizzare i dati delle atti
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/analyze/activity-map/activity-map).

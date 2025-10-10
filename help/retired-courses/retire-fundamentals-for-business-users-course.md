@@ -29,7 +29,7 @@ Per tutti questi motivi, abbiamo deciso che per renderlo più utile dovevamo rio
 Se sei un utente aziendale, un operatore commerciale o rivesti un ruolo simile, ti consigliamo di seguire i corsi elencati di seguito per acquisire le nozioni di base necessarie per utilizzare al meglio Analysis Workspace:
 
 1. [Guida introduttiva di Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&lang=it)
-1. [Tabelle a forma libera, il fondamento dell’analisi](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+1. [Tabelle a forma libera, il fondamento dell’analisi](https://experienceleague.adobe.com/?lang=it&recommended=Analytics-U-1-2020.3)
 1. [Utilizzo delle visualizzazioni per raccontare le tue storie di dati](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&lang=it)
 1. [Attribuzione di valore ai punti di contatto digitali nel percorso del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&lang=it)
 

@@ -18,6 +18,6 @@ ht-degree: 38%
 
 # Utilizzare filtri a discesa a selezione multipla
 
-Scopri l’opzione di selezione multipla dei campi nei filtri a discesa in Analysis Workspace, che consente agli utenti di visualizzare i dati da qualsiasi campo selezionato. Per la documentazione dettagliata, visita [Panoramica dei pannelli](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
+Scopri l’opzione di selezione multipla dei campi nei filtri a discesa in Analysis Workspace, che consente agli utenti di visualizzare i dati da qualsiasi campo selezionato. Per la documentazione dettagliata, visita [Panoramica dei pannelli](https://experienceleague.adobe.com/it/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)

@@ -21,4 +21,4 @@ L’utilizzo di date e intervalli di date personalizzati nel prodotto può aiuta
 
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).

@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Creare collegamenti ipertestuali in tabelle a forma libera
 
-Scopri come creare collegamenti ipertestuali per uno o più elementi dimensionali, rendendoli cliccabili all’interno di una tabella a forma libera in Analysis Workspace. Puoi creare collegamenti ipertestuali per gli elementi dimensione che hanno valori URL, URL personalizzati per gli elementi dimensione che hanno valori non URL o URL personalizzati dinamici per più elementi dimensione utilizzando le variabili. Per la documentazione dettagliata, visita [Creare collegamenti ipertestuali per le dimensioni in una tabella a forma libera](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table-hyperlinks).
+Scopri come creare collegamenti ipertestuali per uno o più elementi dimensionali, rendendoli cliccabili all’interno di una tabella a forma libera in Analysis Workspace. Puoi creare collegamenti ipertestuali per gli elementi dimensione che hanno valori URL, URL personalizzati per gli elementi dimensione che hanno valori non URL o URL personalizzati dinamici per più elementi dimensione utilizzando le variabili. Per la documentazione dettagliata, visita [Creare collegamenti ipertestuali per le dimensioni in una tabella a forma libera](https://experienceleague.adobe.com/it/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table-hyperlinks).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430411/?learn=on)
