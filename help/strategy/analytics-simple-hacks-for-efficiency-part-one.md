@@ -9,7 +9,7 @@ exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '711'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -47,11 +47,11 @@ Altre sfide chiave affrontate dagli analisti:
 
    **Specifiche tecniche**
 
-   _Caso d’uso:_ istruzioni che descrivono come creare script per la raccolta dati
+   _Use Case :_Istruzioni che descrivono come creare script per la raccolta dati
 
-   _Utenti principali:_ sviluppatori
+   Utenti _primari :_sviluppatori
 
-   _Altre note:_
+   _Altre note :_
 
    * Documento altamente tecnico creato appositamente per gli ambienti di implementazione
    * Utile sia per l’implementazione iniziale che per la successiva manutenzione e come riferimento
@@ -74,11 +74,11 @@ Altre sfide chiave affrontate dagli analisti:
 
    Analytics Health Dashboard (AHD):
 
-   _Caso d’uso:_ istantanea di ogni metrica e dimensione acquisita da una singola suite di rapporti
+   _Caso d&#39;uso :_istantanea di ogni metrica e dimensione acquisita da una singola suite di rapporti
 
-   _Utenti principali:_ sviluppatori e/o esperti di analisi con ruolo Lead
+   Utenti _primari :_sviluppatori e/o esperti di analisi con lead
 
-   _Altre note:_
+   _Altre note :_
    * Fornito tramite Excel con integrazione personalizzata dell’API di reporting di Adobe
    * Gli utenti devono avere accesso tramite API ai servizi web di Analytics.
    * Sono disponibili opzioni per la semi-automazione.

@@ -12,8 +12,8 @@ level: Beginner
 exl-id: c1b8b9de-d47a-44b6-bc3b-d92716d673bb,be2cdcad-01e5-41c2-b91b-3feec9d17d50
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Guarda clip selezionate dalla “super session” su viaggi e ospitalità al [!DNL Summit] 2019
 
->[!VIDEO](https://video.tv.adobe.com/v/330398/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/31442/?quality=12&learn=on)

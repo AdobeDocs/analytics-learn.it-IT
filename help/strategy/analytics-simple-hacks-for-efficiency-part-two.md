@@ -79,7 +79,7 @@ Promuovi l’adozione dei modelli e migliora l’autonomia degli utenti nell’u
 
 La cura ti consente di limitare i componenti (dimensioni, metriche, segmenti, intervalli di date) prima di condividere un progetto. Quando un destinatario apre il progetto, vedrà un set limitato di componenti che hai curato per lui. La cura è un passaggio facoltativo ma consigliato prima di condividere un progetto.
 
-Durante la cura di [!UICONTROL Virtual Report Suites], puoi creare etichette intuitive per le dimensioni, le metriche e i segmenti. Crea etichette personalizzate e di facile utilizzo per gruppi di utenti. Tieni presente che le etichette non modificano il record principale (nome).
+Durante la cura di [!UICONTROL Virtual Report Suites], puoi creare etichette intuitive per le dimensioni, le metriche e i segmenti. Crea etichette personalizzate e di facile utilizzo per sottoinsiemi di utenti. Tieni presente che le etichette non modificano il record principale (nome).
 
 ## Creare aree di lavoro di riferimento per la soluzione
 

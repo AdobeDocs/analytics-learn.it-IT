@@ -17,6 +17,6 @@ ht-degree: 0%
 
 Scopri come utilizzare le funzioni per creare metriche calcolate in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/41090/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
 
-Per ulteriori informazioni sull&#39;utilizzo delle funzioni [base](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=it) e [avanzate](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=it) durante la creazione delle metriche calcolate, consulta la documentazione.
+Per ulteriori informazioni sull&#39;utilizzo delle funzioni [base](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html) e [avanzate](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html) durante la creazione delle metriche calcolate, consulta la documentazione.

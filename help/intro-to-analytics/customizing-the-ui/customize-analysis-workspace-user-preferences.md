@@ -9,8 +9,8 @@ thumbnail: 332600.jpg
 kt: 7478
 source-git-commit: 01812bf314ee0ba4fda322d08c27b282dfca7db2
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Scopri come modificare e personalizzare le preferenze dell’utente in [!DNL Analysis Workspace]. Ciò include le impostazioni generali predefinite, le preferenze di visualizzazione e dati e l’attivazione del tema dell’interfaccia utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429995/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/332600/?quality=12&learn=on)

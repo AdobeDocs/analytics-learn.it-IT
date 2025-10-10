@@ -12,20 +12,20 @@ kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
 source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
-source-wordcount: '1522'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Creazione di una community autonoma
 
->[!VIDEO](https://video.tv.adobe.com/v/341114/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
 Una community autonoma possiede alcune caratteristiche fondamentali. Innanzitutto, è sostenuta dai propri amministratori di Adobe Analytics. Sa in che modo i requisiti di business sono supportati dall’implementazione della propria soluzione. Infine, ma non meno importante, dispone dei mezzi necessari per utilizzare con sicurezza l’analisi per prendere decisioni basate su dati. Sono molte le aziende che beneficiano della struttura fornita da un gruppo di utenti Adobe Analytics interno o da una community più tradizionale.
 
 Puoi creare una community autonoma all’interno della tua organizzazione. Ecco come:
 
-## 1. Sviluppare un’infrastruttura solida su cui fondare la community autonoma
+## &#x200B;1. Sviluppare un’infrastruttura solida su cui fondare la community autonoma
 
 * Creare un processo di onboarding degli utenti:
 
@@ -43,7 +43,7 @@ Puoi creare una community autonoma all’interno della tua organizzazione. Ecco 
 
   I modelli di rapporti e i progetti di Adobe Analytics sono risorse chiave, destinate agli utenti, relative all’implementazione, ai casi di utilizzo per i diversi rapporti e alle best practice da seguire. Tali risorse devono contemplare le domande di business più comuni e spiegare come utilizzare lo strumento per rispondere al meglio a tali domande.
 
-## 2. Pianificare chi dovrà gestire la community e chi dovrà essere coinvolto
+## &#x200B;2. Pianificare chi dovrà gestire la community e chi dovrà essere coinvolto
 
 * Decidere chi gestirà la community:
 
@@ -61,7 +61,7 @@ Puoi creare una community autonoma all’interno della tua organizzazione. Ecco 
 
 * Ricorda: “Cosa ci guadagnano?” Per assicurare il coinvolgimento e il successo della community, è importante mantenere l’accento sui casi d’uso e sulle priorità aziendali.
 
-## 3. Utilizzare gli strumenti per iniziare a creare la community
+## &#x200B;3. Utilizzare gli strumenti per iniziare a creare la community
 
 * [Creare uno statuto di progetto](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (download del modello):
 
@@ -89,7 +89,7 @@ Puoi creare una community autonoma all’interno della tua organizzazione. Ecco 
 
 * Utilizza la community come mezzo per la diretta. A seconda dello stack tecnologico della tua azienda, scegli uno strumento o un mezzo di comunicazione per la tua community. Dovrà essere specifico per la tua organizzazione, ma in molti casi si può utilizzare anche Microsoft Teams.
 
-## 4. Sostenere la community per assicurarne il successo
+## &#x200B;4. Sostenere la community per assicurarne il successo
 
 * Riserva il tempo necessario: aggiungi le riunioni della community ai calendari interni per riservare con anticipo il tempo necessario; se possibile, delle riunioni ricorrenti ti aiuteranno a realizzare il piano dei contenuti. Per aiutarti a iniziare, ecco alcune idee da mettere in agenda:
 

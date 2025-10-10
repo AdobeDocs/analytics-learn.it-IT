@@ -9,8 +9,8 @@ level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
 source-git-commit: 48eef6315e8213c39d0d70093597260a4444d81b
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Questo video illustra come utilizzare le regole nei [!DNL tags] per tenere traccia degli eventi di conversione (eventi di successo) sul sito.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429962/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)

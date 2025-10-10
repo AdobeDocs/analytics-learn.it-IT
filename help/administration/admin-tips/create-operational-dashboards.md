@@ -12,8 +12,8 @@ thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
 source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1152'
-ht-degree: 100%
+source-wordcount: '1151'
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ Mi sono accorto che gli utenti spesso ignoravano i miei riferimenti al sito di C
 
 Sono andato avanti e ho creato dashboard operative da condividere a livello aziendale. Finora, hanno mantenuto gli utenti aggiornati, centralizzato le informazioni e ridotto la conseguente frustrazione. Si è trattato di un processo semplice e in continua evoluzione che migliora l’efficienza col tempo.
 
-Le persone hanno potuto ricevere molte informazioni utili senza la mia continua presenza, capire le aree del sito, vedere quanto è funzionale Adobe Analytics e, cosa importante per me, farmi meno domande e quindi richiedere meno del mio tempo.
+Le persone sono state in grado di ottenere un sacco di buone informazioni senza di me, capire le aree del sito, vedere quanto è bello Adobe Analytics e (importante per me 😊) farmi meno domande e prendere meno tempo.
 
 **Ti consiglio vivamente di creare dashboard per tutte le proprietà o le aree principali del sito.** Dovranno fornire una panoramica della proprietà/sito/app/flusso e disporre di informazioni di base in modo rapido. Dovranno essere condivise con tutta azienda, consentendo a tutti gli utenti di comprendere la proprietà senza alcuna difficoltà. La mia esperienza mi porta a considerare che queste dashboard rispondono solitamente all’80% delle domande che ricevo, facendomi risparmiare tempo prezioso.
 
@@ -51,7 +51,7 @@ Crea solo [visualizzazioni di testo](https://experienceleague.adobe.com/docs/ana
 
 Invece di scrivere e-mail lunghe o recuperare spiegazioni precedenti, aggiorna la dashboard delle domande frequenti. Inizia ora e ampliala nel tempo. Utilizza i collegamenti ipertestuali per fare riferimento ad altre dashboard o a domande frequenti correlate all’interno dei rapporti. Fornisci un contesto complesso quando necessario, collegando altre dashboard alle domande frequenti.
 
-Per Gen Digital, le domande frequenti si concentrano sull’utilizzo personalizzato di Adobe Analytics, non sulle nozioni di base. Invia collegamenti a domande frequenti specifiche per e-mail, facendo clic con il tasto destro del mouse, selezionando “Ottieni collegamento di visualizzazione” e condividendo il vanity URL. Questo evidenzia il contenuto esatto per gli utenti. Utilizza le tabelle a forma libera per illustrare i dati, aggiungendo ulteriori spiegazioni con “modifica descrizione”.
+Per Gen Digital, le domande frequenti si concentrano sull’utilizzo personalizzato di Adobe Analytics, non sulle nozioni di base. Invia collegamenti a domande frequenti specifiche per e-mail, facendo clic con il tasto destro del mouse, selezionando “Ottieni collegamento di visualizzazione” e condividendo l’URL personalizzato. Questo evidenzia il contenuto esatto per gli utenti. Utilizza le tabelle a forma libera per illustrare i dati, aggiungendo ulteriori spiegazioni con “modifica descrizione”.
 
 Quando le domande frequenti ti sembreranno complete, condividile con l’azienda per un accesso e un apprendimento collettivi. Continua a migliorarle secondo le necessità.
 
@@ -74,7 +74,7 @@ Poiché queste dashboard sono visibili a livello aziendale, gli aggiornamenti ha
 - Versioni future e aggiornamenti da parte nostra (principalmente versioni del codice)
 - Nuove funzioni importanti da Adobe
 - Pianificazione dell’orario d’ufficio
-- Elenco di tutte le dashboard di panoramica e dei rapporti interessanti a cui dare un’occhiata
+- Elenco di tutte le dashboard di panoramica e dei rapporti interessanti da scoprire
 
 Sono incluse le nuove funzionalità, il tracciamento e le dashboard fondamentali. I collegamenti ipertestuali all’interno dei rapporti di testo (o in cima ad altri rapporti tramite pulsante destro del mouse e modifica la descrizione) ti consentono il collegamento ad altre dashboard in Adobe Analytics o nella pagina di rilascio delle funzioni di Adobe.
 
@@ -88,7 +88,7 @@ L’obiettivo di questa dashboard operativa è di avere una posizione centrale d
 
 Puoi integrarlo nella dashboard Notizie e annunci se desideri che sia meno in primo piano. Tuttavia, se la segnalazione di bug è importante o critica per la tua azienda, potrebbe essere più saggio disporre di una dashboard separata.
 
-Uso una visualizzazione di testo e la mantengo molto semplice con i punti elenco. Il punto elenco viene preceduto dalla data del bug e dalla proprietà (ad esempio: “3gen23-17gen23 - Norton.com”, “Prima del 14set22 - Chat”). Poi aggiungo i dettagli e cerco di mantenerli brevi e concisi. Evito di indicare il team in errore e di aggiungere troppi dettagli tecnici che probabilmente non interessano agli utenti.
+Uso una visualizzazione di testo e la mantengo molto semplice con i punti elenco. Ogni voce ha come prefisso la data del bug e la proprietà (ad esempio: “3gen23-17gen23 - Norton.com”, “Prima del 14set22 - Chat”). Poi aggiungo i dettagli e cerco di mantenerli brevi e concisi. Evito di indicare il team in errore e di aggiungere troppi dettagli tecnici che probabilmente non interessano agli utenti.
 
 Il bug più recente si trova nella parte superiore, mentre quelli precedenti si trovano nei rapporti di testo annuali (ad esempio: “2022 - Bug noti, errori e modifiche”), tutti compressi.
 

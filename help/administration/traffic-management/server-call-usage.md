@@ -16,8 +16,8 @@ level: Beginner
 exl-id: 8ada68ff-c7fc-45e3-a663-c477519f557f
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 [!UICONTROL Server Call Usage] il reporting ti consentirà di tenere traccia esattamente dell’impegno di chiamata al server che hai utilizzato in qualsiasi momento e ti avviserà proattivamente quando ti avvicini al tuo impegno totale.
 
->[!VIDEO](https://video.tv.adobe.com/v/41428/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12&learn=on)
 
 Può essere difficile mantenere il consumo di chiamate al server dell’organizzazione, con conseguente frustrazione per gli overage. Con [!UICONTROL Server Call Usage] nel reporting, puoi tenere traccia esattamente dell’impegno di chiamata al server che hai utilizzato in qualsiasi momento e ti avviserà proattivamente anche quando ti avvicini al tuo impegno totale. La dashboard di accompagnamento ti consente di analizzare dove vengono utilizzate le chiamate al server, in modo da poter correggere implementazioni in tempo reale o collaborare con i colleghi per eseguire la scalabilità in luoghi in cui potrebbero essere raccolti grandi volumi di dati di minor valore.

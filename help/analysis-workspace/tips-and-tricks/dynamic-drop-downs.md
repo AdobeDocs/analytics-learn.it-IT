@@ -20,6 +20,6 @@ ht-degree: 84%
 
 Scopri come creare filtri a discesa basati su un’intera dimensione. Gli elementi della dimensione vengono aggiornati in modo dinamico in base all’intervallo di date utilizzato nel pannello del rapporto e ai valori selezionati in altri filtri a discesa nello stesso pannello.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446824/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=it#dynamic-drop-down-filters).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html#dynamic-drop-down-filters).

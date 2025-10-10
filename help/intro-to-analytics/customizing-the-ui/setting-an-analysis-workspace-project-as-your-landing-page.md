@@ -11,8 +11,8 @@ kt: 2364
 exl-id: 1222621b-52db-41b6-8a74-8ab8a8ddd51a
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri un modo efficace per coinvolgere facilmente i nuovi utenti nei dati dei progetti di analisi Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/327933/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12&learn=on)

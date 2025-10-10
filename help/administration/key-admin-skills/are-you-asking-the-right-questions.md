@@ -17,7 +17,7 @@ ht-degree: 99%
 
 # Stai facendo le domande giuste?
 
->[!VIDEO](https://video.tv.adobe.com/v/346458/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
 
 _Tutti_. Questa è una delle risposte più comuni delle parti interessate alla domanda: _“Quali dati desideri monitorare?”_ Può essere più utile identificare e raccogliere i _punti di dati utilizzabili_ che registrare ogni elemento possibile. Per individuare in maniera efficiente i punti di dati, servono un piano di base e discussioni creative con le parti interessate.
 
@@ -44,7 +44,7 @@ Aziende, unità aziendali e team hanno una cultura unica e un linguaggio correla
 
 Stabilisci alcuni principi prima della discussione. In qualità di amministratore di Analytics, devi acquisire gli input giusti per sviluppare e fornire la soluzione ideale per le parti interessate.
 
-### 1. Fornire un questionario
+### &#x200B;1. Fornire un questionario
 
 Invia un elenco di domande alle tue parti interessate da rivedere prima della riunione di scoperta. Possono fornire risposte preliminari o semplicemente familiarizzare con gli argomenti di discussione. Puoi fornire risposte di esempio insieme al questionario se ciò chiarirà ulteriormente le aspettative.
 
@@ -52,11 +52,11 @@ Le domande variano in base alle capacità tecniche o analitiche, alla struttura 
 
 [Esplora questo modello](assets/stakeholder-questionnaire.pdf){target="_blank"} contenente diverse domande di esempio per le interviste alle parti interessate. Riutilizzale o modificale per preparare le domande pertinenti per le tue discussioni.
 
-### 2. Richiedere rapporti di esempio
+### &#x200B;2. Richiedere rapporti di esempio
 
 Le parti interessate devono fornire esempi effettivi o simulati dei punti di dati di interesse e del modo in cui potrebbero essere utilizzati o segnalati. Questi rapporti offrono altri indizi sugli obiettivi, sull’approccio e sulla cultura delle parti interessate e del loro stato attuale o ideale.
 
-### 3. Nessuna promessa nella scoperta
+### &#x200B;3. Nessuna promessa nella scoperta
 
 Le richieste effettuate e le idee di dati discusse durante la scoperta non sono impegni con le parti interessate. Esistono livelli di complessità coinvolti nell’esecuzione della raccolta dei dati, che non puoi valutare completamente se non una volta completata l’intervista. Potresti discutere idee in un brainstorming creativo che alla fine vengono messe in secondo piano a causa della loro scarsa rilevanza per i loro obiettivi. Per questi e altri motivi, la fase di scoperta è solo un’opportunità di raccolta di idee, dove le idee acquisite non sono necessariamente rese disponibili nei rapporti.
 
@@ -71,7 +71,7 @@ Le interviste di scoperta dovrebbero generare documenti, garantendo che le idee 
 Adobe offre alcuni strumenti e modelli utili per questo passaggio. Utilizzali e adattali in base alle tue esigenze.
 
 * **Il documento sui requisiti aziendali (Business Requirements Document, BRD)** offre un modello moderatamente dettagliato per la raccolta dei requisiti e il tracciamento dell’implementazione.
-* Il **pannello di controllo di Adobe Analytics Health** viene utilizzato per estrarre un’istantanea degli stati delle variabili correnti da Adobe Analytics.
+* La **dashboard di Adobe Analytics Health** viene utilizzata per estrarre un’istantanea degli stati delle variabili correnti da Adobe Analytics.
 
 ## Fai le domande giuste!
 

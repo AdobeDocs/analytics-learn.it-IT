@@ -9,8 +9,8 @@ level: Beginner
 exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!DNL Adobe Labs] (anteprime di tecnologie) consente di avvicinarsi alle tecnologie emergenti, scoprire informazioni importanti e influenzare le priorità e lo sviluppo delle future funzioni di [!DNL Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/36960/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12&learn=on)
 
 Quando si utilizza un prototipo [!DNL Labs], è possibile valutare la funzionalità nel contesto dei propri dati e casi di utilizzo.
 

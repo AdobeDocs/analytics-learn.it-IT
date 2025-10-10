@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 32f5ad95-1995-494f-9857-165bb81ae04f
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri in che modo l’apprendimento automatico di Adobe Sensei e le tecnologie AI in Adobe Analytics possono aiutare gli utenti aziendali a tenere il passo con i propri dati e a utilizzarli praticamente, quando e dove sono davvero importanti.
 
->[!VIDEO](https://video.tv.adobe.com/v/327238/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12&learn=on)

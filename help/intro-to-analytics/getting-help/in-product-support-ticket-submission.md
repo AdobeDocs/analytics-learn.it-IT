@@ -15,6 +15,6 @@ ht-degree: 60%
 
 # Invio di una richiesta di assistenza direttamente dal prodotto {#in-product-support-ticket-submission}
 
-Scopri come inviare un ticket di supporto a [!DNL Customer Care] all&#39;Adobe direttamente nel prodotto, semplificando la procedura di risoluzione.
+Scopri come inviare un ticket di supporto a [!DNL Customer Care] in Adobe direttamente dal prodotto, semplificando il processo di risoluzione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430059/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)

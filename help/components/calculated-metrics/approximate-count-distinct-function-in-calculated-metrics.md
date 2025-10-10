@@ -17,6 +17,6 @@ ht-degree: 0%
 
 Scopri come creare una metrica calcolata utilizzando la funzione Approximate Count Distinct che restituisce il conteggio distinto approssimativo degli elementi dimensionali per una dimensione selezionata.
 
->[!VIDEO](https://video.tv.adobe.com/v/41081/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 
 Puoi utilizzare la metrica mostrata in questo video in qualsiasi rapporto per comprendere il conteggio di una dimensione rispetto ai valori delle altre. Un caso d’uso molto comune consiste nell’utilizzare questa funzione per creare una metrica ID cliente, che puoi quindi utilizzare in qualsiasi rapporto per vedere quanti clienti si applicano ai diversi valori di dimensione.

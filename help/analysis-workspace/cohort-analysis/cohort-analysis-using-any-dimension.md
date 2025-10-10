@@ -12,8 +12,8 @@ level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 L’opzione [!UICONTROL Cohort] [!UICONTROL Dimension] personalizzata consente di analizzare [!UICONTROL cohorts] utilizzando [!UICONTROL dimensions] diverse dal tempo. Confronto [!UICONTROL cohorts] per canale di marketing, regione della campagna, pagina del prodotto, ecc. per capire meglio come [!UICONTROL retention] (o [!UICONTROL churn]) cambia da oggetto [!UICONTROL dimension].
 
->[!VIDEO](https://video.tv.adobe.com/v/3430179/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=it).

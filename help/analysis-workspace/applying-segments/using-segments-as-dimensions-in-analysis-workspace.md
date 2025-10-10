@@ -9,8 +9,8 @@ level: Beginner
 exl-id: 36b564bd-30ae-4474-8b05-9607397e02b8,69901e9c-42e6-423e-bb89-8b8b0763bac7
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Questo video mostra come confrontare e visualizzare i segmenti utilizzandoli come dimensioni in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/41740/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23974/?quality=12&learn=on)

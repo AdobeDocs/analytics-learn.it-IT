@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Questo video ti aiuterà a comprendere cosa sono le [!UICONTROL report suites] e come crearle nell’interfaccia, in modo da poter tenere traccia e ottimizzare il traffico in arrivo sul tuo sito.
 
->[!VIDEO](https://video.tv.adobe.com/v/37377/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12&learn=on)

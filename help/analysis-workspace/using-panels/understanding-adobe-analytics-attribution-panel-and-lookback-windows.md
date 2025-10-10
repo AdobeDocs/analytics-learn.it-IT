@@ -11,14 +11,14 @@ thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
 source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
-source-wordcount: '1664'
+source-wordcount: '1659'
 ht-degree: 1%
 
 ---
 
 # Informazioni sul pannello di attribuzione e sugli intervalli di lookback di Adobe Analytics
 
-Quando ho pensato per la prima volta al [pannello di attribuzione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=it) e all&#39;**intervallo di lookback**, mi è stato subito ricordato il concetto di &#39;*viaggio nel tempo&#39;*; poi, ovviamente, mi è stato anche ricordato che la nostra tipica risposta a molti nuovi strumenti come questi è semplicemente di rimandare il tentativo di utilizzarli, perché sembrano così complicati.
+Quando ho pensato per la prima volta al [pannello di attribuzione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) e all&#39;**intervallo di lookback**, mi è stato subito ricordato il concetto di &#39;*viaggio nel tempo&#39;*; poi, ovviamente, mi è stato anche ricordato che la nostra tipica risposta a molti nuovi strumenti come questi è semplicemente di rimandare il tentativo di utilizzarli, perché sembrano così complicati.
 
 Voglio dire, onestamente, guardate tutte quelle opzioni, interruttori, pannelli, letture e manopole.  E seriamente, parliamo di quelle complicate luci lampeggianti, tubi, strumenti... ASPETTA!!  Non è il momento di distrarsi parlando di macchine del tempo, semplicemente non abbiamo il tempo... o no?
 
@@ -43,12 +43,12 @@ Ora che siamo tutti entusiasti del viaggio nel tempo, facciamo un respiro profon
 
 In **attribuzione**, considera semplicemente il modo in cui gli eventi/azioni possono essere causati da un singolo, da più singoli utenti o da uno qualsiasi dei diversi eventi nel tempo.
 
-In base all&#39;[Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=it), l&#39;*attribuzione* consente agli analisti di personalizzare il modo in cui *Dimension* elementi ricevono credito per *eventi di successo*.
+In base a [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *attribution* consente agli analisti di personalizzare il modo in cui *Dimension* elementi ricevono credito per *eventi di successo*.
 
 
 >[!WARNING]
 >
->**I modelli di attribuzione** sono così frequentemente associati a **canali di marketing** che ho intenzionalmente *cancellato* ❷ CHANNEL nell&#39;immagine qui sopra per illustrare che è possibile eseguire l&#39;analisi **di attribuzione** rispetto alla maggior parte delle altre ***dimensioni***.
+>**I modelli di attribuzione** sono così frequentemente associati a **canali di marketing** che ho intenzionalmente *cancellato* ❷ CANALE nell&#39;immagine qui sopra per illustrare che è possibile eseguire l&#39;analisi di **attribuzione** rispetto alla maggior parte delle altre ***dimensioni***.
 
 
 Di fatto, raramente un dato percorso di clienti è realmente lineare e anche meno spesso prevedibile.  Inoltre, ogni cliente procederà secondo il proprio ritmo; spesso, può tornare indietro, fermarsi, uscire o impegnarsi in altri comportamenti non lineari. Queste azioni organiche rendono difficile o praticamente impossibile conoscere l’impatto delle attività di marketing in tutto il percorso di clienti. Inoltre, ostacola gli sforzi volti a collegare più canali di dati tra loro.
@@ -57,13 +57,13 @@ Esatto.  Lasciate alle porte le vostre analogie &quot;domino&quot; e aprite le v
 
 ## **Modelli di attribuzione**
 
-Quando si utilizza il **pannello di attribuzione**, è possibile osservare diverse cose.  Ad esempio, i **modelli di attribuzione** ci dimostrano come le nostre *conversioni* (ovvero, ❶ **metriche di successo**) possono essere distribuite tra *hit* in qualsiasi gruppo.
+Quando si utilizza il **pannello di attribuzione**, è possibile osservare diverse cose.  Ad esempio, i **modelli di attribuzione** ci dimostrano come le nostre *conversioni* (ovvero ❶ **metriche di successo**) possono essere distribuite tra *hit* in qualsiasi gruppo.
 
 In poche parole, se **10 persone** premete un **BIG RED BUTTON** per varcare una porta, i nostri **modelli di attribuzione** ci diranno a quali di queste **10 persone** vogliamo assegnare il &quot;credito&quot; - o meglio ancora, a quale *molto* &quot;credito&quot; vogliamo assegnare - per aver premuto detto pulsante.
 
 ![Button](assets/button.png)
 
-Tenendo presente questo aspetto, ecco alcuni esempi di come i **modelli di attribuzione** ❸ potrebbero influenzare queste **10 persone**:
+Tenendo presente questo aspetto, ecco alcuni esempi di come i ❸ **modelli di attribuzione** potrebbero influire su queste **10 persone**:
 
 - **Primo contatto**: questo modello funziona esattamente come sembra concedendo **100% di credito** alla *prima* persona che ha attraversato la porta.  È più probabile che gli addetti al marketing utilizzino questo approccio per tattiche come ***social media*** o ***display***; tuttavia, è anche un&#39;ottima tattica da utilizzare spesso per garantire l&#39;efficacia dei consigli sui prodotti nel sito.
 - **Ultimo contatto**: questa tattica funziona esattamente come se suonasse, ma attribuisce invece **un credito del 100%** all&#39;ULTIMA persona che ha attraversato la porta.  Questo modello viene in genere utilizzato per analizzare elementi come ***ricerca naturale (organica)*** e altre *campagne a breve termine* del ciclo di marketing.
@@ -85,7 +85,7 @@ Tenendo presente questo aspetto, ecco alcuni esempi di come i **modelli di attri
 
 - **Personalizzato**: scegli chi riceverà il credito.  È la tua campagna!
 
-Per ulteriori informazioni su questi e altri modelli di attribuzione, [fai clic qui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=it)
+Per ulteriori informazioni su questi e altri modelli di attribuzione, [fai clic qui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Per rendere questo ancora più interessante, parliamo di tornare indietro l&#39;orologio!
 
@@ -93,7 +93,7 @@ Per rendere questo ancora più interessante, parliamo di tornare indietro l&#39;
 
 Ora è il momento di iniziare a portare la tua mente al livello successivo.  In questo ambito aggiungiamo letteralmente l’elemento del viaggio nel tempo alla nostra analisi, e di nuovo iniziamo con le nozioni di base.
 
-***L&#39;Adobe*** definisce ❹ **intervalli di lookback** come &quot;la quantità di tempo che una conversione deve recuperare per includere i punti di contatto. I modelli di attribuzione che attribuiscono maggiore credito alle prime interazioni visualizzano differenze più grandi quando si visualizzano diversi intervalli di lookback.&quot;
+***Adobe*** definisce ❹ **intervalli di lookback** come &quot;la quantità di tempo che una conversione deve recuperare per includere i punti di contatto. I modelli di attribuzione che attribuiscono maggiore credito alle prime interazioni visualizzano differenze più grandi quando si visualizzano diversi intervalli di lookback.&quot;
 
 
 In altre parole, **intervalli di lookback** determinano il periodo di tempo durante il quale *vengono considerate le conversioni* e forniscono *contesto* all&#39;analisi dell&#39;attribuzione. ***Adobe Analytics*** offre tre tipi di **intervalli di lookback**:

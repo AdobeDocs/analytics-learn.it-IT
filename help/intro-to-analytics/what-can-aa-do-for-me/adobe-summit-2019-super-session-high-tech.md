@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Guarda alcune clip selezionate dalla “super session” sul settore high tech del [!DNL Summit] 2019
 
->[!VIDEO](https://video.tv.adobe.com/v/330382/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/30548/?quality=12&learn=on)

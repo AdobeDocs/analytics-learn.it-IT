@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Questo video mostra le varie opzioni disponibili nel menu di scelta rapida della [!DNL Flow visualization] in Analysis Workspace. Le opzioni includono la creazione di un segmento da un percorso, la compressione di colonne e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/329884/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=it#analysis-workspace).
 

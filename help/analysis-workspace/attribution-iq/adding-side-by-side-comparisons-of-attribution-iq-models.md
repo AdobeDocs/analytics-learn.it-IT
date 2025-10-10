@@ -13,8 +13,8 @@ level: Intermediate
 exl-id: 3c259132-250a-4579-a4d8-344e0b0055f1
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 In questo video, scopri come confrontare rapidamente [!DNL Attribution IQ models], inclusa una colonna creata automaticamente che mostra la differenza percentuale tra i numeri dei due modelli.
 
->[!VIDEO](https://video.tv.adobe.com/v/327800/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12&learn=on)

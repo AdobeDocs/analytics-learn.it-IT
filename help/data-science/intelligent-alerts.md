@@ -21,6 +21,6 @@ ht-degree: 0%
 
 [!DNL Intelligent Alerts] portano il potere di [!UICONTROL Anomaly Detection] direttamente nella tua casella in entrata o sul telefono. Conoscere immediatamente cambiamenti significativi nelle metriche chiave e nei segmenti significa non perdere opportunità.
 
->[!VIDEO](https://video.tv.adobe.com/v/327921/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=it).

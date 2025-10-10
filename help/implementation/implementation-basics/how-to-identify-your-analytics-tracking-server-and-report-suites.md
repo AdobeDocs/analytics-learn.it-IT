@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
 source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,4 +41,4 @@ Per visualizzare il beacon, così come tutte le altre informazioni che arrivano 
 
 Per ulteriori informazioni, guarda il video seguente.
 
->[!VIDEO](https://video.tv.adobe.com/v/327913/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)

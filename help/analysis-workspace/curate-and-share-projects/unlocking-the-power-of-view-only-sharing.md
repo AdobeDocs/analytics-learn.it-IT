@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Sblocco della potenza della condivisione in sola lettura in Analysis Workspace
 
-Scopri come la condivisione di progetti Analysis Workspace di Adobe in modalità di &quot;sola lettura&quot; può creare rapporti dashboard pronti per gli utenti esecutivi con un’interfaccia utente pulita e opzioni di filtro predefinite, nonché come la &quot;scorecard mobile&quot; può semplificare la condivisione di KPI di esperienza digitale con i dirigenti in movimento.
+Scopri come la condivisione di progetti Adobe Analysis Workspace in modalità di &quot;sola lettura&quot; può creare rapporti dashboard pronti per gli utenti esecutivi con un’interfaccia utente pulita e opzioni di filtro predefinite, nonché come la &quot;scorecard mobile&quot; può semplificare la condivisione di KPI di esperienza digitale con i dirigenti in movimento.
 
 La condivisione di progetti Adobe Analytics Workspace con i colleghi è un utilizzo essenziale di Analytics per prendere decisioni aziendali migliori. Possiamo condividere i progetti con altri utenti per i diritti di accesso &quot;Modifica originale&quot;, &quot;Modifica copia&quot; e &quot;Sola lettura&quot;. Nella maggior parte dei casi, condividiamo i progetti con i diritti di accesso per la modifica dell’originale o la copia, in modo da poter aggiornare il progetto in modo collaborativo o consentire ad altri utenti di duplicare il progetto come proprio per ulteriori aggiornamenti. Tuttavia, a volte la condivisione in sola lettura è un’opzione di condivisione sorprendentemente buona che va oltre il controllo degli accessi, come suggerito dal nome del diritto di accesso.
 
@@ -47,6 +47,6 @@ Questo documento è stato scritto da:
 
 ![Leo Lau](assets/leo_headshot.png)
 
-**Leo Lau**, Director, Lead Asia MarTech
+**Leo Lau**, Direttore, Lead Asia MarTech
 
 Adobe Analytics Champion

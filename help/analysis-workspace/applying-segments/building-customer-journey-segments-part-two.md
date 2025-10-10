@@ -47,13 +47,13 @@ Mentre un modello di propensione cerca di prevedere se un visitatore acquisterà
 
 ## Creazione del segmento di intento della visita di acquisto
 
-Il segmento Intento visita di acquisto è facile da definire. Nel mio caso, chiunque clicchi sul pulsante &quot;Prenota ora&quot; sta indicando una sorta di intenzione di prenotare una crociera. È simile a fare clic su &quot;Pagamento&quot; per un rivenditore online o su un collegamento &quot;Abbonati&quot; in un contesto multimediale.
+Il segmento Intento visita di acquisto è facile da definire. Nel mio caso, chiunque clicchi sul pulsante &quot;Prenota ora&quot; sta indicando una sorta di intenzione di prenotare una crociera. È simile a fare clic su &quot;Pagamento&quot; per un retailer online o su un collegamento &quot;Abbonati&quot; in un contesto multimediale.
 
 Sarà necessario esercitare un certo giudizio quando si decide quale segnale utilizzare per dedurre l&#39;intento di acquisto. Vogliamo che il segmento Intento di acquisto contenga tutti gli acquisti, ma il tasso di conversione non deve essere del 100%. Pertanto, non è necessario utilizzare la pagina di conferma o ringraziamento dell’acquisto per questo segmento.
 
-Allo stesso modo, la pagina Rivedi il tuo acquisto (o qualsiasi cosa sia immediatamente prima della conferma dell’acquisto) è probabilmente troppo a valle per essere utile per l’analisi e il targeting.
+Allo stesso modo, la pagina Rivedi il tuo acquisto (o qualsiasi cosa si trovi immediatamente prima della conferma dell’acquisto) è probabilmente troppo in basso per funnel per essere utile per l’analisi e il targeting.
 
-Andando oltre il funnel, può diventare meno chiaro se il segnale è utile o meno per indicare che un cliente intende effettuare un acquisto. Nel mio caso, &quot;Book Now&quot; è simile al collegamento &quot;Checkout&quot; di una vendita al dettaglio, e questo è il segnale che ho utilizzato. Ma in un contesto di vendita al dettaglio, Checkout potrebbe essere ancora troppo lungo il funnel e Visualizza carrello o anche Aggiungi al carrello potrebbe essere meglio.
+Andando oltre il funnel, può risultare meno chiaro se il segnale è utile o meno per indicare che un cliente intende effettuare un acquisto. Nel mio caso, &quot;Book Now&quot; è simile al collegamento &quot;Checkout&quot; di una vendita al dettaglio, e questo è il segnale che ho utilizzato. Ma in un contesto di vendita al dettaglio, Checkout potrebbe essere ancora troppo in basso nel funnel e Visualizza carrello o anche Aggiungi al carrello potrebbe essere meglio.
 
 Possiamo immaginarlo come un negozio di alimentari. Se qualcuno ritira un prodotto dallo scaffale, non significa che abbia intenzione di comprarlo. Anche se lo mettono nel carrello, possono subito rimetterlo sullo scaffale. Ma se mettono il prodotto nel carrello e iniziano a camminare con esso, c&#39;è una buona probabilità che intendono comprarlo. E se entrano nella catena di pagamento con quel prodotto è una buona scommessa che compreranno.
 
@@ -143,6 +143,6 @@ Questo documento è stato scritto da:
 
 ![Fossum di Aaron](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, analisi digitale
+**Aaron Fossum**, Direttore, Digital Analytics
 
 Adobe Analytics Champion

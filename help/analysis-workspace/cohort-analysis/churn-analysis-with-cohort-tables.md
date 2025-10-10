@@ -12,8 +12,8 @@ level: Intermediate
 exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!UICONTROL Cohort Tables] offerta di due tipi di analisi: [!UICONTROL Retention] e [!UICONTROL Churn]. Quando [!UICONTROL Retention] mostra quanti utenti vengono mantenuti nel tempo, l’opzione [!UICONTROL Churn] mostra quanti utenti sono stati persi (1 - Mantenimento).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430164/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=it).

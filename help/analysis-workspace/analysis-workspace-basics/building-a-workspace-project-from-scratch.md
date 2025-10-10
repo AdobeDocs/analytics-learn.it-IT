@@ -10,8 +10,8 @@ kt: 8056
 exl-id: 8bbc1632-e5da-4cba-9852-e7c63521c345
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Inizia a creare i tuoi progetti. Scopri come creare un progetto di Analytics Workspace da zero: come creare una tabella, allegare una visualizzazione e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415639/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/334076/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=it).

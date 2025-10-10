@@ -12,8 +12,8 @@ level: Intermediate
 exl-id: eec26e68-eed9-47b5-8ebf-26a1f6c28d40
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Come creare una tabella di analisi di [!UICONTROL cohort] in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430074/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=it).

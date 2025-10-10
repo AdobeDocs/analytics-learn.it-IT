@@ -17,4 +17,4 @@ ht-degree: 24%
 
 L’analisi a forma libera include la possibilità di modificare la posizione, la larghezza e l’altezza di grafici e tabelle per creare un progetto più ricco. Questo video mostra come modificare il layout.
 
->[!VIDEO](https://video.tv.adobe.com/v/329420/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12&learn=on)

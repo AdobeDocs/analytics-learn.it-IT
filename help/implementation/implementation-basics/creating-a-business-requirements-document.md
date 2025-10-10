@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Scopri come definire i dati comportamentali che desideri acquisire e analizzare in Adobe Analytics. Di cosa ha bisogno la tua azienda per comprendere in che modo i visitatori utilizzano le tue proprietà digitali? Annota prima questi requisiti e poi decidi come acquisirli utilizzando eventi, dimensioni e metriche di Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/37365/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
 [Scarica](assets/aa_en_BRD_SDR_template.xlsx) un modello Excel di esempio per documentare i requisiti, l’utilizzo e l’assegnazione delle variabili, i segmenti e la progettazione della raccolta dati per le proprietà digitali.
 

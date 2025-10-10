@@ -20,4 +20,4 @@ ht-degree: 100%
 
 A volte, può essere necessario contattare Adobe in caso di consegna non riuscita del feed dati o di richiesta di un nuovo invio di un file del feed dati. Se il cliente fornisce l’ID del feed dati, il team di assistenza clienti è facilitato nella gestione di tali richieste.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418481/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)

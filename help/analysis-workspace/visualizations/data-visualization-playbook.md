@@ -30,4 +30,4 @@ Che tu stia affrontando questioni di business comuni o che ti stia immergendo in
 ## Autore
 
 Questo documento è stato creato da David Geist,
-consulente aziendale di dati e approfondimenti presso Adobe.
+consulente aziendale di dati e approfondimenti di Adobe.

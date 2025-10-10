@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Scopri quando e come impostare e configurare variabili gerarchiche per il sito, una funzione che può essere utilizzata per mostrare una visualizzazione gerarchica delle pagine del sito e il traffico che viene generato da ogni nodo.
 
->[!VIDEO](https://video.tv.adobe.com/v/344367/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=it).

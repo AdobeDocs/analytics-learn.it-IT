@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Sblocco di informazioni con istogrammi: oltre le medie in Analytics
 
-_Scopri l&#39;impatto degli istogrammi nelle analisi per informazioni che vanno oltre le medie. Gli istogrammi rivelano pattern di dati nel comportamento del cliente, nel coinvolgimento dei visitatori, nelle prestazioni tecniche e negli errori di modulo, consentendo approfondimenti più approfonditi e decisioni informate in Adobe Workspace._
+_Scopri l&#39;impatto degli istogrammi nelle analisi per informazioni che vanno oltre le medie. Gli istogrammi rivelano pattern di dati nel comportamento del cliente, nel coinvolgimento dei visitatori, nelle prestazioni tecniche e negli errori di modulo, consentendo di ottenere informazioni più approfondite e decisioni informate in Adobe Workspace._
 
 Saltiamo subito dentro. Dovresti usare [istogrammi](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=it). Vi spiegherò perché, ma voglio rispondere alla vostra prima domanda: Cosa diavolo è un istogramma? Capisco. Nella maggior parte dei casi, quando vedete un mucchio di barre salire, potreste pensare che sia un grafico a barre. Sì, gli istogrammi sembrano simili, ma vi assicuro che sono diversi. Un grafico a barre confronta gli elementi, mentre un istogramma mostra la frequenza con cui si è verificata una variabile. Dai un&#39;occhiata. Ecco un grafico a barre:
 
@@ -38,7 +38,7 @@ Quindi, quanto è utile? Beh, vediamo che la maggior parte della gente compra so
 
 Se il sito o l’app si basa sul traffico ripetuto, vuoi sapere quanti visitatori ritornano e con quale frequenza. Uno degli istogrammi più semplici che puoi usare è scoprire quanti visitatori stanno ritornando più di una volta. Tenendo traccia dell&#39;istogramma nel tempo, potete vedere i vostri progressi, sperando che le barre a destra diventino più alte e quelle a sinistra più corte.
 
-Forse vuoi tenere la gente sul sito, a leggere articoli. Un istogramma che mostra quanti visitatori leggono numeri diversi di articoli fornisce informazioni sul livello di coinvolgimento. Perché è utile? Supponiamo che la maggior parte dei visitatori legga un articolo e se ne vada, ma alcuni visitatori altamente coinvolti leggono tre articoli e se ne vanno. È un&#39;ottima informazione! Ora sai che devi personalizzare la pagina sul primo e sul terzo articolo letti con l’obiettivo di far sì che i visitatori leggano un altro articolo.
+Forse vuoi tenere la gente sul sito, a leggere articoli. Un istogramma che mostra quanti visitatori leggono numeri diversi di articoli porta insight al livello di coinvolgimento. Perché è utile? Supponiamo che la maggior parte dei visitatori legga un articolo e se ne vada, ma alcuni visitatori altamente coinvolti leggono tre articoli e se ne vanno. È un&#39;ottima informazione! Ora sai che devi personalizzare la pagina sul primo e sul terzo articolo letti con l’obiettivo di far sì che i visitatori leggano un altro articolo.
 
 ## Comprensione del comportamento del cliente
 
@@ -64,11 +64,11 @@ Potreste chiedervi, quali sono le differenze rispetto al semplice fatto di avere
 
   ![Istogramma 3](assets/histogram-3.png)
 
-- Errori modulo: se hai una media di 3,6 messaggi di errore modulo per visitatore, questo è un indicatore di un problema. Potreste avere lo stesso problema di anomalia degli errori tecnici, ma c&#39;è anche da guadagnare vedendo un picco nell&#39;istogramma per un particolare numero di errori. Un picco enorme per un errore? Potrebbe trattarsi di un problema comune che interessa tutti i visitatori, oppure potrebbe trattarsi di un errore riscontrato da tutti i visitatori una volta. Un picco gigantesco con tre errori? Ah, ora è interessante. Se questo richiede un&#39;indagine che mostra che si tratta degli stessi tre errori, hai effettuato l&#39;azzeramento dei dati che ti forniscono una comprensione dei visitatori e ti aiuta a risolvere quello che probabilmente è un gruppo di problemi correlati.
+- Errori modulo: se hai una media di 3,6 messaggi di errore modulo per visitatore, questo è un indicatore di un problema. Potresti avere lo stesso problema anomalo degli errori tecnici, ma c’è anche insight da guadagnare vedendo un picco nell’istogramma per un particolare numero di errori. Un picco enorme per un errore? Potrebbe trattarsi di un problema comune che interessa tutti i visitatori, oppure potrebbe trattarsi di un errore riscontrato da tutti i visitatori una volta. Un picco gigantesco con tre errori? Ah, ora è interessante. Se questo richiede un&#39;indagine che mostra che si tratta degli stessi tre errori, hai effettuato l&#39;azzeramento dei dati che ti forniscono una comprensione dei visitatori e ti aiuta a risolvere quello che probabilmente è un gruppo di problemi correlati.
 
   ![Istogramma 4](assets/histogram-4.png)
 
-Come potete vedere, gli istogrammi non solo hanno i loro usi, ma approfondiscono anche l&#39;intuizione che si ottiene da una media. Sono una visualizzazione preconfigurata in Adobe Analytics e facile da creare. Speriamo che questi casi d’uso siano utili per te o suscitino un po’ di ispirazione. Visualizzazione felice!
+Come potete vedere, gli istogrammi non solo hanno i loro usi, ma approfondiscono anche l&#39;insight che si ottiene da una media. Sono una visualizzazione preconfigurata in Adobe Analytics e facile da creare. Speriamo che questi casi d’uso siano utili per te o suscitino un po’ di ispirazione. Visualizzazione felice!
 
 ## Autore
 

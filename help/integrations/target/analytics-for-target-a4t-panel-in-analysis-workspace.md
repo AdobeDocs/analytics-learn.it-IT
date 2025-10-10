@@ -14,8 +14,8 @@ level: Intermediate
 exl-id: 2dad80ba-4032-490f-b7b4-30f0c2f0d608
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Il pannello [!DNL Analytics for Target] (A4T) consente di analizzare le attività e le esperienze Adobe Target in [!UICONTROL Analysis Workspace] con incremento e affidabilità.
 
->[!VIDEO](https://video.tv.adobe.com/v/326715/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html?lang=it).

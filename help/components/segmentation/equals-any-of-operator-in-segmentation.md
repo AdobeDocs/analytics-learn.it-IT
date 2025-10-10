@@ -1,6 +1,6 @@
 ---
 title: Utilizzo dell’operatore "è uguale a" nella segmentazione
-description: Sono stati aggiunti al generatore di segmenti “È uguale a” e “È diverso da”. Utilizzare questi operatori per filtrare un elenco di elementi specifici, anziché utilizzare più istruzioni OR o “Contiene uno di”. L’utilizzo di questi operatori invece di “contiene uno di” contribuirà a migliorare anche la velocità della query.
+description: Gli operatori “È uguale a uno qualsiasi di” e “Non è uguale a nessuno di” sono stati aggiunti al generatore di segmenti. Utilizza questi operatori per filtrare un elenco di elementi specifici, anziché utilizzare più istruzioni O o “Contiene uno di”. L’utilizzo di questi operatori invece di “contiene uno di” contribuirà a migliorare anche la velocità della query.
 feature: Segmentation
 thumbnail: 32960.jpg
 kt: 4844

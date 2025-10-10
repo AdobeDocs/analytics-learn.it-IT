@@ -11,13 +11,13 @@ exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
 source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
 workflow-type: tm+mt
 source-wordcount: '1286'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
 # Guadagnarsi un posto al tavolo
 
->[!VIDEO](https://video.tv.adobe.com/v/345314/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
 “Guadagnarsi un posto al tavolo” è un’espressione entrata nel mondo degli affari già da diversi anni. Ma cosa significa? Significa essere inclusi nelle conversioni decisionali di alto livello. Non solo essere invitati, ma essere apprezzati per il contributo che si è in grado di dare. Ti mostrerò in che modo ottenere un posto al tavolo aiuterà la tua azienda e la tua carriera come utente di Adobe Analytics, a prescindere che il tuo ruolo ufficiale sia quello di amministratore, esperto in materia di analisi dei dati o qualsiasi altro impiego indicato sul tuo biglietto da visita.
 
@@ -39,7 +39,7 @@ Ora che capisci perché è importante essere a quel tavolo, vediamo come ottener
 
 * Questa persona ha il potere o l’influenza di invitare altri? Se non ha alcuna influenza sull’elenco degli ospiti, allora non fa per te.
 * Posso fornire valore a questa persona? Alcune persone saranno troppo distanti dal lavoro che svolgi perché tu possa davvero fornire loro valore. Trova una persona che si preoccupa di dati che rientrano nella tua sfera di esperienza.
-* Questa persona sarà un buon partner? Questo aspetto è probabilmente il più difficile da riconoscere, ma potrebbe essere il più importante. Gli attributi che mi interessano di più sono mentalità aperta e fiducia in se stessi. Considerano seriamente punti di vista alternativi quando vengono presentate prove a loro sostegno? Hanno la fiducia in se stessi necessaria per condividere il merito di un lavoro ben fatto? (Ricorda, se non sei a quel tavolo, è probabile che questa persona si prenda tutto il merito.) Queste sono un paio delle domande utili a identificare un buon partner.
+* Questa persona sarà un buon partner? Questo aspetto è probabilmente il più difficile da riconoscere, ma potrebbe essere il più importante. Gli attributi che mi interessano di più sono mentalità aperta e fiducia in se stessi. Considerano seriamente punti di vista alternativi quando vengono presentate prove a loro sostegno? Hanno la fiducia in se stessi necessaria per condividere il merito di un lavoro ben fatto? (Ricorda, se non sei a quel tavolo, è probabile che questa persona si prenda tutto il merito.) Queste sono un paio delle domande che puoi fare quando cerchi un buon partner.
 * BONUS - Il lavoro svolto da questa persona ha un grande impatto? Ammettiamolo, non tutti fanno un lavoro di grande impatto. Ci sono persone di successo che non hanno un impatto significativo sull’organizzazione. Trova qualcuno che abbia un impatto. Il tuo lavoro sarà molto più soddisfacente se potrai vedere che il tuo lavoro fa una differenza.
 
 Queste domande ti aiuteranno a restringere la scelta. A questo punto dovresti avere già in mente un paio di persone, per i prossimi due passaggi. Ruberò il contesto dei prossimi due passaggi da [Cassie Kozyrkov, ospite di una recente sessione Analytics Power Hour](https://analyticshour.io/2021/12/14/182-making-better-decisions-and-being-useful-with-cassie-kozyrkov/). Fu lei, infatti, a sintetizzarlo con queste semplici parole: “siate utili e siate eccellenti”.

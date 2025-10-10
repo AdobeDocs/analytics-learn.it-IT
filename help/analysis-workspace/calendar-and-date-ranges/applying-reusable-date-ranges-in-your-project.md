@@ -19,6 +19,6 @@ ht-degree: 37%
 
 L’utilizzo di date e intervalli di date personalizzati nel prodotto può aiutarti a trovare solo le informazioni che ti servono per raccontare la tua storia. Questo video illustra alcune aree in cui puoi utilizzare gli intervalli di date nel progetto Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447609/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).

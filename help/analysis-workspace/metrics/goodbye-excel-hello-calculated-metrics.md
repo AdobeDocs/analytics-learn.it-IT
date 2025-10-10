@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Scopri i vantaggi dell’utilizzo delle metriche calcolate in Adobe Analytics e come possono fornirti una visualizzazione continua e dinamica dei tuoi dati, in questo articolo.
 
-Ehi! Perché sei in Excel in questo momento? Cioè, so il perché. Devi segnalare per arrivare alle persone giuste. Si è impegnati a immettere dati da Adobe Analytics e a calcolare i tassi di conversione, a tracciarli e a prepararsi a inserirli tutti in un PowerPoint destinato ai responsabili decisionali. Spero davvero che tu stia almeno usando il Report Builder per farlo, ma so che alcuni di voi stanno copiando e incollando manualmente i dati da un Workspace a Excel.
+Ehi! Perché sei in Excel in questo momento? Cioè, so il perché. Devi segnalare per arrivare alle persone giuste. Si è impegnati a immettere dati da Adobe Analytics e a calcolare i tassi di conversione, a tracciarli e a prepararsi a inserirli tutti in un PowerPoint destinato ai responsabili decisionali. Spero davvero che tu stia almeno utilizzando Report Builder per farlo, ma so che alcuni di voi stanno copiando e incollando manualmente i dati da un Workspace a Excel.
 
 Perché?
 

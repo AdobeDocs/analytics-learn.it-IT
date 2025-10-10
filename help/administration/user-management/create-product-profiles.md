@@ -1,5 +1,5 @@
 ---
-title: Creare profili di prodotto nell’Admin Console di Experience Cloud
+title: Creare profili di prodotto in Experience Cloud Admin Console
 description: Nell’Admin Console di Experience Cloud, puoi creare profili di prodotto di analisi per gestire l’accesso a suite di rapporti, metriche, dimensioni e strumenti.
 feature: User Management
 doc-type: feature video
@@ -17,10 +17,10 @@ ht-degree: 71%
 
 ---
 
-# Creare profili di prodotto nell’Admin Console di Experience Cloud
+# Creare profili di prodotto in Experience Cloud Admin Console
 
 Nell’Admin Console di Experience Cloud, puoi creare profili di prodotto di analisi per gestire l’accesso a suite di rapporti, metriche, dimensioni e strumenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448815/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
 
-Per saperne di più, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/admin/admin-console/permissions/product-profile).
+Per saperne di più, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/permissions/product-profile).

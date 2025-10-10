@@ -1,6 +1,6 @@
 ---
 title: Condividi con chiunque in Analysis Workspace
-description: Scopri la funzione di condivisione con chiunque in Workspace. Puoi utilizzare questa funzione per concedere l’accesso in sola lettura ai progetti Workspace a persone che non hanno accesso ad Adobe Analytics o CJA, inclusi i destinatari esterni alla tua organizzazione.
+description: Scopri la funzione di condivisione con chiunque in Workspace. Puoi utilizzare questa funzione per concedere l’accesso in sola lettura ai progetti Workspace a persone che non hanno accesso a Adobe Analytics o CJA, inclusi destinatari esterni all’organizzazione.
 feature: Curate and Share
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 20%
 
 # Condividi con chiunque in Analysis Workspace
 
-Scopri la funzione &quot;condividi con chiunque&quot; in Workspace. Puoi utilizzare questa funzione per concedere l’accesso in sola lettura ai progetti Workspace a persone che non hanno accesso ad Adobe Analytics o al Customer Journey Analytics, inclusi destinatari esterni all’organizzazione.
+Scopri la funzione &quot;condividi con chiunque&quot; in Workspace. Puoi utilizzare questa funzione per concedere l’accesso in sola lettura ai progetti Workspace a persone che non hanno accesso a Adobe Analytics o Customer Journey Analytics, inclusi destinatari esterni all’organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452466/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=it#share-public-link).

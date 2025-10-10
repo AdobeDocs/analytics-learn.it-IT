@@ -1,6 +1,6 @@
 ---
 title: Utilizzare le dimensioni nelle metriche calcolate
-description: I Dimension sono disponibili nel generatore di metriche calcolate e possono essere aggiunti a qualsiasi formula per limitare la nuova metrica a una dimensione o a un valore di dimensione.
+description: Le dimensioni sono disponibili nel generatore di metriche calcolate e possono essere aggiunte a qualsiasi formula per limitare la nuova metrica a una dimensione o a un valore di dimensione.
 feature: Calculated Metrics
 kt: 1904
 role: User
@@ -15,9 +15,9 @@ ht-degree: 22%
 
 # Utilizzare le dimensioni nelle metriche calcolate {#using-dimensions-in-calculated-metrics}
 
-I Dimension sono disponibili nel generatore di metriche calcolate e possono essere aggiunti a qualsiasi formula per limitare la nuova metrica a una dimensione o a un valore di dimensione.
+Le dimensioni sono disponibili nel generatore di metriche calcolate e possono essere aggiunte a qualsiasi formula per limitare la nuova metrica a una dimensione o a un valore di dimensione.
 
->[!VIDEO](https://video.tv.adobe.com/v/41080/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
 Questa funzione semplifica il flusso di lavoro per la creazione e l’utilizzo di segmenti nelle metriche calcolate.
 

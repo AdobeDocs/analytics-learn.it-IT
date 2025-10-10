@@ -12,8 +12,8 @@ level: Intermediate
 exl-id: 73cb28d8-1078-4d70-a4ce-76427c550fc3
 source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come comprendere le diverse prestazioni e funzionalità dei vari dispositivi con assistenza vocale per dare priorità alla roadmap dei prodotti.
 
->[!VIDEO](https://video.tv.adobe.com/v/328543/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=12&learn=on)

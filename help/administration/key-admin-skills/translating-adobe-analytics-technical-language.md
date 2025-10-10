@@ -10,14 +10,14 @@ kt: 10128
 exl-id: 00a457dc-ff0b-461f-8f02-afc4ecd6b54b
 source-git-commit: 32af3db3bd0abe57504708318d9b641324569c65
 workflow-type: tm+mt
-source-wordcount: '1022'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Traduzione del linguaggio tecnico di Adobe Analytics per utenti non tecnici
 
->[!VIDEO](https://video.tv.adobe.com/v/345329/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Parlare lingue diverse
 
@@ -34,18 +34,18 @@ Ad esempio, ecco come mi piace spiegare le eVar e i metodi di allocazione a un n
 >[!TIP]
 >
 >**Assegnare nomi chiari ai componenti (dimensioni, segmenti e metriche) con relative descrizioni.**
->È sempre utile condividere con i colleghi il dizionario dati di eVar e prop, ma non aspettarti che un utente sporadico possa ricordare con il loro numero o codice tutte le variabili personalizzate e il loro utilizzo. In Adobe Workspace, assicurati quindi di assegnare ai componenti nomi descrittivi, con tag e descrizioni. Gli utenti potranno così trovare rapidamente la metrica necessaria tra le centinaia di eVar e l’infinità di metriche e segmenti.
+>>È sempre utile condividere con i colleghi il dizionario dati di eVar e prop, ma non aspettarti che un utente sporadico possa ricordare con il loro numero o codice tutte le variabili personalizzate e il loro utilizzo. In Adobe Workspace, assicurati quindi di assegnare ai componenti nomi descrittivi, con tag e descrizioni. Gli utenti potranno così trovare rapidamente la metrica necessaria tra le centinaia di eVar e l’infinità di metriche e segmenti.
 
 ## 2 - Trovare una lingua comune
 
 Indipendentemente dal settore in cui lavori, trova un linguaggio comune che colleghi il mondo di Adobe Analytics a qualcosa che sia familiare a tutte le parti interessate.
 
-In [!DNL The Home Depot], un commerciante o il manager di un negozio potrebbe non sapere cosa sono gli hit, le visite o i visitatori univoci. Potremmo parlare loro delle chiamate al server di Analytics, delle sessioni di navigazione, dei timeout e dei cookie... oppure potremmo riportarli al negozio fisico e ai clienti (linguaggio comune). Un visitatore univoco diventa così un cliente che entra nel negozio. Le visite al sito web sono paragonabili alle volte che il cliente è entrato in un negozio [!DNL Home Depot]. E gli hit sono come le azioni eseguite dal cliente, ad esempio camminare lungo le varie corsie o parlare con un addetto alla vendita.
+In [!DNL The Home Depot], un esercente o manager di un negozio potrebbe non sapere cosa sono gli hit, le visite o i visitatori univoci. Potremmo parlare loro delle chiamate al server di Analytics, delle sessioni di navigazione, dei timeout e dei cookie... oppure potremmo riportarli al negozio fisico e ai clienti (linguaggio comune). Un visitatore univoco diventa così un cliente che entra nel negozio. Le visite al sito web sono paragonabili alle volte che il cliente è entrato in un negozio [!DNL Home Depot]. E gli hit sono come le azioni eseguite dal cliente, ad esempio camminare lungo le varie corsie o parlare con un addetto alla vendita.
 
 >[!TIP]
 >
 >**Assicurarsi che l’implementazione rifletta il linguaggio comune.**
->Quasi tutto ciò che vedi nell’interfaccia utente di Adobe Analytics può essere personalizzato. Se nella tua organizzazione, ad esempio, il “carrello” viene chiamato “shopper”, puoi cambiare il nome dell’evento Carrello in Shopper.
+>>Quasi tutto ciò che vedi nell’interfaccia utente di Adobe Analytics può essere personalizzato. Se nella tua organizzazione, ad esempio, il “carrello” viene chiamato “shopper”, puoi cambiare il nome dell’evento Carrello in Shopper.
 >
 >E se internamente usate diversi sinonimi oppure alcuni termini creano spesso confusione, potrai creare un glossario “ufficiale” specifico per la tua organizzazione e cogliere l’opportunità per promuovere la standardizzazione in base alla terminologia preferita. Inoltre, nelle sessioni di onboarding e formazione, dedica del tempo a chiarire quei termini che generano più spesso confusione.
 
@@ -58,7 +58,7 @@ Presso [!DNL The Home Depot], abbiamo organizzato una sfida su Adobe Analytics, 
 >[!TIP]
 >
 >**Creare modelli e indicazioni con annotazioni per specifici modelli di Workspace.**
->Utilizza i rapporti aziendali (modelli) e le visualizzazioni di testo in Analysis Workspace per creare guide contestuali che aiuteranno i tuoi esperti a rimanere sulla strada giusta.
+>>Utilizza i rapporti aziendali (modelli) e le visualizzazioni di testo in Analysis Workspace per creare guide contestuali che aiuteranno i tuoi esperti a rimanere sulla strada giusta.
 >
 >La flessibilità di Analysis Workspace consente di creare modelli per analisi più veloci e abilitare funzioni self-service e per l’auto-formazione. Combinando funzionalità quali modelli curati, annotazioni e collegamenti Workspace interni ed esterni, puoi creare guide efficaci, accessibili e facili da divulgare agli utenti non tecnici nel contesto di Adobe Analytics.
 

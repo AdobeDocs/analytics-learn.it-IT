@@ -31,9 +31,9 @@ ht-degree: 85%
 * 5 suggerimenti principali in Adobe Analytics (ad esempio, come creare menu a discesa)
 * Come utilizzare Attribution IQ
 
-Potrai quindi indirizzare facilmente gli utenti a questi video anziché scrivere lunghe e-mail o organizzare un’altra sessione di formazione. Per ulteriori suggerimenti e trucchi per la formazione degli utenti, consulta l&#39;articolo del [campione di Adobe Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=it){target="_blank"} su come semplificare la formazione degli utenti e ridurre il tempo da dedicarvi.
+Potrai quindi indirizzare facilmente gli utenti a questi video anziché scrivere lunghe e-mail o organizzare un’altra sessione di formazione. Per ulteriori suggerimenti e trucchi per la formazione degli utenti, consulta l&#39;articolo dell&#39;[ ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=it){target="_blank"}Adobe Champion Thomas Edward Buckley sulla semplificazione e la riduzione del tempo dedicato alla formazione degli utenti.
 
-Inoltre, c&#39;è una pletora (sì, una pletora) di [esercitazioni video](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=it){target="_blank"} su Adobe Experience League, così come [corsi gratuiti](https://experienceleague.adobe.com/it?lang=it#dashboard/learning){target="_blank"}. Se hai bisogno di un video specifico per i dati e i KPI della tua azienda, puoi certamente registrare dei video ad hoc. Ma se esiste già un video di istruzioni a uso genrale appropriato, non c’è motivo di reinventare la ruota.
+Inoltre, esistono veramente tantissimi [video tutorial](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=it){target="_blank"} su Adobe Experience League e [corsi gratuiti](https://experienceleague.adobe.com/?lang=it#dashboard/learning){target="_blank"}. Se hai bisogno di un video specifico per i dati e i KPI della tua azienda, puoi certamente registrare dei video ad hoc. Ma se esiste già un video di istruzioni a uso genrale appropriato, non c’è motivo di reinventare la ruota.
 
 ## Autori
 

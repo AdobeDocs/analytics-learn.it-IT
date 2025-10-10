@@ -19,6 +19,6 @@ ht-degree: 28%
 
 Questo video spiega come utilizzare le dashboard di Adobe Analytics (app mobile) per accedere e visualizzare le scorecard che hai creato o che sono state condivise con te.
 
->[!VIDEO](https://video.tv.adobe.com/v/38168/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=it).

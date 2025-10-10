@@ -10,8 +10,8 @@ kt: 7999
 exl-id: 6b545589-fb29-4993-b7b3-11bb8eb4775a
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Crea e configura tabelle a forma libera in Analysis Workspace per analizzare la funzionalità di ricerca interna nel tuo sito.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413472/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/333607/?quality=12&learn=on)

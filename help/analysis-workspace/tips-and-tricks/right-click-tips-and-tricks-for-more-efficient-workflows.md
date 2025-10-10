@@ -10,8 +10,8 @@ kt: KT-13087
 exl-id: 2ef470bd-b218-4286-8501-39729511c217
 source-git-commit: 7697ef94630ad67a5b5e9860f84ebdce8b0212f7
 workflow-type: tm+mt
-source-wordcount: '925'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Di seguito sono riportati 7 suggerimenti con il clic destro del mouse utilizzabili in Analysis Workspace per migliorare l’efficienza dei flussi di lavoro. Puoi leggerli nel testo sottostante o guardare il video per vederne la dimostrazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422279/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3417736/?quality=12&learn=on)
 
 Di seguito sono riportati 7 suggerimenti con il clic destro del mouse utilizzabili in Analysis Workspace per migliorare l’efficienza dei flussi di lavoro:
 
@@ -61,9 +61,9 @@ Si può usare la ridenominazione in molte visualizzazioni, compresi grafici a li
 
 Gli utenti spesso desiderano esportare i dati in formato csv. Questo suggerimento ti aiuterà a procedere nonostante il limite di 400 righe in Workspace. Nella parte superiore di una tabella a forma libera, fai clic con il pulsante destro del mouse e vedrai 2 opzioni di download
 
-L’opzione “Scarica elementi come CSV (segmenti)” consente di scaricare fino a 50.000 righe di dati.  Non sono incluse eventuali suddivisioni personali, ma includerà tutti i tuoi segmenti e i filtri applicati. Il suggerimento è molto utile quando ci sono migliaia di righe di dati.
+L’opzione “Scarica elementi come CSV (segmenti)” consente di scaricare fino a 50.000 righe di dati.  Non sono incluse eventuali raggruppamenti personali, ma includerà tutti i segmenti e i filtri applicati. Il suggerimento è molto utile quando ci sono migliaia di righe di dati.
 
-L’opzione “Scarica dati come CSV” consente di scaricare solo fino a 400 righe di dati, ma include le suddivisioni.
+L’opzione “Scarica dati come CSV” consente di scaricare solo fino a 400 righe di dati, ma include i raggruppamenti.
 
 ## Suggerimento 7: nascondi gli errori, visualizza solo le righe selezionate in una tabella
 

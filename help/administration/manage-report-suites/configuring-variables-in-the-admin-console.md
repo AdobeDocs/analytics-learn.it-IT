@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Scopri come configurare variabili ed eventi in Report Suite Manager, assicurandoti che i nomi e i comportamenti giusti per i rapporti, le dimensioni e le metriche.
 
->[!VIDEO](https://video.tv.adobe.com/v/37363/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
 

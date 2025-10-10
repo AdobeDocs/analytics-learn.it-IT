@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 6778e714-3fe9-479f-aacd-d1e702e2c584
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come condividere e gestire i componenti (ad esempio, dimensioni, metriche, segmenti e così via) in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/41738/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12&learn=on)

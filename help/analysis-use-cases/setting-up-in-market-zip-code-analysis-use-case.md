@@ -24,7 +24,7 @@ ht-degree: 100%
 
 In questo caso d’uso, configureremo il sistema per inserire codici postali, classificarli come in-market o out-of-market, e quindi utilizzeremo questi dati in Analysis Workspace in modo da poter vedere l’efficacia delle nostre campagne di marketing mirate per il geotargeting.
 
->[!VIDEO](https://video.tv.adobe.com/v/328529/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 Per ulteriori informazioni sugli aspetti di questo caso d’uso, consulta i seguenti argomenti della documentazione:
 

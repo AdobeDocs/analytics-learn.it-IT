@@ -10,8 +10,8 @@ kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Scopri come utilizzare i modelli predefiniti e creare modelli personalizzati in Analysis Workspace, in modo che tu e il team possiate iniziare da un set di rapporti predefinito.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428574/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 Analysis Workspace viene fornito con diversi modelli predefiniti che consentono di iniziare subito l’analisi. Detto questo, a volte vuoi semplicemente il tuo modello. Scopri come creare qualsiasi progetto nel tuo modello personalizzato. Puoi aiutare i nuovi utenti a familiarizzare rapidamente con la soluzione, a trovare i propri dashboard o progetti preferiti, o a condividere un dashboard con altri team.
 

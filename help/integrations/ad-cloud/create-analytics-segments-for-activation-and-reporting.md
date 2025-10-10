@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Utilizza le dimensioni di Advertising Cloud per creare segmenti per reporting e analisi.
 
->[!VIDEO](https://video.tv.adobe.com/v/40440/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)

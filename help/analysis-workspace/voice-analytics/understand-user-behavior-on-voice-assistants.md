@@ -12,8 +12,8 @@ level: Intermediate
 exl-id: 7a69541c-8cea-4454-847c-4f0b10aa2788
 source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come comprendere il comportamento degli utenti e ottenere informazioni approfondite osservando [!UICONTROL metrics] chiave quali intenti principali, parametri e autenticazione utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/328546/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=12&learn=on)

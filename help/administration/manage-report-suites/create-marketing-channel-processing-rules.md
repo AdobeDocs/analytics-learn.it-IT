@@ -11,8 +11,8 @@ kt: 9624
 exl-id: fc07dd0f-76dd-40a6-b8f2-e777eac2473b
 source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Questo video illustra come configurare le regole di elaborazione per i canali di marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/344353/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
 
 >[!NOTE]
 >

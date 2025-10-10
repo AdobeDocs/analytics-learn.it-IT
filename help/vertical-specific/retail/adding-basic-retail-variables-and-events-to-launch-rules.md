@@ -1,5 +1,5 @@
 ---
-title: Aggiungi variabili di base di vendita al dettaglio ed eventi alle regole nell'Experience Platform [!DNL tags]
+title: Aggiungi variabili ed eventi di base di vendita al dettaglio alle regole in Experience Platform [!DNL tags]
 description: Questo video illustra come utilizzare una speciale estensione della stringa di prodotto in [!DNL tags] per tenere traccia di variabili ed eventi di base per la vendita al dettaglio, come visualizzazioni di prodotti, aggiunte al carrello e checkout.
 feature: Tags
 topics: Development
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 ---
 
-# Aggiungi variabili di base di vendita al dettaglio ed eventi alle regole nell&#39;Experience Platform [!DNL tags]
+# Aggiungi variabili ed eventi di base di vendita al dettaglio alle regole in Experience Platform [!DNL tags]
 
 Questo video illustra come utilizzare una speciale estensione della stringa di prodotto in [!DNL tags] per tenere traccia di variabili ed eventi di base per la vendita al dettaglio, come visualizzazioni di prodotti, aggiunte al carrello e checkout.
 
@@ -22,4 +22,4 @@ Questo video illustra come utilizzare una speciale estensione della stringa di p
 >
 > Il lancio è ora **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/37370/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)

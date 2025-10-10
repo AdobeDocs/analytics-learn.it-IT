@@ -11,8 +11,8 @@ thumbnail: KT-13216.jpeg
 exl-id: 393a0cf0-d793-4185-87ed-81955ad10b0e
 source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '876'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,8 +20,7 @@ ht-degree: 100%
 
 _La dirigenza spesso non dispone di informazioni tempestive e rilevanti per i propri siti e app e si affida a grafici Excel mensili oppure è sommersa da dati granulari. La soluzione: la dashboard di riepilogo esecutiva._
 
-Immaginate di guidare da Seattle a San Francisco. Dal punto di vista della direzione, è piuttosto facile. Prendi la I-5 South e in 12 a 16 ore sei lì. Semplice, vero? Ora, immaginate che vi abbia messo un pezzo di cartone sul cruscotto e che, solo alla fine del 
-viaggio, il vostro cruscotto vi informerà sulla velocità, sul livello di carburante e sulla distanza percorsa:
+Immaginate di guidare da Seattle a San Francisco. Dal punto di vista della direzione, è piuttosto facile. Prendi la I-5 South e in 12 a 16 ore sei lì. Semplice, vero? Ora, immaginate che vi abbia messo un pezzo di cartone sul cruscotto e che, solo alla fine del viaggio, il vostro cruscotto vi informerà sulla velocità, sul livello di carburante e sulla distanza percorsa:
 
 ![Grafico a barre.png](assets/bar-graph.png)
 

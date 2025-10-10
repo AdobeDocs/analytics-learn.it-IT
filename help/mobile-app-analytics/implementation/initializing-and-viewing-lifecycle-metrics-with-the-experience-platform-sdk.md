@@ -22,6 +22,6 @@ ht-degree: 99%
 
 Le [!UICONTROL metrics] [!UICONTROL Lifecycle] sono preziose informazioni sull’utente dell’app pronte all’uso. Queste [!UICONTROL metrics] contengono informazioni sul ciclo di vita dell’utente dell’app, come informazioni su dispositivo, installazione o aggiornamento, tempi di avvio e interruzione di una sessione e molto altro ancora. In questo video, scopri come impostare le [!UICONTROL metrics] [!UICONTROL lifecycle] nell’app e come visualizzare i risultati in un debugger.
 
->[!VIDEO](https://video.tv.adobe.com/v/328304/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
 
 Per ulteriori informazioni sulle [!UICONTROL metrics] [!UICONTROL Lifecycle], consulta la [documentazione](https://developer.adobe.com/client-sdks/documentation/mobile-core/lifecycle/).

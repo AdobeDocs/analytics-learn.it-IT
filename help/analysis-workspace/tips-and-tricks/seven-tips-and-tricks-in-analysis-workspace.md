@@ -28,7 +28,7 @@ Analysis Workspace è uno strumento potente all’interno di Adobe Analytics che
 
 Rilascia un [!UICONTROL segment] o altro componente nella zona di rilascio [!UICONTROL segment] nella parte superiore di un pannello. Puoi segmentare rapidamente tale pannello per determinati punti di dati. Ad esempio, per segmentare il pannello in modo da mostrare solo gli hit in cui sono presenti degli ordini, rilascia la [!UICONTROL metric] “ordini” nella zona di rilascio [!UICONTROL segment]. Puoi anche segmentare per dati che non esistono all’interno di un componente (per visualizzare gli hit senza ordini, ad esempio) rilasciando nella zona la dimensione “non specificato” o “nessuno”.
 
->[!VIDEO](https://video.tv.adobe.com/v/41739/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ Rilascia un [!UICONTROL segment] o altro componente nella zona di rilascio [!UIC
 
 Con le [!UICONTROL Calculated Metrics] rapide, puoi creare nuove [!UICONTROL metrics] direttamente in Analysis Workspace, senza dover passare a [!UICONTROL Calculated Metric] Builder. Seleziona semplicemente le colonne delle [!UICONTROL metric] da calcolare, quindi dal menu di scelta rapida seleziona “[!UICONTROL Create Metric From Selection]”. A questo punto puoi aggiungere, sottrarre, dividere, moltiplicare e altro, senza uscire dal progetto e senza perdere il filo.
 
->[!VIDEO](https://video.tv.adobe.com/v/329415/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -50,7 +50,7 @@ Con le [!UICONTROL Calculated Metrics] rapide, puoi creare nuove [!UICONTROL met
 
 Copia facilmente visualizzazioni e pannelli esistenti per inserirli altrove, anche in un progetto diverso. Così puoi spostare facilmente i dati man mano che il progetto cresce, e condividere i risultati con nuovi utenti in modo che non debbano iniziare un’analisi da zero. Fai clic con il pulsante destro del mouse sul pannello o sulla visualizzazione da copiare, seleziona “[!UICONTROL Copy Visualization]” e fai clic con il pulsante destro del mouse su un pannello vuoto per inserirlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/41434/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -60,7 +60,7 @@ Copia facilmente visualizzazioni e pannelli esistenti per inserirli altrove, anc
 
 Cambia facilmente la vista del tempo nelle visualizzazioni con tendenze. Nelle precedenti iterazioni di Analysis Workspace, per cambiare il tempo era necessario rendere visibile una tabella di origine, trascinare una nuova [!UICONTROL dimension] e poi nascondere di nuovo la tabella. Ora è sufficiente selezionare la granularità temporale desiderata direttamente dal menu a discesa “[!UICONTROL Visualizations Settings]” (icona ingranaggio in alto a destra).
 
->[!VIDEO](https://video.tv.adobe.com/v/329406/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 ## Condividere: consentire ad altri di usare e comprendere facilmente i risultati
 
@@ -68,7 +68,7 @@ Cambia facilmente la vista del tempo nelle visualizzazioni con tendenze. Nelle p
 
 Adobe Analytics raccoglie grandi quantità di dati. La scelta dei componenti nelle [!DNL Virtual Report Suites] consente agli amministratori di creare un set di dati per ogni unità aziendale di un’organizzazione. Ciò significa che gli analisti che lavorano in Analysis Workspace possono trovare rapidamente i dati più importanti per le loro esigenze. Basta selezionare la casella “[!UICONTROL Enable Customization of Virtual Report Suite Components]” nel generatore di [!UICONTROL Virtual Report Suites] nella sezione [!UICONTROL “Components], e selezionare i [!UICONTROL components] che corrispondono a ciò che un team deve misurare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425529/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -78,7 +78,7 @@ Adobe Analytics raccoglie grandi quantità di dati. La scelta dei componenti nel
 
 Crea collegamenti che porteranno il tuo pubblico ovunque in Analysis Workspace. Fai clic con il pulsante destro del mouse sul pannello di destinazione, seleziona “[!UICONTROL Get Panel Link]” e copia. Evidenzia quindi il testo su cui vuoi impostare il collegamento, seleziona l’icona del collegamento nell’editor di testo di una casella o di una descrizione, e incolla. Per collegare un intero progetto, fai clic sulla scheda “[!UICONTROL Share]”, seleziona “[!UICONTROL Get Project Link]” e segui gli stessi passaggi di cui sopra.
 
->[!VIDEO](https://video.tv.adobe.com/v/329412/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -88,13 +88,13 @@ Crea collegamenti che porteranno il tuo pubblico ovunque in Analysis Workspace. 
 
 Ora puoi facilmente trasformare qualsiasi progetto in un modello personalizzato. Seleziona semplicemente “[!UICONTROL Save As Template]” dal menu a discesa “[!UICONTROL Project]”, aggiungi i tag appropriati per rendere il modello facile da trovare e fai clic su “[!UICONTROL Save Project As Template]”. Ora il modello sarà disponibile per tutti gli utenti di Analysis Workspace, nella scheda “[!UICONTROL Custom Templates]”. Questo consente agli analisti di iniziare i loro progetti con dati significativi, invece di iniziare da zero.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428574/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 >[!TIP]
 >
 >**Funzionalità ad alta richiesta:** diversi clienti ci hanno chiesto di poter salvare i progetti come modelli personalizzati. Questa funzione è diventata una delle loro preferite.
 
-[Fai clic qui per ulteriori suggerimenti e trucchi su Experience League](https://experienceleague.adobe.com/it?search=tips&amp;lang=it#recommended/solutions/analytics)
+[Fai clic qui per ulteriori suggerimenti e trucchi su Experience League](https://experienceleague.adobe.com/?search=tips&lang=it#recommended/solutions/analytics)
 
 | Informazioni sull’autore |            |
 |------------|------------|

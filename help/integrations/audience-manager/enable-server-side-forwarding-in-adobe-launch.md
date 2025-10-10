@@ -25,4 +25,4 @@ Scopri come inviare dati [!DNL Adobe Analytics] a [!DNL Adobe Audience Manager] 
 >
 >&quot;[!UICONTROL Launch]&quot; è stato rinominato in &quot;[!UICONTROL tags]&quot; nell&#39;interfaccia Experience Cloud. Seleziona [!UICONTROL Data Collection] da [!UICONTROL application switcher] per aprire i tag ed eseguire i passaggi descritti in questo video.
 
->[!VIDEO](https://video.tv.adobe.com/v/328133?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

@@ -18,6 +18,6 @@ ht-degree: 23%
 
 Scopri come creare metriche di partecipazione e utilizzarle in [!DNL Analysis Workspace].
 
->[!VIDEO](https://video.tv.adobe.com/v/3429885/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html?lang=it).

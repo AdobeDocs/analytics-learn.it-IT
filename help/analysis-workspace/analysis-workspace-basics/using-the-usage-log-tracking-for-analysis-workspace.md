@@ -13,8 +13,8 @@ team: Technical Marketing
 kt: 1597
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 Questo video illustra come utilizzare il [!UICONTROL Usage Log Tracking] nei progetti [!DNL Workspace], per comprendere meglio come gli utenti usano Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/35475/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 Le opzioni di tracciamento di [!DNL Workspace] includono:
 

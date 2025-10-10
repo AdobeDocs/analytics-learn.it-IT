@@ -17,6 +17,6 @@ ht-degree: 100%
 
 In questo video, scopri [!UICONTROL dimensions] e [!UICONTROL metrics], la loro differenza e come aggiungerle alle tabelle e alle visualizzazioni in Analysis Workspace. Inoltre, scopri come aggiungere [!UICONTROL Calculated Metrics] pronte all’uso.
 
->[!VIDEO](https://video.tv.adobe.com/v/35905/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=it).

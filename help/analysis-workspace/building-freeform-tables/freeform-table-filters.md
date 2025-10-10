@@ -18,9 +18,9 @@ ht-degree: 100%
 
 I filtri forniscono un maggiore controllo sulle righe di dati condivise in una [!DNL freeform table].
 
->[!VIDEO](https://video.tv.adobe.com/v/329390/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12&learn=on)
 
-In Analysis Workspace ora è possibile applicare i filtri con maggiore controllo, grazie a 11 criteri di filtro e operatori AND/OR.
+In Analysis Workspace ora è possibile applicare i filtri con maggiore controllo, grazie a 11 criteri di filtro e operatori E/O.
 
 Per ulteriori informazioni sui filtri disponibili, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html?lang=it#cja-workspace).
 

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Puoi visualizzare visivamente la sovrapposizione e l’intersezione dei segmenti in Analysis Workspace utilizzando la visualizzazione Diagramma di Venn. È facile creare diagrammi di Venn incredibili e accattivanti in pochi secondi. Questo video ti mostrerà come.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416883/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=it).

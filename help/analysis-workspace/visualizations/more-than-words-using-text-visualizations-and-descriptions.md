@@ -47,13 +47,13 @@ Ora, se preferisci inserire il contenuto direttamente nel rapporto, puoi utilizz
 
 ![testo 06](assets/t06.png)
 
-È possibile aggiungere al report un&#39;immagine accessibile su qualsiasi URL pubblico, purché l&#39;URL sia in formato *https* e sia formattato come file con estensione png, jpeg, jpg o gif. Sebbene ciò possa sembrare restrittivo, qualsiasi strumento online utilizzato per condividere immagini o GIF come imgur o GIPHY può fornire un metodo rapido per caricare file accessibili tramite Workspace utilizzando un collegamento di condivisione.
+È possibile aggiungere al report un&#39;immagine accessibile su qualsiasi URL pubblico, purché l&#39;URL sia in formato *https* e sia formattato come file con estensione png, jpeg, jpg o gif. Sebbene ciò possa sembrare restrittivo, qualsiasi strumento online utilizzato per condividere immagini o GIF come imgur o GIPHY può fornire un metodo rapido per caricare file accessibili da Workspace utilizzando un collegamento di condivisione.
 
 Il risultato? Puoi mostrare la pagina web a cui fanno riferimento direttamente i tuoi dati nel progetto:
 
 ![testo 07](assets/t07.png)
 
-Puoi anche utilizzare i GIF nei tuoi progetti per includere immagini in movimento come una procedura dettagliata del sito, un percorso ideale attraverso il tuo sito o un&#39;attività nell&#39;app oppure semplicemente mostrare al tuo team come ***i tuoi report sono diventati sconvolgenti***:
+Puoi anche utilizzare i file GIF nei tuoi progetti per includere immagini in movimento come una procedura dettagliata del sito, un percorso ideale attraverso il tuo sito o un&#39;attività nell&#39;app oppure semplicemente mostrare al tuo team come ***i tuoi report sono diventati sconvolgenti***:
 
 ![testo 08](assets/t08.png)
 

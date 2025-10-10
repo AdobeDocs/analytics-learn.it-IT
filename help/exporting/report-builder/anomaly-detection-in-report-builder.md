@@ -10,8 +10,8 @@ kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Scopri come aggiungere [!UICONTROL anomaly detection] [!UICONTROL metrics] alle richieste di dati nonché grafici creativi dei dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/41444/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12&learn=on)
 
 [!UICONTROL Anomaly detection] utilizza la modellazione statistica per trovare automaticamente tendenze impreviste nei dati.
 

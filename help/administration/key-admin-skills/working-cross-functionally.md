@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Collaborazione cross-functional
 
->[!VIDEO](https://video.tv.adobe.com/v/345453/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
 
 Il percorso di avvicinamento ad Adobe Analytics inizia con una buona implementazione. Conosciamo tutti il detto “garbage in, garbage out” (letteralmente: “spazzatura dentro, spazzatura fuori”). Affinché un’implementazione porti a risultati puliti, gli amministratori devono monitorare ogni dettaglio dei dati inseriti nel sistema. Ma la strategia di raccolta dei dati è influenzata da molte parti interessate all’interno dell’organizzazione, con cui un amministratore dovrà lavorare quotidianamente.
 

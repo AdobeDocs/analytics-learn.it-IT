@@ -14,7 +14,7 @@ ht-degree: 35%
 
 ---
 
-# Aggiungi una regola per l&#39;evento di acquisto nell&#39;Experience Platform [!DNL tags]
+# Aggiungi una regola per l&#39;evento di acquisto in Experience Platform [!DNL tags]
 
 Questo video illustra come utilizzare la stringa di prodotto [!UICONTROL extension] in [!DNL Experience Platform Launch] per tracciare gli acquisti sul sito, con conseguente [!UICONTROL Revenue], [!UICONTROL Orders] e [!UICONTROL Units] [!UICONTROL metrics] nell’analisi.
 
@@ -22,4 +22,4 @@ Questo video illustra come utilizzare la stringa di prodotto [!UICONTROL extensi
 >
 > Il lancio è ora **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/37369/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12&learn=on)

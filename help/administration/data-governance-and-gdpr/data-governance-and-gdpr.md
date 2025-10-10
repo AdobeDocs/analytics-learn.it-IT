@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Questo video illustra la governance dei dati e il modo in cui l’etichettatura dei dati si inserisce nell’ambito del GDPR. Fornisce un esempio pratico di etichettatura dei dati utilizzando la governance dei dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/327905/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=it).

@@ -9,8 +9,8 @@ exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
 thumbnail: 23989.jpg
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 I grafici [!UICONTROL Bullet] sono utili per mostrare l’avanzamento verso (o oltre) un obiettivo nell’analisi. Offrono un modo alternativo di visualizzare il successo dell’organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/329424/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=it).

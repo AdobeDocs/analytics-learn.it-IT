@@ -11,7 +11,7 @@ thumbnail: KT-13266.jpeg
 exl-id: 74793149-9967-4765-832c-c65e578ee34b
 source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1583'
+source-wordcount: '1582'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ Nel nostro esempio, notiamo un incremento significativo quando i clienti utilizz
 
 ## Utilizzo dei segmenti nelle metriche calcolate
 
-Vediamo ora come utilizzare i segmenti nelle metriche calcolate per acquisire maggiori informazioni sul comportamento, le preferenze e le motivazioni del cliente. Con i segmenti e le metriche calcolate, possiamo imparare abbastanza sui clienti per migliorarne l’esperienza, aumentare i ricavi e migliorare la soddisfazione e la fedeltà dei clienti.
+Vediamo ora come utilizzare i segmenti nelle metriche calcolate per acquisire più insight sul comportamento, le preferenze e le motivazioni dei clienti. Con i segmenti e le metriche calcolate, possiamo imparare abbastanza sui clienti per migliorarne l’esperienza, aumentare i ricavi e migliorare la soddisfazione e la fedeltà dei clienti.
 
 Sappiamo già dagli esempi di AOV di cui sopra che gli acquisti assistiti dal call center hanno in genere un AOV più alto. Tuttavia, altre metriche ci dicono che la maggior parte degli utenti non utilizza il call center per gli acquisti.
 

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Scopri come impostare le visualizzazioni ad aree o barre sovrapposte esprimendo i valori come percentuali.
 
->[!VIDEO](https://video.tv.adobe.com/v/329401/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
 I grafici ad aree o barre sovrapposte sono utili per rappresentare le diverse parti di un intero in una tendenza. L’impostazione di visualizzazione ad aree o barre sovrapposte al 100% consente di vedere rapidamente come ogni parte contribuisce al totale, in termini di valore percentuale anziché di valore non elaborato. Questa impostazione è disponibile dall’icona delle impostazioni di visualizzazione a ingranaggio in alto a destra delle visualizzazioni a superfici sovrapposte, a barre sovrapposte e a barre orizzontali sovrapposte.

@@ -58,7 +58,7 @@ Come vedremo, la creazione di questi segmenti è un processo iterativo e interco
 
 Ho utilizzato un’area di lavoro semplice per assicurarmi di definire correttamente i segmenti di Intento di visita. Ricorda che ogni visita deve appartenere a un solo segmento di intento di visita. L’area di lavoro che ho configurato assicura che tutte le visite siano contabilizzate e che non ci siano sovrapposizioni tra i segmenti.
 
-Ho denominato questa area di lavoro &quot;QUALITÀ DEI DATI: Segmenti intento visita&quot; con i tag &quot;qualità dei dati&quot;, &quot;intento visita&quot; e &quot;percorso di clienti&quot;. Successivamente verrà creato un &quot;Dashboard intento di visita&quot; in modo che il prefisso &quot;DATA QUALITY&quot; indichi che questa area di lavoro è per la configurazione e la manutenzione dei segmenti. Si tratta di un dashboard amministrativo con informazioni aziendali scarse, ma importante per garantire la manutenzione dei segmenti. È consigliabile tornare regolarmente a questa dashboard, o impostare avvisi, per assicurarsi che i segmenti rimangano definiti correttamente.
+Ho denominato questa area di lavoro &quot;QUALITÀ DEI DATI: Segmenti intento visita&quot; con i tag &quot;qualità dei dati&quot;, &quot;intento visita&quot; e &quot;percorso di clienti&quot;. Successivamente verrà creato un &quot;Dashboard intento di visita&quot; in modo che il prefisso &quot;DATA QUALITY&quot; indichi che questa area di lavoro è per la configurazione e la manutenzione dei segmenti. Si tratta di un dashboard amministrativo che dispone di un numero piuttosto limitato di insight aziendali, ma che è importante per garantire la manutenzione dei segmenti. È consigliabile tornare regolarmente a questa dashboard, o impostare avvisi, per assicurarsi che i segmenti rimangano definiti correttamente.
 
 La visualizzazione più importante in questa area di lavoro è la visualizzazione a forma libera di sovrapposizione segmenti, in mezzo a sinistra. Utilizzando la metrica Visite, crea filtri di colonna per ciascuno dei segmenti di intento di visita più il segmento Tutte le visite nella colonna più a destra. Crea righe per ciascun segmento Intento visita a sinistra. Ora avrai una visualizzazione cross-tab. Quando i segmenti sono configurati correttamente, ci saranno solo dati in una colonna e una riga, all’intersezione di ogni segmento di intento di visita con se stesso.
 
@@ -104,6 +104,6 @@ Questo documento è stato scritto da:
 
 ![Fossum di Aaron](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, analisi digitale
+**Aaron Fossum**, Direttore, Digital Analytics
 
 Adobe Analytics Champion

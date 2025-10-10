@@ -20,4 +20,4 @@ ht-degree: 19%
 
 Scopri come gestire le metriche calcolate, trovarle, visualizzare un elenco, rinominare, eliminare, condividere e così via.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423588/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3421406/?learn=on)

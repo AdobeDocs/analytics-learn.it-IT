@@ -9,8 +9,8 @@ thumbnail: 334278.jpg
 exl-id: bb141630-a441-4049-afe0-5f9de2a33089
 source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come sfruttare al meglio la nuova pagina di destinazione di Analytics e le sue funzioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/346464/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/334278/?quality=12&learn=on)

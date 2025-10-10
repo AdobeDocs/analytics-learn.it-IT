@@ -10,7 +10,7 @@ exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 22%
+ht-degree: 27%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 22%
 
 Scopri i diversi tipi di visualizzazioni che è possibile inserire nei progetti Analysis Workspace per raccontare la storia dei dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/41721/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
 
 Di seguito sono riportate alcune categorie di visualizzazioni e di visualizzazioni suggerite da aggiungere al progetto, in base al tipo di analisi che desideri eseguire sui dati. Come dichiarato nel video, nessuna di queste è una regola difficile e veloce, ma solo alcuni suggerimenti per te mentre ti abitui alle diverse visualizzazioni:
 
@@ -51,7 +51,7 @@ Di seguito sono riportate alcune categorie di visualizzazioni e di visualizzazio
 * Tabella a forma libera
 * Riepilogo delle metriche chiave
 * Numero di riepilogo
-* Modifica riepilogo
+* Variazione di riepilogo
 
 </td>
 </tr>
@@ -61,8 +61,8 @@ Di seguito sono riportate alcune categorie di visualizzazioni e di visualizzazio
 
 <td style="vertical-align: top;">
 
-* Barre
-* Barre orizzontali
+* A barre
+* A barre orizzontali
 * Barre sovrapposte
 * Barre orizzontali sovrapposte
 * Tabella a forma libera
@@ -136,7 +136,7 @@ Di seguito sono riportate alcune categorie di visualizzazioni e di visualizzazio
 
 <td style="vertical-align: top;">
 
-* Fallout (abbandono)
+* Fallout
 * Flusso
 * Coorte
 

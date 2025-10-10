@@ -10,8 +10,8 @@ kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Scopri come mappare le variabili di analisi dall’SDK per web ad Adobe Analytics utilizzando le Regole di elaborazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413465/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/333606/?quality=12&learn=on)
 
 ## Informazioni aggiuntive
 

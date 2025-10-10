@@ -21,6 +21,6 @@ ht-degree: 99%
 
 In questo video viene illustrato come sfruttare Analysis Workspace per creare automaticamente richieste API 2.0. Tramite il debug dell’interfaccia utente, puoi copiare e incollare richieste JSON direttamente in un client API per restituire dati di [!DNL Analytics]. Ora è più facile abilitare il debugger, direttamente da Aiuto di Workspace > Abilita debugger.
 
->[!VIDEO](https://video.tv.adobe.com/v/328328/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html).

@@ -10,8 +10,8 @@ kt: 8059
 exl-id: a074d503-94f2-449f-8d3e-8bb599752981
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Utilizza una tabella a forma libera (tabella pivot) per comprendere e interpretare i tuoi dati e ricavare utili informazioni approfondite.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415658/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/334093/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table.html?lang=it).

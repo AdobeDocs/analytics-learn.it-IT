@@ -10,8 +10,8 @@ kt: 2352
 exl-id: ffc9c54c-1afc-47f0-b057-e57f05139d88
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Scopri come aggiungere contesto a dimensioni e metriche in [!DNL Adobe Analytics]. Utilizza il campo descrizione se il nome assegnato ai rapporti e alle metriche non fornisce sufficiente chiarezza agli utenti dell’organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/327236/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12&learn=on)

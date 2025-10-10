@@ -18,9 +18,9 @@ ht-degree: 30%
 
 # Impostare filtri per URL interni
 
-In questo video, scopri le impostazioni relative ai referrer, definendoli come referrer interni (per alimentare i rapporti del percorso) o come referrer esterni (per alimentare i rapporti dei referrer/domini di riferimento). Per la documentazione dettagliata, visita [Filtri URL interni](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=it){target="_blank"}.
+In questo video, scopri le impostazioni relative ai referrer, definendoli come referrer interni (per alimentare i rapporti del percorso) o come referrer esterni (per alimentare i rapporti dei referrer/domini di riferimento). Per la documentazione dettagliata, visita [Filtri per URL interni](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=it){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412918/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
 
 >[!NOTE]
 >

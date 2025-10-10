@@ -12,7 +12,7 @@ exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
 source-wordcount: '1802'
-ht-degree: 99%
+ht-degree: 94%
 
 ---
 
@@ -24,7 +24,7 @@ Prima di iniziare, [scarica il playbook](assets/aa-implementation-playbook.xlsx)
 
 **COSA:** un documento sui requisiti aziendali (BRD, Business Requirements Doc) è una risorsa molto importante per la cui realizzazione sarà importante coinvolgere le principali parti interessate, utenti aziendali e utenti tecnici. Consente di documentare tutti i KPI desiderati, i requisiti di reporting e tutti i punti dati che dovranno essere disponibili al termine dell’implementazione di Adobe Analytics (AA).
 
-**PERCHÉ:** funge da punto di partenza per la documentazione successiva (SDR, specifiche tecniche, ecc.) ed è una fonte comune di verità per lo stato finale concordato di AA. Questo documento raccoglie i punti proposti dai vari team all’interno dell’organizzazione e definisce la direzione da seguire per sviluppare o ottimizzare l’implementazione.
+**PERCHÉ:** Questo funge da punto di partenza per la documentazione successiva (SDR, specifiche tecniche, ecc.) ed è una fonte comune di verità per uno stato finale concordato di AA. Questo documento raccoglie i punti proposti dai vari team all’interno dell’organizzazione e definisce la direzione da seguire per sviluppare o ottimizzare l’implementazione.
 
 **COME:** la documentazione dei requisiti aziendali è comunemente preparata dagli utenti aziendali finali di AA, ma è importante ottenere feedback anche dagli utenti tecnici, in quanto ci possono essere problemi tecnici da considerare e alcuni punti dati possono richiedere più lavoro di altri, e sarà necessario tenerne conto nella definizione delle priorità.
 
@@ -44,7 +44,7 @@ Infine, la colonna Stato di implementazione fungerà da verifica dello stato una
 
 **PERCHÉ:** questo documento ha molti scopi, ma i più importanti sono i seguenti:
 
-* Per ogni nuovo utente dell’implementazione (nuovo assunto, responsabile Business che desidera comprendere meglio i rapporti disponibili, ecc.) questo documento offre un quadro completo di tutte le variabili implementate e del loro scopo, in modo che gli utenti possano servirsene in autonomia, apprendendo la configurazione di AA.
+* Per tutti i nuovi utenti dell’implementazione (nuovi assunti, responsabili business che desiderano comprendere meglio i rapporti disponibili, ecc.), questo documento fornisce la migliore visione di tutte le variabili implementate e del loro scopo, in modo che gli utenti possano servirsi da soli in termini di apprendimento della configurazione di AA.
 * Per l’utente tecnico o proprietario del prodotto AA, questo documento fungerà da promemoria della configurazione di altre variabili e delle variabili disponibili che possono essere utilizzate quando si aggiunge una nuova dimensione.
 
 **COME:** per iniziare, elenca in un documento Excel tutte le variabili predefinite di Adobe (page, product, geo, ecc.), nonché eVar, prop, eventi. Dovrebbe essere presente una scheda per ogni sito o suite di rapporti.

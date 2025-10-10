@@ -13,7 +13,7 @@ exl-id: b5843678-6444-453b-a9c9-1e301ffca876
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 100%
+ht-degree: 79%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Esistono diversi modi per dare una spinta ulteriore alla metodologia di attribuzione con Adobe Analytics. In questo video, viene evidenziato come ottenere informazioni più approfondite dal rapporto Marketing Channels (Canali di marketing) mediante le analisi incrociate in Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/327756/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
 
 **AGGIORNAMENTO**: sono stati apportati diversi miglioramenti a [!DNL Workspace] da quando è stato pubblicato questo video. Stiamo lasciando il video in diretta perché da alcuni ottimi suggerimenti che dovresti comunque conoscere.
 
@@ -34,7 +34,7 @@ Esistono diversi modi per dare una spinta ulteriore alla metodologia di attribuz
 
 **Secondo**, se segui i passaggi descritti in questo video, tieni presente che puoi [utilizzare il Generatore di tabelle a forma libera](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md) per impostare la tabella.
 
-* 3:20 - Le dimensioni tra le schede sono automaticamente dinamiche quando vengono rilasciate, il che significa che i loro valori possono cambiare nel tempo. Per questa analisi, è meglio riportare le colonne statiche. Ulteriori informazioni su Dynamic Columns al minuto 6:33 del video: [Impostazioni per riga e colonna nelle tabelle a forma libera](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-* 4:30 - Le impostazioni delle colonne possono essere aggiornate in blocco ora, anziché 1 per 1. Per saperne di più, visita il minuto 8:45 del video: [Impostazioni per riga e colonna nelle tabelle a forma libera](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 3:20 - Le dimensioni tra schede sono automaticamente dinamiche quando vengono rilasciate, il che significa che i loro valori possono cambiare nel tempo. Per questa analisi, è meglio riportare le colonne statiche. Ulteriori informazioni su Dynamic Columns al 6:33 del video: [Impostazioni per riga e colonna nelle tabelle a forma libera](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 4:30 - È ora possibile aggiornare le impostazioni delle colonne in blocco anziché 1 per 1. Ulteriori informazioni all&#39;8:45 del video: [Impostazioni per riga e colonna nelle tabelle a forma libera](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 Per ulteriori informazioni su questo argomento, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=it).

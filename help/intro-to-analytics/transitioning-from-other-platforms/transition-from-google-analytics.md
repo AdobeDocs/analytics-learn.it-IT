@@ -9,14 +9,14 @@ thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '3413'
-ht-degree: 100%
+source-wordcount: '3403'
+ht-degree: 97%
 
 ---
 
 # Guida completa alla transizione da Google Analytics ad Adobe Analytics{#comprehensive-guide-for-transitioning-to-Adobe-Analytics}
 
-## 1. Introduzione
+## &#x200B;1. Introduzione
 
 Una delle maggiori sfide nella transizione tra strumenti diversi consiste nell’imparare a trovare funzionalità equivalenti e usarle in modo efficiente. Questa discussione fa parte di una guida più ampia per facilitare gli utenti nel passaggio ad Adobe Analytics (sia come nuovo utente che come utente proveniente da Google Analytics). Confronto approfondito con GA; come strumento comparativo più probabile con cui la maggior parte degli utenti acquisirà familiarità; viene fornito per aiutare gli utenti a correlare le conoscenze esistenti al nuovo set di strumenti. Quando non è possibile sostituire la pratica, questo ti aiuta a iniziare e ridurre le frustrazioni che potresti incontrare durante questo periodo.
 
@@ -28,7 +28,7 @@ Dovremmo anche fare un rapido confronto terminologico:
 | Una metrica che rappresenta un gruppo di interazioni, nel sito web o nell’app, che si verificano nello stesso arco temporale | Visita | Sessione |
 | Una metrica che definisce un dispositivo identificato (in base a più criteri, inclusi cookie e altri pattern di comportamento per unire le informazioni utente) | Visitatore univoco | Utente |
 
-## 2. Interfacce
+## &#x200B;2. Interfacce
 
 Quando le persone confrontano Adobe Analytics e Google Analytics, osservano che l’interfaccia di Adobe all’inizio è impegnativo. Questo è vero ma, credeteci o no, è anche un punto di forza, non una debolezza. Adobe offre un’ampia gamma di strumenti e grande flessibilità nella visualizzazione dei dati, consentendoti di creare in modo molto più libero ciò di cui hai bisogno.
 
@@ -40,13 +40,13 @@ Cominciamo guardando il reporting “in-site”.
 
 Sia Adobe Analytics che Google Analytics consentono di personalizzare la prima visualizzazione offerta all’utente nel momento dell’accesso.
 
-##### 2.1.1.1. Schermata Home area di lavoro/personalizzata (Adobe Analytics)
+##### 2.1.1.1. Workspace / Schermata iniziale set personalizzato (Adobe Analytics)
 
 Adobe Analytics non presume di creare un rapporto predefinito visibile a tutti gli utenti all’accesso. La pagina Home predefinita porta l’utente alla schermata di destinazione dell’area di lavoro che mostra a ogni utente tutti i rapporti dell’area di lavoro creati o condivisi. Inoltre, ogni utente ha la possibilità di impostare uno qualsiasi di questi rapporti come schermata Home, se lo desidera.
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
-Di seguito in questa guida saranno riportati ulteriori dettagli sull’area di lavoro. Cfr. sezione 2.1.2.1
+Di seguito in questa guida saranno riportati ulteriori dettagli sull’area di lavoro. Vedere la sezione 2.1.2.1
 
 >[!TIP]
 >
@@ -54,7 +54,7 @@ Di seguito in questa guida saranno riportati ulteriori dettagli sull’area di l
 
 
 
-##### 2.1.1.2. Informazioni approfondite sulla schermata Home (Google Analytics)
+##### 2.1.1.2. Informazioni approfondite sulla schermata iniziale (Google Analytics)
 
 * La schermata Home di Google Analytics offre alcune visualizzazioni predefinite per te. Tra queste troviamo:
 * Utenti, Sessioni, Frequenza di rimbalzo e Durata della sessione negli ultimi sette giorni
@@ -137,9 +137,9 @@ Un’altra potente funzione delle aree di lavoro è la possibilità di applicare
 
 >[!IMPORTANT]
 >
->Per ulteriori informazioni sull’utilizzo dei menu a discesa e delle suddivisioni a forma libera, consulta <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>Per ulteriori informazioni sull’utilizzo dei menu a discesa e dei raggruppamenti a forma libera, consulta <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
 
-##### 2.1.2.2. Google Analytics: dashboard, report personalizzati e report salvati
+##### 2.1.2.2. Google Analytics: dashboard, rapporti personalizzati e rapporti salvati
 
 Google dispone di alcuni strumenti per la creazione di rapporti all’interno dell’interfaccia. Tuttavia, questi strumenti mantengono ancora la stessa visualizzazione e le stesse limitazioni della sezione rapporti.
 
@@ -163,7 +163,7 @@ Adobe Analytics dispone anche di una sezione Rapporti, anche se questa viene gra
 
 Poiché la maggior parte del contenuto di questo elenco è accessibile tramite Workspaces, offrirò una breve panoramica di queste sezioni spiegando come si relazionano con Google Analytics, evidenziando i rapporti che sono ancora rilevanti.
 
-Site Metrics (Metriche del sito) si riferisce alle metriche più comuni (visualizzazioni di pagina, visitatori univoci, visite ed eventi personalizzati che potresti aver configurato). È simile al rapporto Comportamento di Google Analytics, ma include anche alcuni elementi che si possono trovare in Pubblico, in quanto Adobe non separa i tipi di metrica.
+Metriche del sito si riferisce alle metriche più comuni (visualizzazioni di pagina, visitatori univoci, visite ed eventi personalizzati che potresti aver configurato). È simile al rapporto Comportamento di Google Analytics, ma include anche alcuni elementi che si possono trovare in Pubblico, in quanto Adobe non separa i tipi di metrica.
 
 Qui troverai anche i rapporti relativi ai “bot”. Il traffico generato dai bot è escluso da tutti i rapporti standard, tuttavia, sono presenti due rapporti per ottenere informazioni approfondite su ciò che accade in tempo reale e sui bot che raggiungono il tuo sito. È un aspetto particolarmente utile se imposti regole bot personalizzate per escludere i bot di spamming conosciuti e che visitano frequentemente il tuo sito. In questo modo puoi raccogliere alcune informazioni sul comportamento dei bot senza sovraccaricare i rapporti principali con quel tipo di traffico. I rapporti sui bot non sono attualmente disponibili in Workspace, ma le nuove funzionalità di reportistica disponibili a breve consentiranno agli utenti di ottenere queste informazioni anche qui.
 
@@ -181,23 +181,23 @@ I rapporti Conversione personalizzata e Traffico personalizzato sono entrambi ra
 
 I supporti sono per Video o File audio in cui hai impostato un tracciamento speciale dei contenuti multimediali.
 
-Rapporti personalizzati è una sezione in cui un utente può personalizzare le colonne e i raggruppamenti creati all’interno dell’interfaccia dei rapporti e salvarli come rapporto personalizzato. Tuttavia, come accennato in precedenza, poiché Workspace consente raggruppamenti e correlazioni molto più potenti, qualsiasi elemento personalizzato dovrebbe essere creato lì. Questa era una buona soluzione prima dell’esistenza di Workspace.
+Rapporti personalizzati è una sezione in cui un utente può personalizzare le colonne e i raggruppamenti creati all’interno dell’interfaccia dei rapporti e salvarli come rapporto personalizzato. Tuttavia, come accennato in precedenza, poiché Workspace consente raggruppamenti e correlazioni molto più potenti, dovrebbe essere utilizzato per creare qualsiasi elemento personalizzato. Questa era una buona soluzione prima dell’esistenza di Workspace.
 
 La sezione Segnalibri è simile ai Rapporti personalizzati, dove i rapporti utilizzati di frequente possono essere contrassegnati con segnalibri all’interno dell’interfaccia dei rapporti, per facilitarne l’individuazione.
 
-Dashboard era un prodotto precedente che consentiva alle persone di combinare mini-rapporti di dati in un’unica visualizzazione. Tuttavia, la funzionalità di Workspace (sezione 2.1.2.1) è molto più semplice da utilizzare, in quanto esiste solo come punto di accesso ai rapporti precedenti che devono essere ricostruiti prima che questa funzione venga disattivata.
+Dashboard era un prodotto precedente che consentiva alle persone di combinare mini-rapporti di dati in un’unica visualizzazione. Tuttavia, la funzionalità di Workspace (sezione 2.1.2.1) è molto più semplice da utilizzare, in quanto esiste solo come punto di accesso ai rapporti legacy che devono essere ricostruiti prima che questa funzione venga disattivata.
 
 I target consentono alle persone di creare un rapporto basato su un target entro un determinato arco temporale. I team monitorano le campagne per vedere se possono raggiungere i loro target di traffico.
 
-Tutti i rapporti in quest’area consentono più colonne di metrica e raggruppamenti di dimensioni. Tuttavia la semplicità delle visualizzazioni e una parte della logica che sta dietro agli elementi che potrebbero essere correlati a volte possono essere frustranti.
+Tutti i rapporti in quest’area consentono più colonne di metrica e raggruppamenti per dimensioni. Tuttavia la semplicità delle visualizzazioni e una parte della logica che sta dietro agli elementi che potrebbero essere correlati a volte possono essere frustranti.
 
-##### 2.1.3.2. Rapporti di Google Analytics
+##### 2.1.3.2. Rapporti Google Analytics
 
 Google Analytics suddivide questi rapporti nelle sezioni seguenti: In tempo reale, Pubblico, Acquisizione, Comportamento e Conversazioni (in GA3) e in Ciclo di vita (con le sottosezioni: Acquisizione, Coinvolgimento, Monetizzazione, Mantenimento) e Utente (con le sottosezioni: Demografia e Tecnologia).
 
 ![google-analytics-interface-compare](assets/ga-to-aa_7.png)
 
-Puoi apportare alcune modifiche minori a queste visualizzazioni, aggiungere una suddivisione secondaria delle dimensioni, modificare la visualizzazione, creare un filtro per i dati, ecc. Puoi salvare le personalizzazioni come Rapporto salvato.
+Puoi apportare alcune modifiche minori a queste visualizzazioni, aggiungere un raggruppamento secondario per dimensione, modificare la visualizzazione, creare un filtro per i dati, ecc. Puoi salvare le personalizzazioni come Rapporto salvato.
 
 In questo modo puoi ottenere informazioni semplici e veloci sui tuoi dati. Tuttavia, non è possibile confrontare elementi come Utenti con visualizzazioni di pagina per una pagina nella stessa tabella e non è possibile aggiungere più di una dimensione aggiuntiva per visualizzare ulteriori dati.
 
@@ -223,7 +223,7 @@ Se desideri comunque i vantaggi dei dati elaborati, comprese le esclusioni di re
 
 È opportuno notare che l’API estrae i dati di correlazione applicando i raggruppamenti e i segmenti come specificato nella richiesta pull.
 
-Workspace di Adobe (sezione 2.1.2.1) utilizza di fatto l’API per generare tutti i rapporti. Se abiliti la modalità di debug in Workspace, potrai vedere le chiamate API utilizzate. Questa modalità ti permette di creare rapidamente le tue chiamate API. Infatti puoi utilizzare Workspace per generare e convalidare i dati che desideri richiamare e quindi le relative chiamate API per inserire i dati dalla tua elaborazione.
+Il Workspace di Adobe (sezione 2.1.2.1) utilizza l&#39;API per generare i rapporti. Se abiliti la modalità di debug in Workspace, potrai vedere le chiamate API utilizzate. Questa modalità ti permette di creare rapidamente le tue chiamate API. Infatti puoi utilizzare Workspace per generare e convalidare i dati che desideri richiamare e quindi le relative chiamate API per inserire i dati dalla tua elaborazione.
 
 
 #### 2.2.3. Google Analytics Data Studio
@@ -238,7 +238,7 @@ Se hai letto fino a qui, saprai già che ho citato Data Studio come equivalente 
 Per le mie necessità, quando ho bisogno di richiamare i dati in modo esteso da Google Analytics, lo strumento che scelgo è l’estensione Fogli Google. Anche se ho bisogno di creare più connessioni alle mie tabelle GA, posso fare riferimento alle celle dai dati non elaborati e creare i report di cui ho bisogno. Poi li visualizzo utilizzando le funzionalità relative ai grafici del foglio di calcolo di Google.
 
 
-## 3. Esportazioni di dati non elaborati
+## &#x200B;3. Esportazioni di dati non elaborati
 
 Per le situazioni in cui servono solo dati non elaborati, è possibile utilizzare sia Adobe che Google.
 
@@ -259,7 +259,7 @@ Sfortunatamente, questo è uno strumento Google sul quale non ho alcuna esperien
 
 Tuttavia, invece di fornire un dump completo dei dati non elaborati, permette ai tecnici di accedere ai dati tramite query SQL per estrarre dati non elaborati di destinazione o tutte le colonne di dati non elaborati.
 
-## 4. Conclusione
+## &#x200B;4. Conclusione
 
 Come qualsiasi sistema, per acquisire dimestichezza con lo strumento è necessaria la pratica. Questa guida ti aiuta a iniziare a utilizzare Adobe Analytics e fornisce suggerimenti per migliorarne l’utilizzo.
 
@@ -267,7 +267,7 @@ Ti consigliamo comunque di utilizzare sia Adobe Analytics sia Google Analytics n
 
 Oltre a questa guida sono disponibili numerose risorse che possono contribuire a migliorare la tua strategia:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/it?lang=it#home) - Contiene tutorial, video, documentazione e i forum della community
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=it#home) - Contiene tutorial, video, documentazione e i forum della community
 * [Gruppi di utenti Adobe](https://analytics-augs.adobe.com/): un hub di eventi gestiti dalla community per consentire agli utenti di connettersi tra loro e migliorare le implementazioni.
 * [Canale YouTube del gruppo utenti di Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Non puoi partecipare a una sessione del gruppo utenti di Adobe Analytics? Guarda le sessioni precedenti da tutto il mondo e scopri come altri professionisti come te utilizzano questo strumento.
 * [Canale Slack di Measure Chat](https://www.measure.chat/) - Entra in contatto con gli utenti di Adobe Analytics in tutto il mondo e condividi esperienze nel settore, fai domande ad altri professionisti come te e partecipa a gruppi di interesse incentrati sulla misurazione.

@@ -18,6 +18,6 @@ ht-degree: 23%
 
 Comprendi i tipi di variabili di traffico e come vengono utilizzate in Adobe Analytics, inclusa l’analisi del traffico, del contenuto e del flusso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429897/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=it).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).
