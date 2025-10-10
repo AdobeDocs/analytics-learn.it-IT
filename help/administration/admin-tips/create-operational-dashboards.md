@@ -26,7 +26,7 @@ Come molti amministratori, gestisco un hub di informazioni interno (Confluence o
 
 Mi sono accorto che gli utenti spesso ignoravano i miei riferimenti al sito di Confluence, adducendo motivi come “La mia VPN è spenta” o “Non posso leggerlo ora”, ecc. Sostanzialmente quel “Leggerò il documento più tardi” significa che non verrà mai letto, e la stessa domanda verrà posta di nuovo la settimana successiva.
 
-***Hit di realizzazione:**la versatilità di Workspace potrebbe essere decisiva. Gli utenti preferiscono risposte rapide e dirette all’interno di Workspace, quindi è importante mantenerle lì ed evitare passaggi aggiuntivi.*
+***Hit di realizzazione:**&#x200B;la versatilità di Workspace potrebbe essere decisiva. Gli utenti preferiscono risposte rapide e dirette all’interno di Workspace, quindi è importante mantenerle lì ed evitare passaggi aggiuntivi.*
 
 Sono andato avanti e ho creato dashboard operative da condividere a livello aziendale. Finora, hanno mantenuto gli utenti aggiornati, centralizzato le informazioni e ridotto la conseguente frustrazione. Si è trattato di un processo semplice e in continua evoluzione che migliora l’efficienza col tempo.
 
