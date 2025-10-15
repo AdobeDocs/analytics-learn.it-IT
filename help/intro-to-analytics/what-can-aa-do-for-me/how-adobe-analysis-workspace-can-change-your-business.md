@@ -20,4 +20,4 @@ Scopri i tipi di analisi disponibili in [!DNL Analysis Workspace], ad esempio [!
 
 >[!VIDEO](https://video.tv.adobe.com/v/39273/?quality=12&learn=on&captions=ita)
 
-[Ulteriori informazioni su Adobe Analysis Workspace](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search&lang=it)
+[Ulteriori informazioni su Adobe Analysis Workspace](https://business.adobe.com/it/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search&lang=it)
