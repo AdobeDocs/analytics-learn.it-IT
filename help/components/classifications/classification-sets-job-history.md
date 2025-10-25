@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Consulta la cronologia dei processi per caricare e scaricare i dati del set di classificazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476035/?captions=ita&learn=on&enablevpops)
