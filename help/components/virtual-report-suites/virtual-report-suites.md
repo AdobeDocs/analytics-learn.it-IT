@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Adobe Analytics consente di creare &quot;suite di rapporti virtuali&quot; per i tuoi utenti, che segmentano i tuoi dati e limitano gli utenti/gruppi solo ai segmenti di dati consentiti. Questo video illustra come creare e utilizzare le suite di rapporti virtuali. Per la documentazione dettagliata, visita [Panoramica delle suite di rapporti virtuali](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=it){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476979/?captions=ita&quality=12&learn=on)
 
