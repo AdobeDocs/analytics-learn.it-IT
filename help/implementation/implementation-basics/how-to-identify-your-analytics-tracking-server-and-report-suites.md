@@ -41,4 +41,4 @@ Per visualizzare il beacon, così come tutte le altre informazioni che arrivano 
 
 Per ulteriori informazioni, guarda il video seguente.
 
->[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327913/?captions=ita&quality=12&learn=on)

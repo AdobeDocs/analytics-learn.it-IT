@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Scopri i tipi di analisi disponibili in [!DNL Analysis Workspace], ad esempio [!DNL Ad Hoc], [!DNL Cohort] e [!DNL Fallout]. Utilizza le funzioni di trascinamento per analizzare i dati in modo semplice e rapido.
 
->[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39273/?captions=ita&quality=12&learn=on)
 
 [Ulteriori informazioni su Adobe Analysis Workspace](https://business.adobe.com/it/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search&lang=it)
