@@ -7,13 +7,13 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4385
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 100%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Scopri come [!DNL ServiceNow] ottiene dati actionable dai suoi canali di marketing e incrementa il Return on Investment (ROI) sulla pubblicità relativa alla ricerca a pagamento con Adobe Advertising Cloud e Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/39261/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12&learn=on)
 
 Adobe Experience Cloud offre gli strumenti integrati necessari per eccellere nei campi del cross-channel marketing, della pubblicità digitale, dell’ottimizzazione di dati e pubblico, e molto altro ancora.

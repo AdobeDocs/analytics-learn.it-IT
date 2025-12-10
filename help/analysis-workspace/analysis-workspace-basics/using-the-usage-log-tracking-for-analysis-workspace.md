@@ -1,29 +1,27 @@
 ---
 title: Utilizzo del tracciamento del registro di utilizzo per Analysis Workspace
 seo-title: Using the Usage Log Tracking for Analysis Workspace
-description: Questo video illustra come utilizzare il tracciamento del registro d’utilizzo sui progetti Workspace, per comprendere meglio come gli utenti usano Adobe Analytics.
-seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users’ usage of Adobe Analytics.
-feature: data configuration and collection
-topics: null
+description: Questo video mostra come utilizzare il tracciamento del registro di utilizzo sui progetti Workspace, per comprendere meglio come gli utenti usano Adobe Analytics.
+seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users' usage of Adobe Analytics.
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 65%
 
 ---
 
 
 # Utilizzo di [!UICONTROL Usage Log Tracking] per Analysis Workspace {#using-the-usage-log-tracking-for-analysis-workspace}
 
-Questo video illustra come utilizzare il [!UICONTROL Usage Log Tracking] nei progetti [!DNL Workspace], per comprendere meglio come gli utenti usano Adobe Analytics.
+Questo video illustra come utilizzare [!UICONTROL Usage Log Tracking] nei progetti [!DNL Workspace], per comprendere meglio come gli utenti usano Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/35475/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 Le opzioni di tracciamento di [!DNL Workspace] includono:
 

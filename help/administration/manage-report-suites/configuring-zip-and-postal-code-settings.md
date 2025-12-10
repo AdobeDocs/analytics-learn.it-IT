@@ -11,13 +11,13 @@ author: Doug Moore
 team: Technical Marketing
 kt: 2679
 topic: Administration
-role: Admin, Architect
+role: Admin, Developer
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 100%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Questo video spiega come configurare le impostazioni del codice postale o [!UICONTROL zip], in modo da poter eseguire analisi basate sui dati dell’area geografica.
 
->[!VIDEO](https://video.tv.adobe.com/v/328244/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
 Per ulteriori informazioni sulle impostazioni del codice postale o [!UICONTROL zip code], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=it).

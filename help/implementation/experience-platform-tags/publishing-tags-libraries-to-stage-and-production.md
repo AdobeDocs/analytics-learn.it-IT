@@ -4,13 +4,13 @@ description: Scopri come pubblicare il codice di analisi del sito dallo sviluppo
 feature: Tags
 topics: Development
 kt: 3595
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
-source-git-commit: 8212b481653a5b2dccbc980a6fd9d29b94f756a3
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 100%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come pubblicare il codice di analisi del sito, dallo sviluppo allo staging e alla produzione, nei [!DNL tags] di Experience Platform, nonché la configurazione delle suite di rapporti per ricevere correttamente i dati appropriati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429978/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)

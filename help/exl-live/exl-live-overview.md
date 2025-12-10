@@ -2,15 +2,15 @@
 title: Eventi Experience League LIVE
 description: Raccolta di collegamenti ai precedenti eventi Experience League LIVE
 type: Event
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '190'
+ht-degree: 100%
 
 ---
 
@@ -93,4 +93,4 @@ Ti sei perso un episodio di Experience League LIVE? Ma puoi rimediare. Guarda un
 
 >[!TIP]
 >
->Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/it?lang=it#dashboard/learning) gratuiti e i singoli [tutorial](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
+>Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/?lang=it#dashboard/learning) gratuiti e i singoli [tutorial](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).

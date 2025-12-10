@@ -6,13 +6,13 @@ topics: Development
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 100%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Scopri i casi d’uso e le considerazioni tecniche sull’utilizzo dell’editor di codice personalizzato durante la configurazione dell’estensione Adobe Analytics nei [!DNL tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/328584/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
 
 Rivedi la [documentazione](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=it) per ulteriori informazioni sulla <i>funzione doPlugins</i> a cui si fa riferimento in questo video.

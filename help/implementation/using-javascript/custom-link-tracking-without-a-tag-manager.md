@@ -7,13 +7,13 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '271'
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Esistono due funzioni che inviano dati ad Adobe Analytics:
 >
 >Questo video spiega come scrivere il codice per un hit di collegamento personalizzato quando NON utilizzi un gestore di tag come Adobe [!DNL Experience Platform Launch]. Come best practice per l’implementazione, consigliamo di utilizzare [!DNL Experience Platform Launch]. Tuttavia, se nel codice vuoi usare `s.tl()`, ecco come farlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/328135/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 
 ## Codice di esempio {#sample-code}
 

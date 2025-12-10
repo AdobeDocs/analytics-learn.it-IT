@@ -7,10 +7,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
-source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Puoi iniziare a tracciare i collegamenti di download sul sito (collegamenti che non scaricano file del browser sul computer) in pochi clic nell’estensione [!DNL tags] di Adobe Analytics in Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429929/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
 Che si tratti di white paper, manuali, file audio o video o una serie di altre possibilità, è possibile che sul sito siano presenti collegamenti per scaricare file che non si aprono in un browser. In questi file, non è possibile avere un codice [!DNL Analytics] sulla pagina per il tracciamento. La configurazione illustrata nel video consente di tenere traccia del collegamento al file di download.
