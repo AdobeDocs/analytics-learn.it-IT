@@ -113,4 +113,4 @@ Creare e gestire una community autonoma è molto impegnativo. È importante fare
 
 * Sviluppo professionale: una community autonoma consente ai team di analisti di concentrarsi sulle norme e sulla strategia, anziché sulla reattività e sulla tattica. Ciò offre opportunità di sviluppo per il team di progetto amministrativo della community.
 
-Se disponi di un gruppo di utenti Adobe Analytics interno o di una community più tradizionale, o ti stai adoperando per crearne una, ci piacerebbe conoscere la tua esperienza con [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions).
+Se disponi di un gruppo di utenti Adobe Analytics interno o di una community più tradizionale, o ti stai adoperando per crearne una, ci piacerebbe conoscere la tua esperienza con [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=it).
