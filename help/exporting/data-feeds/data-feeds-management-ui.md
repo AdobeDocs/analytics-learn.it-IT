@@ -20,6 +20,6 @@ ht-degree: 70%
 
 Adobe Analytics [!UICONTROL Data feed] consente di esportare i dati clickstream non elaborati per importare e unire con altre origini dati al di fuori di Adobe Analytics. Puoi creare e gestire [!UICONTROL data feeds] in Adobe Analytics. Questo video ti mostrerà come.
 
->[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428563/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=it#).
