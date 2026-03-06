@@ -1,23 +1,21 @@
 ---
 title: Trovare l’ID del proprio feed dati
-description: A volte, può essere necessario contattare Adobe in caso di consegna non riuscita del feed dati o di richiesta di un nuovo invio di un file del feed dati. Se il cliente fornisce l’ID del feed dati, il team di assistenza clienti è facilitato nella gestione di tali richieste.
-feature: Admin Tools, Data Feeds, Data Configuration and Collection
+description: A volte potrebbe essere necessario contattare Adobe per informazioni su un file di feed dati. Può essere utile per il team di assistenza clienti gestire qualsiasi richiesta se il cliente fornisce l’ID del feed dati.
+feature: Data Feeds
 topic: Administration
 role: User, Admin
 level: Beginner
-doc-type: feature video
-thumbnail: 335747.jpg
-kt: KT-8464
+kt: 8464
 exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 14374d74a55ac531a31b7de7f28ba143f9f9411d
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '84'
+ht-degree: 11%
 
 ---
 
 # Trovare l’ID del proprio feed dati
 
-A volte, può essere necessario contattare Adobe in caso di consegna non riuscita del feed dati o di richiesta di un nuovo invio di un file del feed dati. Se il cliente fornisce l’ID del feed dati, il team di assistenza clienti è facilitato nella gestione di tali richieste.
+A volte potrebbe essere necessario contattare Adobe per informazioni su un file di feed dati. Può essere utile per il team di assistenza clienti gestire qualsiasi richiesta se il cliente fornisce l’ID del feed dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418481/?quality=12&learn=on&captions=ita)
+>[!SLIDE](aa-data-feeds-id)
