@@ -7,6 +7,6 @@ ht-degree: 0%
 ---
 # analytics-learn.en
 
-Tutorial collaborativi e materiali di abilitazione per Analytics
+Tutorial collaborativi e materiali di attivazione per Analytics
 
-[foo] (bar)
+[foo](bar)
