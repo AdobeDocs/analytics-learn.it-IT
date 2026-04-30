@@ -3,11 +3,13 @@ user-guide-title: Tutorial su Adobe Analytics
 user-guide-description: Guarda i tutorial video su Adobe Analytics e scopri come sfruttare al massimo i tuoi dati.
 breadcrumb-title: Tutorial di Analytics
 solution: Analytics
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
 auto-video-transcripts: true
-source-git-commit: 7f3b8f3da6d6d98d49735d00258665f0a47412b0
+source-git-commit: 4904f7059495d0f4d8780360f7abe9396087d968
 workflow-type: tm+mt
-source-wordcount: '2177'
-ht-degree: 87%
+source-wordcount: 2607
+ht-degree: 86%
 
 ---
 
@@ -38,7 +40,7 @@ ht-degree: 87%
       + [Raccolta dei dati in Analytics](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Accedere ad Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Comprendere e creare suite di rapporti](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Informazioni sulle metriche di base del visitatore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=it)
+      + [Comprendere le metriche di base del visitatore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=it)
       + [Introduzione alle variabili di traffico (Prop)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=it)
       + [Introduzione alle variabili di conversione (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=it)
       + [Introduzione agli eventi di conversione](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=it)
@@ -280,7 +282,7 @@ ht-degree: 87%
       + [Creazione di un documento sui requisiti aziendali (BRD)](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Creazione e manutenzione di un documento SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Tag Experience Platform {#experience-platform-tags}
-      + [Implementa soluzioni Experience Cloud nei siti web utilizzando i tag](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=it)
+      + [Implementare soluzioni Experience Cloud nei siti web utilizzando i tag](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=it)
       + [Configurazione di base dell’estensione Analytics](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [Configura la gestione della libreria per l’estensione Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Configura le impostazioni generali per l’estensione Analytics](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
@@ -309,8 +311,8 @@ ht-degree: 87%
       + [Contenitori di segmenti](components/segmentation/segment-containers.md)
       + [Gestione e condivisione dei segmenti](components/segmentation/segment-management-and-sharing.md)
       + [Applicazione dei segmenti in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=it)
-      + [Utilizzo dei segmenti come dimensioni](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=it)
-      + [Utilizzo dei segmenti per limitare i dati](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=it)
+      + [Utilizzo di segmenti come quote](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=it)
+      + [Utilizzo di segmenti per limitare i dati](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=it)
       + [Differenze tra il generatore di segmenti e i segmenti rapidi](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Segmentazione sequenziale](components/segmentation/sequential-segmentation.md)
       + [Sequenze prima/dopo nella segmentazione sequenziale](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
@@ -428,8 +430,8 @@ ht-degree: 87%
       + [Inizializzazione e visualizzazione delle metriche del ciclo di vita con l’SDK di Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [Azioni di tracciamento (o Collegamenti personalizzati)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Tracciamento dello stato (ossia di pagine o schermate)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [Implementazione nelle app iOS con Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=it)
-      + [Implementazione nelle app iOS con Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=it)
+      + [Implementazione nelle app iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=it)
+      + [Implementazione nelle app iOS Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=it)
       + [Implementazione nelle app Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=it)
    + Misurazione delle analisi per dispositivi mobili {#measuring-mobile-analytics}
       + [Guida introduttiva di Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
