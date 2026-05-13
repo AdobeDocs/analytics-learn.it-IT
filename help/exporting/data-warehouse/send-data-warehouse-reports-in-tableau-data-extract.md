@@ -32,4 +32,4 @@ Scopri come [!DNL Data Warehouse] può inviare rapporti in formato TDE (Tableau 
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/export/data-warehouse/t-tableau).
