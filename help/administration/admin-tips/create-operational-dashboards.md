@@ -11,11 +11,22 @@ jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
 TQID: https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: c153fd90-23e1-4614-81d3-3cc7571227f7id: f73667dc-d296-4875-8975-ac3fdc3adc42
-subfeature_v2: id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceeeid: e38cbddc-1633-4cd5-bed5-9f289f2a6029
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1166
@@ -32,7 +43,7 @@ Come molti amministratori, gestisco un hub di informazioni interno (Confluence o
 
 Ho notato che gli utenti spesso ignoravano i miei riferimenti al sito di Confluence, con motivi come &quot;La mia VPN è spenta&quot;, o &quot;Non posso leggerla ora&quot;, ecc. In sostanza, &quot;Leggerò quel documento più tardi&quot; significa che non verrà mai letto, e la stessa domanda verrà posta di nuovo la prossima settimana.
 
-***Hit di realizzazione:**la versatilità di Workspace potrebbe essere decisiva. Gli utenti preferiscono risposte rapide e dirette all’interno di Workspace, quindi è importante mantenerle lì ed evitare passaggi aggiuntivi.*
+***Hit di realizzazione:**&#x200B;la versatilità di Workspace potrebbe essere decisiva. Gli utenti preferiscono risposte rapide e dirette all’interno di Workspace, quindi è importante mantenerle lì ed evitare passaggi aggiuntivi.*
 
 Sono andato avanti e ho creato dashboard operative da condividere a livello aziendale. Finora, hanno mantenuto gli utenti aggiornati, centralizzato le informazioni e ridotto la conseguente frustrazione. Si è trattato di un processo semplice e in continua evoluzione che migliora l’efficienza col tempo.
 

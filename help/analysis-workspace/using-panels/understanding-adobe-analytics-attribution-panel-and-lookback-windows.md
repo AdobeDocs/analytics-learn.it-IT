@@ -10,11 +10,18 @@ jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
 TQID: https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32
-subfeature_v2: id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2:
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1704
@@ -54,7 +61,7 @@ In base a [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/usi
 
 >[!WARNING]
 >
-**I modelli di attribuzione** sono così frequentemente associati a **canali di marketing** che ho intenzionalmente *cancellato* ❷ CANALE nell&#39;immagine qui sopra per illustrare che è possibile eseguire l&#39;analisi di **attribuzione** rispetto alla maggior parte delle altre ***dimensioni***.
+>**I modelli di attribuzione** sono così frequentemente associati a **canali di marketing** che ho intenzionalmente *cancellato* ❷ CANALE nell&#39;immagine qui sopra per illustrare che è possibile eseguire l&#39;analisi di **attribuzione** rispetto alla maggior parte delle altre ***dimensioni***.
 
 
 Di fatto, raramente un dato percorso di clienti è realmente lineare e anche meno spesso prevedibile.  Inoltre, ogni cliente procederà secondo il proprio ritmo; spesso, può tornare indietro, fermarsi, uscire o impegnarsi in altri comportamenti non lineari. Queste azioni organiche rendono difficile o praticamente impossibile conoscere l’impatto delle attività di marketing in tutto il percorso di clienti. Inoltre, ostacola gli sforzi volti a collegare più canali di dati tra loro.
@@ -77,7 +84,7 @@ Tenendo presente questo aspetto, ecco alcuni esempi di come i ❸ **modelli di a
 
   >[!CAUTION]
   >
-  Tuttavia, si consiglia cautela in questo caso, perché è possibile diffondere i risultati molto rapidamente quando si applica questa tattica, considerando il tempo di esecuzione e l’ampiezza del pubblico che raggiunge.
+  >Tuttavia, si consiglia cautela in questo caso, perché è possibile diffondere i risultati molto rapidamente quando si applica questa tattica, considerando il tempo di esecuzione e l’ampiezza del pubblico che raggiunge.
 
 - **A forma di U**: questo approccio assegna il **40%** del credito alla *prima persona* sulla porta, distribuisce il **20%** del credito tra *tutti tra* e quindi assegna il **40%** al **ultimo** tramite. Questo modello verrà utilizzato il più delle volte in situazioni in cui si dispone di un **lungo ciclo di conversione/vendita** contenente *diversi punti di contatto* lungo il percorso.  In questo caso, l&#39;obiettivo è quello di evidenziare principalmente le tattiche di marketing ***first*** e ***last*** che hanno contribuito alla conversione del cliente.
 - **J**-**A forma** e **J** inversa:
