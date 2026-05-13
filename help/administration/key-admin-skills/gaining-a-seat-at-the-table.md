@@ -8,18 +8,23 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
-source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
+TQID: https://experienceleague.adobe.com/QraDVYr0QnHyVLadmouMsr74WdMIZbcUboP13j3xSBE
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1286'
-ht-degree: 97%
+source-wordcount: 1311
+ht-degree: 88%
 
 ---
 
 # Guadagnarsi un posto al tavolo
 
->[!VIDEO](https://video.tv.adobe.com/v/345314/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-“Guadagnarsi un posto al tavolo” è un’espressione entrata nel mondo degli affari già da diversi anni. Ma cosa significa? Significa essere inclusi nelle conversioni decisionali di alto livello. Non solo essere invitati, ma essere apprezzati per il contributo che si è in grado di dare. Ti mostrerò in che modo ottenere un posto al tavolo aiuterà la tua azienda e la tua carriera come utente di Adobe Analytics, a prescindere che il tuo ruolo ufficiale sia quello di amministratore, esperto in materia di analisi dei dati o qualsiasi altro impiego indicato sul tuo biglietto da visita.
+&quot;Guadagnarsi un posto al tavolo.&quot; Questa frase popolare è stata un argomento caldo nel mondo degli affari per anni. Ma cosa significa? Significa essere inclusi nelle conversioni decisionali di alto livello. Non solo essere invitati, ma essere apprezzati per il contributo che si è in grado di dare. Ti mostrerò in che modo ottenere un posto al tavolo aiuterà la tua azienda e la tua carriera come utente di Adobe Analytics, a prescindere che il tuo ruolo ufficiale sia quello di amministratore, esperto in materia di analisi dei dati o qualsiasi altro impiego indicato sul tuo biglietto da visita.
 
 ## Perché devi essere al tavolo
 
@@ -27,9 +32,9 @@ Per prima cosa, chiariamo subito un concetto. Il ruolo dei professionisti dei da
 
 Ecco tre ragioni per cui devi essere lì.
 
-1. **Sei in grado di fornire una prospettiva unica.** Le decisioni migliori vengono prese quando si includono persone da diversi ambienti. Ogni persona può contribuire con una nuova prospettiva. In qualità di esperto in materia di analisi digitale, è improbabile che altri possano offrire la tua esperienza unica. Il gruppo dirigenziale faticherà a trovare un’altra persona che possa fornire un valore incrementale paragonabile.
+1. **Fornisci una prospettiva univoca.** Le decisioni migliori vengono prese quando si includono persone da diversi ambienti. Ogni persona può contribuire con una nuova prospettiva. In qualità di esperto in materia di analisi digitale, è improbabile che altri possano offrire la tua esperienza unica. Il gruppo dirigenziale faticherà a trovare un’altra persona che possa fornire un valore incrementale paragonabile.
 1. **Puoi evitare che i dati vengano interpretati in modo errato.** Il lavoro che fai è complesso e sfaccettato. È impossibile comunicare tali sfaccettature attraverso definizioni di metriche e dati. Al tavolo deve essere presente una persona che abbia una profonda comprensione dei dati, per evitare che questi vengano fraintesi. Di solito, un’interpretazione errata di questo tipo ha un impatto minore, ma potrebbe non essere sempre così. Devi prendere posto a quel tavolo per evitare decisioni sbagliate basate su un’interpretazione errata dei dati.
-1. **Puoi migliorare la comunicazione.** Quando un dirigente ha una domanda a cui puoi rispondere, è molto più semplice se te la può sottoporre direttamente. Le domande spesso perdono contesto e urgenza se vengono trasmesse attraverso manager intermedi. E la distanza fisica e temporale rende difficile chiedere chiarimenti. Ma questo problema non si pone più se sei già presente alla riunione. La comunicazione diretta migliorerà la tempestività e il valore delle analisi.
+1. **È possibile migliorare la comunicazione.** Quando un dirigente ha una domanda a cui puoi rispondere, è molto più semplice se te la può sottoporre direttamente. Le domande spesso perdono contesto e urgenza se vengono trasmesse attraverso manager intermedi. E la distanza fisica e temporale rende difficile chiedere chiarimenti. Ma questo problema non si pone più se sei già presente alla riunione. La comunicazione diretta migliorerà la tempestività e il valore delle analisi.
 
 ## Come guadagnarsi un posto al tavolo
 
@@ -50,7 +55,7 @@ Fai vedere a questa persona che capisci gli aspetti che ha a cuore e che puoi ai
 
 **Passaggio 3: Essere eccellenti -** Ora che hai identificato le parti interessate a cui rivolgerti e hai stabilito come puoi essere utile, devi fare un lavoro eccellente. Ognuno di noi ha una propria idea di eccellenza. La mia idea di eccellenza potrebbe essere molto diversa dalla tua. L’importante è spingersi oltre ciò che si farebbe normalmente per qualsiasi altra persona o richiesta. Ecco un paio di suggerimenti che mi hanno aiutato a produrre un lavoro eccellente.
 
-* **1 - Concentrarsi sul design.** Un consiglio semplice, ma che troppo spesso viene ignorato, è quello di concentrarsi sul design. Presenta con cura il tuo lavoro e segui le best practice sulla progettazione delle informazioni. Ti aiuterà a trasmettere un messaggio di facile comprensione. Se parli di un lavoro complesso senza un messaggio chiaro, il tuo pubblico si sentirà stupido. A nessuno piace sentirsi stupido. E nessuno vuole lavorare con qualcuno che li faccia sentire stupidi.
-* **2 - Fare l’impossibile.** Hai mai ricevuto una richiesta che sembrava impossibile? Di solito, queste provengono da persone che non capiscono come funzionano i dati. È facile reagire con ironia (“Ah, tutto chiaro: non hanno idea di cosa stanno parlando!”) o persino con rabbia (“Non posso credere che mi chieda proprio questo, è impossibile!”). Ho avuto entrambe queste reazioni più volte di quanto non possa contarle. Ma soffermandomi un attimo e affrontando il problema con mente aperta, quasi sempre riesco a sorprendermi con una soluzione. Se consideri un problema abbastanza a lungo, qualcosa di buono di solito viene fuori. Quando qualcosa sembra impossibile, si deve pensare fuori dagli schemi per trovare una soluzione. Ed è proprio pensare fuori dagli schemi che spesso porta a un lavoro eccellente.
+* **Suggerimento 1: concentrarsi sulla progettazione.** Un consiglio semplice, ma che troppo spesso viene ignorato, è quello di concentrarsi sul design. Presenta con cura il tuo lavoro e segui le best practice sulla progettazione delle informazioni. Ti aiuterà a trasmettere un messaggio di facile comprensione. Se parli di un lavoro complesso senza un messaggio chiaro, il tuo pubblico si sentirà stupido. A nessuno piace sentirsi stupido. E nessuno vuole lavorare con qualcuno che li faccia sentire stupidi.
+* **Suggerimento 2: fai l&#39;impossibile.** Hai mai ricevuto una richiesta che sembrava impossibile? Di solito, queste provengono da persone che non capiscono come funzionano i dati. È facile reagire con ironia (“Ah, tutto chiaro: non hanno idea di cosa stanno parlando!”) o persino con rabbia (“Non posso credere che mi chieda proprio questo, è impossibile!”). Ho avuto entrambe queste reazioni più volte di quanto non possa contarle. Ma soffermandomi un attimo e affrontando il problema con mente aperta, quasi sempre riesco a sorprendermi con una soluzione. Se consideri un problema abbastanza a lungo, qualcosa di buono di solito viene fuori. Quando qualcosa sembra impossibile, si deve pensare fuori dagli schemi per trovare una soluzione. Ed è proprio pensare fuori dagli schemi che spesso porta a un lavoro eccellente.
 
 Spero che questo articolo ti abbia aiutato a capire che devi sedere anche tu a quel tavolo. Probabilmente ci vorrà un po’ di tempo e impegno mirato. Ma se insisti e segui questi passaggi, ti ritroverai con più autonomia e maggiore influenza nella tua organizzazione. In ultima analisi, questo porterà a più successo nel tuo ruolo e a una carriera più soddisfacente.

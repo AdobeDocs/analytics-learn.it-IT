@@ -9,10 +9,17 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+subfeature_v2: id: c8add8f2-4250-4fd9-9cde-9707036c567did: cc449013-c052-42d5-9ca4-0d2bceb6f06aid: e7d92df1-c5ba-4e93-85df-f83171b889be
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1802'
-ht-degree: 94%
+source-wordcount: 1823
+ht-degree: 89%
 
 ---
 
@@ -24,7 +31,7 @@ Prima di iniziare, [scarica il playbook](assets/aa-implementation-playbook.xlsx)
 
 **COSA:** un documento sui requisiti aziendali (BRD, Business Requirements Doc) è una risorsa molto importante per la cui realizzazione sarà importante coinvolgere le principali parti interessate, utenti aziendali e utenti tecnici. Consente di documentare tutti i KPI desiderati, i requisiti di reporting e tutti i punti dati che dovranno essere disponibili al termine dell’implementazione di Adobe Analytics (AA).
 
-**PERCHÉ:** Questo funge da punto di partenza per la documentazione successiva (SDR, specifiche tecniche, ecc.) ed è una fonte comune di verità per uno stato finale concordato di AA. Questo documento raccoglie i punti proposti dai vari team all’interno dell’organizzazione e definisce la direzione da seguire per sviluppare o ottimizzare l’implementazione.
+**PERCHÉ:** funge da punto di partenza per la documentazione successiva (SDR, specifiche tecniche, ecc.) ed è una fonte comune di verità per uno stato finale concordato di AA. Questo documento raccoglie i punti proposti dai vari team all’interno dell’organizzazione e definisce la direzione da seguire per sviluppare o ottimizzare l’implementazione.
 
 **COME:** la documentazione dei requisiti aziendali è comunemente preparata dagli utenti aziendali finali di AA, ma è importante ottenere feedback anche dagli utenti tecnici, in quanto ci possono essere problemi tecnici da considerare e alcuni punti dati possono richiedere più lavoro di altri, e sarà necessario tenerne conto nella definizione delle priorità.
 
@@ -44,7 +51,7 @@ Infine, la colonna Stato di implementazione fungerà da verifica dello stato una
 
 **PERCHÉ:** questo documento ha molti scopi, ma i più importanti sono i seguenti:
 
-* Per tutti i nuovi utenti dell’implementazione (nuovi assunti, responsabili business che desiderano comprendere meglio i rapporti disponibili, ecc.), questo documento fornisce la migliore visione di tutte le variabili implementate e del loro scopo, in modo che gli utenti possano servirsi da soli in termini di apprendimento della configurazione di AA.
+* Per tutti i nuovi utenti dell’implementazione (nuovi assunti, responsabili business che desiderano comprendere meglio i rapporti disponibili, ecc.) questo documento offre una panoramica ottimale di tutte le variabili implementate e del loro scopo, in modo che gli utenti possano servirsene autonomamente in termini di apprendimento della configurazione di AA.
 * Per l’utente tecnico o proprietario del prodotto AA, questo documento fungerà da promemoria della configurazione di altre variabili e delle variabili disponibili che possono essere utilizzate quando si aggiunge una nuova dimensione.
 
 **COME:** per iniziare, elenca in un documento Excel tutte le variabili predefinite di Adobe (page, product, geo, ecc.), nonché eVar, prop, eventi. Dovrebbe essere presente una scheda per ogni sito o suite di rapporti.
@@ -60,7 +67,7 @@ Per ciascuna di queste dimensioni, aggiungo le colonne seguenti:
 * **Configurazione:** impostazioni dell’interfaccia di amministrazione per ciascuna variabile (ad esempio, per le eVar: scadenza, allocazione, merchandising, ecc.)
 
 Schermata del documento SDR di esempio:
-![Documento SDR di esempio](assets/sample-sdr.png)
+![SDR di esempio](assets/sample-sdr.png)
 
 Si consiglia inoltre di utilizzare questo documento sui tag per tenere traccia di eventuali variabili libere o non più valide. Quando una dimensione non è più utile, in genere è necessario un po’ di tempo per eliminarla. Anche dopo la sua eliminazione, può essere ancora presente in cache, oppure ti puoi rendere conto che la dimensione era stata impostata anche altrove. Pulire le dimensioni non è facile e spesso richiede pazienza. Ecco alcuni suggerimenti per nascondere ciò che non serve agli utenti, per non confonderli, pur tenendone traccia.
 
@@ -88,7 +95,7 @@ In questo modo i dati sono sempre puliti, e avrai una chiara idea di ciò che no
 
 **COME:** identifica un proprietario del documento a scopo di governance e un’unica fonte di responsabilità per la gestione degli aggiornamenti.
 Elenca quanto segue nella scheda delle proprietà:
-* **Nome proprietà:** può essere un dominio, un sottodominio, il nome di un’app, ecc. Anche all’interno dello stesso dominio, se alcune parti sono gestite separatamente (ad esempio, da un team diverso o con una tecnologia diversa), queste devono essere separate.
+* **Nome proprietà:** Può essere un dominio, un sottodominio, il nome di un&#39;app e così via. Anche all’interno dello stesso dominio, se alcune parti sono gestite separatamente (ad esempio, da un team diverso o con una tecnologia diversa), queste devono essere separate.
 * **Collegamento (URL)** per la proprietà, se disponibile
 * **Proprietario e contatti:** elenca il proprietario principale o i contatti per la proprietà.
 * **Metodo di tag:** spesso usiamo diversi metodi e implementazioni di codice (Launch, file JS, AEP, ecc.). Se necessario, puoi suddividerlo ulteriormente (ad esempio in base alla versione del codice o al sistema di gestione dei tag), ma questo ha lo scopo di tenere traccia di tutti i diversi metodi e versioni del codice, dove è necessario aggiornare il codice e come deve essere mantenuto. Se utilizzi Adobe Launch, elenca il nome della proprietà Launch.
@@ -99,7 +106,7 @@ Ricorda di includere tutte le proprietà digitali, anche se non utilizzano i tag
 
 >[!TIP]
 >
->Crea una dimensione per il nome del sito o la proprietà in Adobe Analytics. Se in Adobe Analytics è presente una dimensione dedicata (in genere un eVar) che identifica il nome del sito o dell’app, sarà possibile eseguire segmentazioni, risolvere problemi, creare di suite di rapporti virtuali, ecc. I vantaggi sono infiniti, soprattutto quando si combinano più siti in una singola suite di rapporti globale. La chiave consiste nell’assicurarsi che i team di sviluppo impostino sempre questo valore nella dimensione delle proprietà, inclusi tutti i caricamenti di pagina (s.t calls/trackState) e tutti gli eventi personalizzati (s.tl calls/trackAction). Le regole di elaborazione possono essere utili per impostare questi valori in modo corretto e coerente.
+>Crea una dimensione per il nome del sito o la proprietà in Adobe Analytics. Se in Adobe Analytics è presente una dimensione dedicata (in genere eVar) che identifica il nome del sito o dell’app, sarà possibile eseguire segmentazioni, risolvere problemi, creare suite di rapporti virtuali, ecc. I vantaggi sono infiniti, soprattutto quando si combinano più siti in una singola suite di rapporti globale. La chiave consiste nell’assicurarsi che i team di sviluppo impostino sempre questo valore nella dimensione delle proprietà, inclusi tutti i caricamenti di pagina (s.t calls/trackState) e tutti gli eventi personalizzati (s.tl calls/trackAction). Le regole di elaborazione possono essere utili per impostare questi valori in modo corretto e coerente.
 
 [Guarda questo video di Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=it){target="_blank"} per ulteriori informazioni sulla compilazione del playbook di implementazione.
 
@@ -109,7 +116,7 @@ Questo documento è stato scritto da:
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-Christel Guidon, Digital Analytics Platform Manager presso NortonLifeLock 
+Christel Guidon, Digital Analytics Platform Manager di NortonLifeLock
 Adobe Analytics Champion
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
