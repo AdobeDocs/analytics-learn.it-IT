@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Quando visualizzi le analisi su un dispositivo mobile, è più importante che mai utilizzare le visualizzazioni corrette. Questo video spiega come aggiungere delle visualizzazioni ai progetti di scorecard per dispositivi mobili.
 
->[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445774/?captions=ita&quality=12&learn=on)

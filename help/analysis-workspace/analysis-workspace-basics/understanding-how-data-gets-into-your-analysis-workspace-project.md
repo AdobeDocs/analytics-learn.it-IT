@@ -35,7 +35,7 @@ ht-degree: 100%
 
 Questo video mostra come visualizzare il flusso di dati dalla pagina alle tabelle e alle visualizzazioni in Analysis Workspace, mediante l’estensione Adobe Experience Platform Debugger in Chrome.
 
->[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35894/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su Adobe Experience Platform Debugger, consulta la [documentazione](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=it).
 

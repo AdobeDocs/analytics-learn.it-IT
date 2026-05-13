@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Scopri tutte le possibilità offerte dal clic con il pulsante destro del mouse in Analysis Workspace e come sfruttarle al meglio. Da [!UICONTROL Freeform Tables] a [!UICONTROL Fallout Visualizations], il clic con il pulsante destro del mouse ti permette di lavorare meglio e in modo più efficiente in [!DNL Workspace].
 
->[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327565/?captions=ita&quality=12&learn=on)

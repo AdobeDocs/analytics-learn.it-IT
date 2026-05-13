@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Scopri queste tecniche per la creazione di una dashboard di Advertising Cloud per il monitoraggio delle campagne in tempo reale.
 
->[!VIDEO](https://video.tv.adobe.com/v/35121/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40464/?captions=ita&quality=12&learn=on)

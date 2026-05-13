@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Questo video mostra come confrontare e visualizzare i segmenti utilizzandoli come dimensioni in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23974/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41740/?captions=ita&quality=12&learn=on)

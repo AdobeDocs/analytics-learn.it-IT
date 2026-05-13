@@ -27,4 +27,4 @@ ht-degree: 73%
 
 Visualizza la cronologia dei processi di caricamento e di download dei dati dei set di classificazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476035/?captions=ita&learn=on&enablevpops)

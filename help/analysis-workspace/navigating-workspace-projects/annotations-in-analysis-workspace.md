@@ -38,6 +38,6 @@ ht-degree: 48%
 
 Le annotazioni in Workspace consentono di comunicare in modo efficace dettagli sui dati contestuali a beneficio degli utenti in tutta l’organizzazione. È possibile annotare una data o un intervallo di date con problemi di dati noti, festività pubbliche, avvii di campagne, ecc. per spiegare al meglio agli utenti perché stanno visualizzando determinate informazioni nei grafici a linee, nelle tabelle e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344392/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=it).

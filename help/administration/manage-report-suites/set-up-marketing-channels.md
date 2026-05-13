@@ -37,7 +37,7 @@ ht-degree: 100%
 
 Questo video illustra come configurare i rapporti sui canali di marketing nella suite di rapporti di Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/340789/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344360/?captions=ita&quality=12&learn=on)
 
 >[!NOTE]
 >

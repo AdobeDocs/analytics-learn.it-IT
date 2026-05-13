@@ -30,6 +30,6 @@ ht-degree: 100%
 
 Questo video illustra come aggiungere e configurare le visualizzazioni Numero riepilogo e Modifica riepilogo in Analysis Workspace. Queste visualizzazioni ti forniscono un numero elevato che ti consente di visualizzare le metriche più importanti dove tutti possono visualizzarle.
 
->[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416889/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=it).

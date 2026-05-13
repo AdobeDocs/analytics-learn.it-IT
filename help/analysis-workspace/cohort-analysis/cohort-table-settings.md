@@ -35,7 +35,7 @@ ht-degree: 52%
 
 Scopri come personalizzare la visualizzazione delle tabelle di fidelizzazione o abbandono utilizzando le impostazioni della tabella coorte.
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430094/?captions=ita&quality=12&learn=on)
 
 Le personalizzazioni di [!UICONTROL Cohort Table] includono la possibilità di
 

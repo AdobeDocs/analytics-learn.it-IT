@@ -31,6 +31,6 @@ ht-degree: 100%
 
 Scopri come creare e trovare segmenti nell’analisi tra i vari strumenti di Analysis Workspace, compresi quelli per coorte, abbandono e flusso.
 
->[!VIDEO](https://video.tv.adobe.com/v/334092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415644/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-workflow.html?lang=it).

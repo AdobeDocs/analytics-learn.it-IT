@@ -36,6 +36,6 @@ ht-degree: 100%
 
 Il modello di attribuzione algoritmica di Analysis Workspace utilizza tecniche statistiche per determinare in modo dinamico l’attribuzione ottimale del merito per la metrica selezionata.
 
->[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40053/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=it)

@@ -30,7 +30,7 @@ ht-degree: 32%
 
 Le dimensioni sono disponibili nel generatore di metriche calcolate e possono essere aggiunte a qualsiasi formula per limitare la nuova metrica a una dimensione o a un valore di dimensione.
 
->[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41080/?captions=ita&quality=12&learn=on)
 
 Questa funzione semplifica il flusso di lavoro per la creazione e l’utilizzo di segmenti nelle metriche calcolate.
 

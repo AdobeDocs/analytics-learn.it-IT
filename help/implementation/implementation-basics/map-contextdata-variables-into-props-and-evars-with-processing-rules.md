@@ -43,5 +43,5 @@ Quando si utilizzano le variabili [!DNL contextData] nell’implementazione di A
 >Questo articolo e questo video si applicano a un’implementazione “AppMeasurement” di Adobe Analytics se non utilizzi i tag di Adobe Experience Platform (gestione tag).
 
 
->[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328582/?captions=ita&quality=12&learn=on)
 

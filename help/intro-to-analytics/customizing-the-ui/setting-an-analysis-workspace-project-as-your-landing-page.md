@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Scopri un modo efficace per coinvolgere facilmente i nuovi utenti nei dati dei progetti di analisi Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327933/?captions=ita&quality=12&learn=on)

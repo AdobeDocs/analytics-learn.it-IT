@@ -37,4 +37,4 @@ ht-degree: 34%
 
 Scopri come creare nuovi progetti da zero o utilizzando i modelli in Analysis Workspace. I modelli possono fungere da punto di partenza per l’analisi e sono disponibili sia come preconfigurati che tramite progetti creati dall’azienda. Per la documentazione dettagliata, consulta [Creare progetti in Analysis Workspace](https://experienceleague.adobe.com/it/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects).
 
->[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429819/?captions=ita&quality=12&learn=on)

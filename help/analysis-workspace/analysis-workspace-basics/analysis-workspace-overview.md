@@ -40,4 +40,4 @@ ht-degree: 100%
 
 Ottieni una panoramica di alto livello di Analysis Workspace che include creazione di progetti e modelli, pannelli, visualizzazioni, dimensioni, metriche, segmenti e funzionalità di alto valore.
 
->[!VIDEO](https://video.tv.adobe.com/v/26266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328627/?captions=ita&quality=12&learn=on)

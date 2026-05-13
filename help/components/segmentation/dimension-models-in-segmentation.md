@@ -26,4 +26,4 @@ ht-degree: 94%
 
 I modelli di dimensione sono disponibili tramite l’ingranaggio per qualsiasi dimensione nella segmentazione. Questi modelli sono particolarmente utili per la segmentazione sequenziale e consentono di segmentare i valori persistenti di una dimensione (predefinita), istanze o istanze non ripetute di una dimensione. Per la documentazione dettagliata, visita [Segment Builder](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=it){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430065/?captions=ita&quality=12&learn=on)

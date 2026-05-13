@@ -27,6 +27,6 @@ ht-degree: 67%
 
 Scopri diversi metodi di importazione dei dati di classificazione con i set di classificazione e alcuni casi d’uso associati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475836/?captions=ita&learn=on&enablevpops)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/components/classifications/sets/overview){target="_blank"}.

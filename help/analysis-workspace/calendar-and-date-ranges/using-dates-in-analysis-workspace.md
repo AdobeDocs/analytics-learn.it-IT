@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Panoramica sull’utilizzo di calendari e date per le visualizzazioni in Analysis Workspace
 
->[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329388/?captions=ita&quality=12&learn=on)

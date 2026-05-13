@@ -38,6 +38,6 @@ ht-degree: 49%
 
 Scopri come creare rapporti sui dati dei bot in Analysis Workspace. I dati dei bot sono disponibili come dati di riepilogo e possono essere analizzati in suite di rapporti abilitate per i bot.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447645/?captions=ita&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=it).

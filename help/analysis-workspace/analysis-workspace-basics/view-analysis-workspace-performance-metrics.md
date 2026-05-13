@@ -38,4 +38,4 @@ ht-degree: 100%
 Alcuni fattori possono incidere sulle prestazioni di un progetto in Analysis Workspace. Utilizzando l’opzione Prestazioni, puoi vedere quali fattori influiscono sulle prestazioni del progetto, compresi quelli relativi alla rete, al browser e al progetto.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335737/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418519/?captions=ita&quality=12&learn=on)

@@ -34,7 +34,7 @@ ht-degree: 63%
 
 Scopri come utilizzare le dimensioni nelle tabelle a forma libera, ad esempio come aggiungerle, ordinarle, filtrarle, suddividerle per altre dimensioni e così via.
 
->[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328588/?captions=ita&quality=12&learn=on)
 
 Argomenti trattati nel video, inclusi i tempi:
 

@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Questo video mostra come modificare facilmente la scala (o i limiti dell’asse) per l’asse Y in un grafico [!UICONTROL line] in Analysis Workspace per facilitare l’interpretazione corretta dei dati per te e gli altri utenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329405/?captions=ita&quality=12&learn=on)

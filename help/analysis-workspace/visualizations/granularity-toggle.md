@@ -25,6 +25,6 @@ ht-degree: 13%
 
 È disponibile un selettore di granularità per le impostazioni di visualizzazione delle tendenze che consente di regolare molto facilmente la modalità di visualizzazione dei dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329406/?captions=ita&quality=12&learn=on)
 
 L’impostazione della granularità regola sia il grafico che la tabella sorgente, evitando di dover eseguire i passaggi necessari per visualizzare e manipolare la tabella.

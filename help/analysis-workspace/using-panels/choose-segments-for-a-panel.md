@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Scopri alcuni suggerimenti e strategie per applicare segmenti a un pannello in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412023/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416220/?captions=ita&quality=12&learn=on)

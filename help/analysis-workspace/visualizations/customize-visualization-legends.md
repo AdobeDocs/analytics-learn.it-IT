@@ -30,4 +30,4 @@ ht-degree: 100%
 
 La personalizzazione delle legende nelle visualizzazioni, nota anche come modifica delle serie di etichette, è un ottimo modo per rendere le visualizzazioni più comprensibili per tutti coloro che visualizzano i rapporti.
 
->[!VIDEO](https://video.tv.adobe.com/v/335579/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418710/?captions=ita&quality=12&learn=on)

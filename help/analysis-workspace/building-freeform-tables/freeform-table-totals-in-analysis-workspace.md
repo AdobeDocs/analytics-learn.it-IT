@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Scopri cosa influisce sui totali nelle tabelle a forma libera e come abilitarli e disabilitarli.
 
->[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39247/?captions=ita&quality=12&learn=on)

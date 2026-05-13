@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Scopri i passaggi per implementare i modelli di tracciamento da [!DNL Advertising Analytics] nei motori di ricerca supportati. Questo è un passaggio fondamentale necessario per raccogliere e trasmettere i dati ad Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41424/?captions=ita&quality=12&learn=on)

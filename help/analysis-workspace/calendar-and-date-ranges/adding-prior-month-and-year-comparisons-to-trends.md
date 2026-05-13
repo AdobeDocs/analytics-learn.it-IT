@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Scopri come applicare intervalli di date personalizzati per creare confronti di tendenze mensili e annuali per qualsiasi metrica in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37193/?captions=ita&quality=12&learn=on)

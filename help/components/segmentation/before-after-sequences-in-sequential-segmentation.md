@@ -25,6 +25,6 @@ ht-degree: 100%
 
 Questo video illustra come [!UICONTROL segment] in Adobe Analytics in modo da ottenere solo i dati dal prima o dopo di un percorso utente specifico.
 
->[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41089/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su questo argomento, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=it).

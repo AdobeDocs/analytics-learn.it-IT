@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Scopri come utilizzare la barra a sinistra di Analysis Workspace per trovare, creare e aggiungere elementi alle tabelle a forma libera.
 
->[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475916/?captions=ita&quality=12&learn=on)

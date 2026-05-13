@@ -30,6 +30,6 @@ ht-degree: 100%
 
 Puoi creare segmenti molto efficaci, ma perché tenerli per te? Guarda questo video e scopri alcuni suggerimenti utili per condividere e gestire i segmenti, così potrete tutti trarne vantaggio.
 
->[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41655/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=it).

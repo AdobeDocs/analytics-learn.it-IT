@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Crea e configura tabelle a forma libera in Analysis Workspace per analizzare la funzionalità di ricerca interna nel tuo sito.
 
->[!VIDEO](https://video.tv.adobe.com/v/333607/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413472/?captions=ita&quality=12&learn=on)

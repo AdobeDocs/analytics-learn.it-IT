@@ -30,6 +30,6 @@ ht-degree: 100%
 
 Questo video spiega come impostare una pianificazione di base per una cartella di lavoro [!DNL Report Builder].
 
->[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346452/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=it).

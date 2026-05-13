@@ -34,6 +34,6 @@ ht-degree: 100%
 
 Scopri come esportare i progetti di Analysis Workspace in CSV e PDF per una maggiore flessibilità.
 
->[!VIDEO](https://video.tv.adobe.com/v/341276/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445730/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=it).

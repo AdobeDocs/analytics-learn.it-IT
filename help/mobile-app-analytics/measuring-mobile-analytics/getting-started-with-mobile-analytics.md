@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Scopri come iniziare a utilizzare Adobe Analytics per le app mobili utilizzando i modelli. I [!UICONTROL standard templates] predefiniti aiutano a comprendere il coinvolgimento degli utenti e le [!UICONTROL metrics] di prestazione delle app in Analysis Workspace. Inoltre, scopri come personalizzare il tuo progetto mediante l’interfaccia intuitiva basata su semplici operazioni di trascinamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39144/?captions=ita&quality=12&learn=on)

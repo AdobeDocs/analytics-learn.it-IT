@@ -33,7 +33,7 @@ ht-degree: 57%
 
 Questo video illustra le impostazioni relative alle pagine o agli URL di provenienza, che possono essere impostati come referrer interni (per i rapporti sul percorso) o esterni (per i rapporti sui domini di provenienza). Per la documentazione dettagliata, visita [Filtri per URL interni](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=it){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412918/?captions=ita&quality=12&learn=on)
 
 >[!NOTE]
 >
