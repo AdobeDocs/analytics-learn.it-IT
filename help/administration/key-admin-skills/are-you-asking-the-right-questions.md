@@ -8,18 +8,31 @@ level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
-source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
+TQID: https://experienceleague.adobe.com/ZXiYDVRqaJbxICzAiFkS9XuUKlyiAKs7-ucZ3qKR-xI
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1082'
-ht-degree: 99%
+source-wordcount: 1091
+ht-degree: 94%
 
 ---
 
 # Stai facendo le domande giuste?
 
->[!VIDEO](https://video.tv.adobe.com/v/346458/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/346458/?captions=ita&quality=12&learn=on)
 
-_Tutti_. Questa è una delle risposte più comuni delle parti interessate alla domanda: _“Quali dati desideri monitorare?”_ Può essere più utile identificare e raccogliere i _punti di dati utilizzabili_ che registrare ogni elemento possibile. Per individuare in maniera efficiente i punti di dati, servono un piano di base e discussioni creative con le parti interessate.
+_Tutti_. Questa è una delle risposte più comuni delle parti interessate alla domanda: _Quali dati desideri monitorare?_ Può essere più utile identificare e raccogliere i _punti di dati utilizzabili_ che registrare ogni elemento possibile. Per individuare in maniera efficiente i punti di dati, servono un piano di base e discussioni creative con le parti interessate.
 
 ## Raccogliere i dati importanti
 
@@ -44,7 +57,7 @@ Aziende, unità aziendali e team hanno una cultura unica e un linguaggio correla
 
 Stabilisci alcuni principi prima della discussione. In qualità di amministratore di Analytics, devi acquisire gli input giusti per sviluppare e fornire la soluzione ideale per le parti interessate.
 
-### &#x200B;1. Fornire un questionario
+### &#x200B;1. Fornisci un questionario
 
 Invia un elenco di domande alle tue parti interessate da rivedere prima della riunione di scoperta. Possono fornire risposte preliminari o semplicemente familiarizzare con gli argomenti di discussione. Puoi fornire risposte di esempio insieme al questionario se ciò chiarirà ulteriormente le aspettative.
 
@@ -60,7 +73,7 @@ Le parti interessate devono fornire esempi effettivi o simulati dei punti di dat
 
 Le richieste effettuate e le idee di dati discusse durante la scoperta non sono impegni con le parti interessate. Esistono livelli di complessità coinvolti nell’esecuzione della raccolta dei dati, che non puoi valutare completamente se non una volta completata l’intervista. Potresti discutere idee in un brainstorming creativo che alla fine vengono messe in secondo piano a causa della loro scarsa rilevanza per i loro obiettivi. Per questi e altri motivi, la fase di scoperta è solo un’opportunità di raccolta di idee, dove le idee acquisite non sono necessariamente rese disponibili nei rapporti.
 
-Dopo la scoperta e le successive verifiche o follow-up da parte dell’amministratore di Analytics, è opportuno organizzare una riunione per discutere il livello di impegno, le tempistiche e lo sforzo. Questo metodo supporta la discussione libera e creativa all’interno del processo di scoperta, contribuendo a una soluzione più solida in generale.
+Dopo la scoperta e le successive verifiche o follow-up da parte dell’amministratore di Analytics, è opportuno organizzare una riunione per discutere il livello di impegno, le tempistiche e il lavoro necessario. Questo metodo supporta la discussione libera e creativa all’interno del processo di scoperta, contribuendo a una soluzione più solida in generale.
 
 ## Registrare i requisiti in base alle esigenze
 

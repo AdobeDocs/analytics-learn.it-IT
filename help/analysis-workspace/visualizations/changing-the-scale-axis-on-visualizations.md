@@ -10,10 +10,22 @@ kt: 2133
 role: User
 level: Beginner
 exl-id: c76d8252-d6b7-48d7-b75e-3f8bedc50815
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+TQID: https://experienceleague.adobe.com/7YrSLOscFm1e9-WkpjVBaTVzA0KOr-3jb2kE-CB2Tq4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 86
+ht-degree: 100%
 
 ---
 
@@ -21,4 +33,4 @@ ht-degree: 0%
 
 Questo video mostra come modificare facilmente la scala (o i limiti dell’asse) per l’asse Y in un grafico [!UICONTROL line] in Analysis Workspace per facilitare l’interpretazione corretta dei dati per te e gli altri utenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/329405/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/329405/?captions=ita&quality=12&learn=on)

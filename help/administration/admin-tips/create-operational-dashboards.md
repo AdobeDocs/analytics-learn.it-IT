@@ -6,14 +6,31 @@ topic: Administration
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1151'
-ht-degree: 96%
+source-wordcount: 1166
+ht-degree: 89%
 
 ---
 
@@ -24,7 +41,7 @@ _Scopri in che modo le dashboard operative nell’area lavoro di Adobe Analytics
 
 Come molti amministratori, gestisco un hub di informazioni interno (Confluence o simile) per Adobe Analytics. Nel tempo, mi sono stancato di rispondere alle stesse continue domande e avevo bisogno di un modo più agevole per raggiungere i miei utenti senza sentirmi come se li stessi martellando o infastidendo tutte le volte. Avevo bisogno di archivi per le informazioni meno statici.
 
-Mi sono accorto che gli utenti spesso ignoravano i miei riferimenti al sito di Confluence, adducendo motivi come “La mia VPN è spenta” o “Non posso leggerlo ora”, ecc. Sostanzialmente quel “Leggerò il documento più tardi” significa che non verrà mai letto, e la stessa domanda verrà posta di nuovo la settimana successiva.
+Ho notato che gli utenti spesso ignoravano i miei riferimenti al sito di Confluence, con motivi come &quot;La mia VPN è spenta&quot;, o &quot;Non posso leggerla ora&quot;, ecc. In sostanza, &quot;Leggerò quel documento più tardi&quot; significa che non verrà mai letto, e la stessa domanda verrà posta di nuovo la prossima settimana.
 
 ***Hit di realizzazione:**&#x200B;la versatilità di Workspace potrebbe essere decisiva. Gli utenti preferiscono risposte rapide e dirette all’interno di Workspace, quindi è importante mantenerle lì ed evitare passaggi aggiuntivi.*
 
@@ -32,7 +49,7 @@ Sono andato avanti e ho creato dashboard operative da condividere a livello azie
 
 Le persone sono state in grado di ottenere un sacco di buone informazioni senza di me, capire le aree del sito, vedere quanto è bello Adobe Analytics e (importante per me 😊) farmi meno domande e prendere meno tempo.
 
-**Ti consiglio vivamente di creare dashboard per tutte le proprietà o le aree principali del sito.** Dovranno fornire una panoramica della proprietà/sito/app/flusso e disporre di informazioni di base in modo rapido. Dovranno essere condivise con tutta azienda, consentendo a tutti gli utenti di comprendere la proprietà senza alcuna difficoltà. La mia esperienza mi porta a considerare che queste dashboard rispondono solitamente all’80% delle domande che ricevo, facendomi risparmiare tempo prezioso.
+**Ti consiglio vivamente di creare dashboard per tutte le proprietà o le aree principali del tuo sito.** Devono fornire una panoramica della proprietà/del sito/dell’app/del flusso e disporre di informazioni di base e informazioni rapide. Dovranno essere condivise con tutta azienda, consentendo a tutti gli utenti di comprendere la proprietà senza alcuna difficoltà. La mia esperienza mi porta a considerare che queste dashboard rispondono solitamente all’80% delle domande che ricevo, facendomi risparmiare tempo prezioso.
 
 E al contempo, è possibile continuare a mantenere il sito Confluence, poiché è davvero tanto utile. Faccio riferimento anche a questo, nella parte superiore di ogni dashboard operativa. Ma adoro le scelte rapide, sia per me che per i miei utenti.
 

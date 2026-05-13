@@ -10,10 +10,31 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
+TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: a544b409-2610-410d-a842-474ac1d0d54e
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 1544
+ht-degree: 95%
 
 ---
 
@@ -29,20 +50,20 @@ Quando gli utenti interagiscono con il tuo marchio lo fanno in molti modi e su p
 
 Ecco un esempio. Supponiamo che Isabelle interagisca con il tuo marchio nel modo seguente:
 
-*Isabelle riconosciuta come tre visitatori*
-![Percorso tradizionale di Analytics](assets/cda-isabelle-journey-traditional-analytics.png)
+*Isabelle ha tre visitatori*
+![Percorso Analytics tradizionale](assets/cda-isabelle-journey-traditional-analytics.png)
 
 Nell’analisi tradizionale, il percorso di Isabelle viene suddiviso in tre parti. Viene riconosciuta come tre visitatori univoci, ciascuno dei quali ha utilizzato un dispositivo diverso per eseguire attività isolate. Ma serve una visione unificata e cross-device delle interazioni di Isabelle. [!DNL Journey IQ: Cross-Device Analytics] fornisce proprio questo tipo di visualizzazione.
 
-*Isabelle riconosciuta come una singola persona*
-![Percorso di Cross-Device Analytics](assets/cda-isabelle-journey-cross-device-analytics.png)
+*Isabelle è una sola persona*
+![Percorso di analisi multidispositivo](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 ### Visualizzazione cross-device per una migliore analisi
 
 Avere una visione del comportamento di Isabelle incentrata sulla persona e cross-device può fare una differenza significativa nelle analisi. Ad esempio, l’approccio tradizionale basato sul visitatore non offre un quadro completo dell’efficacia dei diversi canali di marketing. Vediamo ancora una volta il percorso di Isabelle, concentrandoci sui canali a cui vengono attribuiti la visualizzazione e l’acquisto del prodotto. Per semplicità, useremo l’attribuzione [!UICONTROL last-touch], ma lo stesso problema si verifica per qualsiasi modello di attribuzione se si divide il comportamento di Isabelle in base a visitatori separati. Con la visione tradizionale basata sul visitatore si ottengono risultati molto diversi, anche fuorvianti:
 
 *Analisi tradizionale e Cross-Device Analytics*
-![attribuzione del canale](assets/channel-attribution.png)
+![attribuzione canale](assets/channel-attribution.png)
 
 Con la visualizzazione cross-device, al canale e-mail vengono attribuiti sia la visualizzazione del prodotto che l’acquisto, e questo rappresenta più accuratamente l’effettiva esperienza di Isabelle.
 
@@ -63,18 +84,18 @@ CDA viene presentato attraverso uno speciale tipo di [[!UICONTROL Virtual Report
 
 Nel primo passaggio della creazione di una suite di rapporti virtuale, scegli la [!UICONTROL report suite] che è stata configurata da Adobe come abilitata per CDA:
 
-*Scegliere una[!UICONTROL report suite]* di base (sorgente) abilitata per CDA
-![[!UICONTROL Virtual Report Suite] Passaggio uno](assets/cda-vrs-step-one.png)
+*Scegli una base abilitata per CDA (origine) [!UICONTROL report suite]*
+![[!UICONTROL Virtual Report Suite] Passaggio Uno](assets/cda-vrs-step-one.png)
 
 Quindi, attiva [!UICONTROL Report Time Processing] e abilita [!UICONTROL cross-device stitching]:
 
-*Abilitare [!UICONTROL report-time processing] e[!UICONTROL cross-device stitching]*
-![[!UICONTROL Virtual Report Suite] Passaggio due](assets/cda-vrs-step-two.png)
+*Abilita [!UICONTROL report-time processing] e[!UICONTROL cross-device stitching]*
+![[!UICONTROL Virtual Report Suite] Passaggio Due](assets/cda-vrs-step-two.png)
 
 Completa la configurazione della suite di rapporti virtuale e salvala. La suite di rapporti virtuale di CDA viene visualizzata in Analysis Workspace con un’icona speciale, come illustrato di seguito:
 
-*Selezionare la suite di rapporti virtuale di CDA in Analysis Workspace*
-![[!UICONTROL Virtual Report Suite] Passaggio tre](assets/cda-vrs-step-three.png)
+*Seleziona la suite di rapporti virtuale di CDA in Analysis Workspace*
+![[!UICONTROL Virtual Report Suite] Passaggio Tre](assets/cda-vrs-step-three.png)
 
 >[!TIP]
 >
@@ -144,7 +165,7 @@ Hai mai avuto la curiosità di sapere quante persone interagiscono con il tuo ma
 
 Con CDA e Analysis Workspace, puoi visualizzare il modo in cui le persone si spostano da un dispositivo all’altro nel tempo in [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=it). Puoi constatare a che punto del percorso abbandonano e dove continuano.
 
-*[!DNL Flow] con CDA*
+*[!DNL Flow]con CDA*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### [!DNL Fallout] cross-device
@@ -153,7 +174,7 @@ Con CDA e Analysis Workspace, puoi visualizzare il modo in cui le persone si spo
 
 Nessun problema, ci pensa CDA. CDA crea la visualizzazione cross-device che rende [!DNL Fallout visualizations] molto più utile. Dopo tutto, ciò che conta veramente è se da qualche parte la persona alla fine è riuscita suo intento.
 
-*[!DNL Fallout] con CDA*
+*[!DNL Fallout]con CDA*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
 
 ### [!DNL Cross-Device Attribution IQ]
@@ -162,7 +183,7 @@ Poiché CDA crea un livello di dati cross-device sotto Analysis Workspace, tutte
 
 Ad esempio, supponi di voler capire quanto spesso un telefono cellulare è il primo dispositivo utilizzato in un’interazione che alla fine porta al successo. Ciò rappresenta il “tasso di acquisizione” del telefono cellulare. CDA con [!DNL Attribution IQ] consente di eseguire questa analisi:
 
-*[!DNL Attribution IQ] con CDA*
+*[!DNL Attribution IQ]con CDA*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
 Per ulteriori informazioni, consulta la [[!DNL Cross-Device Analytics] documentazione di supporto](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=it).

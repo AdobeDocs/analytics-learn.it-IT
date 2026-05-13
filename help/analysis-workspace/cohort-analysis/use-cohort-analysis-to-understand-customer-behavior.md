@@ -5,14 +5,25 @@ feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
+TQID: https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2:
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1146'
-ht-degree: 12%
+source-wordcount: 1155
+ht-degree: 7%
 
 ---
 
@@ -134,13 +145,13 @@ Esaminare l&#39;esperienza utente del sito per consentire agli utenti di creare 
 
 ## Parte 4: Coorte Dimension personalizzata
 
-Coorte Dimension personalizzata: consente di creare coorti in base alla dimensione selezionata, anziché in base al tempo (impostazione predefinita). Molti clienti vogliono poter analizzare le coorti in base a fattori diversi dal tempo. Con la nuova funzione per coorti con dimensione personalizzata hai la flessibilità di creare le coorti in base alle dimensioni che rispondono alle tue esigenze. Puoi usare dimensioni quali canale di marketing, campagna, prodotto, pagina, regione, o qualsiasi altra dimensione in Adobe Analytics per mostrare in che modo la fidelizzazione cambia, in base a valori diversi di tali dimensioni. Le selezioni del menu 
+Coorte Dimension personalizzata: consente di creare coorti in base alla dimensione selezionata, anziché in base al tempo (impostazione predefinita). Molti clienti vogliono poter analizzare le coorti in base a fattori diversi dal tempo. Con la nuova funzione per coorti con dimensione personalizzata hai la flessibilità di creare le coorti in base alle dimensioni che rispondono alle tue esigenze. Puoi usare dimensioni quali canale di marketing, campagna, prodotto, pagina, regione, o qualsiasi altra dimensione in Adobe Analytics per mostrare in che modo la fidelizzazione cambia, in base a valori diversi di tali dimensioni. Le selezioni del menu
 
 La definizione personalizzata del segmento di coorte Dimension applica l’elemento dimensionale solo come parte del periodo di inclusione e non come parte della definizione di ritorno.
 
-Dopo aver scelto l’opzione Custom Dimension Cohort (Coorte con codice personalizzato), puoi trascinare nella zona di rilascio la dimensione che ti interessa. Puoi quindi confrontare elementi con dimensione simile in uno stesso periodo di tempo. Ad esempio, puoi confrontare le prestazioni delle città una accanto all’altra
+Dopo aver scelto l’opzione Custom Dimension Cohort (Coorte con codice personalizzato), puoi trascinare nella zona di rilascio la dimensione che ti interessa. Ciò ti consente di confrontare elementi dimensionali simili nello stesso periodo di tempo. Ad esempio, puoi confrontare le prestazioni delle città una accanto all’altra
 
-lato, prodotti, campagne, ecc. Ti restituirà i primi 14 elementi dimensionali. Per visualizzare solo specifici elementi per la dimensione scelta, puoi anche usare un filtro, passando il cursore a destra della dimensione che hai trascinato. Una coorte con dimensione personalizzata non può essere usata con la funzione Tabella di latenza.
+lato, prodotti, campagne, ecc. Ti restituirà i primi 14 elementi dimensionali. Tuttavia, puoi utilizzare un filtro (per accedervi, passa il cursore del mouse sulla destra della dimensione su cui è stato trascinato il cursore) per visualizzare solo gli elementi dimensionali desiderati. Non è possibile utilizzare una coorte Dimension personalizzata con la funzione Tabella di latenza.
 
 ### Quali prodotti sono alla base della fedeltà del sito?
 

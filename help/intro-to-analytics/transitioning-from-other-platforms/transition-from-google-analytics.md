@@ -7,10 +7,41 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+TQID: https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+  - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+subfeature_v2:
+  - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: e3e906cf-5493-4e0a-9a33-bf0ac37393d6
+  - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '3403'
-ht-degree: 97%
+source-wordcount: 3446
+ht-degree: 94%
 
 ---
 
@@ -90,7 +121,7 @@ Sono disponibili numerose visualizzazioni:
 
 * Tabella a forma libera
 * Tabella coorte
-* Fallout (abbandono)
+* Fallout
 * Flusso
 * Grafici
    * Ad aree (sovrapposte e non sovrapposte)
@@ -123,7 +154,7 @@ Workspace libera tua creatività, senza i vincoli dei raggruppamenti “standard
 
 >[!TIP]
 >
->Non avere paura di giocare ed esplorare. Ci sono così tanti modi per pensare fuori dagli schemi. Inoltre, la convalida di ciò che hai creato mostra ciò che pensi. L&#39;esperienza aiuta.
+>Non abbiate paura di giocare ed esplorare. Ci sono così tanti modi di pensare fuori dagli schemi. Inoltre, la convalida di ciò che hai creato mostra ciò che pensi. L&#39;esperienza aiuta.
 
 Puoi creare metriche calcolate al volo o segmenti che vivono solo all’interno del rapporto per evitare di ingolfare l’archivio dei segmenti e dei calcoli. Ciò ti consente di creare elementi mirati necessari per rapporti specifici senza confondere l’organizzazione con elementi che non sono utilizzabili in altri contesti.
 
@@ -203,11 +234,11 @@ In questo modo puoi ottenere informazioni semplici e veloci sui tuoi dati. Tutta
 
 Questi vanno bene per i dati analitici rapidi ma hanno dei limiti se hai bisogno di essere più specifico.
 
-### 2.2. Accesso ai rapporti estesi
+### 2.2. Accesso al report esteso
 
 Oltre a “Generazione rapporti in-site”, la maggior parte degli strumenti offre funzionalità estese che consentono di portare l’analisi al di fuori degli strumenti e creare qualcosa di un po’ più personalizzato.
 
-#### 2.2.1. Report Builder di Adobe Analytics (estensione per Microsoft® Excel)
+#### 2.2.1. Adobe Analytics Report Builder (estensione Microsoft® Excel)
 
 Workspace è un ottimo strumento, ma a volte è necessario inserire i dati in un foglio di calcolo personalizzato, in modo da poter unire più origini di dati. E qui entra in gioco Report Builder.
 
@@ -217,7 +248,7 @@ Report Builder è un plug-in per Microsoft® Excel che consente di creare connes
 >
 >Per accedere al plug-in Report Builder è necessario assegnare un’autorizzazione speciale agli utenti. L’autorizzazione dovrà probabilmente essere concessa solo agli utenti che hanno imparato a utilizzare correttamente lo strumento.
 
-#### 2.2.2. Connessione API di Adobe Analytics
+#### 2.2.2. Connessione API Adobe Analytics
 
 Se desideri comunque i vantaggi dei dati elaborati, comprese le esclusioni di regole bot, ma preferisci che Adobe Analytics passi attraverso qualcosa di diverso da Excel, puoi utilizzare l’API di Adobe per estrarre i dati direttamente. Quindi elaborarli tramite script o aggiungerli a un database da utilizzare con un altro sistema.
 
@@ -233,7 +264,7 @@ Se hai letto fino a qui, saprai già che ho citato Data Studio come equivalente 
 È ancora uno strumento potente e non dissuaderei le persone da utilizzarlo in alcun modo. Secondo la mia esperienza, il comportamento rigido è piuttosto limitante.
 
 
-#### 2.2.4. Estensione Fogli Google
+#### 2.2.4. Estensione Foglio di calcolo Google
 
 Per le mie necessità, quando ho bisogno di richiamare i dati in modo esteso da Google Analytics, lo strumento che scelgo è l’estensione Fogli Google. Anche se ho bisogno di creare più connessioni alle mie tabelle GA, posso fare riferimento alle celle dai dati non elaborati e creare i report di cui ho bisogno. Poi li visualizzo utilizzando le funzionalità relative ai grafici del foglio di calcolo di Google.
 
@@ -242,7 +273,7 @@ Per le mie necessità, quando ho bisogno di richiamare i dati in modo esteso da 
 
 Per le situazioni in cui servono solo dati non elaborati, è possibile utilizzare sia Adobe che Google.
 
-### 3.1. Feed di dati di Adobe
+### 3.1. Feed dati di Adobe
 
 Nella sezione 2.2.2, ho menzionato che l’API Adobe Analytics richiama “dati elaborati”. Il feed di dati non elaborati richiama i dati elaborati dalle “Regole di elaborazione” configurate nel pannello di amministrazione, ma questi dati non elaborati includono tutti i dati esclusi in qualsiasi altro luogo.
 
@@ -253,9 +284,9 @@ I feed di dati non elaborati possono essere personalizzati per inviare tutte le 
 I feed possono essere inviati direttamente a FTP, SFTP o S3.
 
 
-### 3.2. Google Big Query
+### 3.2. Google BigQuery
 
-Sfortunatamente, questo è uno strumento Google sul quale non ho alcuna esperienza di utilizzo, ma in teoria dovrebbe essere simile al feed dati di Adobe e consentire al tuo team tecnico di accedere ai dati non elaborati dall’account Google Analytics.
+Sfortunatamente, questo è uno strumento Google sul quale non ho alcuna esperienza di utilizzo. In teoria, dovrebbe essere simile al feed dati di Adobe e consentire al team tecnico di accedere ai dati non elaborati dall’account Google Analytics.
 
 Tuttavia, invece di fornire un dump completo dei dati non elaborati, permette ai tecnici di accedere ai dati tramite query SQL per estrarre dati non elaborati di destinazione o tutte le colonne di dati non elaborati.
 

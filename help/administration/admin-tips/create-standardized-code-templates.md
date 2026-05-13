@@ -9,10 +9,22 @@ doc-type: article
 thumbnail: 10532.jpg
 kt: 10532
 exl-id: be00c8c0-a4bc-4380-98da-d1e2a3d31ec5
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 366
+ht-degree: 87%
 
 ---
 
@@ -34,7 +46,7 @@ ht-degree: 0%
 * Dettagli per l’impostazione. Qui puoi specificare tutti gli oggetti livello dati necessari e la relativa sintassi, nonché eventuali regole TMS da configurare e i relativi dettagli di configurazione.
 * I casi di test da trattare in fase di controllo qualità e tutte le variabili che si prevede di trovare in un caso di test di successo. Descrivi cosa deve essere incluso un’implementazione di successo quando lo sviluppatore esegue il test di questo miglioramento.
 
-Questo documento dovrebbe essere modificato solo per il prossimo sito in cui vengano aggiornati elementi di base come nome della proprietà, convenzione di denominazione delle pagine e così via. Non è necessario rifare tutto da capo ogni volta, e si può risparmiare tempo.
+Questo documento dovrebbe essere modificato solo per il prossimo sito in cui verranno aggiornate le nozioni di base come nome della proprietà, convenzione di denominazione delle pagine e così via. Non è necessario reinventare la ruota ogni volta, e si può risparmiare più tempo.
 
 ## Autori
 
@@ -42,7 +54,7 @@ Questo documento è stato scritto da:
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-Christel Guidon, Digital Analytics Platform Manager presso NortonLifeLock 
+Christel Guidon, Digital Analytics Platform Manager di NortonLifeLock
 Adobe Analytics Champion
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)

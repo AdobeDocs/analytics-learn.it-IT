@@ -5,14 +5,27 @@ feature: Admin Tools
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-15T00:00:00Z
+last-substantial-update: 2023-05-15T00:00:00.000Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
 exl-id: 393a0cf0-d793-4185-87ed-81955ad10b0e
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/z1eMqM4rPYzf076wc1B3VQtzlvfRyxVsX4hNEhl7LQM
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2:
+  - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 879
+ht-degree: 93%
 
 ---
 
@@ -20,7 +33,8 @@ ht-degree: 0%
 
 _La dirigenza spesso non dispone di informazioni tempestive e rilevanti per i propri siti e app e si affida a grafici Excel mensili oppure è sommersa da dati granulari. La soluzione: la dashboard di riepilogo esecutiva._
 
-Immaginate di guidare da Seattle a San Francisco. Dal punto di vista della direzione, è piuttosto facile. Prendi la I-5 South e in 12 a 16 ore sei lì. Semplice, vero? Ora, immaginate che vi abbia messo un pezzo di cartone sul cruscotto e che, solo alla fine del viaggio, il vostro cruscotto vi informerà sulla velocità, sul livello di carburante e sulla distanza percorsa:
+Immaginate di guidare da Seattle a San Francisco. Dal punto di vista della direzione, è piuttosto facile. Prendi la I-5 South e in 12 a 16 ore sei lì. Semplice, vero? Ora, voglio che immaginiate che vi abbia messo un pezzo di cartone sul cruscotto, e ve lo dico alla fine
+durante il viaggio, riceverai un cruscotto che ti indicherà la velocità, i livelli di carburante e la distanza percorsa:
 
 ![Grafico a barre.png](assets/bar-graph.png)
 
@@ -32,7 +46,7 @@ Se si esamina il grafico, è possibile notare alcuni elementi:
 
 1. Questo perché il carburante è sceso allo 0% e si è dovuto attendere l&#39;assistenza stradale per sbloccare il traffico di Portland e riempire nuovamente di carburante il serbatoio
 
-Un viaggio del genere sarebbe ovviamente scomodo, imprevedibile e pericoloso. Non è certamente il modo giusto di guidare. Per avere il controllo sulla guida, è necessario disporre di informazioni continue sulla velocità, sulla distanza percorsa e sui livelli di carburante. Senza dubbio, una persona ragionevole libererebbe il cruscotto dal cartone e lo controllerebbe regolarmente, ridurrebbe le ore di viaggio, eliminerebbe il rischio di finire il carburante e manterrebbe la guida alla giusta velocità, per evitare eventuali multe.
+Un viaggio del genere sarebbe ovviamente scomodo, imprevedibile e pericoloso. Non è certamente il modo giusto di guidare. Per avere il controllo sulla guida, è necessario disporre di informazioni continue sulla velocità, sulla distanza percorsa e sui livelli di carburante. Senza dubbio, toglieresti il cartoncino dal cruscotto in modo da poterlo controllare regolarmente e quindi ridurre le ore di viaggio, eliminare il rischio di restare senza carburante e mantenere sotto controllo la velocità per evitare eventuali multe.
 
 Allora perché la maggior parte della dirigenza accetta questo come modo ragionevole di gestire i siti e le app?
 
@@ -70,8 +84,8 @@ Con questo prodotto finale a portata di mano, è sufficiente che la dirigenza im
 
 - Rilassatevi e siate pronti, perché dopo che avrà imparato a trattare con i dati, la dirigenza si rivolgerà a voi con diverse domande
 
-In conclusione, le dashboard di riepilogo esecutive offrono informazioni continue e pertinenti per un processo decisionale tempestivo. I deck mensili con grafici Excel non sono sufficienti e fornire troppi dati granulari può creare confusione nella dirigenza. Un mezzo efficace è concentrarsi sui tre KPI più importanti con dati storici e menu a discesa per i fattori rilevanti. Formando
-la dirigenza su come utilizzare la dashboard, le offre la possibilità di prendere decisioni informate e porre le relative domande. Le dashboard di riepilogo esecutive possono migliorare le prestazioni del sito e dell’app e favorirne il successo.
+In conclusione, le dashboard di riepilogo esecutive offrono informazioni continue e pertinenti per un processo decisionale tempestivo. I deck mensili con grafici Excel non sono sufficienti e fornire troppi dati granulari può creare confusione nella dirigenza. Un mezzo efficace è concentrarsi sui tre KPI più importanti con dati storici e menu a discesa per i fattori rilevanti. Per formazione
+i dirigenti che decidono come utilizzare la dashboard possono prendere decisioni informate e porre domande. Le dashboard di riepilogo esecutive possono migliorare le prestazioni del sito e dell’app e favorirne il successo.
 
 ## Autore
 

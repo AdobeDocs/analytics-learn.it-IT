@@ -8,10 +8,21 @@ doc-type: article
 kt: 9167
 hide: true
 exl-id: 0d7f8185-817c-4474-9655-a867beb7d454
-source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
+TQID: https://experienceleague.adobe.com/k5OD1plbNAmRSlvESKk86-gtvgPDlwcmTYV-N4og-lQ
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 100%
+source-wordcount: 210
+ht-degree: 86%
 
 ---
 
@@ -27,10 +38,10 @@ Per tutti questi motivi, abbiamo deciso che per renderlo più utile dovevamo rio
 
 Se sei un utente aziendale, un operatore commerciale o rivesti un ruolo simile, ti consigliamo di seguire i corsi elencati di seguito per acquisire le nozioni di base necessarie per utilizzare al meglio Analysis Workspace:
 
-1. [Guida introduttiva di Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&lang=it)
+1. [Guida introduttiva ad Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&lang=it)
 1. [Tabelle a forma libera, il fondamento dell’analisi](https://experienceleague.adobe.com/?lang=it&recommended=Analytics-U-1-2020.3)
 1. [Utilizzo delle visualizzazioni per raccontare le tue storie di dati](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&lang=it)
-1. [Attribuzione di valore ai punti di contatto digitali nel percorso del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&lang=it)
+1. [Attribuzione di valore ai punti di contatto digitali nel Percorso di clienti](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&lang=it)
 
 Su Experience League sono disponibili altri corsi relativi ad [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&lang=it).
 

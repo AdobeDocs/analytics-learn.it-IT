@@ -5,13 +5,34 @@ feature: Calculated Metrics
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13266
 thumbnail: KT-13266.jpeg
 exl-id: 74793149-9967-4765-832c-c65e578ee34b
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/4e4X0vaCKGCen3dCf8APh5vZ-bhgL2JF3MxqLgEvq-4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+subfeature_v2:
+  - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: e9cb007b-c8b7-4975-bc81-11a788c535fa
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1582'
+source-wordcount: 1589
 ht-degree: 2%
 
 ---
@@ -26,7 +47,7 @@ Come funzione avanzata di Adobe Analytics, le metriche calcolate consentono di c
 
 Per iniziare a usare le metriche calcolate, vediamo un semplice esempio. Immagina di voler capire se gli utenti self-service online hanno un valore medio di ordine (AOV) più alto rispetto agli utenti assistiti da chiamate. Per creare una metrica calcolata che risponda a questa domanda, effettua le seguenti operazioni:
 
-Per aprire il Generatore di metriche calcolate, utilizzare la navigazione superiore per fare clic su → **Componenti** → **Metriche calcolate** → **+ Aggiungi.** Oppure puoi fare clic sul segno **+** sopra a **Metriche** nel pannello Componenti.
+Per aprire il Generatore di metriche calcolate, utilizzare la navigazione superiore per fare clic su → **Componenti** → **Metriche calcolate** → **+ Aggiungi.** In alternativa, puoi fare clic sul segno **+** sopra a **Metriche** nel pannello Componenti.
 
 
 ![Calcolo 01](assets/calc01.png) ![Calcolo 02](assets/calc03.png) ![Calcolo 03](assets/calc02.png)
@@ -37,9 +58,9 @@ Per aprire il Generatore di metriche calcolate, utilizzare la navigazione superi
 
 Una volta aperto il Generatore di metriche calcolate, aggiungi e/o fai quanto segue:
 
-**A.** Nome per la metrica calcolata. Questo nome viene visualizzato nell&#39;elenco dei componenti delle metriche, quindi rendilo chiaro per te e per gli altri, ad esempio *Call Center AOV*.
+**A.** Un nome per la metrica calcolata. Questo nome viene visualizzato nell&#39;elenco dei componenti delle metriche, quindi rendilo chiaro per te e per gli altri, ad esempio *Call Center AOV*.
 
-**B.** Descrizione della metrica calcolata. Questa descrizione viene visualizzata quando gli utenti fanno clic su &#39;**i**&#39; accanto alla metrica nell&#39;elenco dei componenti, quindi assicurati che sia informativa. Ad esempio, per il call center AOV, è possibile aggiungere *Calcola AOV per gli ordini assistiti dal call center*.
+**B.** Una descrizione della metrica calcolata. Questa descrizione viene visualizzata quando gli utenti fanno clic su &#39;**i**&#39; accanto alla metrica nell&#39;elenco dei componenti, quindi assicurati che sia informativa. Ad esempio, per il call center AOV, è possibile aggiungere *Calcola AOV per gli ordini assistiti dal call center*.
 
 **C.** Il formato della metrica: Scegli decimale, ora, percentuale o valuta e aggiungi cifre decimali e polarità. In questo caso, sceglieremo *Valuta per il formato, 0 per il numero di decimali e* ⬆ *Buona (verde) per la polarità.*
 
@@ -113,10 +134,10 @@ Tuttavia, queste metriche non sono disponibili in tutte le aree di Adobe Analyti
 
 Ora che sai quanto possono essere preziose le metriche calcolate, vediamo alcune best practice per crearle.
 
-1. **Verifica la sintassi della formula.** Assicurarsi che la sintassi della formula sia corretta e che segua la sintassi Adobe Analytics per ottenere informazioni significative.
-1. **Verificare l&#39;ordine delle operazioni.** Assicurarsi di utilizzare i contenitori con attenzione e di disporre le operazioni nell&#39;ordine matematico corretto.
+1. **Verifica la sintassi della formula.** Assicurati che la sintassi della formula sia corretta e segua la sintassi di Adobe Analytics per ottenere informazioni significative.
+1. **Verifica l&#39;ordine delle operazioni.** Assicurati di utilizzare i contenitori con attenzione e di mettere le cose nell&#39;ordine matematico corretto delle operazioni.
 1. **Non conteggiare due volte i dati**. Puoi evitare il doppio conteggio dei dati assicurandoti che la formula utilizzata nella metrica calcolata non conti più volte gli stessi dati. Ciò si ottiene spesso combinando le condizioni *Includi* e *Escludi* nella metrica calcolata o tramite l&#39;utilizzo di segmenti.
-1. **Verifica la granularità temporale.** Assicurarsi che la metrica calcolata abbia la stessa granularità temporale delle metriche di origine utilizzate nella formula.
+1. **Verifica granularità tempo.** Assicurati che la metrica calcolata abbia la stessa granularità temporale delle metriche sorgente utilizzate nella formula.
 1. **Utilizza dati accurati:** Otterrai risultati importanti solo se nel calcolo utilizzi dati accurati e affidabili.
 
 ## Best practice per i segmenti personalizzati
@@ -129,9 +150,9 @@ Quando crei segmenti in Adobe Analytics, tieni presenti le best practice seguent
    1. Quando viene utilizzato un contenitore di inclusione, *include* *tutto il contenuto della visita* se un hit corrisponde alla condizione all&#39;interno della visita.
    1. Quando viene utilizzato un contenitore di esclusione, *esclude tutto il contenuto della visita* se un hit corrisponde alla condizione all&#39;interno della visita.
 1. **Nidificare correttamente i contenitori**. Determina i dati inclusi utilizzando il contenitore più esterno, quindi applica le regole nidificate ai dati rimanenti. Quando vengono applicate le regole nidificate, il flusso di segmenti agisce come un funnel e le regole successive non si applicano agli hit esclusi dalla prima regola.
-1. **Assicurarsi che i dati siano aggiornati.** Per ottenere risultati accurati, assicurati di utilizzare dati accurati e aggiornati nella definizione del segmento.
-1. **Verifica il segmento.** Eseguire sempre il test del segmento per verificare che funzioni come previsto prima di rilasciarlo ad altri.
-1. **Considerare le prestazioni.** I segmenti possono rallentare l&#39;elaborazione del rapporto, quindi considera tale impatto durante la creazione.
+1. **Verifica che i dati siano aggiornati.** Per ottenere risultati accurati, assicurati di utilizzare dati accurati e aggiornati nella definizione del segmento.
+1. **Verifica il segmento.** Esegui sempre il test del segmento per assicurarti che funzioni come previsto prima di rilasciarlo ad altri.
+1. **Considerare le prestazioni.** I segmenti possono rallentare l’elaborazione dei rapporti, pertanto considera tale impatto al momento di crearli.
 
 ## Conclusioni principali
 
