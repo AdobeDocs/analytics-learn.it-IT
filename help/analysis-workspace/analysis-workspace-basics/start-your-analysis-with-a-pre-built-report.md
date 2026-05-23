@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Non desideri partire da zero? Scopri come iniziare l’analisi in Workspace con un rapporto predefinito.
 
->[!VIDEO](https://video.tv.adobe.com/v/334279/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450695/?captions=ita&learn=on)
