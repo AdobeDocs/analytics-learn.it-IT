@@ -34,6 +34,6 @@ ht-degree: 100%
 
 Le visualizzazioni di flusso vengono utilizzate per esplorare esattamente i percorsi che i clienti hanno con il tuo marchio. Il flusso può essere applicato alle pagine, ai canali di marketing e a qualsiasi altra dimensione o combinazione di dimensioni che raccogli.
 
->[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452628/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=it).

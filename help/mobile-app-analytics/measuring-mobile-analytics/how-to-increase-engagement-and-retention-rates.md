@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Identifica i tipi di pubblico coinvolti attraverso il loro comportamento utilizzando [!UICONTROL Cohorts] e scopri cosa porta gli utenti a usare di più le tue app mobili. Utilizza gli algoritmi della scienza dei dati in [!UICONTROL Segment IQ] per conoscere le differenze e le analogie tra segmenti diversi.
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36992/?captions=ita&quality=12&learn=on)
