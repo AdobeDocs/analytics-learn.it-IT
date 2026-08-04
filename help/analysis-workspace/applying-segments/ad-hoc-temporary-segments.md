@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Scopri come creare rapidamente un segmento semplice per rispondere a una domanda specifica, per poi eliminarlo in modo che non occupi spazio nell’elenco di segmenti salvati.
 
->[!VIDEO](https://video.tv.adobe.com/v/23978/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329402/?captions=ita&quality=12&learn=on)
