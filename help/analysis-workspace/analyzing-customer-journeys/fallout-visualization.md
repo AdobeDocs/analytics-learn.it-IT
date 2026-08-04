@@ -36,7 +36,7 @@ ht-degree: 100%
 
 Le visualizzazioni di fallout in [!DNL Analysis Workspace] vengono utilizzate per scoprire in che modo i clienti abbandonano o esauriscono i flussi chiave delle proprietà digitali. Scopri come aggiungere diversi tipi di punti di contatto e come creare e utilizzare i segmenti in questo componente.
 
->[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453254/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=it).
 
