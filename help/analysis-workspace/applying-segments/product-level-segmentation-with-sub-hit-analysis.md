@@ -20,6 +20,6 @@ La segmentazione tradizionale in Adobe Analytics è spesso limitata al livello d
 
 Questo video illustra come l’analisi degli hit secondari in Adobe Analytics fornisce funzionalità di segmentazione più granulari.
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
