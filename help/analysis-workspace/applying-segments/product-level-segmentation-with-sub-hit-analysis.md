@@ -22,4 +22,4 @@ Questo video illustra come l’analisi degli hit secondari in Adobe Analytics fo
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497081/?captions=ita&quality=12&learn=on)
