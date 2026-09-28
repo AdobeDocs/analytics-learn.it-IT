@@ -35,6 +35,6 @@ ht-degree: 100%
 
 Questo video mostra gli aggiornamenti a [!DNL Fallout Visualization] che sono stati fortemente richiesti dai clienti, tra cui passaggi diretti o finali, ridenominazione dei punti di contatto, confronto di segmenti illimitati e tendenza nel tempo delle percentuali di conversione dei punti di contatto.
 
->[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329881/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=it).
