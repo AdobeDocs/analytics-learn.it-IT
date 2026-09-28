@@ -100,7 +100,7 @@ CDA viene presentato attraverso uno speciale tipo di [[!UICONTROL Virtual Report
 
 Nel primo passaggio della creazione di una suite di rapporti virtuale, scegli la [!UICONTROL report suite] che è stata configurata da Adobe come abilitata per CDA:
 
-*Scegli una base abilitata per CDA (origine)[!UICONTROL report suite]*
+*Scegli una base abilitata per CDA (origine) [!UICONTROL report suite]*
 ![[!UICONTROL Virtual Report Suite] Passaggio Uno](assets/cda-vrs-step-one.png)
 
 Quindi, attiva [!UICONTROL Report Time Processing] e abilita [!UICONTROL cross-device stitching]:
