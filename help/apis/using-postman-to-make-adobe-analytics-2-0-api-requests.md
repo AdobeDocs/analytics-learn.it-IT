@@ -2,7 +2,7 @@
 title: Utilizzo di Postman per effettuare richieste API di Adobe Analytics 2.0
 description: 'Questo video illustra come impostare il client API Postman per inviare richieste API di Adobe Analytics 2.0. Include la configurazione di un’integrazione Adobe I/O (NOTA: per poterla impostare, è necessario essere un amministratore di sistema per Experience Cloud), dove trovare l’ID società globale e altro ancora.'
 feature: API
-topics: null
+topics:
 activity: use
 doc-type: technical video
 team: Technical Marketing
@@ -10,26 +10,32 @@ kt: 2387
 role: Developer
 level: Experienced
 exl-id: 0b0e73f8-921d-40ad-b93d-98a1cbc020c8
-TQID: https://experienceleague.adobe.com/3V0L0R6QsdOV8RQZzMg37IUruE5pYSK8bHe9WS6AOCM
+TQID: 'https://experienceleague.adobe.com/3V0L0R6QsdOV8RQZzMg37IUruE5pYSK8bHe9WS6AOCM'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+    internal-label: API
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 134
+source-wordcount: '134'
 ht-degree: 92%
-
 ---
-
 # Utilizzo di [!DNL Postman] per eseguire richieste API Adobe Analytics 2.0 {#using-postman-to-make-adobe-analytics-api-requests}
 
 Questo video illustra come impostare il client API [!DNL Postman] per inviare richieste API di Adobe Analytics 2.0. Include la configurazione di un’integrazione Adobe I/O (NOTA: per poterla impostare, è necessario essere un amministratore di sistema Experience Cloud), dove trovare l’ID società globale e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/327936/?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25889/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://developer.adobe.com/analytics-apis/docs/2.0/guides/use-cases/postman/).

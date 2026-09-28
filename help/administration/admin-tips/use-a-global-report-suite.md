@@ -9,24 +9,34 @@ doc-type: article
 thumbnail: 10536.jpg
 kt: 10536
 exl-id: 490addfd-b810-4f15-b065-e0e58048c882
-TQID: https://experienceleague.adobe.com/Gvyi3-9dJ3UXp3vaSIe0bhqswu2kSOW-EAorajxCq78
+TQID: 'https://experienceleague.adobe.com/Gvyi3-9dJ3UXp3vaSIe0bhqswu2kSOW-EAorajxCq78'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 769
+source-wordcount: '769'
 ht-degree: 98%
-
 ---
-
 # Utilizzare una suite di rapporti globale
 
 **COSA:** benché si possa essere tentati di creare una suite di rapporti distinta per ciascun sitio, ben presto questo può rivelarsi molto problematico, complicando sia le attività di reporting sia l’implementazione. L’utilizzo di una singola suite di rapporti globale può essere utile in molti modi e può semplificare notevolmente la tua implementazione.
@@ -36,16 +46,16 @@ ht-degree: 98%
 Per aiutarti nella tua scelta, di seguito sono riportati i pro e i contro di avere una singola suite di rapporti:
 
 * PRO:
-   * Essere in grado di capire facilmente il tuo intero panorama digitale. Se hai implementato la dimensione “proprietà” (eVar) a cui si fa riferimento in altri suggerimenti, potrai facilmente ottenere un’unica vista per tutti i tuoi siti e le tue app, con i relativi dati di traffico e conversioni. Questa visione d’insieme è fondamentale per comprendere il tuo business nel suo complesso.
-   * Allo stesso modo, consente di vedere come gli utenti passano da una proprietà all’altra e capire il loro percorso in tutto il tuo panorama digitale.
-   * Facilità di amministrazione. Quando utilizzi più suite di rapporti, devi mantenere l’interfaccia in aree diverse, nonché più documenti sui tag (o più complessi). Mantenendo tutto in un’unica posizione, sarà sufficiente eseguire gli aggiornamenti in un solo posto. Inoltre, è molto più semplice gestirne l’accesso.
-   * Migliore usabilità nell’interfaccia. Gli utenti potranno trovare la suite di rapporti in un’unica posizione, e non dovranno preoccuparsi di selezionare quella giusta. Tieni presente che non puoi utilizzare più suite di rapporti all’interno dello stesso pannello dell’area di lavoro e che averne diverse potrebbe confondere i tuoi utenti.
-   * Meno chiamate server = meno costi. Se effettui chiamate a più suite di rapporti, aumenti i costi. Mantenere semplice l’implementazione consente inoltre di ridurre i costi.
-   * Puoi semplicemente sfruttare le suite di rapporti virtuali (VRS) per suddividere i dati di ogni sito all’interno della suite di rapporti globale e, se necessario, limitare le autorizzazioni utente in base a una VRS. Una volta separati i dati in suite di rapporti individuali, non puoi combinarli insieme; ma se sono già uniti in un singolo set di dati (suite di rapporti globale), possono essere facilmente suddivisi.
+  * Essere in grado di capire facilmente il tuo intero panorama digitale. Se hai implementato la dimensione “proprietà” (eVar) a cui si fa riferimento in altri suggerimenti, potrai facilmente ottenere un’unica vista per tutti i tuoi siti e le tue app, con i relativi dati di traffico e conversioni. Questa visione d’insieme è fondamentale per comprendere il tuo business nel suo complesso.
+  * Allo stesso modo, consente di vedere come gli utenti passano da una proprietà all’altra e capire il loro percorso in tutto il tuo panorama digitale.
+  * Facilità di amministrazione. Quando utilizzi più suite di rapporti, devi mantenere l’interfaccia in aree diverse, nonché più documenti sui tag (o più complessi). Mantenendo tutto in un’unica posizione, sarà sufficiente eseguire gli aggiornamenti in un solo posto. Inoltre, è molto più semplice gestirne l’accesso.
+  * Migliore usabilità nell’interfaccia. Gli utenti potranno trovare la suite di rapporti in un’unica posizione, e non dovranno preoccuparsi di selezionare quella giusta. Tieni presente che non puoi utilizzare più suite di rapporti all’interno dello stesso pannello dell’area di lavoro e che averne diverse potrebbe confondere i tuoi utenti.
+  * Meno chiamate server = meno costi. Se effettui chiamate a più suite di rapporti, aumenti i costi. Mantenere semplice l’implementazione consente inoltre di ridurre i costi.
+  * Puoi semplicemente sfruttare le suite di rapporti virtuali (VRS) per suddividere i dati di ogni sito all’interno della suite di rapporti globale e, se necessario, limitare le autorizzazioni utente in base a una VRS. Una volta separati i dati in suite di rapporti individuali, non puoi combinarli insieme; ma se sono già uniti in un singolo set di dati (suite di rapporti globale), possono essere facilmente suddivisi.
 * CONTRO:
-   * Se le tue proprietà sono molto diverse e gli utenti non possono passare dall’una all’altra, né è previsto che possano farlo, puoi essere preferibile mantenere suite di rapporti separate.
-   * Se le varie proprietà hanno esigenze di tag e reporting molto diverse, può essere utile impostare suite di rapporti separate nell’interesse dell’efficienza delle variabili. Disporre di suite di rapporti separate offre maggiore flessibilità nell’utilizzo di variabili personalizzate (più eVar).
-   * Valori univoci superati: l’interfaccia di Adobe Analytics consente di visualizzare solo 500.000 valori univoci all’interno di una singola dimensione per un determinato periodo di tempo. Una volta superato questo limite, i valori verranno raggruppati nell’interfaccia come “valori univoci superati” o “traffico ridotto”. Questi valori rimangono disponibili sul backend (ad es. Data Warehouse, Feed dati), ma non possono essere visualizzati nell’interfaccia. Se disponi di dati molto granulari (come ID utente, PSN, ecc.), è facile raggiungere questo limite. Questo problema può essere risolto utilizzando suite di rapporti separate.
+  * Se le tue proprietà sono molto diverse e gli utenti non possono passare dall’una all’altra, né è previsto che possano farlo, puoi essere preferibile mantenere suite di rapporti separate.
+  * Se le varie proprietà hanno esigenze di tag e reporting molto diverse, può essere utile impostare suite di rapporti separate nell’interesse dell’efficienza delle variabili. Disporre di suite di rapporti separate offre maggiore flessibilità nell’utilizzo di variabili personalizzate (più eVar).
+  * Valori univoci superati: l’interfaccia di Adobe Analytics consente di visualizzare solo 500.000 valori univoci all’interno di una singola dimensione per un determinato periodo di tempo. Una volta superato questo limite, i valori verranno raggruppati nell’interfaccia come “valori univoci superati” o “traffico ridotto”. Questi valori rimangono disponibili sul backend (ad es. Data Warehouse, Feed dati), ma non possono essere visualizzati nell’interfaccia. Se disponi di dati molto granulari (come ID utente, PSN, ecc.), è facile raggiungere questo limite. Questo problema può essere risolto utilizzando suite di rapporti separate.
 
 **COME:** iniziare con una nuova implementazione di AA e utilizzare una suite di rapporti globale è semplice. È sufficiente creare la suite di rapporti globale (una per Dev e una per Prod) nell’interfaccia utente di amministrazione di AA e applicare gli stessi valori ID suite di rapporti (RSID) in tutte le proprietà.
 

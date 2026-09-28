@@ -8,29 +8,38 @@ level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
-TQID: https://experienceleague.adobe.com/ZXiYDVRqaJbxICzAiFkS9XuUKlyiAKs7-ucZ3qKR-xI
+TQID: 'https://experienceleague.adobe.com/ZXiYDVRqaJbxICzAiFkS9XuUKlyiAKs7-ucZ3qKR-xI'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1091
+source-wordcount: '1091'
 ht-degree: 94%
-
 ---
-
 # Stai facendo le domande giuste?
 
->[!VIDEO](https://video.tv.adobe.com/v/346458/?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
 
 _Tutti_. Questa è una delle risposte più comuni delle parti interessate alla domanda: _Quali dati desideri monitorare?_ Può essere più utile identificare e raccogliere i _punti di dati utilizzabili_ che registrare ogni elemento possibile. Per individuare in maniera efficiente i punti di dati, servono un piano di base e discussioni creative con le parti interessate.
 
@@ -46,9 +55,9 @@ Parlare efficacemente con gli altri delle loro esigenze, o di ciò che _percepis
 
 * Quali sono i tuoi obiettivi?
 * Cosa significa ______ nel tuo team o nella tua organizzazione?
-   * “channel”?
-   * “dashboard”?
-   * “quell’acronimo che hai menzionato”?
+  * “channel”?
+  * “dashboard”?
+  * “quell’acronimo che hai menzionato”?
 * Cosa faresti diversamente se avessi a disposizione questi dati?
 
 Aziende, unità aziendali e team hanno una cultura unica e un linguaggio correlato. Soprattutto quando sono coinvolte parole di tendenza e acronimi, fai domande di follow-up per assicurarti che tu e le parti interessate vi capiate correttamente.

@@ -9,34 +9,50 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
-TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
+TQID: 'https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: c8add8f2-4250-4fd9-9cde-9707036c567d
+    internal-label: Methods
   - id: cc449013-c052-42d5-9ca4-0d2bceb6f06a
+    internal-label: Implementation playbook
   - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+    internal-label: Variables
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1823
+source-wordcount: '1823'
 ht-degree: 89%
-
 ---
-
 # Scarica il playbook di implementazione di Adobe Analytics
 
 Prima di iniziare, [scarica il playbook](assets/aa-implementation-playbook.xlsx).
@@ -71,7 +87,7 @@ Infine, la colonna Stato di implementazione fungerà da verifica dello stato una
 **COME:** per iniziare, elenca in un documento Excel tutte le variabili predefinite di Adobe (page, product, geo, ecc.), nonché eVar, prop, eventi. Dovrebbe essere presente una scheda per ogni sito o suite di rapporti.
 Per ciascuna di queste dimensioni, aggiungo le colonne seguenti:
 * **Nome:** il nome deve essere breve e semplice, facilmente comprensibile dalla maggior parte degli utenti. Dovrebbe essere abbastanza intuitivo da consentire a un nuovo utente di sceglierlo e di capirne lo scopo.
-* **Descrizione:** maggiori dettagli sullo scopo della variabile e sui dati di cui tiene traccia. Nel mio caso, uso descrizioni brevi e semplici, che corrispondono a quelle utilizzate nell’interfaccia. Gli utenti non dovrebbero mai avere bisogno di consultare il documento sui tag. Quindi, quando una nuova dimensione viene impostata sul backend di amministrazione, aggiungo qui la stessa descrizione. L’utente può fare clic sull’icona delle informazioni direttamente in Workspace per capire a cosa serve una dimensione, non è necessario consultare un documento Excel.
+* **Descrizione:** maggiori dettagli sullo scopo della variabile e sui dati di cui tiene traccia. Nel mio caso, uso descrizioni brevi e semplici, che corrispondono a quelle utilizzate nell’interfaccia. Gli utenti non dovrebbero mai avere bisogno di consultare il documento sui tag. Quindi, quando una nuova dimensione viene impostata sul backend di amministrazione, aggiungo qui la stessa descrizione. Per capire a cosa serve una dimensione, non è necessario consultare un documento Excel: è sufficiente fare clic sull’icona delle informazioni, direttamente in Workspace .
 
 ![URL della pagina semplificato](assets/page-url-simplified.png)
 
@@ -86,16 +102,16 @@ Schermata del documento SDR di esempio:
 Si consiglia inoltre di utilizzare questo documento sui tag per tenere traccia di eventuali variabili libere o non più valide. Quando una dimensione non è più utile, in genere è necessario un po’ di tempo per eliminarla. Anche dopo la sua eliminazione, può essere ancora presente in cache, oppure ti puoi rendere conto che la dimensione era stata impostata anche altrove. Pulire le dimensioni non è facile e spesso richiede pazienza. Ecco alcuni suggerimenti per nascondere ciò che non serve agli utenti, per non confonderli, pur tenendone traccia.
 
 * Tutte le dimensioni e tutti gli eventi non utilizzati sono contrassegnati “liberi” o “in eliminazione”.
-   * Se negli ultimi 90 giorni una dimensione presenta dei valori non validi, è “in eliminazione”.
-   * Se la dimensione è libera e “pulita” da almeno 90 giorni, è “libera”.
-   * Contrassegna questi stati nella sezione “Nome” nel documento sui tag, in modo da poterli filtrare facilmente. Nel documento sui tag, tengo questi dati deselezionati (tramite la funzione filtro dei dati in Excel) in modo che gli utenti non possano vederli.
-   * Indicali come nome eVar nell’interfaccia, in modo che gli utenti non li possano trovare in una ricerca (ad es. “(v6)”) e rimuovine la descrizione nell’interfaccia.
+  * Se negli ultimi 90 giorni una dimensione presenta dei valori non validi, è “in eliminazione”.
+  * Se la dimensione è libera e “pulita” da almeno 90 giorni, è “libera”.
+  * Contrassegna questi stati nella sezione “Nome” nel documento sui tag, in modo da poterli filtrare facilmente. Nel documento sui tag, tengo questi dati deselezionati (tramite la funzione filtro dei dati in Excel) in modo che gli utenti non possano vederli.
+  * Indicali come nome eVar nell’interfaccia, in modo che gli utenti non li possano trovare in una ricerca (ad es. “(v6)”) e rimuovine la descrizione nell’interfaccia.
 * In questo modo, quando è necessaria una nuova dimensione, puoi facilmente filtrare i dati della colonna “Nome” per trovare una voce “libera” (pulita) da utilizzare.
 * Per le dimensioni e gli eventi “in eliminazione”, ti consigliamo di tenerne traccia utilizzando Workspace:
-   * Crea un progetto visibile agli amministratori che contenga solo 3 tabelle: eVar, prop ed eventi. Ad esempio, io utilizzo “istanze” per le eVar specifiche, mentre per i prop creo dei segmenti HIT con, ad esempio, “prop5 esiste”.
-   * Imposta la data su Ultimi 90 giorni.
-   * Usa quanto sopra come righe nelle 3 tabelle, insieme alle occorrenze.
-   * Non appena qualcosa arriva a “0”, lo contrassegno come “libero” nel documento sui tag e lo rimuovo dal progetto Workspace
+  * Crea un progetto visibile agli amministratori che contenga solo 3 tabelle: eVar, prop ed eventi. Ad esempio, io utilizzo “istanze” per le eVar specifiche, mentre per i prop creo dei segmenti HIT con, ad esempio, “prop5 esiste”.
+  * Imposta la data su Ultimi 90 giorni.
+  * Usa quanto sopra come righe nelle 3 tabelle, insieme alle occorrenze.
+  * Non appena qualcosa arriva a “0”, lo contrassegno come “libero” nel documento sui tag e lo rimuovo dal progetto Workspace
 
 In questo modo i dati sono sempre puliti, e avrai una chiara idea di ciò che non è più utile.
 

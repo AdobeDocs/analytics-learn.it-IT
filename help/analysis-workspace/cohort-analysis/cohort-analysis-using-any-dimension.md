@@ -10,24 +10,31 @@ kt: 2478
 role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
-TQID: https://experienceleague.adobe.com/aGhNUan7Csi-FZ7jjlYDFXibo26PW2iB4mxnXhYIcOk
+TQID: 'https://experienceleague.adobe.com/aGhNUan7Csi-FZ7jjlYDFXibo26PW2iB4mxnXhYIcOk'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Intermediate
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 93
+source-wordcount: '93'
 ht-degree: 59%
-
 ---
-
 # [!UICONTROL Cohort] Analisi con qualsiasi [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
 
 L’opzione [!UICONTROL Cohort] [!UICONTROL Dimension] personalizzata consente di analizzare [!UICONTROL cohorts] utilizzando [!UICONTROL dimensions] diverse dal tempo. Confrontare [!UICONTROL cohorts] per canale di marketing, regione della campagna, pagina del prodotto e così via per capire meglio come [!UICONTROL retention] (o [!UICONTROL churn]) cambia per [!UICONTROL dimension] elemento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430179/?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=it).

@@ -8,25 +8,30 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
-TQID: https://experienceleague.adobe.com/QraDVYr0QnHyVLadmouMsr74WdMIZbcUboP13j3xSBE
+TQID: 'https://experienceleague.adobe.com/QraDVYr0QnHyVLadmouMsr74WdMIZbcUboP13j3xSBE'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: '1311'
 ht-degree: 88%
-
 ---
-
 # Guadagnarsi un posto al tavolo
 
->[!VIDEO](https://video.tv.adobe.com/v/345314/?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
 &quot;Guadagnarsi un posto al tavolo.&quot; Questa frase popolare è stata un argomento caldo nel mondo degli affari per anni. Ma cosa significa? Significa essere inclusi nelle conversioni decisionali di alto livello. Non solo essere invitati, ma essere apprezzati per il contributo che si è in grado di dare. Ti mostrerò in che modo ottenere un posto al tavolo aiuterà la tua azienda e la tua carriera come utente di Adobe Analytics, a prescindere che il tuo ruolo ufficiale sia quello di amministratore, esperto in materia di analisi dei dati o qualsiasi altro impiego indicato sul tuo biglietto da visita.
 
