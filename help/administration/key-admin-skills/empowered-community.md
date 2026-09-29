@@ -10,34 +10,50 @@ level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
-TQID: https://experienceleague.adobe.com/ir0Ck8qSsCgq2MsalGph9EUNvPp7-ov8IN2xlG2bypk
+TQID: 'https://experienceleague.adobe.com/ir0Ck8qSsCgq2MsalGph9EUNvPp7-ov8IN2xlG2bypk'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1605
+source-wordcount: '1605'
 ht-degree: 94%
-
 ---
-
 # Creazione di una community autonoma
 
 >[!VIDEO](https://video.tv.adobe.com/v/341114/?captions=ita&quality=12&learn=on)
@@ -72,13 +88,13 @@ Puoi creare una community autonoma all’interno della tua organizzazione. Ecco 
 
 * Definire i soggetti coinvolti, i ruoli e le responsabilità:
 
-   * **Team del progetto di amministrazione:** il team che gestisce il gruppo di utenti o la community dell’azienda è solitamente responsabile della definizione delle opportunità (ad esempio tramite uno statuto di progetto), della creazione del piano dei contenuti (almeno inizialmente) e della determinazione dei mezzi di comunicazione (ad esempio, team Microsoft, distribuzione e-mail, chiamate trimestrali e così via).
+  * **Team del progetto di amministrazione:** il team che gestisce il gruppo di utenti o la community dell’azienda è solitamente responsabile della definizione delle opportunità (ad esempio tramite uno statuto di progetto), della creazione del piano dei contenuti (almeno inizialmente) e della determinazione dei mezzi di comunicazione (ad esempio, team Microsoft, distribuzione e-mail, chiamate trimestrali e così via).
 
-   * **Sponsor esecutivo:** uno sponsor esecutivo è una figura chiave in grado di sostenere il successo del gruppo di utenti o della community nell’azienda. È determinante per sostenere le attività cardine e la comunicazione, per la definizione delle priorità all’interno del team più ampio e la gestione del cambiamento.
+  * **Sponsor esecutivo:** uno sponsor esecutivo è una figura chiave in grado di sostenere il successo del gruppo di utenti o della community nell’azienda. È determinante per sostenere le attività cardine e la comunicazione, per la definizione delle priorità all’interno del team più ampio e la gestione del cambiamento.
 
-   * **Responsabilità relativa alle funzioni di supporto:** a seconda delle dimensioni e della struttura dell’organizzazione, può essere utile coinvolgere team di sviluppo web, personalizzazione, test e così via.
+  * **Responsabilità relativa alle funzioni di supporto:** a seconda delle dimensioni e della struttura dell’organizzazione, può essere utile coinvolgere team di sviluppo web, personalizzazione, test e così via.
 
-   * **Utenti dello strumento:** è possibile coinvolgere chiunque abbia la capacità di incidere sui dati, in linea con l’implementazione di Adobe Analytics nell’azienda, indipendentemente dal suo titolo o ruolo.
+  * **Utenti dello strumento:** è possibile coinvolgere chiunque abbia la capacità di incidere sui dati, in linea con l’implementazione di Adobe Analytics nell’azienda, indipendentemente dal suo titolo o ruolo.
 
 * Ricorda: &quot;Cosa ci guadagnano?&quot; Mantenere la community concentrata sui casi d’uso e sulle priorità aziendali contribuisce a garantire il coinvolgimento e il successo.
 
@@ -88,25 +104,25 @@ Puoi creare una community autonoma all’interno della tua organizzazione. Ecco 
 
   Spesso uno statuto di progetto è molto utile per allineare l’azienda all’opportunità di disporre di una community autonoma interna. Rispondi alle seguenti domande per comprendere ciò di cui hai bisogno per definire tale statuto:
 
-   * Quale problema intendi risolvere? Qual è l’obiettivo della community, e cosa dovrebbe essere incluso o escluso?
-   * &quot;Cosa ci guadagno?&quot; Quali sono i benefici o i costi potenziali, come misurare il successo e quali sono i rischi?
-   * Quali sono le tempistiche per la creazione di una community? Quale lavoro di configurazione è necessario dal punto di vista di abilitazione, strumento, gruppi di utenti amministratori e così via? Solitamente, è meglio sviluppare risorse di abilitazione della linea di base prima di avviare un’iniziativa più ampia.
-   * Quanto incidono i membri del gruppo sul successo della community e chi viene sostenuto nell’ambito dell’iniziativa?
-   * Infine, chi è il tuo sponsor esecutivo? Non possiamo non sottolineare quanto sia importante il valore di un forte sponsor esecutivo, una figura dedita al sostegno del lavoro e del relativo valore.
+  * Quale problema intendi risolvere? Qual è l’obiettivo della community, e cosa dovrebbe essere incluso o escluso?
+  * &quot;Cosa ci guadagno?&quot; Quali sono i benefici o i costi potenziali, come misurare il successo e quali sono i rischi?
+  * Quali sono le tempistiche per la creazione di una community? Quale lavoro di configurazione è necessario dal punto di vista di abilitazione, strumento, gruppi di utenti amministratori e così via? Solitamente, è meglio sviluppare risorse di abilitazione della linea di base prima di avviare un’iniziativa più ampia.
+  * Quanto incidono i membri del gruppo sul successo della community e chi viene sostenuto nell’ambito dell’iniziativa?
+  * Infine, chi è il tuo sponsor esecutivo? Non possiamo non sottolineare quanto sia importante il valore di un forte sponsor esecutivo, una figura dedita al sostegno del lavoro e del relativo valore.
 
 * Crea un piano dei contenuti: anche la community avrà delle idee da proporti, ma prepara alcuni spunti per agevolare il coinvolgimento. In generale, una buona regola è disporre di almeno 6-12 mesi di contenuti creati in un dato momento.
 
-   * Ci sono argomenti che possono conformarsi a iniziative aziendali più ampie, come ad esempio eventi di riferimento, programmi più vasti, periodi di pianificazione e così via.
-   * Chi potrebbe essere in grado di trattare meglio tali argomenti? Come si potrebbe trarre vantaggio dal coinvolgimento nella community?
-   * Che tipo di contenuti dovrebbe includere la presentazione e a quali domande potrebbe rispondere?
+  * Ci sono argomenti che possono conformarsi a iniziative aziendali più ampie, come ad esempio eventi di riferimento, programmi più vasti, periodi di pianificazione e così via.
+  * Chi potrebbe essere in grado di trattare meglio tali argomenti? Come si potrebbe trarre vantaggio dal coinvolgimento nella community?
+  * Che tipo di contenuti dovrebbe includere la presentazione e a quali domande potrebbe rispondere?
 
 * Creare un piano di comunicazione: un solido piano di comunicazione sarà essenziale per il coinvolgimento e il successo complessivo della tua community. Alcune domande da considerare durante la creazione del piano sono:
 
-   * Quali team saranno coinvolti nella tua community, chi è il tuo pubblico di destinazione (ad esempio, dirigenti, manager, analisti in prima linea)?
-   * Qual è il messaggio principale, quale messaggio è necessario, quale messaggio è destinato al tuo pubblico target (WIIFM) e quali sono le tue richieste?
-   * Quali veicoli di comunicazione dovrebbero essere utilizzati (ad esempio e-mail, Slack, video, riunioni e così via) prima o dopo il lancio della community? Ad esempio, se hai intenzione di inviare e-mail tramite lo strumento di amministrazione di Adobe Analytics. O forse il nuovo processo di onboarding degli utenti deve includere anche la gestione di una mailing list interna da utilizzare per newsletter e così via?
-   * Chi sarà responsabile della comunicazione?
-   * Quando? È essenziale valutare sia le comunicazioni nella fase di preparazione al lancio della community, sia quelle continuative dopo il lancio.
+  * Quali team saranno coinvolti nella tua community, chi è il tuo pubblico di destinazione (ad esempio, dirigenti, manager, analisti in prima linea)?
+  * Qual è il messaggio principale, quale messaggio è necessario, quale messaggio è destinato al tuo pubblico target (WIIFM) e quali sono le tue richieste?
+  * Quali veicoli di comunicazione dovrebbero essere utilizzati (ad esempio e-mail, Slack, video, riunioni e così via) prima o dopo il lancio della community? Ad esempio, se hai intenzione di inviare e-mail tramite lo strumento di amministrazione di Adobe Analytics. O forse il nuovo processo di onboarding degli utenti deve includere anche la gestione di una mailing list interna da utilizzare per newsletter e così via?
+  * Chi sarà responsabile della comunicazione?
+  * Quando? È essenziale valutare sia le comunicazioni nella fase di preparazione al lancio della community, sia quelle continuative dopo il lancio.
 
 * Utilizza la community come mezzo per la diretta. A seconda dello stack tecnologico della tua azienda, scegli uno strumento o un mezzo di comunicazione per la tua community. Dovrà essere specifico per la tua organizzazione, ma in molti casi si può utilizzare anche Microsoft Teams.
 
@@ -114,9 +130,9 @@ Puoi creare una community autonoma all’interno della tua organizzazione. Ecco 
 
 * Riserva il tempo necessario: aggiungi le riunioni della community ai calendari interni per riservare con anticipo il tempo necessario; se possibile, delle riunioni ricorrenti ti aiuteranno a realizzare il piano dei contenuti. Per aiutarti a iniziare, ecco alcune idee da mettere in agenda:
 
-   * Se la tua azienda ospita eventi virtuali, quali nozioni e insight digitali possono essere condivisi a livello più ampio?
-   * Se il sito web utilizza strumenti interattivi (come chatbot, calcolatori, demo e così via), in che modo vengono sfruttati i dati sulle prestazioni? Quali insight possono essere ottenuti per supportare meglio i clienti e il percorso del cliente?
-   * In che modo la tua azienda trae vantaggio dalle funzionalità esistenti per migliorare e sfruttare gli insight sul pubblico? Ad esempio, la tua azienda utilizza la nuova integrazione di Adobe Analytics e Marketo? Quali insight possono essere condivisi in modo più ampio?
+  * Se la tua azienda ospita eventi virtuali, quali nozioni e insight digitali possono essere condivisi a livello più ampio?
+  * Se il sito web utilizza strumenti interattivi (come chatbot, calcolatori, demo e così via), in che modo vengono sfruttati i dati sulle prestazioni? Quali insight possono essere ottenuti per supportare meglio i clienti e il percorso del cliente?
+  * In che modo la tua azienda trae vantaggio dalle funzionalità esistenti per migliorare e sfruttare gli insight sul pubblico? Ad esempio, la tua azienda utilizza la nuova integrazione di Adobe Analytics e Marketo? Quali insight possono essere condivisi in modo più ampio?
 
 * Stabilisci le aspettative: continua a sfruttare il tuo statuto di progetto e il piano di comunicazione per definire le aspettative relative alla tua community. La coerenza è fondamentale!
 * Pianifica il coinvolgimento: durante il lancio della community, può essere utile delineare una figura responsabile del monitoraggio e del coinvolgimento dei team tramite chat durante le riunioni e mediante i mezzi di comunicazione della community.

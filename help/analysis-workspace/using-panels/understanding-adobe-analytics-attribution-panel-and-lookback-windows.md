@@ -9,26 +9,38 @@ last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
-TQID: https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E
+TQID: 'https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1704
+source-wordcount: '1704'
 ht-degree: 1%
-
 ---
-
 # Informazioni sul pannello di attribuzione e sugli intervalli di lookback di Adobe Analytics
 
 Quando ho pensato per la prima volta al [pannello di attribuzione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=it) e all&#39;**intervallo di lookback**, mi è stato subito ricordato il concetto di &#39;*viaggio nel tempo&#39;*; poi, ovviamente, mi è stato anche ricordato che la nostra tipica risposta a molti nuovi strumenti come questi è semplicemente di rimandare il tentativo di utilizzarli, perché sembrano così complicati.
@@ -88,9 +100,9 @@ Tenendo presente questo aspetto, ecco alcuni esempi di come i ❸ **modelli di a
 
 - **A forma di U**: questo approccio assegna il **40%** del credito alla *prima persona* sulla porta, distribuisce il **20%** del credito tra *tutti tra* e quindi assegna il **40%** al **ultimo** tramite. Questo modello verrà utilizzato il più delle volte in situazioni in cui si dispone di un **lungo ciclo di conversione/vendita** contenente *diversi punti di contatto* lungo il percorso.  In questo caso, l&#39;obiettivo è quello di evidenziare principalmente le tattiche di marketing ***first*** e ***last*** che hanno contribuito alla conversione del cliente.
 - **J**-**A forma** e **J** inversa:
-   - Pensa a **A forma di U**, ma questo modello assegna il credito **60%** alla *ultima persona* che cammina attraverso la porta, **20%** alla *prima*, quindi *divide* il resto **20%** in *tutti gli altri* al centro.  **J** inversa esegue l&#39;esatto contrario.
+  - Pensa a **A forma di U**, ma questo modello assegna il credito **60%** alla *ultima persona* che cammina attraverso la porta, **20%** alla *prima*, quindi *divide* il resto **20%** in *tutti gli altri* al centro.  **J** inversa esegue l&#39;esatto contrario.
 
-     L&#39;obiettivo è quello di mettere la maggior parte della tua enfasi, sia al *inizio* o al *fine* della tua campagna; tuttavia, desideri comunque assegnare un certo importo di credito all&#39;elemento che contribuisce sul lato opposto, riconoscendo i &quot;ragazzi piccoli&quot; lungo il percorso.
+    L&#39;obiettivo è quello di mettere la maggior parte della tua enfasi, sia al *inizio* o al *fine* della tua campagna; tuttavia, desideri comunque assegnare un certo importo di credito all&#39;elemento che contribuisce sul lato opposto, riconoscendo i &quot;ragazzi piccoli&quot; lungo il percorso.
 
 - **Decadimento nel tempo**: se non lo condividessi, verrei licenziato. Questo modello ha letteralmente un&#39;emivita che decade esponenzialmente - nel tempo!  In questo caso, il parametro *default* per l&#39;emivita di questo modello è **7 giorni**.  Funziona in modo da applicare *peso* a ciascun **canale di marketing**, *in base al tempo* trascorso dopo il *punto di contatto iniziale* e al momento della conversione del cliente.
 
@@ -132,7 +144,7 @@ Ricorda che dopo aver selezionato **modelli di attribuzione** e **intervalli di 
 Ora che hai i concetti inattivi, immagina di eseguire una campagna di marketing e di provare a determinare quale canale è il *più efficace* per stimolare le conversioni. Con l&#39;aiuto del **pannello di attribuzione**, non solo puoi visualizzare l&#39;**ultimo contatto**, ma anche il **primo contatto**, **stesso contatto** e qualsiasi altro **modello** scelto per determinare quali **canali** sono i *più efficaci* per le *conversioni*. Queste informazioni possono quindi essere utilizzate per *ottimizzare* le campagne e migliorare le prestazioni complessive semplicemente ripristinando l&#39;orologio con l&#39;**intervallo di lookback** scelto.
 
 Ora che hai visto cosa può fare, non farti ingannare o intimidire dalle caratteristiche apparentemente complesse del pannello attribuzione.  **Affrontalo**.  *Abbraccia*.  **Comprendi**.
-MA SOPRATTUTTO - *Utilizzalo a tuo vantaggio.* Il **pannello di attribuzione** e l&#39;**intervallo di lookback** sono le chiavi per una comprensione più approfondita dei tuoi clienti e del loro percorso con il tuo marchio.
+MA SOPRATTUTTO - *Usalo a tuo vantaggio.* Il **pannello di attribuzione** e l&#39;**intervallo di lookback** sono le chiavi per una comprensione più approfondita dei tuoi clienti e del loro percorso con il tuo marchio.
 
 Ora possiamo viaggiare &quot;[indietro nel tempo](https://youtu.be/gVryJmZNFdU)&quot; con sicurezza e utilizzare la potenza della nostra affidabile macchina del tempo (alias ***Adobe Analytics***) per prendere decisioni basate sui dati.
 
