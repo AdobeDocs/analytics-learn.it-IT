@@ -35,4 +35,4 @@ ht-degree: 20%
 
 In questo video, scopri come utilizzare gli intervalli di date continui nei segmenti, consentendoti di creare segmenti come &quot;persone che hanno acquistato nell’ultima settimana&quot; o &quot;persone che hanno visitato il mio sito negli ultimi 60 giorni&quot;. Per la documentazione dettagliata che mostra come creare intervalli di date continui utilizzabili nei segmenti, visita [Crea intervalli di date personalizzati](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=it).
 
->[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507618/?captions=ita&quality=12&learn=on)

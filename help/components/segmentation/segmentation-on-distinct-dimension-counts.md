@@ -28,4 +28,4 @@ ht-degree: 17%
 
 Gli operatori di conteggio valori univoci nel generatore di segmenti consentono di segmentare in base al numero di elementi univoci all’interno di qualsiasi dimensione. Puoi filtrare le visite in cui sono state visualizzate più di 5 pagine, gli hit in cui sono stati acquistati più prodotti all’interno di un singolo ordine, ecc. Per la documentazione dettagliata, visita [Operatori di confronto per i segmenti](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=it).
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507452/?captions=ita&quality=12&learn=on)
