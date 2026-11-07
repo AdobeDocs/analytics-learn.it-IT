@@ -46,4 +46,4 @@ ht-degree: 100%
 
 Grazie a punti di contatto fisici e digitali, [!DNL Accent Group], il principale rivenditore di calzature australiano, può incrementare vendite e conversioni offrendo ai clienti esperienze di grande impatto. Scopri in che modo [!DNL Accent Group] utilizza Adobe Experience Cloud per creare esperienze digitali ottimizzate.
 
->[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507269/?captions=ita&quality=12&learn=on)

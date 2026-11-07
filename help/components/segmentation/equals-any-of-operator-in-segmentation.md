@@ -33,4 +33,4 @@ ht-degree: 47%
 
 Gli operatori di segmento &quot;è uguale a&quot; e &quot;è diverso da&quot; possono essere utilizzati per filtrare un elenco di elementi specifici, invece di utilizzare più istruzioni OR o &quot;contiene uno di&quot;. L’utilizzo di questi operatori invece di &quot;contiene uno di&quot; contribuirà a migliorare anche la velocità della query. Per la documentazione dettagliata, visita [Operatori di confronto per i segmenti](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=it){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507288/?captions=ita&quality=12&learn=on)

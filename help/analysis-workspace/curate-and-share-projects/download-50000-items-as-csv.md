@@ -40,6 +40,6 @@ ht-degree: 100%
 
 L’opzione Scarica elementi come CSV consente di scaricare fino a 50.000 elementi per una dimensione in una tabella a forma libera, con l’applicazione di segmenti e filtri. Anche se nell’interfaccia utente restano visibili un massimo di 400 elementi prima dell’impaginazione, questa opzione consente di accedere a più righe di dati all’esterno di Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507368/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione di](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=it).

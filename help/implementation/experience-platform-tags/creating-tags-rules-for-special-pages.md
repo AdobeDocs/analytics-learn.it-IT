@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Oltre ai dati raccolti su ogni pagina, ci sono altri dati che devono essere raccolti su pagine specifiche. Questo video mostra come unire tali dati ai dati comuni e inviarli ad Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507504/?captions=ita&quality=12&learn=on)

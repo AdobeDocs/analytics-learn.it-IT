@@ -41,6 +41,6 @@ ht-degree: 100%
 
 La visualizzazione Linee presenta le metriche per un periodo di tempo con tendenze. Le impostazioni di visualizzazione consentono di personalizzare l’aspetto di ogni linea e includono le impostazioni Mostra asse X/Y, Mostra etichette min/max e Mostra linea tendenza.
 
->[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507405/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=it).

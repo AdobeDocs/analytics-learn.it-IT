@@ -42,6 +42,6 @@ ht-degree: 16%
 
 Scopri il rapporto in tempo reale in Adobe Analytics e come configurarlo per l’analisi.
 
->[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507460/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html?lang=it).

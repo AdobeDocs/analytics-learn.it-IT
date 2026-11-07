@@ -53,7 +53,7 @@ Suggerimenti degli utenti esperti di Adobe Analytics
 
 | Cliente:<br>Jason Jamnik | Analytics Manager presso Follett Corporation |
 |------------|------------|
-| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **Queste sono le risorse che mi hanno permesso di diventare esperto nell’utilizzo di Adobe Analytics** <br> “Non ti fermare alle basi. Ora che hai acquisito dimestichezza con le nozioni di base di Adobe Analytics, puoi proseguire il tuo percorso di apprendimento e affrontare casi d’uso sempre più complessi. Ecco le risorse che ho utilizzato e i suggerimenti che offro ai nuovi analisti che si uniscono al nostro team alla Follett.&quot;<br><br>[Leggi i suggerimenti di Jason](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226) |
+| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **Queste sono le risorse che mi hanno permesso di diventare esperto nell’utilizzo di Adobe Analytics** <br> “Non ti fermare alle basi. Ora che hai acquisito dimestichezza con le nozioni di base di Adobe Analytics, puoi proseguire il tuo percorso di apprendimento e affrontare casi d’uso sempre più complessi. Ecco le risorse che ho utilizzato e i suggerimenti che offro ai nuovi analisti che si uniscono al nostro team alla Follett.&quot;<br><br>[Leggi i suggerimenti di Jason](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226?profile.language=it) |
 
 | Cliente:<br>Sam Liss | Analytics Engineer presso Equinox |
 |------------|------------|

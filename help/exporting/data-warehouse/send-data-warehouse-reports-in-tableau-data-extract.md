@@ -38,6 +38,6 @@ ht-degree: 52%
 
 Scopri come [!DNL Data Warehouse] può inviare rapporti in formato TDE (Tableau Data Extract) per combinare dati dall&#39;esterno di Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507432/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics/export/data-warehouse/t-tableau).
